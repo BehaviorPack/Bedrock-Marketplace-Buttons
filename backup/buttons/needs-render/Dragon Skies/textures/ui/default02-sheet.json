@@ -1,0 +1,214 @@
+{ "frames": [
+   {
+    "filename": "Dragon Skies bu 0.aseprite",
+    "frame": { "x": 0, "y": 0, "w": 42, "h": 70 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 40, "h": 68 },
+    "sourceSize": { "w": 40, "h": 68 },
+    "duration": 100
+   },
+   {
+    "filename": "Dragon Skies bu 1.aseprite",
+    "frame": { "x": 42, "y": 0, "w": 42, "h": 70 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 40, "h": 68 },
+    "sourceSize": { "w": 40, "h": 68 },
+    "duration": 100
+   },
+   {
+    "filename": "Dragon Skies bu 2.aseprite",
+    "frame": { "x": 84, "y": 0, "w": 42, "h": 70 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 40, "h": 68 },
+    "sourceSize": { "w": 40, "h": 68 },
+    "duration": 100
+   },
+   {
+    "filename": "Dragon Skies bu 3.aseprite",
+    "frame": { "x": 126, "y": 0, "w": 42, "h": 70 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 40, "h": 68 },
+    "sourceSize": { "w": 40, "h": 68 },
+    "duration": 100
+   },
+   {
+    "filename": "Dragon Skies bu 4.aseprite",
+    "frame": { "x": 168, "y": 0, "w": 42, "h": 70 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 40, "h": 68 },
+    "sourceSize": { "w": 40, "h": 68 },
+    "duration": 100
+   },
+   {
+    "filename": "Dragon Skies bu 5.aseprite",
+    "frame": { "x": 210, "y": 0, "w": 42, "h": 70 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 40, "h": 68 },
+    "sourceSize": { "w": 40, "h": 68 },
+    "duration": 100
+   },
+   {
+    "filename": "Dragon Skies bu 6.aseprite",
+    "frame": { "x": 252, "y": 0, "w": 42, "h": 70 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 40, "h": 68 },
+    "sourceSize": { "w": 40, "h": 68 },
+    "duration": 100
+   },
+   {
+    "filename": "Dragon Skies bu 7.aseprite",
+    "frame": { "x": 294, "y": 0, "w": 42, "h": 70 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 40, "h": 68 },
+    "sourceSize": { "w": 40, "h": 68 },
+    "duration": 100
+   },
+   {
+    "filename": "Dragon Skies bu 8.aseprite",
+    "frame": { "x": 336, "y": 0, "w": 42, "h": 70 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 40, "h": 68 },
+    "sourceSize": { "w": 40, "h": 68 },
+    "duration": 100
+   },
+   {
+    "filename": "Dragon Skies bu 9.aseprite",
+    "frame": { "x": 378, "y": 0, "w": 42, "h": 70 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 40, "h": 68 },
+    "sourceSize": { "w": 40, "h": 68 },
+    "duration": 100
+   },
+   {
+    "filename": "Dragon Skies bu 10.aseprite",
+    "frame": { "x": 378, "y": 0, "w": 42, "h": 70 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 40, "h": 68 },
+    "sourceSize": { "w": 40, "h": 68 },
+    "duration": 100
+   },
+   {
+    "filename": "Dragon Skies bu 11.aseprite",
+    "frame": { "x": 378, "y": 0, "w": 42, "h": 70 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 40, "h": 68 },
+    "sourceSize": { "w": 40, "h": 68 },
+    "duration": 100
+   },
+   {
+    "filename": "Dragon Skies bu 12.aseprite",
+    "frame": { "x": 378, "y": 0, "w": 42, "h": 70 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 40, "h": 68 },
+    "sourceSize": { "w": 40, "h": 68 },
+    "duration": 100
+   },
+   {
+    "filename": "Dragon Skies bu 13.aseprite",
+    "frame": { "x": 378, "y": 0, "w": 42, "h": 70 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 40, "h": 68 },
+    "sourceSize": { "w": 40, "h": 68 },
+    "duration": 100
+   },
+   {
+    "filename": "Dragon Skies bu 14.aseprite",
+    "frame": { "x": 378, "y": 0, "w": 42, "h": 70 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 40, "h": 68 },
+    "sourceSize": { "w": 40, "h": 68 },
+    "duration": 300
+   },
+   {
+    "filename": "Dragon Skies bu 15.aseprite",
+    "frame": { "x": 420, "y": 0, "w": 42, "h": 70 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 40, "h": 68 },
+    "sourceSize": { "w": 40, "h": 68 },
+    "duration": 100
+   },
+   {
+    "filename": "Dragon Skies bu 16.aseprite",
+    "frame": { "x": 462, "y": 0, "w": 42, "h": 70 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 40, "h": 68 },
+    "sourceSize": { "w": 40, "h": 68 },
+    "duration": 100
+   },
+   {
+    "filename": "Dragon Skies bu 17.aseprite",
+    "frame": { "x": 504, "y": 0, "w": 42, "h": 70 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 40, "h": 68 },
+    "sourceSize": { "w": 40, "h": 68 },
+    "duration": 100
+   },
+   {
+    "filename": "Dragon Skies bu 18.aseprite",
+    "frame": { "x": 546, "y": 0, "w": 42, "h": 70 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 40, "h": 68 },
+    "sourceSize": { "w": 40, "h": 68 },
+    "duration": 100
+   },
+   {
+    "filename": "Dragon Skies bu 19.aseprite",
+    "frame": { "x": 546, "y": 0, "w": 42, "h": 70 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 40, "h": 68 },
+    "sourceSize": { "w": 40, "h": 68 },
+    "duration": 2000
+   }
+ ],
+ "meta": {
+  "app": "http://www.aseprite.org/",
+  "version": "1.2.25-x64",
+  "image": "default02-sheet.png",
+  "format": "RGBA8888",
+  "size": { "w": 588, "h": 70 },
+  "scale": "1",
+  "frameTags": [
+  ],
+  "layers": [
+   { "name": "dragon tail", "opacity": 255, "blendMode": "normal" },
+   { "name": "dragon wing 2", "opacity": 255, "blendMode": "normal" },
+   { "name": "dragon arm 2 lower", "opacity": 255, "blendMode": "normal" },
+   { "name": "dragon paw 2", "opacity": 255, "blendMode": "normal" },
+   { "name": "dragon arm 2 upper", "opacity": 255, "blendMode": "normal" },
+   { "name": "dragon leg 2", "opacity": 255, "blendMode": "normal" },
+   { "name": "dragon torso", "opacity": 255, "blendMode": "normal" },
+   { "name": "dragon leg 1", "opacity": 255, "blendMode": "normal" },
+   { "name": "dragon neck", "opacity": 255, "blendMode": "normal" },
+   { "name": "dragon wing 1", "opacity": 255, "blendMode": "normal" },
+   { "name": "dragon arm 1 lower", "opacity": 255, "blendMode": "normal" },
+   { "name": "dragon paw 1", "opacity": 255, "blendMode": "normal" },
+   { "name": "dragon arm 1 upper", "opacity": 255, "blendMode": "normal" },
+   { "name": "dragon chin", "opacity": 255, "blendMode": "normal" },
+   { "name": "dragon head", "opacity": 255, "blendMode": "normal" },
+   { "name": "island_default", "opacity": 255, "blendMode": "normal" },
+   { "name": "mask_blue", "opacity": 255, "blendMode": "normal" }
+  ],
+  "slices": [
+  ]
+ }
+}

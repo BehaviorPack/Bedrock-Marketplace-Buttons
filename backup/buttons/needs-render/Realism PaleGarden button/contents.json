@@ -1,0 +1,52 @@
+{
+"content" : [
+    { "path" : "contents.json" },
+    { "path" : "textures" },
+    { "path" : "textures/ui" },
+    { "path" : "ui" },
+    { "path" : "ui/start_screen.json" },
+    { "path" : "manifest.json" },
+    { "path" : "textures/ui/BG_Default.json" },
+    { "path" : "textures/ui/BG_Default.png" },
+    { "path" : "textures/ui/BG_Hover.json" },
+    { "path" : "textures/ui/BG_Hover.png" },
+
+    { "path" : "textures/ui/Creaking_Close.json" },
+    { "path" : "textures/ui/Creaking_Close.png" },
+    { "path" : "textures/ui/Creaking_Far.json" },
+    { "path" : "textures/ui/Creaking_Far.png" },
+
+    { "path" : "textures/ui/Fireflies_Center.json" },
+    { "path" : "textures/ui/Fireflies_Center.png" },
+    { "path" : "textures/ui/Fireflies_Left.json" },
+    { "path" : "textures/ui/Fireflies_Left.png" },
+    { "path" : "textures/ui/Fireflies_Right.json" },
+    { "path" : "textures/ui/Fireflies_Right.png" },
+    
+    { "path" : "textures/ui/Flare.json" },
+    { "path" : "textures/ui/Flare.png" },
+
+    { "path" : "textures/ui/Fog01_Default.json" },
+    { "path" : "textures/ui/Fog01_Default.png" },
+    { "path" : "textures/ui/Fog01_Hover.json" },
+    { "path" : "textures/ui/Fog01_Hover.png" },
+    { "path" : "textures/ui/Fog02_Default.json" },
+    { "path" : "textures/ui/Fog02_Default.png" },
+    { "path" : "textures/ui/Fog02_Hover.json" },
+    { "path" : "textures/ui/Fog02_Hover.png" },
+    { "path" : "textures/ui/Fog03_Default.json" },
+    { "path" : "textures/ui/Fog03_Default.png" },
+    { "path" : "textures/ui/Fog03_Hover.json" },
+    { "path" : "textures/ui/Fog03_Hover.png" },
+
+    { "path" : "textures/ui/Left_Default.json" },
+    { "path" : "textures/ui/Left_Default.png" },
+    { "path" : "textures/ui/Left_Hover.json" },
+    { "path" : "textures/ui/Left_Hover.png" },
+    { "path" : "textures/ui/Right_Default.json" },
+    { "path" : "textures/ui/Right_Default.png" },
+    { "path" : "textures/ui/Right_Hover.json" },
+    { "path" : "textures/ui/Right_Hover.png" }
+],
+"version" : 1
+}

@@ -1,0 +1,47 @@
+{
+   "content" : [
+      {
+         "path" : "contents.json"
+      },
+      {
+         "path" : "manifest.json"
+      },
+      {
+         "path" : "textures/ui/glyph_addon_pack.png"
+      },
+      {
+         "path" : "textures/ui/glyph_addon_pack_small.png"
+      },
+      {
+         "path" : "textures/ui/sidebar_icons/Frozen_packicon.jpg"
+      },
+      {
+         "path" : "textures/ui/sidebar_icons/Frozen_packicon_0.jpg"
+      },
+      {
+         "path" : "textures/ui/sidebar_icons/HTTYD_packicon.jpg"
+      },
+      {
+         "path" : "textures/ui/sidebar_icons/IceAge_packicon.jpg"
+      },
+      {
+         "path" : "textures/ui/sidebar_icons/NightmareBeforeChristmas_packicon.jpg"
+      },
+      {
+         "path" : "textures/ui/sidebar_icons/PiratesoftheCaribbean_packicon.jpg"
+      },
+      {
+         "path" : "textures/ui/sidebar_icons/SpongeBob_SquarePants_packicon.jpg"
+      },
+      {
+         "path" : "textures/ui/sidebar_icons/ToyStory_packicon.jpg"
+      },
+      {
+         "path" : "textures/ui/sidebar_icons/addon.png"
+      },
+      {
+         "path" : "textures/ui/sidebar_icons/angrybirds_packicon.jpg"
+      }
+   ],
+   "version" : 1
+}

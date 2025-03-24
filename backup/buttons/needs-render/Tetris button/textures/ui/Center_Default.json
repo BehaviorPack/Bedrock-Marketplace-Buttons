@@ -1,0 +1,1019 @@
+{ "frames": [
+   {
+    "filename": "Tetris_Button #Default 0.ase",
+    "frame": { "x": 0, "y": 0, "w": 72, "h": 68 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 72, "h": 68 },
+    "sourceSize": { "w": 72, "h": 68 },
+    "duration": 60
+   },
+   {
+    "filename": "Tetris_Button #Default 1.ase",
+    "frame": { "x": 0, "y": 0, "w": 72, "h": 68 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 72, "h": 68 },
+    "sourceSize": { "w": 72, "h": 68 },
+    "duration": 60
+   },
+   {
+    "filename": "Tetris_Button #Default 2.ase",
+    "frame": { "x": 0, "y": 0, "w": 72, "h": 68 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 72, "h": 68 },
+    "sourceSize": { "w": 72, "h": 68 },
+    "duration": 60
+   },
+   {
+    "filename": "Tetris_Button #Default 3.ase",
+    "frame": { "x": 0, "y": 0, "w": 72, "h": 68 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 72, "h": 68 },
+    "sourceSize": { "w": 72, "h": 68 },
+    "duration": 60
+   },
+   {
+    "filename": "Tetris_Button #Default 4.ase",
+    "frame": { "x": 0, "y": 0, "w": 72, "h": 68 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 72, "h": 68 },
+    "sourceSize": { "w": 72, "h": 68 },
+    "duration": 60
+   },
+   {
+    "filename": "Tetris_Button #Default 5.ase",
+    "frame": { "x": 0, "y": 0, "w": 72, "h": 68 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 72, "h": 68 },
+    "sourceSize": { "w": 72, "h": 68 },
+    "duration": 60
+   },
+   {
+    "filename": "Tetris_Button #Default 6.ase",
+    "frame": { "x": 0, "y": 0, "w": 72, "h": 68 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 72, "h": 68 },
+    "sourceSize": { "w": 72, "h": 68 },
+    "duration": 60
+   },
+   {
+    "filename": "Tetris_Button #Default 7.ase",
+    "frame": { "x": 0, "y": 0, "w": 72, "h": 68 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 72, "h": 68 },
+    "sourceSize": { "w": 72, "h": 68 },
+    "duration": 60
+   },
+   {
+    "filename": "Tetris_Button #Default 8.ase",
+    "frame": { "x": 0, "y": 0, "w": 72, "h": 68 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 72, "h": 68 },
+    "sourceSize": { "w": 72, "h": 68 },
+    "duration": 60
+   },
+   {
+    "filename": "Tetris_Button #Default 9.ase",
+    "frame": { "x": 0, "y": 0, "w": 72, "h": 68 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 72, "h": 68 },
+    "sourceSize": { "w": 72, "h": 68 },
+    "duration": 60
+   },
+   {
+    "filename": "Tetris_Button #Default 10.ase",
+    "frame": { "x": 0, "y": 0, "w": 72, "h": 68 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 72, "h": 68 },
+    "sourceSize": { "w": 72, "h": 68 },
+    "duration": 60
+   },
+   {
+    "filename": "Tetris_Button #Default 11.ase",
+    "frame": { "x": 0, "y": 0, "w": 72, "h": 68 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 72, "h": 68 },
+    "sourceSize": { "w": 72, "h": 68 },
+    "duration": 60
+   },
+   {
+    "filename": "Tetris_Button #Default 12.ase",
+    "frame": { "x": 0, "y": 0, "w": 72, "h": 68 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 72, "h": 68 },
+    "sourceSize": { "w": 72, "h": 68 },
+    "duration": 60
+   },
+   {
+    "filename": "Tetris_Button #Default 13.ase",
+    "frame": { "x": 0, "y": 0, "w": 72, "h": 68 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 72, "h": 68 },
+    "sourceSize": { "w": 72, "h": 68 },
+    "duration": 60
+   },
+   {
+    "filename": "Tetris_Button #Default 14.ase",
+    "frame": { "x": 0, "y": 0, "w": 72, "h": 68 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 72, "h": 68 },
+    "sourceSize": { "w": 72, "h": 68 },
+    "duration": 60
+   },
+   {
+    "filename": "Tetris_Button #Default 15.ase",
+    "frame": { "x": 0, "y": 0, "w": 72, "h": 68 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 72, "h": 68 },
+    "sourceSize": { "w": 72, "h": 68 },
+    "duration": 60
+   },
+   {
+    "filename": "Tetris_Button #Default 16.ase",
+    "frame": { "x": 0, "y": 0, "w": 72, "h": 68 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 72, "h": 68 },
+    "sourceSize": { "w": 72, "h": 68 },
+    "duration": 60
+   },
+   {
+    "filename": "Tetris_Button #Default 17.ase",
+    "frame": { "x": 0, "y": 0, "w": 72, "h": 68 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 72, "h": 68 },
+    "sourceSize": { "w": 72, "h": 68 },
+    "duration": 60
+   },
+   {
+    "filename": "Tetris_Button #Default 18.ase",
+    "frame": { "x": 0, "y": 0, "w": 72, "h": 68 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 72, "h": 68 },
+    "sourceSize": { "w": 72, "h": 68 },
+    "duration": 60
+   },
+   {
+    "filename": "Tetris_Button #Default 19.ase",
+    "frame": { "x": 0, "y": 0, "w": 72, "h": 68 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 72, "h": 68 },
+    "sourceSize": { "w": 72, "h": 68 },
+    "duration": 60
+   },
+   {
+    "filename": "Tetris_Button #Default 20.ase",
+    "frame": { "x": 0, "y": 0, "w": 72, "h": 68 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 72, "h": 68 },
+    "sourceSize": { "w": 72, "h": 68 },
+    "duration": 60
+   },
+   {
+    "filename": "Tetris_Button #Default 21.ase",
+    "frame": { "x": 0, "y": 0, "w": 72, "h": 68 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 72, "h": 68 },
+    "sourceSize": { "w": 72, "h": 68 },
+    "duration": 60
+   },
+   {
+    "filename": "Tetris_Button #Default 22.ase",
+    "frame": { "x": 0, "y": 0, "w": 72, "h": 68 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 72, "h": 68 },
+    "sourceSize": { "w": 72, "h": 68 },
+    "duration": 60
+   },
+   {
+    "filename": "Tetris_Button #Default 23.ase",
+    "frame": { "x": 0, "y": 0, "w": 72, "h": 68 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 72, "h": 68 },
+    "sourceSize": { "w": 72, "h": 68 },
+    "duration": 60
+   },
+   {
+    "filename": "Tetris_Button #Default 24.ase",
+    "frame": { "x": 0, "y": 0, "w": 72, "h": 68 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 72, "h": 68 },
+    "sourceSize": { "w": 72, "h": 68 },
+    "duration": 60
+   },
+   {
+    "filename": "Tetris_Button #Default 25.ase",
+    "frame": { "x": 0, "y": 0, "w": 72, "h": 68 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 72, "h": 68 },
+    "sourceSize": { "w": 72, "h": 68 },
+    "duration": 60
+   },
+   {
+    "filename": "Tetris_Button #Default 26.ase",
+    "frame": { "x": 0, "y": 0, "w": 72, "h": 68 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 72, "h": 68 },
+    "sourceSize": { "w": 72, "h": 68 },
+    "duration": 60
+   },
+   {
+    "filename": "Tetris_Button #Default 27.ase",
+    "frame": { "x": 0, "y": 0, "w": 72, "h": 68 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 72, "h": 68 },
+    "sourceSize": { "w": 72, "h": 68 },
+    "duration": 60
+   },
+   {
+    "filename": "Tetris_Button #Default 28.ase",
+    "frame": { "x": 0, "y": 0, "w": 72, "h": 68 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 72, "h": 68 },
+    "sourceSize": { "w": 72, "h": 68 },
+    "duration": 60
+   },
+   {
+    "filename": "Tetris_Button #Default 29.ase",
+    "frame": { "x": 0, "y": 0, "w": 72, "h": 68 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 72, "h": 68 },
+    "sourceSize": { "w": 72, "h": 68 },
+    "duration": 60
+   },
+   {
+    "filename": "Tetris_Button #Default 30.ase",
+    "frame": { "x": 0, "y": 0, "w": 72, "h": 68 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 72, "h": 68 },
+    "sourceSize": { "w": 72, "h": 68 },
+    "duration": 60
+   },
+   {
+    "filename": "Tetris_Button #Default 31.ase",
+    "frame": { "x": 0, "y": 0, "w": 72, "h": 68 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 72, "h": 68 },
+    "sourceSize": { "w": 72, "h": 68 },
+    "duration": 60
+   },
+   {
+    "filename": "Tetris_Button #Default 32.ase",
+    "frame": { "x": 0, "y": 0, "w": 72, "h": 68 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 72, "h": 68 },
+    "sourceSize": { "w": 72, "h": 68 },
+    "duration": 60
+   },
+   {
+    "filename": "Tetris_Button #Default 33.ase",
+    "frame": { "x": 0, "y": 0, "w": 72, "h": 68 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 72, "h": 68 },
+    "sourceSize": { "w": 72, "h": 68 },
+    "duration": 60
+   },
+   {
+    "filename": "Tetris_Button #Default 34.ase",
+    "frame": { "x": 0, "y": 0, "w": 72, "h": 68 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 72, "h": 68 },
+    "sourceSize": { "w": 72, "h": 68 },
+    "duration": 60
+   },
+   {
+    "filename": "Tetris_Button #Default 35.ase",
+    "frame": { "x": 0, "y": 0, "w": 72, "h": 68 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 72, "h": 68 },
+    "sourceSize": { "w": 72, "h": 68 },
+    "duration": 60
+   },
+   {
+    "filename": "Tetris_Button #Default 36.ase",
+    "frame": { "x": 0, "y": 0, "w": 72, "h": 68 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 72, "h": 68 },
+    "sourceSize": { "w": 72, "h": 68 },
+    "duration": 60
+   },
+   {
+    "filename": "Tetris_Button #Default 37.ase",
+    "frame": { "x": 0, "y": 0, "w": 72, "h": 68 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 72, "h": 68 },
+    "sourceSize": { "w": 72, "h": 68 },
+    "duration": 60
+   },
+   {
+    "filename": "Tetris_Button #Default 38.ase",
+    "frame": { "x": 0, "y": 0, "w": 72, "h": 68 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 72, "h": 68 },
+    "sourceSize": { "w": 72, "h": 68 },
+    "duration": 60
+   },
+   {
+    "filename": "Tetris_Button #Default 39.ase",
+    "frame": { "x": 0, "y": 0, "w": 72, "h": 68 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 72, "h": 68 },
+    "sourceSize": { "w": 72, "h": 68 },
+    "duration": 60
+   },
+   {
+    "filename": "Tetris_Button #Default 40.ase",
+    "frame": { "x": 0, "y": 0, "w": 72, "h": 68 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 72, "h": 68 },
+    "sourceSize": { "w": 72, "h": 68 },
+    "duration": 60
+   },
+   {
+    "filename": "Tetris_Button #Default 41.ase",
+    "frame": { "x": 0, "y": 0, "w": 72, "h": 68 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 72, "h": 68 },
+    "sourceSize": { "w": 72, "h": 68 },
+    "duration": 60
+   },
+   {
+    "filename": "Tetris_Button #Default 42.ase",
+    "frame": { "x": 0, "y": 0, "w": 72, "h": 68 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 72, "h": 68 },
+    "sourceSize": { "w": 72, "h": 68 },
+    "duration": 60
+   },
+   {
+    "filename": "Tetris_Button #Default 43.ase",
+    "frame": { "x": 0, "y": 0, "w": 72, "h": 68 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 72, "h": 68 },
+    "sourceSize": { "w": 72, "h": 68 },
+    "duration": 60
+   },
+   {
+    "filename": "Tetris_Button #Default 44.ase",
+    "frame": { "x": 0, "y": 0, "w": 72, "h": 68 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 72, "h": 68 },
+    "sourceSize": { "w": 72, "h": 68 },
+    "duration": 60
+   },
+   {
+    "filename": "Tetris_Button #Default 45.ase",
+    "frame": { "x": 0, "y": 0, "w": 72, "h": 68 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 72, "h": 68 },
+    "sourceSize": { "w": 72, "h": 68 },
+    "duration": 60
+   },
+   {
+    "filename": "Tetris_Button #Default 46.ase",
+    "frame": { "x": 0, "y": 0, "w": 72, "h": 68 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 72, "h": 68 },
+    "sourceSize": { "w": 72, "h": 68 },
+    "duration": 60
+   },
+   {
+    "filename": "Tetris_Button #Default 47.ase",
+    "frame": { "x": 0, "y": 0, "w": 72, "h": 68 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 72, "h": 68 },
+    "sourceSize": { "w": 72, "h": 68 },
+    "duration": 60
+   },
+   {
+    "filename": "Tetris_Button #Default 48.ase",
+    "frame": { "x": 0, "y": 0, "w": 72, "h": 68 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 72, "h": 68 },
+    "sourceSize": { "w": 72, "h": 68 },
+    "duration": 60
+   },
+   {
+    "filename": "Tetris_Button #Default 49.ase",
+    "frame": { "x": 0, "y": 0, "w": 72, "h": 68 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 72, "h": 68 },
+    "sourceSize": { "w": 72, "h": 68 },
+    "duration": 60
+   },
+   {
+    "filename": "Tetris_Button #Default 50.ase",
+    "frame": { "x": 0, "y": 0, "w": 72, "h": 68 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 72, "h": 68 },
+    "sourceSize": { "w": 72, "h": 68 },
+    "duration": 60
+   },
+   {
+    "filename": "Tetris_Button #Default 51.ase",
+    "frame": { "x": 0, "y": 0, "w": 72, "h": 68 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 72, "h": 68 },
+    "sourceSize": { "w": 72, "h": 68 },
+    "duration": 60
+   },
+   {
+    "filename": "Tetris_Button #Default 52.ase",
+    "frame": { "x": 0, "y": 0, "w": 72, "h": 68 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 72, "h": 68 },
+    "sourceSize": { "w": 72, "h": 68 },
+    "duration": 60
+   },
+   {
+    "filename": "Tetris_Button #Default 53.ase",
+    "frame": { "x": 0, "y": 0, "w": 72, "h": 68 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 72, "h": 68 },
+    "sourceSize": { "w": 72, "h": 68 },
+    "duration": 60
+   },
+   {
+    "filename": "Tetris_Button #Default 54.ase",
+    "frame": { "x": 0, "y": 0, "w": 72, "h": 68 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 72, "h": 68 },
+    "sourceSize": { "w": 72, "h": 68 },
+    "duration": 60
+   },
+   {
+    "filename": "Tetris_Button #Default 55.ase",
+    "frame": { "x": 0, "y": 0, "w": 72, "h": 68 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 72, "h": 68 },
+    "sourceSize": { "w": 72, "h": 68 },
+    "duration": 60
+   },
+   {
+    "filename": "Tetris_Button #Default 56.ase",
+    "frame": { "x": 72, "y": 0, "w": 72, "h": 68 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 72, "h": 68 },
+    "sourceSize": { "w": 72, "h": 68 },
+    "duration": 60
+   },
+   {
+    "filename": "Tetris_Button #Default 57.ase",
+    "frame": { "x": 144, "y": 0, "w": 72, "h": 68 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 72, "h": 68 },
+    "sourceSize": { "w": 72, "h": 68 },
+    "duration": 60
+   },
+   {
+    "filename": "Tetris_Button #Default 58.ase",
+    "frame": { "x": 216, "y": 0, "w": 72, "h": 68 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 72, "h": 68 },
+    "sourceSize": { "w": 72, "h": 68 },
+    "duration": 60
+   },
+   {
+    "filename": "Tetris_Button #Default 59.ase",
+    "frame": { "x": 288, "y": 0, "w": 72, "h": 68 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 72, "h": 68 },
+    "sourceSize": { "w": 72, "h": 68 },
+    "duration": 60
+   },
+   {
+    "filename": "Tetris_Button #Default 60.ase",
+    "frame": { "x": 360, "y": 0, "w": 72, "h": 68 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 72, "h": 68 },
+    "sourceSize": { "w": 72, "h": 68 },
+    "duration": 60
+   },
+   {
+    "filename": "Tetris_Button #Default 61.ase",
+    "frame": { "x": 432, "y": 0, "w": 72, "h": 68 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 72, "h": 68 },
+    "sourceSize": { "w": 72, "h": 68 },
+    "duration": 60
+   },
+   {
+    "filename": "Tetris_Button #Default 62.ase",
+    "frame": { "x": 504, "y": 0, "w": 72, "h": 68 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 72, "h": 68 },
+    "sourceSize": { "w": 72, "h": 68 },
+    "duration": 60
+   },
+   {
+    "filename": "Tetris_Button #Default 63.ase",
+    "frame": { "x": 0, "y": 0, "w": 72, "h": 68 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 72, "h": 68 },
+    "sourceSize": { "w": 72, "h": 68 },
+    "duration": 60
+   },
+   {
+    "filename": "Tetris_Button #Default 64.ase",
+    "frame": { "x": 0, "y": 0, "w": 72, "h": 68 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 72, "h": 68 },
+    "sourceSize": { "w": 72, "h": 68 },
+    "duration": 60
+   },
+   {
+    "filename": "Tetris_Button #Default 65.ase",
+    "frame": { "x": 0, "y": 0, "w": 72, "h": 68 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 72, "h": 68 },
+    "sourceSize": { "w": 72, "h": 68 },
+    "duration": 60
+   },
+   {
+    "filename": "Tetris_Button #Default 66.ase",
+    "frame": { "x": 0, "y": 0, "w": 72, "h": 68 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 72, "h": 68 },
+    "sourceSize": { "w": 72, "h": 68 },
+    "duration": 60
+   },
+   {
+    "filename": "Tetris_Button #Default 67.ase",
+    "frame": { "x": 0, "y": 0, "w": 72, "h": 68 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 72, "h": 68 },
+    "sourceSize": { "w": 72, "h": 68 },
+    "duration": 60
+   },
+   {
+    "filename": "Tetris_Button #Default 68.ase",
+    "frame": { "x": 0, "y": 0, "w": 72, "h": 68 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 72, "h": 68 },
+    "sourceSize": { "w": 72, "h": 68 },
+    "duration": 60
+   },
+   {
+    "filename": "Tetris_Button #Default 69.ase",
+    "frame": { "x": 0, "y": 0, "w": 72, "h": 68 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 72, "h": 68 },
+    "sourceSize": { "w": 72, "h": 68 },
+    "duration": 60
+   },
+   {
+    "filename": "Tetris_Button #Default 70.ase",
+    "frame": { "x": 0, "y": 0, "w": 72, "h": 68 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 72, "h": 68 },
+    "sourceSize": { "w": 72, "h": 68 },
+    "duration": 60
+   },
+   {
+    "filename": "Tetris_Button #Default 71.ase",
+    "frame": { "x": 0, "y": 0, "w": 72, "h": 68 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 72, "h": 68 },
+    "sourceSize": { "w": 72, "h": 68 },
+    "duration": 60
+   },
+   {
+    "filename": "Tetris_Button #Default 72.ase",
+    "frame": { "x": 0, "y": 0, "w": 72, "h": 68 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 72, "h": 68 },
+    "sourceSize": { "w": 72, "h": 68 },
+    "duration": 60
+   },
+   {
+    "filename": "Tetris_Button #Default 73.ase",
+    "frame": { "x": 0, "y": 0, "w": 72, "h": 68 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 72, "h": 68 },
+    "sourceSize": { "w": 72, "h": 68 },
+    "duration": 60
+   },
+   {
+    "filename": "Tetris_Button #Default 74.ase",
+    "frame": { "x": 0, "y": 0, "w": 72, "h": 68 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 72, "h": 68 },
+    "sourceSize": { "w": 72, "h": 68 },
+    "duration": 60
+   },
+   {
+    "filename": "Tetris_Button #Default 75.ase",
+    "frame": { "x": 0, "y": 0, "w": 72, "h": 68 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 72, "h": 68 },
+    "sourceSize": { "w": 72, "h": 68 },
+    "duration": 60
+   },
+   {
+    "filename": "Tetris_Button #Default 76.ase",
+    "frame": { "x": 0, "y": 0, "w": 72, "h": 68 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 72, "h": 68 },
+    "sourceSize": { "w": 72, "h": 68 },
+    "duration": 60
+   },
+   {
+    "filename": "Tetris_Button #Default 77.ase",
+    "frame": { "x": 0, "y": 0, "w": 72, "h": 68 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 72, "h": 68 },
+    "sourceSize": { "w": 72, "h": 68 },
+    "duration": 60
+   },
+   {
+    "filename": "Tetris_Button #Default 78.ase",
+    "frame": { "x": 0, "y": 0, "w": 72, "h": 68 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 72, "h": 68 },
+    "sourceSize": { "w": 72, "h": 68 },
+    "duration": 60
+   },
+   {
+    "filename": "Tetris_Button #Default 79.ase",
+    "frame": { "x": 0, "y": 0, "w": 72, "h": 68 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 72, "h": 68 },
+    "sourceSize": { "w": 72, "h": 68 },
+    "duration": 60
+   },
+   {
+    "filename": "Tetris_Button #Default 80.ase",
+    "frame": { "x": 0, "y": 0, "w": 72, "h": 68 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 72, "h": 68 },
+    "sourceSize": { "w": 72, "h": 68 },
+    "duration": 60
+   },
+   {
+    "filename": "Tetris_Button #Default 81.ase",
+    "frame": { "x": 0, "y": 0, "w": 72, "h": 68 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 72, "h": 68 },
+    "sourceSize": { "w": 72, "h": 68 },
+    "duration": 60
+   },
+   {
+    "filename": "Tetris_Button #Default 82.ase",
+    "frame": { "x": 0, "y": 0, "w": 72, "h": 68 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 72, "h": 68 },
+    "sourceSize": { "w": 72, "h": 68 },
+    "duration": 60
+   },
+   {
+    "filename": "Tetris_Button #Default 83.ase",
+    "frame": { "x": 0, "y": 0, "w": 72, "h": 68 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 72, "h": 68 },
+    "sourceSize": { "w": 72, "h": 68 },
+    "duration": 60
+   },
+   {
+    "filename": "Tetris_Button #Default 84.ase",
+    "frame": { "x": 0, "y": 0, "w": 72, "h": 68 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 72, "h": 68 },
+    "sourceSize": { "w": 72, "h": 68 },
+    "duration": 60
+   },
+   {
+    "filename": "Tetris_Button #Default 85.ase",
+    "frame": { "x": 0, "y": 0, "w": 72, "h": 68 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 72, "h": 68 },
+    "sourceSize": { "w": 72, "h": 68 },
+    "duration": 60
+   },
+   {
+    "filename": "Tetris_Button #Default 86.ase",
+    "frame": { "x": 0, "y": 0, "w": 72, "h": 68 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 72, "h": 68 },
+    "sourceSize": { "w": 72, "h": 68 },
+    "duration": 60
+   },
+   {
+    "filename": "Tetris_Button #Default 87.ase",
+    "frame": { "x": 0, "y": 0, "w": 72, "h": 68 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 72, "h": 68 },
+    "sourceSize": { "w": 72, "h": 68 },
+    "duration": 60
+   },
+   {
+    "filename": "Tetris_Button #Default 88.ase",
+    "frame": { "x": 0, "y": 0, "w": 72, "h": 68 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 72, "h": 68 },
+    "sourceSize": { "w": 72, "h": 68 },
+    "duration": 60
+   },
+   {
+    "filename": "Tetris_Button #Default 89.ase",
+    "frame": { "x": 0, "y": 0, "w": 72, "h": 68 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 72, "h": 68 },
+    "sourceSize": { "w": 72, "h": 68 },
+    "duration": 60
+   },
+   {
+    "filename": "Tetris_Button #Default 90.ase",
+    "frame": { "x": 0, "y": 0, "w": 72, "h": 68 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 72, "h": 68 },
+    "sourceSize": { "w": 72, "h": 68 },
+    "duration": 60
+   },
+   {
+    "filename": "Tetris_Button #Default 91.ase",
+    "frame": { "x": 0, "y": 0, "w": 72, "h": 68 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 72, "h": 68 },
+    "sourceSize": { "w": 72, "h": 68 },
+    "duration": 60
+   },
+   {
+    "filename": "Tetris_Button #Default 92.ase",
+    "frame": { "x": 0, "y": 0, "w": 72, "h": 68 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 72, "h": 68 },
+    "sourceSize": { "w": 72, "h": 68 },
+    "duration": 60
+   },
+   {
+    "filename": "Tetris_Button #Default 93.ase",
+    "frame": { "x": 576, "y": 0, "w": 72, "h": 68 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 72, "h": 68 },
+    "sourceSize": { "w": 72, "h": 68 },
+    "duration": 60
+   },
+   {
+    "filename": "Tetris_Button #Default 94.ase",
+    "frame": { "x": 648, "y": 0, "w": 72, "h": 68 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 72, "h": 68 },
+    "sourceSize": { "w": 72, "h": 68 },
+    "duration": 60
+   },
+   {
+    "filename": "Tetris_Button #Default 95.ase",
+    "frame": { "x": 720, "y": 0, "w": 72, "h": 68 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 72, "h": 68 },
+    "sourceSize": { "w": 72, "h": 68 },
+    "duration": 60
+   },
+   {
+    "filename": "Tetris_Button #Default 96.ase",
+    "frame": { "x": 792, "y": 0, "w": 72, "h": 68 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 72, "h": 68 },
+    "sourceSize": { "w": 72, "h": 68 },
+    "duration": 60
+   },
+   {
+    "filename": "Tetris_Button #Default 97.ase",
+    "frame": { "x": 864, "y": 0, "w": 72, "h": 68 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 72, "h": 68 },
+    "sourceSize": { "w": 72, "h": 68 },
+    "duration": 60
+   },
+   {
+    "filename": "Tetris_Button #Default 98.ase",
+    "frame": { "x": 936, "y": 0, "w": 72, "h": 68 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 72, "h": 68 },
+    "sourceSize": { "w": 72, "h": 68 },
+    "duration": 60
+   },
+   {
+    "filename": "Tetris_Button #Default 99.ase",
+    "frame": { "x": 1008, "y": 0, "w": 72, "h": 68 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 72, "h": 68 },
+    "sourceSize": { "w": 72, "h": 68 },
+    "duration": 60
+   },
+   {
+    "filename": "Tetris_Button #Default 100.ase",
+    "frame": { "x": 1080, "y": 0, "w": 72, "h": 68 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 72, "h": 68 },
+    "sourceSize": { "w": 72, "h": 68 },
+    "duration": 60
+   },
+   {
+    "filename": "Tetris_Button #Default 101.ase",
+    "frame": { "x": 0, "y": 0, "w": 72, "h": 68 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 72, "h": 68 },
+    "sourceSize": { "w": 72, "h": 68 },
+    "duration": 60
+   },
+   {
+    "filename": "Tetris_Button #Default 102.ase",
+    "frame": { "x": 0, "y": 0, "w": 72, "h": 68 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 72, "h": 68 },
+    "sourceSize": { "w": 72, "h": 68 },
+    "duration": 60
+   },
+   {
+    "filename": "Tetris_Button #Default 103.ase",
+    "frame": { "x": 0, "y": 0, "w": 72, "h": 68 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 72, "h": 68 },
+    "sourceSize": { "w": 72, "h": 68 },
+    "duration": 60
+   },
+   {
+    "filename": "Tetris_Button #Default 104.ase",
+    "frame": { "x": 0, "y": 0, "w": 72, "h": 68 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 72, "h": 68 },
+    "sourceSize": { "w": 72, "h": 68 },
+    "duration": 60
+   },
+   {
+    "filename": "Tetris_Button #Default 105.ase",
+    "frame": { "x": 0, "y": 0, "w": 72, "h": 68 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 72, "h": 68 },
+    "sourceSize": { "w": 72, "h": 68 },
+    "duration": 60
+   },
+   {
+    "filename": "Tetris_Button #Default 106.ase",
+    "frame": { "x": 0, "y": 0, "w": 72, "h": 68 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 72, "h": 68 },
+    "sourceSize": { "w": 72, "h": 68 },
+    "duration": 60
+   },
+   {
+    "filename": "Tetris_Button #Default 107.ase",
+    "frame": { "x": 0, "y": 0, "w": 72, "h": 68 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 72, "h": 68 },
+    "sourceSize": { "w": 72, "h": 68 },
+    "duration": 60
+   },
+   {
+    "filename": "Tetris_Button #Default 108.ase",
+    "frame": { "x": 0, "y": 0, "w": 72, "h": 68 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 72, "h": 68 },
+    "sourceSize": { "w": 72, "h": 68 },
+    "duration": 60
+   },
+   {
+    "filename": "Tetris_Button #Default 109.ase",
+    "frame": { "x": 0, "y": 0, "w": 72, "h": 68 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 72, "h": 68 },
+    "sourceSize": { "w": 72, "h": 68 },
+    "duration": 60
+   },
+   {
+    "filename": "Tetris_Button #Default 110.ase",
+    "frame": { "x": 0, "y": 0, "w": 72, "h": 68 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 72, "h": 68 },
+    "sourceSize": { "w": 72, "h": 68 },
+    "duration": 60
+   },
+   {
+    "filename": "Tetris_Button #Default 111.ase",
+    "frame": { "x": 0, "y": 0, "w": 72, "h": 68 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 72, "h": 68 },
+    "sourceSize": { "w": 72, "h": 68 },
+    "duration": 60
+   }
+ ],
+ "meta": {
+  "app": "https://www.aseprite.org/",
+  "version": "1.3-beta21-x64",
+  "image": "Center_Default.png",
+  "format": "RGBA8888",
+  "size": { "w": 1152, "h": 68 },
+  "scale": "1"
+ }
+}

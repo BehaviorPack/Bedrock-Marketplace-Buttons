@@ -1,0 +1,73 @@
+{
+  "gathering_eerie_badge": {
+    "type": "panel",
+    "controls": [
+      {
+        "sheet": {
+          "type": "image",
+          "texture": "textures/ui/eerie_badge",
+          "offset": [ "-40%", 0 ],
+          "layer": 8,
+          "uv_size": [ 238, 100 ],
+          "uv": "@start.gathering_animation",
+          "disable_anim_fast_forward": true,
+          "allow_debug_missing_texture": false
+        }
+      }
+    ]
+  },
+
+  "gathering_animation": {
+    "anim_type": "aseprite_flip_book",
+    "initial_uv": [ 0, 0 ]
+  },
+
+  "badge_and_caption": {
+    "type": "stack_panel",
+    "orientation": "vertical",
+    "size": [ "100%", "100%c" ],
+    "controls": [
+      {
+        "caption_and_padding": {
+          "type": "stack_panel",
+          "orientation": "horizontal",
+          "size": [ "100%", "100%c" ],
+          "layer": 14,
+          "controls": [
+            {
+              "pad@common.empty_panel": {
+                "size": [ 12, 1 ]
+              }
+            },
+            {
+              "caption@start.gathering_caption": {}
+            }
+          ]
+        }
+      },
+      {
+        "badge_and_padding": {
+          "type": "stack_panel",
+          "orientation": "horizontal",
+          "size": [ "100%", 30 ],
+          "controls": [
+            {
+              "badge@start.gathering_eerie_badge": {}
+            },
+            {
+              "fill@common.empty_panel": {
+                "size": [ "fill", "100%" ]
+              }
+            }
+          ],
+          "bindings": [
+            {
+              "binding_name": "#gathering_badge_visible",
+              "binding_name_override": "#visible"
+            }
+          ]
+        }
+      }
+    ]
+  }
+}

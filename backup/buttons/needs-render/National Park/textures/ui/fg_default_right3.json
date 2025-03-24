@@ -1,0 +1,542 @@
+{ "frames": [
+   {
+    "filename": "NATIONAL PARK 20241007 FINAL (DEFAULT FG) #DEFAULT 0.aseprite",
+    "frame": { "x": 0, "y": 0, "w": 40, "h": 60 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 40, "h": 60 },
+    "sourceSize": { "w": 40, "h": 60 },
+    "duration": 100
+   },
+   {
+    "filename": "NATIONAL PARK 20241007 FINAL (DEFAULT FG) #DEFAULT 1.aseprite",
+    "frame": { "x": 40, "y": 0, "w": 40, "h": 60 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 40, "h": 60 },
+    "sourceSize": { "w": 40, "h": 60 },
+    "duration": 100
+   },
+   {
+    "filename": "NATIONAL PARK 20241007 FINAL (DEFAULT FG) #DEFAULT 2.aseprite",
+    "frame": { "x": 80, "y": 0, "w": 40, "h": 60 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 40, "h": 60 },
+    "sourceSize": { "w": 40, "h": 60 },
+    "duration": 100
+   },
+   {
+    "filename": "NATIONAL PARK 20241007 FINAL (DEFAULT FG) #DEFAULT 3.aseprite",
+    "frame": { "x": 120, "y": 0, "w": 40, "h": 60 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 40, "h": 60 },
+    "sourceSize": { "w": 40, "h": 60 },
+    "duration": 100
+   },
+   {
+    "filename": "NATIONAL PARK 20241007 FINAL (DEFAULT FG) #DEFAULT 4.aseprite",
+    "frame": { "x": 160, "y": 0, "w": 40, "h": 60 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 40, "h": 60 },
+    "sourceSize": { "w": 40, "h": 60 },
+    "duration": 100
+   },
+   {
+    "filename": "NATIONAL PARK 20241007 FINAL (DEFAULT FG) #DEFAULT 5.aseprite",
+    "frame": { "x": 160, "y": 0, "w": 40, "h": 60 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 40, "h": 60 },
+    "sourceSize": { "w": 40, "h": 60 },
+    "duration": 100
+   },
+   {
+    "filename": "NATIONAL PARK 20241007 FINAL (DEFAULT FG) #DEFAULT 6.aseprite",
+    "frame": { "x": 200, "y": 0, "w": 40, "h": 60 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 40, "h": 60 },
+    "sourceSize": { "w": 40, "h": 60 },
+    "duration": 100
+   },
+   {
+    "filename": "NATIONAL PARK 20241007 FINAL (DEFAULT FG) #DEFAULT 7.aseprite",
+    "frame": { "x": 240, "y": 0, "w": 40, "h": 60 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 40, "h": 60 },
+    "sourceSize": { "w": 40, "h": 60 },
+    "duration": 100
+   },
+   {
+    "filename": "NATIONAL PARK 20241007 FINAL (DEFAULT FG) #DEFAULT 8.aseprite",
+    "frame": { "x": 280, "y": 0, "w": 40, "h": 60 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 40, "h": 60 },
+    "sourceSize": { "w": 40, "h": 60 },
+    "duration": 100
+   },
+   {
+    "filename": "NATIONAL PARK 20241007 FINAL (DEFAULT FG) #DEFAULT 9.aseprite",
+    "frame": { "x": 280, "y": 0, "w": 40, "h": 60 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 40, "h": 60 },
+    "sourceSize": { "w": 40, "h": 60 },
+    "duration": 100
+   },
+   {
+    "filename": "NATIONAL PARK 20241007 FINAL (DEFAULT FG) #DEFAULT 10.aseprite",
+    "frame": { "x": 320, "y": 0, "w": 40, "h": 60 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 40, "h": 60 },
+    "sourceSize": { "w": 40, "h": 60 },
+    "duration": 100
+   },
+   {
+    "filename": "NATIONAL PARK 20241007 FINAL (DEFAULT FG) #DEFAULT 11.aseprite",
+    "frame": { "x": 320, "y": 0, "w": 40, "h": 60 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 40, "h": 60 },
+    "sourceSize": { "w": 40, "h": 60 },
+    "duration": 100
+   },
+   {
+    "filename": "NATIONAL PARK 20241007 FINAL (DEFAULT FG) #DEFAULT 12.aseprite",
+    "frame": { "x": 360, "y": 0, "w": 40, "h": 60 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 40, "h": 60 },
+    "sourceSize": { "w": 40, "h": 60 },
+    "duration": 100
+   },
+   {
+    "filename": "NATIONAL PARK 20241007 FINAL (DEFAULT FG) #DEFAULT 13.aseprite",
+    "frame": { "x": 400, "y": 0, "w": 40, "h": 60 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 40, "h": 60 },
+    "sourceSize": { "w": 40, "h": 60 },
+    "duration": 100
+   },
+   {
+    "filename": "NATIONAL PARK 20241007 FINAL (DEFAULT FG) #DEFAULT 14.aseprite",
+    "frame": { "x": 440, "y": 0, "w": 40, "h": 60 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 40, "h": 60 },
+    "sourceSize": { "w": 40, "h": 60 },
+    "duration": 100
+   },
+   {
+    "filename": "NATIONAL PARK 20241007 FINAL (DEFAULT FG) #DEFAULT 15.aseprite",
+    "frame": { "x": 480, "y": 0, "w": 40, "h": 60 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 40, "h": 60 },
+    "sourceSize": { "w": 40, "h": 60 },
+    "duration": 100
+   },
+   {
+    "filename": "NATIONAL PARK 20241007 FINAL (DEFAULT FG) #DEFAULT 16.aseprite",
+    "frame": { "x": 520, "y": 0, "w": 40, "h": 60 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 40, "h": 60 },
+    "sourceSize": { "w": 40, "h": 60 },
+    "duration": 100
+   },
+   {
+    "filename": "NATIONAL PARK 20241007 FINAL (DEFAULT FG) #DEFAULT 17.aseprite",
+    "frame": { "x": 560, "y": 0, "w": 40, "h": 60 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 40, "h": 60 },
+    "sourceSize": { "w": 40, "h": 60 },
+    "duration": 100
+   },
+   {
+    "filename": "NATIONAL PARK 20241007 FINAL (DEFAULT FG) #DEFAULT 18.aseprite",
+    "frame": { "x": 600, "y": 0, "w": 40, "h": 60 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 40, "h": 60 },
+    "sourceSize": { "w": 40, "h": 60 },
+    "duration": 100
+   },
+   {
+    "filename": "NATIONAL PARK 20241007 FINAL (DEFAULT FG) #DEFAULT 19.aseprite",
+    "frame": { "x": 640, "y": 0, "w": 40, "h": 60 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 40, "h": 60 },
+    "sourceSize": { "w": 40, "h": 60 },
+    "duration": 100
+   },
+   {
+    "filename": "NATIONAL PARK 20241007 FINAL (DEFAULT FG) #DEFAULT 20.aseprite",
+    "frame": { "x": 680, "y": 0, "w": 40, "h": 60 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 40, "h": 60 },
+    "sourceSize": { "w": 40, "h": 60 },
+    "duration": 100
+   },
+   {
+    "filename": "NATIONAL PARK 20241007 FINAL (DEFAULT FG) #DEFAULT 21.aseprite",
+    "frame": { "x": 720, "y": 0, "w": 40, "h": 60 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 40, "h": 60 },
+    "sourceSize": { "w": 40, "h": 60 },
+    "duration": 100
+   },
+   {
+    "filename": "NATIONAL PARK 20241007 FINAL (DEFAULT FG) #DEFAULT 22.aseprite",
+    "frame": { "x": 760, "y": 0, "w": 40, "h": 60 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 40, "h": 60 },
+    "sourceSize": { "w": 40, "h": 60 },
+    "duration": 100
+   },
+   {
+    "filename": "NATIONAL PARK 20241007 FINAL (DEFAULT FG) #DEFAULT 23.aseprite",
+    "frame": { "x": 800, "y": 0, "w": 40, "h": 60 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 40, "h": 60 },
+    "sourceSize": { "w": 40, "h": 60 },
+    "duration": 100
+   },
+   {
+    "filename": "NATIONAL PARK 20241007 FINAL (DEFAULT FG) #DEFAULT 24.aseprite",
+    "frame": { "x": 840, "y": 0, "w": 40, "h": 60 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 40, "h": 60 },
+    "sourceSize": { "w": 40, "h": 60 },
+    "duration": 100
+   },
+   {
+    "filename": "NATIONAL PARK 20241007 FINAL (DEFAULT FG) #DEFAULT 25.aseprite",
+    "frame": { "x": 880, "y": 0, "w": 40, "h": 60 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 40, "h": 60 },
+    "sourceSize": { "w": 40, "h": 60 },
+    "duration": 100
+   },
+   {
+    "filename": "NATIONAL PARK 20241007 FINAL (DEFAULT FG) #DEFAULT 26.aseprite",
+    "frame": { "x": 920, "y": 0, "w": 40, "h": 60 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 40, "h": 60 },
+    "sourceSize": { "w": 40, "h": 60 },
+    "duration": 100
+   },
+   {
+    "filename": "NATIONAL PARK 20241007 FINAL (DEFAULT FG) #DEFAULT 27.aseprite",
+    "frame": { "x": 960, "y": 0, "w": 40, "h": 60 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 40, "h": 60 },
+    "sourceSize": { "w": 40, "h": 60 },
+    "duration": 100
+   },
+   {
+    "filename": "NATIONAL PARK 20241007 FINAL (DEFAULT FG) #DEFAULT 28.aseprite",
+    "frame": { "x": 1000, "y": 0, "w": 40, "h": 60 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 40, "h": 60 },
+    "sourceSize": { "w": 40, "h": 60 },
+    "duration": 100
+   },
+   {
+    "filename": "NATIONAL PARK 20241007 FINAL (DEFAULT FG) #DEFAULT 29.aseprite",
+    "frame": { "x": 1040, "y": 0, "w": 40, "h": 60 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 40, "h": 60 },
+    "sourceSize": { "w": 40, "h": 60 },
+    "duration": 100
+   },
+   {
+    "filename": "NATIONAL PARK 20241007 FINAL (DEFAULT FG) #DEFAULT 30.aseprite",
+    "frame": { "x": 1080, "y": 0, "w": 40, "h": 60 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 40, "h": 60 },
+    "sourceSize": { "w": 40, "h": 60 },
+    "duration": 100
+   },
+   {
+    "filename": "NATIONAL PARK 20241007 FINAL (DEFAULT FG) #DEFAULT 31.aseprite",
+    "frame": { "x": 1120, "y": 0, "w": 40, "h": 60 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 40, "h": 60 },
+    "sourceSize": { "w": 40, "h": 60 },
+    "duration": 100
+   },
+   {
+    "filename": "NATIONAL PARK 20241007 FINAL (DEFAULT FG) #DEFAULT 32.aseprite",
+    "frame": { "x": 1160, "y": 0, "w": 40, "h": 60 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 40, "h": 60 },
+    "sourceSize": { "w": 40, "h": 60 },
+    "duration": 100
+   },
+   {
+    "filename": "NATIONAL PARK 20241007 FINAL (DEFAULT FG) #DEFAULT 33.aseprite",
+    "frame": { "x": 1200, "y": 0, "w": 40, "h": 60 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 40, "h": 60 },
+    "sourceSize": { "w": 40, "h": 60 },
+    "duration": 100
+   },
+   {
+    "filename": "NATIONAL PARK 20241007 FINAL (DEFAULT FG) #DEFAULT 34.aseprite",
+    "frame": { "x": 1240, "y": 0, "w": 40, "h": 60 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 40, "h": 60 },
+    "sourceSize": { "w": 40, "h": 60 },
+    "duration": 100
+   },
+   {
+    "filename": "NATIONAL PARK 20241007 FINAL (DEFAULT FG) #DEFAULT 35.aseprite",
+    "frame": { "x": 1280, "y": 0, "w": 40, "h": 60 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 40, "h": 60 },
+    "sourceSize": { "w": 40, "h": 60 },
+    "duration": 100
+   },
+   {
+    "filename": "NATIONAL PARK 20241007 FINAL (DEFAULT FG) #DEFAULT 36.aseprite",
+    "frame": { "x": 1320, "y": 0, "w": 40, "h": 60 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 40, "h": 60 },
+    "sourceSize": { "w": 40, "h": 60 },
+    "duration": 100
+   },
+   {
+    "filename": "NATIONAL PARK 20241007 FINAL (DEFAULT FG) #DEFAULT 37.aseprite",
+    "frame": { "x": 1360, "y": 0, "w": 40, "h": 60 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 40, "h": 60 },
+    "sourceSize": { "w": 40, "h": 60 },
+    "duration": 100
+   },
+   {
+    "filename": "NATIONAL PARK 20241007 FINAL (DEFAULT FG) #DEFAULT 38.aseprite",
+    "frame": { "x": 1400, "y": 0, "w": 40, "h": 60 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 40, "h": 60 },
+    "sourceSize": { "w": 40, "h": 60 },
+    "duration": 100
+   },
+   {
+    "filename": "NATIONAL PARK 20241007 FINAL (DEFAULT FG) #DEFAULT 39.aseprite",
+    "frame": { "x": 1440, "y": 0, "w": 40, "h": 60 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 40, "h": 60 },
+    "sourceSize": { "w": 40, "h": 60 },
+    "duration": 100
+   },
+   {
+    "filename": "NATIONAL PARK 20241007 FINAL (DEFAULT FG) #DEFAULT 40.aseprite",
+    "frame": { "x": 1480, "y": 0, "w": 40, "h": 60 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 40, "h": 60 },
+    "sourceSize": { "w": 40, "h": 60 },
+    "duration": 100
+   },
+   {
+    "filename": "NATIONAL PARK 20241007 FINAL (DEFAULT FG) #DEFAULT 41.aseprite",
+    "frame": { "x": 1520, "y": 0, "w": 40, "h": 60 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 40, "h": 60 },
+    "sourceSize": { "w": 40, "h": 60 },
+    "duration": 100
+   },
+   {
+    "filename": "NATIONAL PARK 20241007 FINAL (DEFAULT FG) #DEFAULT 42.aseprite",
+    "frame": { "x": 1560, "y": 0, "w": 40, "h": 60 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 40, "h": 60 },
+    "sourceSize": { "w": 40, "h": 60 },
+    "duration": 100
+   },
+   {
+    "filename": "NATIONAL PARK 20241007 FINAL (DEFAULT FG) #DEFAULT 43.aseprite",
+    "frame": { "x": 1600, "y": 0, "w": 40, "h": 60 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 40, "h": 60 },
+    "sourceSize": { "w": 40, "h": 60 },
+    "duration": 100
+   },
+   {
+    "filename": "NATIONAL PARK 20241007 FINAL (DEFAULT FG) #DEFAULT 44.aseprite",
+    "frame": { "x": 160, "y": 0, "w": 40, "h": 60 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 40, "h": 60 },
+    "sourceSize": { "w": 40, "h": 60 },
+    "duration": 100
+   },
+   {
+    "filename": "NATIONAL PARK 20241007 FINAL (DEFAULT FG) #DEFAULT 45.aseprite",
+    "frame": { "x": 200, "y": 0, "w": 40, "h": 60 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 40, "h": 60 },
+    "sourceSize": { "w": 40, "h": 60 },
+    "duration": 100
+   },
+   {
+    "filename": "NATIONAL PARK 20241007 FINAL (DEFAULT FG) #DEFAULT 46.aseprite",
+    "frame": { "x": 200, "y": 0, "w": 40, "h": 60 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 40, "h": 60 },
+    "sourceSize": { "w": 40, "h": 60 },
+    "duration": 100
+   },
+   {
+    "filename": "NATIONAL PARK 20241007 FINAL (DEFAULT FG) #DEFAULT 47.aseprite",
+    "frame": { "x": 1640, "y": 0, "w": 40, "h": 60 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 40, "h": 60 },
+    "sourceSize": { "w": 40, "h": 60 },
+    "duration": 100
+   },
+   {
+    "filename": "NATIONAL PARK 20241007 FINAL (DEFAULT FG) #DEFAULT 48.aseprite",
+    "frame": { "x": 80, "y": 0, "w": 40, "h": 60 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 40, "h": 60 },
+    "sourceSize": { "w": 40, "h": 60 },
+    "duration": 100
+   },
+   {
+    "filename": "NATIONAL PARK 20241007 FINAL (DEFAULT FG) #DEFAULT 49.aseprite",
+    "frame": { "x": 80, "y": 0, "w": 40, "h": 60 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 40, "h": 60 },
+    "sourceSize": { "w": 40, "h": 60 },
+    "duration": 100
+   },
+   {
+    "filename": "NATIONAL PARK 20241007 FINAL (DEFAULT FG) #DEFAULT 50.aseprite",
+    "frame": { "x": 1680, "y": 0, "w": 40, "h": 60 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 40, "h": 60 },
+    "sourceSize": { "w": 40, "h": 60 },
+    "duration": 100
+   },
+   {
+    "filename": "NATIONAL PARK 20241007 FINAL (DEFAULT FG) #DEFAULT 51.aseprite",
+    "frame": { "x": 1680, "y": 0, "w": 40, "h": 60 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 40, "h": 60 },
+    "sourceSize": { "w": 40, "h": 60 },
+    "duration": 100
+   },
+   {
+    "filename": "NATIONAL PARK 20241007 FINAL (DEFAULT FG) #DEFAULT 52.aseprite",
+    "frame": { "x": 1720, "y": 0, "w": 40, "h": 60 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 40, "h": 60 },
+    "sourceSize": { "w": 40, "h": 60 },
+    "duration": 100
+   },
+   {
+    "filename": "NATIONAL PARK 20241007 FINAL (DEFAULT FG) #DEFAULT 53.aseprite",
+    "frame": { "x": 1720, "y": 0, "w": 40, "h": 60 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 40, "h": 60 },
+    "sourceSize": { "w": 40, "h": 60 },
+    "duration": 100
+   },
+   {
+    "filename": "NATIONAL PARK 20241007 FINAL (DEFAULT FG) #DEFAULT 54.aseprite",
+    "frame": { "x": 40, "y": 0, "w": 40, "h": 60 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 40, "h": 60 },
+    "sourceSize": { "w": 40, "h": 60 },
+    "duration": 100
+   },
+   {
+    "filename": "NATIONAL PARK 20241007 FINAL (DEFAULT FG) #DEFAULT 55.aseprite",
+    "frame": { "x": 40, "y": 0, "w": 40, "h": 60 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 40, "h": 60 },
+    "sourceSize": { "w": 40, "h": 60 },
+    "duration": 100
+   },
+   {
+    "filename": "NATIONAL PARK 20241007 FINAL (DEFAULT FG) #DEFAULT 56.aseprite",
+    "frame": { "x": 80, "y": 0, "w": 40, "h": 60 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 40, "h": 60 },
+    "sourceSize": { "w": 40, "h": 60 },
+    "duration": 100
+   },
+   {
+    "filename": "NATIONAL PARK 20241007 FINAL (DEFAULT FG) #DEFAULT 57.aseprite",
+    "frame": { "x": 80, "y": 0, "w": 40, "h": 60 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 40, "h": 60 },
+    "sourceSize": { "w": 40, "h": 60 },
+    "duration": 100
+   },
+   {
+    "filename": "NATIONAL PARK 20241007 FINAL (DEFAULT FG) #DEFAULT 58.aseprite",
+    "frame": { "x": 1760, "y": 0, "w": 40, "h": 60 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 40, "h": 60 },
+    "sourceSize": { "w": 40, "h": 60 },
+    "duration": 100
+   }
+ ],
+ "meta": {
+  "app": "https://www.aseprite.org/",
+  "version": "1.3.8.1-x64",
+  "image": "fg_default_right3.png",
+  "format": "RGBA8888",
+  "size": { "w": 1800, "h": 60 },
+  "scale": "1"
+ }
+}

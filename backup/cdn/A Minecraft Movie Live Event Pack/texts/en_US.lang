@@ -1,0 +1,26 @@
+### Start Screen Buttons Countdown
+
+gathering.start_screen.countdown.button=Movie Event	###{MaxLength=19}This is a button that the player presses to start an event on the homescreen
+
+### Start Screen Buttons During
+
+gathering.start_screen.during.button=Play Movie Event	###{MaxLength=19}This is a button that the player presses to start an event on the homescreen
+
+### PDP Buttons Countdown
+
+gathering.info.countdown.action_button=Read More	###{MaxLength=30}The player presses this button to read more about the event.
+gathering.info.countdown.info_button=Movie Info	###{MaxLength=30}The player presses this button to read more about the movie.
+
+### PDP Buttons During
+
+gathering.info.during.action_button=Play Now!	###{MaxLength=30}Pressing this button allows the player to vote.
+gathering.info.during.info_button=Read More	###{MaxLength=30}The player presses this button to read more about the event.
+
+### Client Outdated
+gathering.info.body.update=Update to the latest version to access this Live Event.	###{MaxLength=300}An updated version of Minecraft is required for the user to join this event
+gathering.info.button.update=Update Required	###{MaxLength=30}An updated version of Minecraft is required for the user to proceed
+
+### PDP
+gathering.info.header=A Minecraft Movie Live Event	###{MaxLength=60}This is the name of the event. A Minecraft Movie is the name. Live Event is the type of event
+gathering.info.title=A Minecraft Movie Live Event!	###{MaxLength=60}This is the name of the event. A Minecraft Movie is the name. Live Event is the type of event
+gathering.info.body=Join Steve & his companions at Midport Village to help defend against the piglin invasion!~LINEBREAK~~LINEBREAK~Jump into this evolving live event and play games to upgrade your gear and bolster village defenses. Complete challenges to earn rewards and finish them all to earn the Movie Cape!~LINEBREAK~~LINEBREAK~A Minecraft Movie Live Event starts here on March 25th 2:00 PM PT and runs until April 7th 2:00 PM PT.	###{MaxLength=1000}{StrContains=~LINEBREAK~}Midport is the name of the Village. piglin is a character in the Minecraft game. Movie Cape is the name of a reward the player can earn. The date and time should remain in Pacific Time.

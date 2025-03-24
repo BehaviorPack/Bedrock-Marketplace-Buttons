@@ -1,0 +1,47 @@
+{ "frames": [
+   {
+    "filename": "0.ase",
+    "frame": { "x": 0, "y": 0, "w": 24, "h": 19 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 24, "h": 19 },
+    "sourceSize": { "w": 24, "h": 19 },
+    "duration": 200
+   },
+   {
+    "filename": "1.ase",
+    "frame": { "x": 24, "y": 0, "w": 24, "h": 19 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 24, "h": 19 },
+    "sourceSize": { "w": 24, "h": 19 },
+    "duration": 200
+   },
+   {
+    "filename": "2.ase",
+    "frame": { "x": 0, "y": 0, "w": 24, "h": 19 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 24, "h": 19 },
+    "sourceSize": { "w": 24, "h": 19 },
+    "duration": 200
+   },
+   {
+    "filename": "3.ase",
+    "frame": { "x": 24, "y": 0, "w": 24, "h": 19 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 24, "h": 19 },
+    "sourceSize": { "w": 24, "h": 19 },
+    "duration": 200
+   }
+ ],
+ "meta": {
+  "app": "https://www.aseprite.org/",
+  "version": "1.3-beta21-x64",
+  "image": "Allay_Hover.png",
+  "format": "RGBA8888",
+  "size": { "w": 48, "h": 19 },
+  "scale": "1"
+ }
+}

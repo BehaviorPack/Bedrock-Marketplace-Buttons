@@ -1,0 +1,25 @@
+{
+"content" : [
+    { "path" : "contents.json" },
+    { "path" : "textures" },
+    { "path" : "textures/ui" },
+    { "path" : "ui" },
+    { "path" : "ui/start_screen.json" },
+    { "path" : "manifest.json" },
+    { "path" : "textures/ui/BG.json" },
+    { "path" : "textures/ui/BG.png" },
+    { "path" : "textures/ui/Clouds.json" },
+    { "path" : "textures/ui/Clouds.png" },
+    { "path" : "textures/ui/BG_hover.json" },
+    { "path" : "textures/ui/BG_hover.png" },
+    { "path" : "textures/ui/Computer.json" },
+    { "path" : "textures/ui/Computer.png" },
+    { "path" : "textures/ui/Skins.json" },
+    { "path" : "textures/ui/Skins.png" },
+    { "path" : "textures/ui/Jumping.json" },
+    { "path" : "textures/ui/Jumping.png" },
+    { "path" : "textures/ui/Sleeping.json" },
+    { "path" : "textures/ui/Sleeping.png" }
+],
+"version" : 1
+}

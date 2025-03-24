@@ -1,0 +1,26 @@
+﻿### Start Screen Buttons Countdown
+
+gathering.start_screen.countdown.button=Film Etkinliği	###{MaxLength=19}This is a button that the player presses to start an event on the homescreen
+
+### Start Screen Buttons During
+
+gathering.start_screen.during.button=Etkinliği Oynayın	###{MaxLength=19}This is a button that the player presses to start an event on the homescreen
+
+### PDP Buttons Countdown
+
+gathering.info.countdown.action_button=Daha Fazla Bilgi	###{MaxLength=30}The player presses this button to read more about the event.
+gathering.info.countdown.info_button=Film Bilgileri	###{MaxLength=30}The player presses this button to read more about the movie.
+
+### PDP Buttons During
+
+gathering.info.during.action_button=Şimdi Oynayın!	###{MaxLength=30}Pressing this button allows the player to vote.
+gathering.info.during.info_button=Daha Fazla Bilgi	###{MaxLength=30}The player presses this button to read more about the event.
+
+### Client Outdated
+gathering.info.body.update=Bu Canlı Etkinliğe erişmek için en son sürüme güncelleme yapın.	###{MaxLength=300}An updated version of Minecraft is required for the user to join this event
+gathering.info.button.update=Güncelleme Gerekli	###{MaxLength=30}An updated version of Minecraft is required for the user to proceed
+
+### PDP
+gathering.info.header=Bir Minecraft Filmi Canlı Etkinliği	###{MaxLength=60}This is the name of the event. A Minecraft Movie is the name. Live Event is the type of event
+gathering.info.title=Bir Minecraft Filmi Canlı Etkinliği!	###{MaxLength=60}This is the name of the event. A Minecraft Movie is the name. Live Event is the type of event
+gathering.info.body=Piglin istilasına karşı savunmaya yardım etmek için Midport Köyü'nde Steve ve arkadaşlarına katılın!~LINEBREAK~~LINEBREAK~Bu gelişen canlı etkinliğe katılın ve ekipmanınızı yükseltip köy savunmasını güçlendirmek için oyunlar oynayın. Ödüller kazanmak için meydan okumaları tamamlayın ve Film Pelerini'ni almak için hepsini bitirin!~LINEBREAK~~LINEBREAK~Bir Minecraft Filmi Canlı Etkinliği, 26 Mart 01.00'de başlayacak ve 8 Nisan 01.00'e kadar devam edecek.	###{MaxLength=1000}{StrContains=~LINEBREAK~}Midport is the name of the Village. piglin is a character in the Minecraft game. Movie Cape is the name of a reward the player can earn. The date and time should remain in Pacific Time.

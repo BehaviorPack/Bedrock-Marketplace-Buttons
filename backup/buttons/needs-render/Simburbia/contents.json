@@ -1,0 +1,65 @@
+{
+"content" : [
+{
+"path" : "contents.json"
+},
+{
+"path" : "textures"
+},
+{
+"path" : "textures/ui"
+},
+{
+"path" : "ui"
+},
+{
+"path" : "ui/start_screen.json"
+},
+{
+"path" : "manifest.json"
+},
+{
+"path" : "textures/ui/right1-sheet.json"
+},
+{
+"path" : "textures/ui/right1-sheet.png"
+},
+{
+"path" : "textures/ui/right2-sheet.json"
+},
+{
+"path" : "textures/ui/right2-sheet.png"
+},
+{
+"path" : "textures/ui/left1-sheet.json"
+},
+{
+"path" : "textures/ui/left1-sheet.png"
+},
+{
+"path" : "textures/ui/left2-sheet.json"
+},
+{
+"path" : "textures/ui/left2-sheet.png"
+},
+{
+"path" : "textures/ui/treatment_button_borderless_light.json"
+},
+{
+"path" : "textures/ui/treatment_button_borderless_light.png"
+},
+{
+"path" : "textures/ui/treatment_button_borderless_lighthover.json"
+},
+{
+"path" : "textures/ui/treatment_button_borderless_lighthover.png"
+},
+{
+"path" : "textures/ui/treatment_button_borderless_lightpressed.json"
+},
+{
+"path" : "textures/ui/treatment_button_borderless_lightpressed.png"
+}
+],
+"version" : 1
+}

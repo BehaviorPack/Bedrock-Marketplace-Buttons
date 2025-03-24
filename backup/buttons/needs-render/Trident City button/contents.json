@@ -1,0 +1,23 @@
+{
+"content" : [
+    { "path" : "contents.json" },
+    { "path" : "textures" },
+    { "path" : "textures/ui" },
+    { "path" : "ui" },
+    { "path" : "ui/start_screen.json" },
+    { "path" : "manifest.json" },
+    { "path" : "textures/ui/BG_Default.json" },
+    { "path" : "textures/ui/BG_Default.png" },
+    { "path" : "textures/ui/BG_Hover.json" },
+    { "path" : "textures/ui/BG_Hover.png" },
+    { "path" : "textures/ui/SaleBanner.json" },
+    { "path" : "textures/ui/SaleBanner.png" },
+    { "path" : "textures/ui/Whale.json" },
+    { "path" : "textures/ui/Whale.png" },
+    { "path" : "textures/ui/Right.json" },
+    { "path" : "textures/ui/Right.png" },
+    { "path" : "textures/ui/Left.json" },
+    { "path" : "textures/ui/Left.png" }
+],
+"version" : 1
+}

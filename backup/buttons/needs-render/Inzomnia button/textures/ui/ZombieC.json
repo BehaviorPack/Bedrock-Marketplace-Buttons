@@ -1,0 +1,65 @@
+{ "frames": [
+   {
+    "filename": "0.aseprite",
+    "frame": { "x": 0, "y": 0, "w": 42, "h": 40 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 42, "h": 40 },
+    "sourceSize": { "w": 42, "h": 40 },
+    "duration": 120
+   },
+   {
+    "filename": "1.aseprite",
+    "frame": { "x": 42, "y": 0, "w": 42, "h": 40 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 42, "h": 40 },
+    "sourceSize": { "w": 42, "h": 40 },
+    "duration": 120
+   },
+   {
+    "filename": "2.aseprite",
+    "frame": { "x": 84, "y": 0, "w": 42, "h": 40 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 42, "h": 40 },
+    "sourceSize": { "w": 42, "h": 40 },
+    "duration": 120
+   },
+   {
+    "filename": "3.aseprite",
+    "frame": { "x": 126, "y": 0, "w": 42, "h": 40 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 42, "h": 40 },
+    "sourceSize": { "w": 42, "h": 40 },
+    "duration": 120
+   },
+   {
+    "filename": "4.aseprite",
+    "frame": { "x": 168, "y": 0, "w": 42, "h": 40 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 42, "h": 40 },
+    "sourceSize": { "w": 42, "h": 40 },
+    "duration": 120
+   },
+   {
+    "filename": "5.aseprite",
+    "frame": { "x": 210, "y": 0, "w": 42, "h": 40 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 42, "h": 40 },
+    "sourceSize": { "w": 42, "h": 40 },
+    "duration": 120
+   }
+ ],
+ "meta": {
+  "app": "http://www.aseprite.org/",
+  "version": "1.2.29-x64",
+  "image": "ZombieC.png",
+  "format": "RGBA8888",
+  "size": { "w": 252, "h": 40 },
+  "scale": "1"
+ }
+}

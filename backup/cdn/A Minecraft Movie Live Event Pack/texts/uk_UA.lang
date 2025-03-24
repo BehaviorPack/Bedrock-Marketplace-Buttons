@@ -1,0 +1,26 @@
+﻿### Start Screen Buttons Countdown
+
+gathering.start_screen.countdown.button=Кіноподія	###{MaxLength=19}This is a button that the player presses to start an event on the homescreen
+
+### Start Screen Buttons During
+
+gathering.start_screen.during.button=Показати кіноподію	###{MaxLength=19}This is a button that the player presses to start an event on the homescreen
+
+### PDP Buttons Countdown
+
+gathering.info.countdown.action_button=Читати далі	###{MaxLength=30}The player presses this button to read more about the event.
+gathering.info.countdown.info_button=Інформація про фільм	###{MaxLength=30}The player presses this button to read more about the movie.
+
+### PDP Buttons During
+
+gathering.info.during.action_button=Грайте зараз!	###{MaxLength=30}Pressing this button allows the player to vote.
+gathering.info.during.info_button=Читати далі	###{MaxLength=30}The player presses this button to read more about the event.
+
+### Client Outdated
+gathering.info.body.update=Установіть останнє оновлення, щоб отримати доступ до цієї події в прямому ефірі.	###{MaxLength=300}An updated version of Minecraft is required for the user to join this event
+gathering.info.button.update=Потрібно оновлення	###{MaxLength=30}An updated version of Minecraft is required for the user to proceed
+
+### PDP
+gathering.info.header=Подія «Minecraft: Фільм» у прямому ефірі	###{MaxLength=60}This is the name of the event. A Minecraft Movie is the name. Live Event is the type of event
+gathering.info.title=Подія «Minecraft: Фільм» у прямому ефірі!	###{MaxLength=60}This is the name of the event. A Minecraft Movie is the name. Live Event is the type of event
+gathering.info.body=Приєднуйтеся до Стіва та його товаришів у Селищі Мідпорт, щоб допомогти захиститися від вторгнення піґлінів!~LINEBREAK~~LINEBREAK~Пориньте в цю динамічну подію наживо та грайте в ігри, щоб покращити своє спорядження та зміцнити оборону села. Виконуйте завдання, щоб отримати нагороди, а ще пройдіть їх усі, щоб заробити Кіноплащ!~LINEBREAK~~LINEBREAK~Подія наживо «Minecraft: Фільм» розпочнеться тут 25 березня о 14:00 (PT) і триватиме до 7 квітня 14:00 (PT).	###{MaxLength=1000}{StrContains=~LINEBREAK~}Midport is the name of the Village. piglin is a character in the Minecraft game. Movie Cape is the name of a reward the player can earn. The date and time should remain in Pacific Time.

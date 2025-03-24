@@ -1,0 +1,65 @@
+{ "frames": [
+   {
+    "filename": "0.aseprite",
+    "frame": { "x": 0, "y": 0, "w": 58, "h": 66 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 58, "h": 66 },
+    "sourceSize": { "w": 58, "h": 66 },
+    "duration": 140
+   },
+   {
+    "filename": "1.aseprite",
+    "frame": { "x": 58, "y": 0, "w": 58, "h": 66 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 58, "h": 66 },
+    "sourceSize": { "w": 58, "h": 66 },
+    "duration": 140
+   },
+   {
+    "filename": "2.aseprite",
+    "frame": { "x": 116, "y": 0, "w": 58, "h": 66 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 58, "h": 66 },
+    "sourceSize": { "w": 58, "h": 66 },
+    "duration": 140
+   },
+   {
+    "filename": "3.aseprite",
+    "frame": { "x": 174, "y": 0, "w": 58, "h": 66 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 58, "h": 66 },
+    "sourceSize": { "w": 58, "h": 66 },
+    "duration": 140
+   },
+   {
+    "filename": "4.aseprite",
+    "frame": { "x": 232, "y": 0, "w": 58, "h": 66 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 58, "h": 66 },
+    "sourceSize": { "w": 58, "h": 66 },
+    "duration": 140
+   },
+   {
+    "filename": "5.aseprite",
+    "frame": { "x": 290, "y": 0, "w": 58, "h": 66 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 58, "h": 66 },
+    "sourceSize": { "w": 58, "h": 66 },
+    "duration": 140
+   }
+ ],
+ "meta": {
+  "app": "http://www.aseprite.org/",
+  "version": "1.2.29-x64",
+  "image": "Sagat.png",
+  "format": "RGBA8888",
+  "size": { "w": 348, "h": 66 },
+  "scale": "1"
+ }
+}

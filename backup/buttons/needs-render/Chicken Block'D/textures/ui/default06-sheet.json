@@ -1,0 +1,673 @@
+{ "frames": [
+   {
+    "filename": "Chicken Block'D_default bu 0.aseprite",
+    "frame": { "x": 0, "y": 0, "w": 22, "h": 36 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 20, "h": 34 },
+    "sourceSize": { "w": 20, "h": 34 },
+    "duration": 100
+   },
+   {
+    "filename": "Chicken Block'D_default bu 1.aseprite",
+    "frame": { "x": 0, "y": 0, "w": 22, "h": 36 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 20, "h": 34 },
+    "sourceSize": { "w": 20, "h": 34 },
+    "duration": 100
+   },
+   {
+    "filename": "Chicken Block'D_default bu 2.aseprite",
+    "frame": { "x": 0, "y": 0, "w": 22, "h": 36 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 20, "h": 34 },
+    "sourceSize": { "w": 20, "h": 34 },
+    "duration": 100
+   },
+   {
+    "filename": "Chicken Block'D_default bu 3.aseprite",
+    "frame": { "x": 0, "y": 0, "w": 22, "h": 36 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 20, "h": 34 },
+    "sourceSize": { "w": 20, "h": 34 },
+    "duration": 100
+   },
+   {
+    "filename": "Chicken Block'D_default bu 4.aseprite",
+    "frame": { "x": 0, "y": 0, "w": 22, "h": 36 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 20, "h": 34 },
+    "sourceSize": { "w": 20, "h": 34 },
+    "duration": 100
+   },
+   {
+    "filename": "Chicken Block'D_default bu 5.aseprite",
+    "frame": { "x": 0, "y": 0, "w": 22, "h": 36 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 20, "h": 34 },
+    "sourceSize": { "w": 20, "h": 34 },
+    "duration": 100
+   },
+   {
+    "filename": "Chicken Block'D_default bu 6.aseprite",
+    "frame": { "x": 0, "y": 0, "w": 22, "h": 36 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 20, "h": 34 },
+    "sourceSize": { "w": 20, "h": 34 },
+    "duration": 100
+   },
+   {
+    "filename": "Chicken Block'D_default bu 7.aseprite",
+    "frame": { "x": 0, "y": 0, "w": 22, "h": 36 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 20, "h": 34 },
+    "sourceSize": { "w": 20, "h": 34 },
+    "duration": 100
+   },
+   {
+    "filename": "Chicken Block'D_default bu 8.aseprite",
+    "frame": { "x": 0, "y": 0, "w": 22, "h": 36 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 20, "h": 34 },
+    "sourceSize": { "w": 20, "h": 34 },
+    "duration": 100
+   },
+   {
+    "filename": "Chicken Block'D_default bu 9.aseprite",
+    "frame": { "x": 0, "y": 0, "w": 22, "h": 36 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 20, "h": 34 },
+    "sourceSize": { "w": 20, "h": 34 },
+    "duration": 100
+   },
+   {
+    "filename": "Chicken Block'D_default bu 10.aseprite",
+    "frame": { "x": 0, "y": 0, "w": 22, "h": 36 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 20, "h": 34 },
+    "sourceSize": { "w": 20, "h": 34 },
+    "duration": 100
+   },
+   {
+    "filename": "Chicken Block'D_default bu 11.aseprite",
+    "frame": { "x": 0, "y": 0, "w": 22, "h": 36 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 20, "h": 34 },
+    "sourceSize": { "w": 20, "h": 34 },
+    "duration": 100
+   },
+   {
+    "filename": "Chicken Block'D_default bu 12.aseprite",
+    "frame": { "x": 0, "y": 0, "w": 22, "h": 36 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 20, "h": 34 },
+    "sourceSize": { "w": 20, "h": 34 },
+    "duration": 100
+   },
+   {
+    "filename": "Chicken Block'D_default bu 13.aseprite",
+    "frame": { "x": 0, "y": 0, "w": 22, "h": 36 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 20, "h": 34 },
+    "sourceSize": { "w": 20, "h": 34 },
+    "duration": 100
+   },
+   {
+    "filename": "Chicken Block'D_default bu 14.aseprite",
+    "frame": { "x": 0, "y": 0, "w": 22, "h": 36 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 20, "h": 34 },
+    "sourceSize": { "w": 20, "h": 34 },
+    "duration": 100
+   },
+   {
+    "filename": "Chicken Block'D_default bu 15.aseprite",
+    "frame": { "x": 0, "y": 0, "w": 22, "h": 36 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 20, "h": 34 },
+    "sourceSize": { "w": 20, "h": 34 },
+    "duration": 100
+   },
+   {
+    "filename": "Chicken Block'D_default bu 16.aseprite",
+    "frame": { "x": 0, "y": 0, "w": 22, "h": 36 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 20, "h": 34 },
+    "sourceSize": { "w": 20, "h": 34 },
+    "duration": 100
+   },
+   {
+    "filename": "Chicken Block'D_default bu 17.aseprite",
+    "frame": { "x": 0, "y": 0, "w": 22, "h": 36 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 20, "h": 34 },
+    "sourceSize": { "w": 20, "h": 34 },
+    "duration": 100
+   },
+   {
+    "filename": "Chicken Block'D_default bu 18.aseprite",
+    "frame": { "x": 0, "y": 0, "w": 22, "h": 36 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 20, "h": 34 },
+    "sourceSize": { "w": 20, "h": 34 },
+    "duration": 100
+   },
+   {
+    "filename": "Chicken Block'D_default bu 19.aseprite",
+    "frame": { "x": 0, "y": 0, "w": 22, "h": 36 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 20, "h": 34 },
+    "sourceSize": { "w": 20, "h": 34 },
+    "duration": 100
+   },
+   {
+    "filename": "Chicken Block'D_default bu 20.aseprite",
+    "frame": { "x": 0, "y": 0, "w": 22, "h": 36 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 20, "h": 34 },
+    "sourceSize": { "w": 20, "h": 34 },
+    "duration": 100
+   },
+   {
+    "filename": "Chicken Block'D_default bu 21.aseprite",
+    "frame": { "x": 0, "y": 0, "w": 22, "h": 36 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 20, "h": 34 },
+    "sourceSize": { "w": 20, "h": 34 },
+    "duration": 100
+   },
+   {
+    "filename": "Chicken Block'D_default bu 22.aseprite",
+    "frame": { "x": 0, "y": 0, "w": 22, "h": 36 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 20, "h": 34 },
+    "sourceSize": { "w": 20, "h": 34 },
+    "duration": 100
+   },
+   {
+    "filename": "Chicken Block'D_default bu 23.aseprite",
+    "frame": { "x": 0, "y": 0, "w": 22, "h": 36 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 20, "h": 34 },
+    "sourceSize": { "w": 20, "h": 34 },
+    "duration": 100
+   },
+   {
+    "filename": "Chicken Block'D_default bu 24.aseprite",
+    "frame": { "x": 0, "y": 0, "w": 22, "h": 36 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 20, "h": 34 },
+    "sourceSize": { "w": 20, "h": 34 },
+    "duration": 100
+   },
+   {
+    "filename": "Chicken Block'D_default bu 25.aseprite",
+    "frame": { "x": 0, "y": 0, "w": 22, "h": 36 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 20, "h": 34 },
+    "sourceSize": { "w": 20, "h": 34 },
+    "duration": 100
+   },
+   {
+    "filename": "Chicken Block'D_default bu 26.aseprite",
+    "frame": { "x": 0, "y": 0, "w": 22, "h": 36 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 20, "h": 34 },
+    "sourceSize": { "w": 20, "h": 34 },
+    "duration": 100
+   },
+   {
+    "filename": "Chicken Block'D_default bu 27.aseprite",
+    "frame": { "x": 0, "y": 0, "w": 22, "h": 36 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 20, "h": 34 },
+    "sourceSize": { "w": 20, "h": 34 },
+    "duration": 100
+   },
+   {
+    "filename": "Chicken Block'D_default bu 28.aseprite",
+    "frame": { "x": 0, "y": 0, "w": 22, "h": 36 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 20, "h": 34 },
+    "sourceSize": { "w": 20, "h": 34 },
+    "duration": 100
+   },
+   {
+    "filename": "Chicken Block'D_default bu 29.aseprite",
+    "frame": { "x": 0, "y": 0, "w": 22, "h": 36 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 20, "h": 34 },
+    "sourceSize": { "w": 20, "h": 34 },
+    "duration": 100
+   },
+   {
+    "filename": "Chicken Block'D_default bu 30.aseprite",
+    "frame": { "x": 0, "y": 0, "w": 22, "h": 36 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 20, "h": 34 },
+    "sourceSize": { "w": 20, "h": 34 },
+    "duration": 100
+   },
+   {
+    "filename": "Chicken Block'D_default bu 31.aseprite",
+    "frame": { "x": 0, "y": 0, "w": 22, "h": 36 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 20, "h": 34 },
+    "sourceSize": { "w": 20, "h": 34 },
+    "duration": 100
+   },
+   {
+    "filename": "Chicken Block'D_default bu 32.aseprite",
+    "frame": { "x": 0, "y": 0, "w": 22, "h": 36 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 20, "h": 34 },
+    "sourceSize": { "w": 20, "h": 34 },
+    "duration": 100
+   },
+   {
+    "filename": "Chicken Block'D_default bu 33.aseprite",
+    "frame": { "x": 0, "y": 0, "w": 22, "h": 36 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 20, "h": 34 },
+    "sourceSize": { "w": 20, "h": 34 },
+    "duration": 100
+   },
+   {
+    "filename": "Chicken Block'D_default bu 34.aseprite",
+    "frame": { "x": 0, "y": 0, "w": 22, "h": 36 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 20, "h": 34 },
+    "sourceSize": { "w": 20, "h": 34 },
+    "duration": 100
+   },
+   {
+    "filename": "Chicken Block'D_default bu 35.aseprite",
+    "frame": { "x": 0, "y": 0, "w": 22, "h": 36 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 20, "h": 34 },
+    "sourceSize": { "w": 20, "h": 34 },
+    "duration": 100
+   },
+   {
+    "filename": "Chicken Block'D_default bu 36.aseprite",
+    "frame": { "x": 0, "y": 0, "w": 22, "h": 36 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 20, "h": 34 },
+    "sourceSize": { "w": 20, "h": 34 },
+    "duration": 100
+   },
+   {
+    "filename": "Chicken Block'D_default bu 37.aseprite",
+    "frame": { "x": 0, "y": 0, "w": 22, "h": 36 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 20, "h": 34 },
+    "sourceSize": { "w": 20, "h": 34 },
+    "duration": 100
+   },
+   {
+    "filename": "Chicken Block'D_default bu 38.aseprite",
+    "frame": { "x": 0, "y": 0, "w": 22, "h": 36 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 20, "h": 34 },
+    "sourceSize": { "w": 20, "h": 34 },
+    "duration": 100
+   },
+   {
+    "filename": "Chicken Block'D_default bu 39.aseprite",
+    "frame": { "x": 0, "y": 0, "w": 22, "h": 36 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 20, "h": 34 },
+    "sourceSize": { "w": 20, "h": 34 },
+    "duration": 100
+   },
+   {
+    "filename": "Chicken Block'D_default bu 40.aseprite",
+    "frame": { "x": 0, "y": 0, "w": 22, "h": 36 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 20, "h": 34 },
+    "sourceSize": { "w": 20, "h": 34 },
+    "duration": 100
+   },
+   {
+    "filename": "Chicken Block'D_default bu 41.aseprite",
+    "frame": { "x": 0, "y": 0, "w": 22, "h": 36 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 20, "h": 34 },
+    "sourceSize": { "w": 20, "h": 34 },
+    "duration": 100
+   },
+   {
+    "filename": "Chicken Block'D_default bu 42.aseprite",
+    "frame": { "x": 0, "y": 0, "w": 22, "h": 36 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 20, "h": 34 },
+    "sourceSize": { "w": 20, "h": 34 },
+    "duration": 100
+   },
+   {
+    "filename": "Chicken Block'D_default bu 43.aseprite",
+    "frame": { "x": 0, "y": 0, "w": 22, "h": 36 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 20, "h": 34 },
+    "sourceSize": { "w": 20, "h": 34 },
+    "duration": 100
+   },
+   {
+    "filename": "Chicken Block'D_default bu 44.aseprite",
+    "frame": { "x": 0, "y": 0, "w": 22, "h": 36 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 20, "h": 34 },
+    "sourceSize": { "w": 20, "h": 34 },
+    "duration": 100
+   },
+   {
+    "filename": "Chicken Block'D_default bu 45.aseprite",
+    "frame": { "x": 0, "y": 0, "w": 22, "h": 36 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 20, "h": 34 },
+    "sourceSize": { "w": 20, "h": 34 },
+    "duration": 100
+   },
+   {
+    "filename": "Chicken Block'D_default bu 46.aseprite",
+    "frame": { "x": 0, "y": 0, "w": 22, "h": 36 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 20, "h": 34 },
+    "sourceSize": { "w": 20, "h": 34 },
+    "duration": 100
+   },
+   {
+    "filename": "Chicken Block'D_default bu 47.aseprite",
+    "frame": { "x": 0, "y": 0, "w": 22, "h": 36 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 20, "h": 34 },
+    "sourceSize": { "w": 20, "h": 34 },
+    "duration": 100
+   },
+   {
+    "filename": "Chicken Block'D_default bu 48.aseprite",
+    "frame": { "x": 0, "y": 0, "w": 22, "h": 36 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 20, "h": 34 },
+    "sourceSize": { "w": 20, "h": 34 },
+    "duration": 100
+   },
+   {
+    "filename": "Chicken Block'D_default bu 49.aseprite",
+    "frame": { "x": 0, "y": 0, "w": 22, "h": 36 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 20, "h": 34 },
+    "sourceSize": { "w": 20, "h": 34 },
+    "duration": 100
+   },
+   {
+    "filename": "Chicken Block'D_default bu 50.aseprite",
+    "frame": { "x": 0, "y": 0, "w": 22, "h": 36 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 20, "h": 34 },
+    "sourceSize": { "w": 20, "h": 34 },
+    "duration": 100
+   },
+   {
+    "filename": "Chicken Block'D_default bu 51.aseprite",
+    "frame": { "x": 0, "y": 0, "w": 22, "h": 36 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 20, "h": 34 },
+    "sourceSize": { "w": 20, "h": 34 },
+    "duration": 100
+   },
+   {
+    "filename": "Chicken Block'D_default bu 52.aseprite",
+    "frame": { "x": 0, "y": 0, "w": 22, "h": 36 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 20, "h": 34 },
+    "sourceSize": { "w": 20, "h": 34 },
+    "duration": 100
+   },
+   {
+    "filename": "Chicken Block'D_default bu 53.aseprite",
+    "frame": { "x": 0, "y": 0, "w": 22, "h": 36 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 20, "h": 34 },
+    "sourceSize": { "w": 20, "h": 34 },
+    "duration": 100
+   },
+   {
+    "filename": "Chicken Block'D_default bu 54.aseprite",
+    "frame": { "x": 0, "y": 0, "w": 22, "h": 36 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 20, "h": 34 },
+    "sourceSize": { "w": 20, "h": 34 },
+    "duration": 100
+   },
+   {
+    "filename": "Chicken Block'D_default bu 55.aseprite",
+    "frame": { "x": 0, "y": 0, "w": 22, "h": 36 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 20, "h": 34 },
+    "sourceSize": { "w": 20, "h": 34 },
+    "duration": 100
+   },
+   {
+    "filename": "Chicken Block'D_default bu 56.aseprite",
+    "frame": { "x": 0, "y": 0, "w": 22, "h": 36 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 20, "h": 34 },
+    "sourceSize": { "w": 20, "h": 34 },
+    "duration": 100
+   },
+   {
+    "filename": "Chicken Block'D_default bu 57.aseprite",
+    "frame": { "x": 0, "y": 0, "w": 22, "h": 36 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 20, "h": 34 },
+    "sourceSize": { "w": 20, "h": 34 },
+    "duration": 100
+   },
+   {
+    "filename": "Chicken Block'D_default bu 58.aseprite",
+    "frame": { "x": 0, "y": 0, "w": 22, "h": 36 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 20, "h": 34 },
+    "sourceSize": { "w": 20, "h": 34 },
+    "duration": 100
+   },
+   {
+    "filename": "Chicken Block'D_default bu 59.aseprite",
+    "frame": { "x": 0, "y": 0, "w": 22, "h": 36 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 20, "h": 34 },
+    "sourceSize": { "w": 20, "h": 34 },
+    "duration": 100
+   },
+   {
+    "filename": "Chicken Block'D_default bu 60.aseprite",
+    "frame": { "x": 0, "y": 0, "w": 22, "h": 36 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 20, "h": 34 },
+    "sourceSize": { "w": 20, "h": 34 },
+    "duration": 100
+   },
+   {
+    "filename": "Chicken Block'D_default bu 61.aseprite",
+    "frame": { "x": 0, "y": 0, "w": 22, "h": 36 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 20, "h": 34 },
+    "sourceSize": { "w": 20, "h": 34 },
+    "duration": 100
+   },
+   {
+    "filename": "Chicken Block'D_default bu 62.aseprite",
+    "frame": { "x": 0, "y": 0, "w": 22, "h": 36 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 20, "h": 34 },
+    "sourceSize": { "w": 20, "h": 34 },
+    "duration": 100
+   },
+   {
+    "filename": "Chicken Block'D_default bu 63.aseprite",
+    "frame": { "x": 0, "y": 0, "w": 22, "h": 36 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 20, "h": 34 },
+    "sourceSize": { "w": 20, "h": 34 },
+    "duration": 100
+   },
+   {
+    "filename": "Chicken Block'D_default bu 64.aseprite",
+    "frame": { "x": 0, "y": 0, "w": 22, "h": 36 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 20, "h": 34 },
+    "sourceSize": { "w": 20, "h": 34 },
+    "duration": 100
+   },
+   {
+    "filename": "Chicken Block'D_default bu 65.aseprite",
+    "frame": { "x": 0, "y": 0, "w": 22, "h": 36 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 20, "h": 34 },
+    "sourceSize": { "w": 20, "h": 34 },
+    "duration": 100
+   },
+   {
+    "filename": "Chicken Block'D_default bu 66.aseprite",
+    "frame": { "x": 0, "y": 0, "w": 22, "h": 36 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 20, "h": 34 },
+    "sourceSize": { "w": 20, "h": 34 },
+    "duration": 100
+   },
+   {
+    "filename": "Chicken Block'D_default bu 67.aseprite",
+    "frame": { "x": 0, "y": 0, "w": 22, "h": 36 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 20, "h": 34 },
+    "sourceSize": { "w": 20, "h": 34 },
+    "duration": 100
+   },
+   {
+    "filename": "Chicken Block'D_default bu 68.aseprite",
+    "frame": { "x": 0, "y": 0, "w": 22, "h": 36 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 20, "h": 34 },
+    "sourceSize": { "w": 20, "h": 34 },
+    "duration": 100
+   },
+   {
+    "filename": "Chicken Block'D_default bu 69.aseprite",
+    "frame": { "x": 0, "y": 0, "w": 22, "h": 36 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 20, "h": 34 },
+    "sourceSize": { "w": 20, "h": 34 },
+    "duration": 100
+   },
+   {
+    "filename": "Chicken Block'D_default bu 70.aseprite",
+    "frame": { "x": 0, "y": 0, "w": 22, "h": 36 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 20, "h": 34 },
+    "sourceSize": { "w": 20, "h": 34 },
+    "duration": 100
+   },
+   {
+    "filename": "Chicken Block'D_default bu 71.aseprite",
+    "frame": { "x": 0, "y": 0, "w": 22, "h": 36 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 20, "h": 34 },
+    "sourceSize": { "w": 20, "h": 34 },
+    "duration": 100
+   }
+ ],
+ "meta": {
+  "app": "http://www.aseprite.org/",
+  "version": "1.2.25-x64",
+  "image": "default04-sheet.png",
+  "format": "RGBA8888",
+  "size": { "w": 22, "h": 36 },
+  "scale": "1",
+  "frameTags": [
+  ],
+  "layers": [
+   { "name": "lucky block", "opacity": 255, "blendMode": "normal" },
+   { "name": "lucky chicken", "opacity": 255, "blendMode": "normal" },
+   { "name": "lucky chicken Copy", "opacity": 255, "blendMode": "normal" },
+   { "name": "lava chicken", "opacity": 255, "blendMode": "normal" },
+   { "name": "particle", "opacity": 255, "blendMode": "normal" },
+   { "name": "fence", "opacity": 255, "blendMode": "normal" },
+   { "name": "mask", "opacity": 255, "blendMode": "normal" },
+   { "name": "mask_blue", "opacity": 255, "blendMode": "normal" }
+  ],
+  "slices": [
+  ]
+ }
+}

@@ -1,0 +1,177 @@
+{
+  "treatment_store_button_content": {
+    "type": "panel",
+    "controls": [
+      {
+        "button_label@common_buttons.new_ui_binding_button_label": {
+          "layer": 50
+        }
+      },
+
+      {
+        "AddOns": {
+          "type": "image",
+          "texture": "textures/ui/AddOns_sp",
+          "size": [ 83, 17 ],
+          "anchor_from": "top_right",
+          "anchor_to": "top_right",
+          "offset": [ 16, -4 ],
+          "layer": 5
+        }
+      },
+
+
+      {
+        "Left_Default": {
+          "type": "image",
+          "texture": "textures/ui/Left_Default",
+          "size": [ 92 , 34 ],
+          "anchor_from": "bottom_left",
+          "anchor_to": "bottom_left",
+          "offset": [ -20, 5 ],
+          "layer": 10,
+          "ignored": "(not $default_state)",
+          "uv_size": [ 92 , 34 ],
+          "uv": "@start.animation",
+          "disable_anim_fast_forward": true
+        }
+      },
+      {
+        "Left_Hover": {
+          "type": "image",
+          "texture": "textures/ui/Left_Hover",
+          "size": [ 92 , 34 ],
+          "anchor_from": "bottom_left",
+          "anchor_to": "bottom_left",
+          "offset": [ -20, 5 ],
+          "layer": 10,
+          "ignored": "($default_state)",
+          "uv_size": [ 92 , 34 ],
+          "uv": "@start.animation",
+          "disable_anim_fast_forward": true
+        }
+      },
+
+
+      {
+        "Right_Default": {
+          "type": "image",
+          "texture": "textures/ui/Right_Default",
+          "size": [ 92 , 34 ],
+          "anchor_from": "bottom_left",
+          "anchor_to": "bottom_left",
+          "offset": [ 70, 5 ],
+          "layer": 10,
+          "ignored": "(not $default_state)",
+          "uv_size": [ 92 , 34 ],
+          "uv": "@start.animation",
+          "disable_anim_fast_forward": true
+        }
+      },
+      {
+        "Right_Hover": {
+          "type": "image",
+          "texture": "textures/ui/Right_Hover",
+          "size": [ 92 , 34 ],
+          "anchor_from": "bottom_left",
+          "anchor_to": "bottom_left",
+          "offset": [ 70, 5 ],
+          "layer": 10,
+          "ignored": "($default_state)",
+          "uv_size": [ 92 , 34 ],
+          "uv": "@start.animation",
+          "disable_anim_fast_forward": true
+        }
+      }
+    ]
+  },
+
+  "treatment_store_button@common_buttons.light_content_button": {
+    "size": ["100% - 2px", "100% - 2px"],
+    "$pressed_button_name": "button.menu_store",
+    "$button_text": "menu.store",
+    "$button_content": "start.treatment_store_button_content",
+    "$button_text_binding_type": "none",
+    "$button_binding_condition": "none",
+    "$button_text_grid_collection_name": "",
+    "tts_inherit_siblings": true,
+    "$button_pressed_offset": [0, 0],
+	
+    "$default_button_texture": "textures/ui/BG_Default.png",
+    "$hover_button_texture": "textures/ui/BG_Hover.png",
+    "$pressed_button_texture": "textures/ui/BG_Hover.png",
+    "$default_text_color": [ 0, 0, 0 ],
+    "$light_button_hover_text_color": [ 1, 1, 1 ],
+    "$light_button_pressed_text_color": [ 1, 1, 1 ],
+    "$light_border_default_color": [ 0, 0, 0 ],
+    "$light_border_hover_color": [ 1, 1, 1 ],
+    "$light_border_pressed_color": [ 1, 1, 1 ]
+  },
+  
+  
+  
+  "animation": {
+    "anim_type": "aseprite_flip_book",
+    "initial_uv": [ 0, 0 ]
+  },
+  
+  "store_button_stack@start.stacked_row": {
+    "controls": [
+      {
+        "store_button@start.treatment_store_button": {
+          "enabled": "(not $store_disabled)",
+          "bindings": [
+            {
+              "binding_name": "(not #marketplace_disabled)",
+              "binding_name_override": "#visible"
+            }
+          ]
+        }
+      },
+      {
+        "marketplace_error_button@common_buttons.dynamic_tooltip_notification_panel": {
+          "size": [ "100%", "100%" ],
+          "button_mappings": [
+            {
+              "from_button_id": "button.menu_select",
+              "to_button_id": "button.menu_store_error",
+              "mapping_type": "pressed"
+            },
+            {
+              "to_button_id": "button.is_hovered",
+              "mapping_type": "pressed"
+            }
+          ],
+          "consume_hover_events": false,
+          "focus_enabled": true,
+          "$dynamic_tooltip_button_visibility_binding_name": "#has_marketplace_errors",
+          "$tooltip_popup_visible_binding": "#marketplace_errors_tooltip_visible",
+          "$override_tooltip_popup_image": true,
+          "$tooltip_popup_override_image_panel": "start.store_error_image",
+          "$tooltip_text_binding_name": "#marketplace_error_text",
+          "$tool_tip_text_max_size": [ "300px", "default" ],
+          "$tooltip_panel_content": "start.store_error_content",
+          "bindings": [
+            {
+              "binding_name": "#marketplace_disabled",
+              "binding_name_override": "#visible"
+            }
+          ]
+        }
+      },
+      {
+        "marketplace_error_icon@start.marketplace_error_icon": {
+          "anchor_from": "top_left",
+          "anchor_to": "top_left",
+          "offset": [ -2, 0 ],
+          "bindings": [
+            {
+              "binding_name": "#marketplace_disabled",
+              "binding_name_override": "#visible"
+            }
+          ]
+        }
+      }
+    ]
+  }
+}

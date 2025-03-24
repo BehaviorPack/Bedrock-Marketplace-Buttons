@@ -1,0 +1,31 @@
+{
+"content" : [
+    { "path" : "contents.json" },
+    { "path" : "textures" },
+    { "path" : "textures/ui" },
+    { "path" : "ui" },
+    { "path" : "ui/start_screen.json" },
+    { "path" : "manifest.json" },
+    { "path" : "textures/ui/store_button.png" },
+    { "path" : "textures/ui/store_button.json" },
+    { "path" : "textures/ui/store_button_hover.png" },
+    { "path" : "textures/ui/store_button_hover.json" },
+    { "path" : "textures/ui/store_button_pressed.png" },
+    { "path" : "textures/ui/store_button_pressed.json" },
+    { "path" : "textures/ui/horse_head.png" },
+    { "path" : "textures/ui/horse_head.json" },
+    { "path" : "textures/ui/horse_body.png" },
+    { "path" : "textures/ui/horse_body.json" },
+    { "path" : "textures/ui/rain.png" },
+    { "path" : "textures/ui/rain.json" },
+    { "path" : "textures/ui/lightning.png" },
+    { "path" : "textures/ui/lightning.json" },
+    { "path" : "textures/ui/skeleton_head.png" },
+    { "path" : "textures/ui/skeleton_head.json" },
+    { "path" : "textures/ui/skeleton.png" },
+    { "path" : "textures/ui/skeleton.json" },
+    { "path" : "textures/ui/rimlight.png" },
+    { "path" : "textures/ui/rimlight.json" }
+],
+"version" : 1
+}

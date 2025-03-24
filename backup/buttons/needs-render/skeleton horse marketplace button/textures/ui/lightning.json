@@ -1,0 +1,155 @@
+{ "frames": [
+   {
+    "filename": "lightning 0.png",
+    "frame": { "x": 0, "y": 0, "w": 148, "h": 31 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 148, "h": 31 },
+    "sourceSize": { "w": 148, "h": 31 },
+    "duration": 80
+   },
+   {
+    "filename": "lightning 1.png",
+    "frame": { "x": 148, "y": 0, "w": 148, "h": 31 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 148, "h": 31 },
+    "sourceSize": { "w": 148, "h": 31 },
+    "duration": 80
+   },
+   {
+    "filename": "lightning 2.png",
+    "frame": { "x": 296, "y": 0, "w": 148, "h": 31 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 148, "h": 31 },
+    "sourceSize": { "w": 148, "h": 31 },
+    "duration": 80
+   },
+   {
+    "filename": "lightning 3.png",
+    "frame": { "x": 148, "y": 0, "w": 148, "h": 31 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 148, "h": 31 },
+    "sourceSize": { "w": 148, "h": 31 },
+    "duration": 80
+   },
+   {
+    "filename": "lightning 4.png",
+    "frame": { "x": 444, "y": 0, "w": 148, "h": 31 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 148, "h": 31 },
+    "sourceSize": { "w": 148, "h": 31 },
+    "duration": 80
+   },
+   {
+    "filename": "lightning 5.png",
+    "frame": { "x": 148, "y": 0, "w": 148, "h": 31 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 148, "h": 31 },
+    "sourceSize": { "w": 148, "h": 31 },
+    "duration": 80
+   },
+   {
+    "filename": "lightning 6.png",
+    "frame": { "x": 592, "y": 0, "w": 148, "h": 31 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 148, "h": 31 },
+    "sourceSize": { "w": 148, "h": 31 },
+    "duration": 80
+   },
+   {
+    "filename": "lightning 7.png",
+    "frame": { "x": 148, "y": 0, "w": 148, "h": 31 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 148, "h": 31 },
+    "sourceSize": { "w": 148, "h": 31 },
+    "duration": 2000
+   },
+   {
+    "filename": "lightning 8.png",
+    "frame": { "x": 740, "y": 0, "w": 148, "h": 31 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 148, "h": 31 },
+    "sourceSize": { "w": 148, "h": 31 },
+    "duration": 80
+   },
+   {
+    "filename": "lightning 9.png",
+    "frame": { "x": 148, "y": 0, "w": 148, "h": 31 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 148, "h": 31 },
+    "sourceSize": { "w": 148, "h": 31 },
+    "duration": 80
+   },
+   {
+    "filename": "lightning 10.png",
+    "frame": { "x": 888, "y": 0, "w": 148, "h": 31 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 148, "h": 31 },
+    "sourceSize": { "w": 148, "h": 31 },
+    "duration": 80
+   },
+   {
+    "filename": "lightning 11.png",
+    "frame": { "x": 148, "y": 0, "w": 148, "h": 31 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 148, "h": 31 },
+    "sourceSize": { "w": 148, "h": 31 },
+    "duration": 80
+   },
+   {
+    "filename": "lightning 12.png",
+    "frame": { "x": 1036, "y": 0, "w": 148, "h": 31 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 148, "h": 31 },
+    "sourceSize": { "w": 148, "h": 31 },
+    "duration": 80
+   },
+   {
+    "filename": "lightning 13.png",
+    "frame": { "x": 148, "y": 0, "w": 148, "h": 31 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 148, "h": 31 },
+    "sourceSize": { "w": 148, "h": 31 },
+    "duration": 80
+   },
+   {
+    "filename": "lightning 14.png",
+    "frame": { "x": 1184, "y": 0, "w": 148, "h": 31 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 148, "h": 31 },
+    "sourceSize": { "w": 148, "h": 31 },
+    "duration": 80
+   },
+   {
+    "filename": "lightning 15.png",
+    "frame": { "x": 148, "y": 0, "w": 148, "h": 31 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 148, "h": 31 },
+    "sourceSize": { "w": 148, "h": 31 },
+    "duration": 8000
+   }
+ ],
+ "meta": {
+  "app": "http://www.aseprite.org/",
+  "version": "1.2.29-x64",
+  "image": "lightning.png",
+  "format": "RGBA8888",
+  "size": { "w": 1332, "h": 31 },
+  "scale": "1"
+ }
+}

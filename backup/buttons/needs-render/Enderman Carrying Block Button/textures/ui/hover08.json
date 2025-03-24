@@ -1,0 +1,949 @@
+{ "frames": [
+   {
+    "filename": "Enderman button prepped 0.aseprite",
+    "frame": { "x": 0, "y": 0, "w": 22, "h": 36 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 20, "h": 34 },
+    "sourceSize": { "w": 20, "h": 34 },
+    "duration": 100
+   },
+   {
+    "filename": "Enderman button prepped 1.aseprite",
+    "frame": { "x": 0, "y": 0, "w": 22, "h": 36 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 20, "h": 34 },
+    "sourceSize": { "w": 20, "h": 34 },
+    "duration": 100
+   },
+   {
+    "filename": "Enderman button prepped 2.aseprite",
+    "frame": { "x": 0, "y": 0, "w": 22, "h": 36 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 20, "h": 34 },
+    "sourceSize": { "w": 20, "h": 34 },
+    "duration": 100
+   },
+   {
+    "filename": "Enderman button prepped 3.aseprite",
+    "frame": { "x": 0, "y": 0, "w": 22, "h": 36 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 20, "h": 34 },
+    "sourceSize": { "w": 20, "h": 34 },
+    "duration": 100
+   },
+   {
+    "filename": "Enderman button prepped 4.aseprite",
+    "frame": { "x": 22, "y": 0, "w": 22, "h": 36 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 20, "h": 34 },
+    "sourceSize": { "w": 20, "h": 34 },
+    "duration": 100
+   },
+   {
+    "filename": "Enderman button prepped 5.aseprite",
+    "frame": { "x": 44, "y": 0, "w": 22, "h": 36 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 20, "h": 34 },
+    "sourceSize": { "w": 20, "h": 34 },
+    "duration": 100
+   },
+   {
+    "filename": "Enderman button prepped 6.aseprite",
+    "frame": { "x": 66, "y": 0, "w": 22, "h": 36 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 20, "h": 34 },
+    "sourceSize": { "w": 20, "h": 34 },
+    "duration": 100
+   },
+   {
+    "filename": "Enderman button prepped 7.aseprite",
+    "frame": { "x": 88, "y": 0, "w": 22, "h": 36 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 20, "h": 34 },
+    "sourceSize": { "w": 20, "h": 34 },
+    "duration": 100
+   },
+   {
+    "filename": "Enderman button prepped 8.aseprite",
+    "frame": { "x": 88, "y": 0, "w": 22, "h": 36 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 20, "h": 34 },
+    "sourceSize": { "w": 20, "h": 34 },
+    "duration": 100
+   },
+   {
+    "filename": "Enderman button prepped 9.aseprite",
+    "frame": { "x": 88, "y": 0, "w": 22, "h": 36 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 20, "h": 34 },
+    "sourceSize": { "w": 20, "h": 34 },
+    "duration": 100
+   },
+   {
+    "filename": "Enderman button prepped 10.aseprite",
+    "frame": { "x": 88, "y": 0, "w": 22, "h": 36 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 20, "h": 34 },
+    "sourceSize": { "w": 20, "h": 34 },
+    "duration": 100
+   },
+   {
+    "filename": "Enderman button prepped 11.aseprite",
+    "frame": { "x": 88, "y": 0, "w": 22, "h": 36 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 20, "h": 34 },
+    "sourceSize": { "w": 20, "h": 34 },
+    "duration": 100
+   },
+   {
+    "filename": "Enderman button prepped 12.aseprite",
+    "frame": { "x": 88, "y": 0, "w": 22, "h": 36 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 20, "h": 34 },
+    "sourceSize": { "w": 20, "h": 34 },
+    "duration": 100
+   },
+   {
+    "filename": "Enderman button prepped 13.aseprite",
+    "frame": { "x": 88, "y": 0, "w": 22, "h": 36 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 20, "h": 34 },
+    "sourceSize": { "w": 20, "h": 34 },
+    "duration": 100
+   },
+   {
+    "filename": "Enderman button prepped 14.aseprite",
+    "frame": { "x": 88, "y": 0, "w": 22, "h": 36 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 20, "h": 34 },
+    "sourceSize": { "w": 20, "h": 34 },
+    "duration": 100
+   },
+   {
+    "filename": "Enderman button prepped 15.aseprite",
+    "frame": { "x": 88, "y": 0, "w": 22, "h": 36 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 20, "h": 34 },
+    "sourceSize": { "w": 20, "h": 34 },
+    "duration": 100
+   },
+   {
+    "filename": "Enderman button prepped 16.aseprite",
+    "frame": { "x": 88, "y": 0, "w": 22, "h": 36 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 20, "h": 34 },
+    "sourceSize": { "w": 20, "h": 34 },
+    "duration": 100
+   },
+   {
+    "filename": "Enderman button prepped 17.aseprite",
+    "frame": { "x": 88, "y": 0, "w": 22, "h": 36 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 20, "h": 34 },
+    "sourceSize": { "w": 20, "h": 34 },
+    "duration": 100
+   },
+   {
+    "filename": "Enderman button prepped 18.aseprite",
+    "frame": { "x": 88, "y": 0, "w": 22, "h": 36 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 20, "h": 34 },
+    "sourceSize": { "w": 20, "h": 34 },
+    "duration": 100
+   },
+   {
+    "filename": "Enderman button prepped 19.aseprite",
+    "frame": { "x": 88, "y": 0, "w": 22, "h": 36 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 20, "h": 34 },
+    "sourceSize": { "w": 20, "h": 34 },
+    "duration": 100
+   },
+   {
+    "filename": "Enderman button prepped 20.aseprite",
+    "frame": { "x": 88, "y": 0, "w": 22, "h": 36 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 20, "h": 34 },
+    "sourceSize": { "w": 20, "h": 34 },
+    "duration": 100
+   },
+   {
+    "filename": "Enderman button prepped 21.aseprite",
+    "frame": { "x": 88, "y": 0, "w": 22, "h": 36 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 20, "h": 34 },
+    "sourceSize": { "w": 20, "h": 34 },
+    "duration": 100
+   },
+   {
+    "filename": "Enderman button prepped 22.aseprite",
+    "frame": { "x": 88, "y": 0, "w": 22, "h": 36 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 20, "h": 34 },
+    "sourceSize": { "w": 20, "h": 34 },
+    "duration": 100
+   },
+   {
+    "filename": "Enderman button prepped 23.aseprite",
+    "frame": { "x": 88, "y": 0, "w": 22, "h": 36 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 20, "h": 34 },
+    "sourceSize": { "w": 20, "h": 34 },
+    "duration": 100
+   },
+   {
+    "filename": "Enderman button prepped 24.aseprite",
+    "frame": { "x": 88, "y": 0, "w": 22, "h": 36 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 20, "h": 34 },
+    "sourceSize": { "w": 20, "h": 34 },
+    "duration": 100
+   },
+   {
+    "filename": "Enderman button prepped 25.aseprite",
+    "frame": { "x": 88, "y": 0, "w": 22, "h": 36 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 20, "h": 34 },
+    "sourceSize": { "w": 20, "h": 34 },
+    "duration": 100
+   },
+   {
+    "filename": "Enderman button prepped 26.aseprite",
+    "frame": { "x": 88, "y": 0, "w": 22, "h": 36 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 20, "h": 34 },
+    "sourceSize": { "w": 20, "h": 34 },
+    "duration": 100
+   },
+   {
+    "filename": "Enderman button prepped 27.aseprite",
+    "frame": { "x": 66, "y": 0, "w": 22, "h": 36 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 20, "h": 34 },
+    "sourceSize": { "w": 20, "h": 34 },
+    "duration": 100
+   },
+   {
+    "filename": "Enderman button prepped 28.aseprite",
+    "frame": { "x": 44, "y": 0, "w": 22, "h": 36 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 20, "h": 34 },
+    "sourceSize": { "w": 20, "h": 34 },
+    "duration": 100
+   },
+   {
+    "filename": "Enderman button prepped 29.aseprite",
+    "frame": { "x": 22, "y": 0, "w": 22, "h": 36 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 20, "h": 34 },
+    "sourceSize": { "w": 20, "h": 34 },
+    "duration": 100
+   },
+   {
+    "filename": "Enderman button prepped 30.aseprite",
+    "frame": { "x": 0, "y": 0, "w": 22, "h": 36 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 20, "h": 34 },
+    "sourceSize": { "w": 20, "h": 34 },
+    "duration": 100
+   },
+   {
+    "filename": "Enderman button prepped 31.aseprite",
+    "frame": { "x": 0, "y": 0, "w": 22, "h": 36 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 20, "h": 34 },
+    "sourceSize": { "w": 20, "h": 34 },
+    "duration": 100
+   },
+   {
+    "filename": "Enderman button prepped 32.aseprite",
+    "frame": { "x": 0, "y": 0, "w": 22, "h": 36 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 20, "h": 34 },
+    "sourceSize": { "w": 20, "h": 34 },
+    "duration": 100
+   },
+   {
+    "filename": "Enderman button prepped 33.aseprite",
+    "frame": { "x": 0, "y": 0, "w": 22, "h": 36 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 20, "h": 34 },
+    "sourceSize": { "w": 20, "h": 34 },
+    "duration": 100
+   },
+   {
+    "filename": "Enderman button prepped 34.aseprite",
+    "frame": { "x": 0, "y": 0, "w": 22, "h": 36 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 20, "h": 34 },
+    "sourceSize": { "w": 20, "h": 34 },
+    "duration": 100
+   },
+   {
+    "filename": "Enderman button prepped 35.aseprite",
+    "frame": { "x": 0, "y": 0, "w": 22, "h": 36 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 20, "h": 34 },
+    "sourceSize": { "w": 20, "h": 34 },
+    "duration": 100
+   },
+   {
+    "filename": "Enderman button prepped 36.aseprite",
+    "frame": { "x": 0, "y": 0, "w": 22, "h": 36 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 20, "h": 34 },
+    "sourceSize": { "w": 20, "h": 34 },
+    "duration": 100
+   },
+   {
+    "filename": "Enderman button prepped 37.aseprite",
+    "frame": { "x": 0, "y": 0, "w": 22, "h": 36 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 20, "h": 34 },
+    "sourceSize": { "w": 20, "h": 34 },
+    "duration": 100
+   },
+   {
+    "filename": "Enderman button prepped 38.aseprite",
+    "frame": { "x": 0, "y": 0, "w": 22, "h": 36 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 20, "h": 34 },
+    "sourceSize": { "w": 20, "h": 34 },
+    "duration": 100
+   },
+   {
+    "filename": "Enderman button prepped 39.aseprite",
+    "frame": { "x": 110, "y": 0, "w": 22, "h": 36 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 20, "h": 34 },
+    "sourceSize": { "w": 20, "h": 34 },
+    "duration": 100
+   },
+   {
+    "filename": "Enderman button prepped 40.aseprite",
+    "frame": { "x": 132, "y": 0, "w": 22, "h": 36 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 20, "h": 34 },
+    "sourceSize": { "w": 20, "h": 34 },
+    "duration": 100
+   },
+   {
+    "filename": "Enderman button prepped 41.aseprite",
+    "frame": { "x": 154, "y": 0, "w": 22, "h": 36 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 20, "h": 34 },
+    "sourceSize": { "w": 20, "h": 34 },
+    "duration": 100
+   },
+   {
+    "filename": "Enderman button prepped 42.aseprite",
+    "frame": { "x": 176, "y": 0, "w": 22, "h": 36 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 20, "h": 34 },
+    "sourceSize": { "w": 20, "h": 34 },
+    "duration": 100
+   },
+   {
+    "filename": "Enderman button prepped 43.aseprite",
+    "frame": { "x": 198, "y": 0, "w": 22, "h": 36 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 20, "h": 34 },
+    "sourceSize": { "w": 20, "h": 34 },
+    "duration": 100
+   },
+   {
+    "filename": "Enderman button prepped 44.aseprite",
+    "frame": { "x": 220, "y": 0, "w": 22, "h": 36 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 20, "h": 34 },
+    "sourceSize": { "w": 20, "h": 34 },
+    "duration": 100
+   },
+   {
+    "filename": "Enderman button prepped 45.aseprite",
+    "frame": { "x": 220, "y": 0, "w": 22, "h": 36 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 20, "h": 34 },
+    "sourceSize": { "w": 20, "h": 34 },
+    "duration": 100
+   },
+   {
+    "filename": "Enderman button prepped 46.aseprite",
+    "frame": { "x": 220, "y": 0, "w": 22, "h": 36 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 20, "h": 34 },
+    "sourceSize": { "w": 20, "h": 34 },
+    "duration": 100
+   },
+   {
+    "filename": "Enderman button prepped 47.aseprite",
+    "frame": { "x": 220, "y": 0, "w": 22, "h": 36 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 20, "h": 34 },
+    "sourceSize": { "w": 20, "h": 34 },
+    "duration": 100
+   },
+   {
+    "filename": "Enderman button prepped 48.aseprite",
+    "frame": { "x": 242, "y": 0, "w": 22, "h": 36 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 20, "h": 34 },
+    "sourceSize": { "w": 20, "h": 34 },
+    "duration": 100
+   },
+   {
+    "filename": "Enderman button prepped 49.aseprite",
+    "frame": { "x": 242, "y": 0, "w": 22, "h": 36 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 20, "h": 34 },
+    "sourceSize": { "w": 20, "h": 34 },
+    "duration": 100
+   },
+   {
+    "filename": "Enderman button prepped 50.aseprite",
+    "frame": { "x": 264, "y": 0, "w": 22, "h": 36 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 20, "h": 34 },
+    "sourceSize": { "w": 20, "h": 34 },
+    "duration": 100
+   },
+   {
+    "filename": "Enderman button prepped 51.aseprite",
+    "frame": { "x": 286, "y": 0, "w": 22, "h": 36 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 20, "h": 34 },
+    "sourceSize": { "w": 20, "h": 34 },
+    "duration": 100
+   },
+   {
+    "filename": "Enderman button prepped 52.aseprite",
+    "frame": { "x": 308, "y": 0, "w": 22, "h": 36 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 20, "h": 34 },
+    "sourceSize": { "w": 20, "h": 34 },
+    "duration": 100
+   },
+   {
+    "filename": "Enderman button prepped 53.aseprite",
+    "frame": { "x": 330, "y": 0, "w": 22, "h": 36 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 20, "h": 34 },
+    "sourceSize": { "w": 20, "h": 34 },
+    "duration": 100
+   },
+   {
+    "filename": "Enderman button prepped 54.aseprite",
+    "frame": { "x": 352, "y": 0, "w": 22, "h": 36 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 20, "h": 34 },
+    "sourceSize": { "w": 20, "h": 34 },
+    "duration": 100
+   },
+   {
+    "filename": "Enderman button prepped 55.aseprite",
+    "frame": { "x": 374, "y": 0, "w": 22, "h": 36 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 20, "h": 34 },
+    "sourceSize": { "w": 20, "h": 34 },
+    "duration": 100
+   },
+   {
+    "filename": "Enderman button prepped 56.aseprite",
+    "frame": { "x": 396, "y": 0, "w": 22, "h": 36 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 20, "h": 34 },
+    "sourceSize": { "w": 20, "h": 34 },
+    "duration": 100
+   },
+   {
+    "filename": "Enderman button prepped 57.aseprite",
+    "frame": { "x": 418, "y": 0, "w": 22, "h": 36 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 20, "h": 34 },
+    "sourceSize": { "w": 20, "h": 34 },
+    "duration": 100
+   },
+   {
+    "filename": "Enderman button prepped 58.aseprite",
+    "frame": { "x": 396, "y": 0, "w": 22, "h": 36 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 20, "h": 34 },
+    "sourceSize": { "w": 20, "h": 34 },
+    "duration": 100
+   },
+   {
+    "filename": "Enderman button prepped 59.aseprite",
+    "frame": { "x": 440, "y": 0, "w": 22, "h": 36 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 20, "h": 34 },
+    "sourceSize": { "w": 20, "h": 34 },
+    "duration": 100
+   },
+   {
+    "filename": "Enderman button prepped 60.aseprite",
+    "frame": { "x": 396, "y": 0, "w": 22, "h": 36 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 20, "h": 34 },
+    "sourceSize": { "w": 20, "h": 34 },
+    "duration": 100
+   },
+   {
+    "filename": "Enderman button prepped 61.aseprite",
+    "frame": { "x": 418, "y": 0, "w": 22, "h": 36 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 20, "h": 34 },
+    "sourceSize": { "w": 20, "h": 34 },
+    "duration": 100
+   },
+   {
+    "filename": "Enderman button prepped 62.aseprite",
+    "frame": { "x": 440, "y": 0, "w": 22, "h": 36 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 20, "h": 34 },
+    "sourceSize": { "w": 20, "h": 34 },
+    "duration": 100
+   },
+   {
+    "filename": "Enderman button prepped 63.aseprite",
+    "frame": { "x": 462, "y": 0, "w": 22, "h": 36 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 20, "h": 34 },
+    "sourceSize": { "w": 20, "h": 34 },
+    "duration": 100
+   },
+   {
+    "filename": "Enderman button prepped 64.aseprite",
+    "frame": { "x": 484, "y": 0, "w": 22, "h": 36 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 20, "h": 34 },
+    "sourceSize": { "w": 20, "h": 34 },
+    "duration": 100
+   },
+   {
+    "filename": "Enderman button prepped 65.aseprite",
+    "frame": { "x": 418, "y": 0, "w": 22, "h": 36 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 20, "h": 34 },
+    "sourceSize": { "w": 20, "h": 34 },
+    "duration": 100
+   },
+   {
+    "filename": "Enderman button prepped 66.aseprite",
+    "frame": { "x": 506, "y": 0, "w": 22, "h": 36 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 20, "h": 34 },
+    "sourceSize": { "w": 20, "h": 34 },
+    "duration": 100
+   },
+   {
+    "filename": "Enderman button prepped 67.aseprite",
+    "frame": { "x": 528, "y": 0, "w": 22, "h": 36 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 20, "h": 34 },
+    "sourceSize": { "w": 20, "h": 34 },
+    "duration": 100
+   },
+   {
+    "filename": "Enderman button prepped 68.aseprite",
+    "frame": { "x": 550, "y": 0, "w": 22, "h": 36 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 20, "h": 34 },
+    "sourceSize": { "w": 20, "h": 34 },
+    "duration": 100
+   },
+   {
+    "filename": "Enderman button prepped 69.aseprite",
+    "frame": { "x": 572, "y": 0, "w": 22, "h": 36 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 20, "h": 34 },
+    "sourceSize": { "w": 20, "h": 34 },
+    "duration": 100
+   },
+   {
+    "filename": "Enderman button prepped 70.aseprite",
+    "frame": { "x": 594, "y": 0, "w": 22, "h": 36 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 20, "h": 34 },
+    "sourceSize": { "w": 20, "h": 34 },
+    "duration": 100
+   },
+   {
+    "filename": "Enderman button prepped 71.aseprite",
+    "frame": { "x": 616, "y": 0, "w": 22, "h": 36 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 20, "h": 34 },
+    "sourceSize": { "w": 20, "h": 34 },
+    "duration": 100
+   },
+   {
+    "filename": "Enderman button prepped 72.aseprite",
+    "frame": { "x": 594, "y": 0, "w": 22, "h": 36 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 20, "h": 34 },
+    "sourceSize": { "w": 20, "h": 34 },
+    "duration": 100
+   },
+   {
+    "filename": "Enderman button prepped 73.aseprite",
+    "frame": { "x": 572, "y": 0, "w": 22, "h": 36 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 20, "h": 34 },
+    "sourceSize": { "w": 20, "h": 34 },
+    "duration": 100
+   },
+   {
+    "filename": "Enderman button prepped 74.aseprite",
+    "frame": { "x": 616, "y": 0, "w": 22, "h": 36 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 20, "h": 34 },
+    "sourceSize": { "w": 20, "h": 34 },
+    "duration": 100
+   },
+   {
+    "filename": "Enderman button prepped 75.aseprite",
+    "frame": { "x": 638, "y": 0, "w": 22, "h": 36 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 20, "h": 34 },
+    "sourceSize": { "w": 20, "h": 34 },
+    "duration": 100
+   },
+   {
+    "filename": "Enderman button prepped 76.aseprite",
+    "frame": { "x": 660, "y": 0, "w": 22, "h": 36 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 20, "h": 34 },
+    "sourceSize": { "w": 20, "h": 34 },
+    "duration": 100
+   },
+   {
+    "filename": "Enderman button prepped 77.aseprite",
+    "frame": { "x": 682, "y": 0, "w": 22, "h": 36 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 20, "h": 34 },
+    "sourceSize": { "w": 20, "h": 34 },
+    "duration": 100
+   },
+   {
+    "filename": "Enderman button prepped 78.aseprite",
+    "frame": { "x": 704, "y": 0, "w": 22, "h": 36 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 20, "h": 34 },
+    "sourceSize": { "w": 20, "h": 34 },
+    "duration": 100
+   },
+   {
+    "filename": "Enderman button prepped 79.aseprite",
+    "frame": { "x": 726, "y": 0, "w": 22, "h": 36 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 20, "h": 34 },
+    "sourceSize": { "w": 20, "h": 34 },
+    "duration": 100
+   },
+   {
+    "filename": "Enderman button prepped 80.aseprite",
+    "frame": { "x": 748, "y": 0, "w": 22, "h": 36 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 20, "h": 34 },
+    "sourceSize": { "w": 20, "h": 34 },
+    "duration": 100
+   },
+   {
+    "filename": "Enderman button prepped 81.aseprite",
+    "frame": { "x": 770, "y": 0, "w": 22, "h": 36 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 20, "h": 34 },
+    "sourceSize": { "w": 20, "h": 34 },
+    "duration": 100
+   },
+   {
+    "filename": "Enderman button prepped 82.aseprite",
+    "frame": { "x": 792, "y": 0, "w": 22, "h": 36 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 20, "h": 34 },
+    "sourceSize": { "w": 20, "h": 34 },
+    "duration": 100
+   },
+   {
+    "filename": "Enderman button prepped 83.aseprite",
+    "frame": { "x": 792, "y": 0, "w": 22, "h": 36 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 20, "h": 34 },
+    "sourceSize": { "w": 20, "h": 34 },
+    "duration": 100
+   },
+   {
+    "filename": "Enderman button prepped 84.aseprite",
+    "frame": { "x": 814, "y": 0, "w": 22, "h": 36 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 20, "h": 34 },
+    "sourceSize": { "w": 20, "h": 34 },
+    "duration": 100
+   },
+   {
+    "filename": "Enderman button prepped 85.aseprite",
+    "frame": { "x": 836, "y": 0, "w": 22, "h": 36 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 20, "h": 34 },
+    "sourceSize": { "w": 20, "h": 34 },
+    "duration": 100
+   },
+   {
+    "filename": "Enderman button prepped 86.aseprite",
+    "frame": { "x": 858, "y": 0, "w": 22, "h": 36 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 20, "h": 34 },
+    "sourceSize": { "w": 20, "h": 34 },
+    "duration": 100
+   },
+   {
+    "filename": "Enderman button prepped 87.aseprite",
+    "frame": { "x": 880, "y": 0, "w": 22, "h": 36 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 20, "h": 34 },
+    "sourceSize": { "w": 20, "h": 34 },
+    "duration": 100
+   },
+   {
+    "filename": "Enderman button prepped 88.aseprite",
+    "frame": { "x": 902, "y": 0, "w": 22, "h": 36 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 20, "h": 34 },
+    "sourceSize": { "w": 20, "h": 34 },
+    "duration": 100
+   },
+   {
+    "filename": "Enderman button prepped 89.aseprite",
+    "frame": { "x": 924, "y": 0, "w": 22, "h": 36 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 20, "h": 34 },
+    "sourceSize": { "w": 20, "h": 34 },
+    "duration": 100
+   },
+   {
+    "filename": "Enderman button prepped 90.aseprite",
+    "frame": { "x": 418, "y": 0, "w": 22, "h": 36 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 20, "h": 34 },
+    "sourceSize": { "w": 20, "h": 34 },
+    "duration": 100
+   },
+   {
+    "filename": "Enderman button prepped 91.aseprite",
+    "frame": { "x": 418, "y": 0, "w": 22, "h": 36 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 20, "h": 34 },
+    "sourceSize": { "w": 20, "h": 34 },
+    "duration": 100
+   },
+   {
+    "filename": "Enderman button prepped 92.aseprite",
+    "frame": { "x": 946, "y": 0, "w": 22, "h": 36 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 20, "h": 34 },
+    "sourceSize": { "w": 20, "h": 34 },
+    "duration": 100
+   },
+   {
+    "filename": "Enderman button prepped 93.aseprite",
+    "frame": { "x": 968, "y": 0, "w": 22, "h": 36 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 20, "h": 34 },
+    "sourceSize": { "w": 20, "h": 34 },
+    "duration": 100
+   },
+   {
+    "filename": "Enderman button prepped 94.aseprite",
+    "frame": { "x": 990, "y": 0, "w": 22, "h": 36 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 20, "h": 34 },
+    "sourceSize": { "w": 20, "h": 34 },
+    "duration": 100
+   },
+   {
+    "filename": "Enderman button prepped 95.aseprite",
+    "frame": { "x": 0, "y": 0, "w": 22, "h": 36 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 20, "h": 34 },
+    "sourceSize": { "w": 20, "h": 34 },
+    "duration": 100
+   },
+   {
+    "filename": "Enderman button prepped 96.aseprite",
+    "frame": { "x": 0, "y": 0, "w": 22, "h": 36 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 20, "h": 34 },
+    "sourceSize": { "w": 20, "h": 34 },
+    "duration": 100
+   },
+   {
+    "filename": "Enderman button prepped 97.aseprite",
+    "frame": { "x": 0, "y": 0, "w": 22, "h": 36 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 20, "h": 34 },
+    "sourceSize": { "w": 20, "h": 34 },
+    "duration": 100
+   },
+   {
+    "filename": "Enderman button prepped 98.aseprite",
+    "frame": { "x": 0, "y": 0, "w": 22, "h": 36 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 20, "h": 34 },
+    "sourceSize": { "w": 20, "h": 34 },
+    "duration": 100
+   },
+   {
+    "filename": "Enderman button prepped 99.aseprite",
+    "frame": { "x": 0, "y": 0, "w": 22, "h": 36 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 20, "h": 34 },
+    "sourceSize": { "w": 20, "h": 34 },
+    "duration": 100
+   },
+   {
+    "filename": "Enderman button prepped 100.aseprite",
+    "frame": { "x": 0, "y": 0, "w": 22, "h": 36 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 20, "h": 34 },
+    "sourceSize": { "w": 20, "h": 34 },
+    "duration": 100
+   },
+   {
+    "filename": "Enderman button prepped 101.aseprite",
+    "frame": { "x": 0, "y": 0, "w": 22, "h": 36 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 20, "h": 34 },
+    "sourceSize": { "w": 20, "h": 34 },
+    "duration": 100
+   },
+   {
+    "filename": "Enderman button prepped 102.aseprite",
+    "frame": { "x": 0, "y": 0, "w": 22, "h": 36 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 20, "h": 34 },
+    "sourceSize": { "w": 20, "h": 34 },
+    "duration": 100
+   }
+ ],
+ "meta": {
+  "app": "https://www.aseprite.org/",
+  "version": "1.2.34.1-x64",
+  "image": "hover08.png",
+  "format": "RGBA8888",
+  "size": { "w": 1012, "h": 36 },
+  "scale": "1",
+  "frameTags": [
+   { "name": "Loop", "from": 0, "to": 102, "direction": "forward" }
+  ],
+  "layers": [
+   { "name": "Hover Copy" },
+   { "name": "Masks & slicing", "group": "Hover Copy" },
+   { "name": "8-piece slicing", "group": "Masks & slicing", "opacity": 158, "blendMode": "normal" },
+   { "name": "Animation", "group": "Hover Copy", "opacity": 255, "blendMode": "normal" }
+  ],
+  "slices": [
+  ]
+ }
+}

@@ -1,0 +1,47 @@
+{ "frames": [
+   {
+    "filename": "0.ase",
+    "frame": { "x": 0, "y": 0, "w": 100, "h": 68 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 100, "h": 68 },
+    "sourceSize": { "w": 100, "h": 68 },
+    "duration": 220
+   },
+   {
+    "filename": "1.ase",
+    "frame": { "x": 100, "y": 0, "w": 100, "h": 68 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 100, "h": 68 },
+    "sourceSize": { "w": 100, "h": 68 },
+    "duration": 220
+   },
+   {
+    "filename": "2.ase",
+    "frame": { "x": 200, "y": 0, "w": 100, "h": 68 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 100, "h": 68 },
+    "sourceSize": { "w": 100, "h": 68 },
+    "duration": 220
+   },
+   {
+    "filename": "3.ase",
+    "frame": { "x": 300, "y": 0, "w": 100, "h": 68 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 100, "h": 68 },
+    "sourceSize": { "w": 100, "h": 68 },
+    "duration": 220
+   }
+ ],
+ "meta": {
+  "app": "https://www.aseprite.org/",
+  "version": "1.3.9.2-x64",
+  "image": "Left_Hover.png",
+  "format": "RGBA8888",
+  "size": { "w": 400, "h": 68 },
+  "scale": "1"
+ }
+}

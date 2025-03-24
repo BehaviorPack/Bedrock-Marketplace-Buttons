@@ -1,0 +1,30 @@
+{
+"content" : [
+    { "path" : "contents.json" },
+    { "path" : "textures" },
+    { "path" : "textures/ui" },
+    { "path" : "ui" },
+    { "path" : "ui/start_screen.json" },
+    { "path" : "manifest.json" },
+    { "path" : "textures/ui/SaleBanner.json" },
+    { "path" : "textures/ui/SaleBanner.png" },
+    { "path" : "textures/ui/BG_Hover.json" },
+    { "path" : "textures/ui/BG_Hover.png" },
+    { "path" : "textures/ui/MG_Hover.json" },
+    { "path" : "textures/ui/MG_Hover.png" },
+    { "path" : "textures/ui/FG_Hover.json" },
+    { "path" : "textures/ui/FG_Hover.png" },
+    { "path" : "textures/ui/BG_Default.json" },
+    { "path" : "textures/ui/BG_Default.png" },
+    { "path" : "textures/ui/MG_Default.json" },
+    { "path" : "textures/ui/MG_Default.png" },
+    { "path" : "textures/ui/FG_Default.json" },
+    { "path" : "textures/ui/FG_Default.png" },
+    { "path" : "textures/ui/Herd.json" },
+    { "path" : "textures/ui/Herd.png" },
+    { "path" : "textures/ui/Scrat.json" },
+    { "path" : "textures/ui/Scrat.png" }
+
+],
+"version" : 1
+}

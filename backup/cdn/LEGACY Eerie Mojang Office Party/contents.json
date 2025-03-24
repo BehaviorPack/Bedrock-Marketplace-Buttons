@@ -1,0 +1,122 @@
+{
+   "content" : [
+      {
+         "path" : "texts/fr_FR.lang"
+      },
+      {
+         "path" : "pack_icon.png"
+      },
+      {
+         "path" : "contents.json"
+      },
+      {
+         "path" : "textures/ui/eerie_badge.png"
+      },
+      {
+         "path" : "textures/ui/eerie_body.png"
+      },
+      {
+         "path" : "textures/ui/eerie_event.png"
+      },
+      {
+         "path" : "texts/zh_TW.lang"
+      },
+      {
+         "path" : "texts/nb_NO.lang"
+      },
+      {
+         "path" : "manifest.json"
+      },
+      {
+         "path" : "texts/fi_FI.lang"
+      },
+      {
+         "path" : "texts/el_GR.lang"
+      },
+      {
+         "path" : "texts/de_DE.lang"
+      },
+      {
+         "path" : "texts/bg_BG.lang"
+      },
+      {
+         "path" : "texts/cs_CZ.lang"
+      },
+      {
+         "path" : "texts/pt_PT.lang"
+      },
+      {
+         "path" : "texts/da_DK.lang"
+      },
+      {
+         "path" : "texts/en_GB.lang"
+      },
+      {
+         "path" : "texts/en_US.lang"
+      },
+      {
+         "path" : "texts/pl_PL.lang"
+      },
+      {
+         "path" : "texts/es_ES.lang"
+      },
+      {
+         "path" : "texts/es_MX.lang"
+      },
+      {
+         "path" : "texts/fr_CA.lang"
+      },
+      {
+         "path" : "ui/gathering_info_screen.json"
+      },
+      {
+         "path" : "ui/start_screen.json"
+      },
+      {
+         "path" : "texts/hu_HU.lang"
+      },
+      {
+         "path" : "texts/it_IT.lang"
+      },
+      {
+         "path" : "texts/id_ID.lang"
+      },
+      {
+         "path" : "texts/ja_JP.lang"
+      },
+      {
+         "path" : "texts/ko_KR.lang"
+      },
+      {
+         "path" : "texts/languages.json"
+      },
+      {
+         "path" : "texts/nl_NL.lang"
+      },
+      {
+         "path" : "texts/pt_BR.lang"
+      },
+      {
+         "path" : "texts/ru_RU.lang"
+      },
+      {
+         "path" : "texts/tr_TR.lang"
+      },
+      {
+         "path" : "texts/sk_SK.lang"
+      },
+      {
+         "path" : "texts/sv_SE.lang"
+      },
+      {
+         "path" : "texts/uk_UA.lang"
+      },
+      {
+         "path" : "texts/zh_CN.lang"
+      },
+      {
+         "path" : "textures/ui/eerie_badge.json"
+      }
+   ],
+   "version" : 1
+}

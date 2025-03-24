@@ -1,0 +1,119 @@
+{ "frames": [
+   {
+    "filename": "NewYearCelebration_Banner_5.png",
+    "frame": { "x": 0, "y": 0, "w": 395, "h": 54 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 395, "h": 54 },
+    "sourceSize": { "w": 395, "h": 54 },
+    "duration": 70
+   },
+   {
+    "filename": "NewYearCelebration_Banner_5.png",
+    "frame": { "x": 0, "y": 54, "w": 395, "h": 54 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 395, "h": 54 },
+    "sourceSize": { "w": 395, "h": 54 },
+    "duration": 70
+   },
+   {
+    "filename": "NewYearCelebration_Banner_5.png",
+    "frame": { "x": 0, "y": 108, "w": 395, "h": 54 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 395, "h": 54 },
+    "sourceSize": { "w": 395, "h": 54 },
+    "duration": 70
+   },
+   {
+    "filename": "NewYearCelebration_Banner_5.png",
+    "frame": { "x": 0, "y": 162, "w": 395, "h": 54 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 395, "h": 54 },
+    "sourceSize": { "w": 395, "h": 54 },
+    "duration": 70
+   },
+   {
+    "filename": "NewYearCelebration_Banner_5.png",
+    "frame": { "x": 0, "y": 216, "w": 395, "h": 54 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 395, "h": 54 },
+    "sourceSize": { "w": 395, "h": 54 },
+    "duration": 70
+   },
+   {
+    "filename": "NewYearCelebration_Banner_5.png",
+    "frame": { "x": 0, "y": 270, "w": 395, "h": 54 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 395, "h": 54 },
+    "sourceSize": { "w": 395, "h": 54 },
+    "duration": 70
+   },
+   {
+    "filename": "NewYearCelebration_Banner_5.png",
+    "frame": { "x": 0, "y": 324, "w": 395, "h": 54 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 395, "h": 54 },
+    "sourceSize": { "w": 395, "h": 54 },
+    "duration": 70
+    },
+   {
+    "filename": "NewYearCelebration_Banner_5.png",
+    "frame": { "x": 0, "y": 378, "w": 395, "h": 54 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 395, "h": 54 },
+    "sourceSize": { "w": 395, "h": 54 },
+    "duration": 70
+   },
+   {
+    "filename": "NewYearCelebration_Banner_5.png",
+    "frame": { "x": 0, "y": 432, "w": 395, "h": 54 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 395, "h": 54 },
+    "sourceSize": { "w": 395, "h": 54 },
+    "duration": 70
+   },
+   {
+    "filename": "NewYearCelebration_Banner_5.png",
+    "frame": { "x": 0, "y": 486, "w": 395, "h": 54 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 395, "h": 54 },
+    "sourceSize": { "w": 395, "h": 54 },
+    "duration": 70
+   },
+   {
+    "filename": "NewYearCelebration_Banner_5.png",
+    "frame": { "x": 0, "y": 540, "w": 395, "h": 54 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 395, "h": 54 },
+    "sourceSize": { "w": 395, "h": 54 },
+    "duration": 70
+   },
+   {
+    "filename": "NewYearCelebration_Banner_5.png",
+    "frame": { "x": 0, "y": 594, "w": 395, "h": 54 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 395, "h": 54 },
+    "sourceSize": { "w": 395, "h": 54 },
+    "duration": 70
+   }
+ ],
+ "meta": {
+  "app": "https://www.aseprite.org/",
+  "version": "1.2.34.1-x64",
+  "image": "NewYearCelebration_Banner_5.png",
+  "format": "RGBA8888",
+  "size": { "w": 395, "h": 648 },
+  "scale": "1"
+ }
+}

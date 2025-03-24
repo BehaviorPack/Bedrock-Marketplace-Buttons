@@ -1,0 +1,221 @@
+{ "frames": [
+   {
+    "filename": "MarketplaceTycoon #Hover 0.aseprite",
+    "frame": { "x": 0, "y": 0, "w": 37, "h": 28 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 37, "h": 28 },
+    "sourceSize": { "w": 37, "h": 28 },
+    "duration": 180
+   },
+   {
+    "filename": "MarketplaceTycoon #Hover 1.aseprite",
+    "frame": { "x": 37, "y": 0, "w": 37, "h": 28 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 37, "h": 28 },
+    "sourceSize": { "w": 37, "h": 28 },
+    "duration": 180
+   },
+   {
+    "filename": "MarketplaceTycoon #Hover 2.aseprite",
+    "frame": { "x": 74, "y": 0, "w": 37, "h": 28 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 37, "h": 28 },
+    "sourceSize": { "w": 37, "h": 28 },
+    "duration": 180
+   },
+   {
+    "filename": "MarketplaceTycoon #Hover 3.aseprite",
+    "frame": { "x": 111, "y": 0, "w": 37, "h": 28 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 37, "h": 28 },
+    "sourceSize": { "w": 37, "h": 28 },
+    "duration": 180
+   },
+   {
+    "filename": "MarketplaceTycoon #Hover 4.aseprite",
+    "frame": { "x": 148, "y": 0, "w": 37, "h": 28 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 37, "h": 28 },
+    "sourceSize": { "w": 37, "h": 28 },
+    "duration": 180
+   },
+   {
+    "filename": "MarketplaceTycoon #Hover 5.aseprite",
+    "frame": { "x": 185, "y": 0, "w": 37, "h": 28 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 37, "h": 28 },
+    "sourceSize": { "w": 37, "h": 28 },
+    "duration": 180
+   },
+   {
+    "filename": "MarketplaceTycoon #Hover 6.aseprite",
+    "frame": { "x": 222, "y": 0, "w": 37, "h": 28 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 37, "h": 28 },
+    "sourceSize": { "w": 37, "h": 28 },
+    "duration": 180
+   },
+   {
+    "filename": "MarketplaceTycoon #Hover 7.aseprite",
+    "frame": { "x": 259, "y": 0, "w": 37, "h": 28 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 37, "h": 28 },
+    "sourceSize": { "w": 37, "h": 28 },
+    "duration": 180
+   },
+   {
+    "filename": "MarketplaceTycoon #Hover 8.aseprite",
+    "frame": { "x": 296, "y": 0, "w": 37, "h": 28 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 37, "h": 28 },
+    "sourceSize": { "w": 37, "h": 28 },
+    "duration": 180
+   },
+   {
+    "filename": "MarketplaceTycoon #Hover 9.aseprite",
+    "frame": { "x": 333, "y": 0, "w": 37, "h": 28 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 37, "h": 28 },
+    "sourceSize": { "w": 37, "h": 28 },
+    "duration": 180
+   },
+   {
+    "filename": "MarketplaceTycoon #Hover 10.aseprite",
+    "frame": { "x": 370, "y": 0, "w": 37, "h": 28 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 37, "h": 28 },
+    "sourceSize": { "w": 37, "h": 28 },
+    "duration": 180
+   },
+   {
+    "filename": "MarketplaceTycoon #Hover 11.aseprite",
+    "frame": { "x": 407, "y": 0, "w": 37, "h": 28 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 37, "h": 28 },
+    "sourceSize": { "w": 37, "h": 28 },
+    "duration": 180
+   },
+   {
+    "filename": "MarketplaceTycoon #Hover 12.aseprite",
+    "frame": { "x": 444, "y": 0, "w": 37, "h": 28 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 37, "h": 28 },
+    "sourceSize": { "w": 37, "h": 28 },
+    "duration": 180
+   },
+   {
+    "filename": "MarketplaceTycoon #Hover 13.aseprite",
+    "frame": { "x": 481, "y": 0, "w": 37, "h": 28 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 37, "h": 28 },
+    "sourceSize": { "w": 37, "h": 28 },
+    "duration": 180
+   },
+   {
+    "filename": "MarketplaceTycoon #Hover 14.aseprite",
+    "frame": { "x": 518, "y": 0, "w": 37, "h": 28 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 37, "h": 28 },
+    "sourceSize": { "w": 37, "h": 28 },
+    "duration": 180
+   },
+   {
+    "filename": "MarketplaceTycoon #Hover 15.aseprite",
+    "frame": { "x": 555, "y": 0, "w": 37, "h": 28 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 37, "h": 28 },
+    "sourceSize": { "w": 37, "h": 28 },
+    "duration": 180
+   },
+   {
+    "filename": "MarketplaceTycoon #Hover 16.aseprite",
+    "frame": { "x": 592, "y": 0, "w": 37, "h": 28 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 37, "h": 28 },
+    "sourceSize": { "w": 37, "h": 28 },
+    "duration": 180
+   },
+   {
+    "filename": "MarketplaceTycoon #Hover 17.aseprite",
+    "frame": { "x": 629, "y": 0, "w": 37, "h": 28 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 37, "h": 28 },
+    "sourceSize": { "w": 37, "h": 28 },
+    "duration": 180
+   },
+   {
+    "filename": "MarketplaceTycoon #Hover 18.aseprite",
+    "frame": { "x": 666, "y": 0, "w": 37, "h": 28 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 37, "h": 28 },
+    "sourceSize": { "w": 37, "h": 28 },
+    "duration": 180
+   },
+   {
+    "filename": "MarketplaceTycoon #Hover 19.aseprite",
+    "frame": { "x": 703, "y": 0, "w": 37, "h": 28 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 37, "h": 28 },
+    "sourceSize": { "w": 37, "h": 28 },
+    "duration": 180
+   },
+   {
+    "filename": "MarketplaceTycoon #Hover 20.aseprite",
+    "frame": { "x": 740, "y": 0, "w": 37, "h": 28 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 37, "h": 28 },
+    "sourceSize": { "w": 37, "h": 28 },
+    "duration": 180
+   },
+   {
+    "filename": "MarketplaceTycoon #Hover 21.aseprite",
+    "frame": { "x": 777, "y": 0, "w": 37, "h": 28 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 37, "h": 28 },
+    "sourceSize": { "w": 37, "h": 28 },
+    "duration": 180
+   }
+ ],
+ "meta": {
+  "app": "https://www.aseprite.org/",
+  "version": "1.2.34.1-x64",
+  "image": "Jumping.png",
+  "format": "RGBA8888",
+  "size": { "w": 814, "h": 28 },
+  "scale": "1",
+  "frameTags": [
+   { "name": "Default", "from": 0, "to": 95, "direction": "forward" },
+   { "name": "Typing", "from": 0, "to": 3, "direction": "forward" },
+   { "name": "Hover", "from": 96, "to": 117, "direction": "forward" }
+  ],
+  "layers": [
+   { "name": "Dream Player", "opacity": 255, "blendMode": "normal" },
+   { "name": "Hopper", "opacity": 255, "blendMode": "normal" }
+  ],
+  "slices": [
+   { "name": "Right Side", "color": "#fe5b59ff", "keys": [{ "frame": 0, "bounds": {"x": 9895936, "y": -1669857248, "w": 229757421, "h": -1006616448 } }] }
+  ]
+ }
+}

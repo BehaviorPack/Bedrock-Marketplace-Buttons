@@ -1,0 +1,104 @@
+{ "frames": [
+   {
+    "filename": "Ultimate Dragons_hover 0.aseprite",
+    "frame": { "x": 0, "y": 0, "w": 44, "h": 68 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 44, "h": 68 },
+    "sourceSize": { "w": 44, "h": 68 },
+    "duration": 1000
+   },
+   {
+    "filename": "Ultimate Dragons_hover 1.aseprite",
+    "frame": { "x": 44, "y": 0, "w": 44, "h": 68 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 44, "h": 68 },
+    "sourceSize": { "w": 44, "h": 68 },
+    "duration": 100
+   },
+   {
+    "filename": "Ultimate Dragons_hover 2.aseprite",
+    "frame": { "x": 88, "y": 0, "w": 44, "h": 68 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 44, "h": 68 },
+    "sourceSize": { "w": 44, "h": 68 },
+    "duration": 100
+   },
+   {
+    "filename": "Ultimate Dragons_hover 3.aseprite",
+    "frame": { "x": 132, "y": 0, "w": 44, "h": 68 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 44, "h": 68 },
+    "sourceSize": { "w": 44, "h": 68 },
+    "duration": 100
+   },
+   {
+    "filename": "Ultimate Dragons_hover 4.aseprite",
+    "frame": { "x": 176, "y": 0, "w": 44, "h": 68 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 44, "h": 68 },
+    "sourceSize": { "w": 44, "h": 68 },
+    "duration": 100
+   },
+   {
+    "filename": "Ultimate Dragons_hover 5.aseprite",
+    "frame": { "x": 220, "y": 0, "w": 44, "h": 68 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 44, "h": 68 },
+    "sourceSize": { "w": 44, "h": 68 },
+    "duration": 100
+   },
+   {
+    "filename": "Ultimate Dragons_hover 6.aseprite",
+    "frame": { "x": 264, "y": 0, "w": 44, "h": 68 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 44, "h": 68 },
+    "sourceSize": { "w": 44, "h": 68 },
+    "duration": 100
+   },
+   {
+    "filename": "Ultimate Dragons_hover 7.aseprite",
+    "frame": { "x": 308, "y": 0, "w": 44, "h": 68 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 44, "h": 68 },
+    "sourceSize": { "w": 44, "h": 68 },
+    "duration": 100
+   },
+   {
+    "filename": "Ultimate Dragons_hover 8.aseprite",
+    "frame": { "x": 352, "y": 0, "w": 44, "h": 68 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 44, "h": 68 },
+    "sourceSize": { "w": 44, "h": 68 },
+    "duration": 1000
+   }
+ ],
+ "meta": {
+  "app": "http://www.aseprite.org/",
+  "version": "1.2.25-x64",
+  "image": "hover08-sheet.png",
+  "format": "RGBA8888",
+  "size": { "w": 396, "h": 68 },
+  "scale": "1",
+  "frameTags": [
+  ],
+  "layers": [
+   { "name": "shadow", "opacity": 255, "blendMode": "normal" },
+   { "name": "dragon", "opacity": 255, "blendMode": "normal" },
+   { "name": "z", "opacity": 255, "blendMode": "normal" },
+   { "name": "grass", "opacity": 255, "blendMode": "normal" },
+   { "name": "mask", "opacity": 255, "blendMode": "normal" },
+   { "name": "mask Copy Copy", "opacity": 255, "blendMode": "normal" }
+  ],
+  "slices": [
+  ]
+ }
+}

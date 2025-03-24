@@ -1,0 +1,26 @@
+﻿### Start Screen Buttons Countdown
+
+gathering.start_screen.countdown.button=Εκδήλωση Ταινίας	###{MaxLength=19}This is a button that the player presses to start an event on the homescreen
+
+### Start Screen Buttons During
+
+gathering.start_screen.during.button=Προβολή Ταινίας	###{MaxLength=19}This is a button that the player presses to start an event on the homescreen
+
+### PDP Buttons Countdown
+
+gathering.info.countdown.action_button=Διάβασε περισσότερα	###{MaxLength=30}The player presses this button to read more about the event.
+gathering.info.countdown.info_button=Πληροφορίες Ταινίας	###{MaxLength=30}The player presses this button to read more about the movie.
+
+### PDP Buttons During
+
+gathering.info.during.action_button=Παίξε τώρα!	###{MaxLength=30}Pressing this button allows the player to vote.
+gathering.info.during.info_button=Διάβασε περισσότερα	###{MaxLength=30}The player presses this button to read more about the event.
+
+### Client Outdated
+gathering.info.body.update=Ενημέρωσε στην τελευταία έκδοση για να αποκτήσεις πρόσβαση σε αυτήν τη Ζωντανή Εκδήλωση.	###{MaxLength=300}An updated version of Minecraft is required for the user to join this event
+gathering.info.button.update=Απαιτείται ενημέρωση	###{MaxLength=30}An updated version of Minecraft is required for the user to proceed
+
+### PDP
+gathering.info.header=Ζωντανή Εκδήλωση «Μια Ταινία Minecraft»	###{MaxLength=60}This is the name of the event. A Minecraft Movie is the name. Live Event is the type of event
+gathering.info.title=Ζωντανή Εκδήλωση «Μια Ταινία Minecraft»!	###{MaxLength=60}This is the name of the event. A Minecraft Movie is the name. Live Event is the type of event
+gathering.info.body=Έλα μαζί με τον Steve και την παρέα του στο Χωριό Μίντπορτ, για να τους βοηθήσεις να αμυνθούν ενάντια στην εισβολή των Πίγκλιν.~LINEBREAK~~LINEBREAK~Μπες σε αυτήν την εξελισσόμενη ζωντανή εκδήλωση και παίξε παιχνίδια για να αναβαθμίσεις τον εξοπλισμό σου και να ενισχύσεις τις άμυνες του χωριού. Ολοκλήρωσε προκλήσεις για να κερδίσεις ανταμοιβές και ολοκληρώσέ τες όλες για να κερδίσεις την Κάπα της Ταινίας!~LINEBREAK~~LINEBREAK~Μια εκδήλωση «Μια Ταινία Minecraft», η οποία ξεκινά εδώ στις 25 Μαρτίου, 2:00 μ.μ. ώρα Ειρηνικού, και λήγει στις 7 Απριλίου, 2:00 μ.μ. ώρα Ειρηνικού.	###{MaxLength=1000}{StrContains=~LINEBREAK~}Midport is the name of the Village. piglin is a character in the Minecraft game. Movie Cape is the name of a reward the player can earn. The date and time should remain in Pacific Time.

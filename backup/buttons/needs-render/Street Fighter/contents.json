@@ -1,0 +1,23 @@
+{
+"content" : [
+    { "path" : "contents.json" },
+    { "path" : "textures" },
+    { "path" : "textures/ui" },
+    { "path" : "ui" },
+    { "path" : "ui/start_screen.json" },
+    { "path" : "manifest.json" },
+    { "path" : "textures/ui/BG_Default.json" },
+    { "path" : "textures/ui/BG_Default.png" },
+    { "path" : "textures/ui/BG_Hover.json" },
+    { "path" : "textures/ui/BG_Hover.png" },
+    { "path" : "textures/ui/Ryu.json" },
+    { "path" : "textures/ui/Ryu.png" },
+    { "path" : "textures/ui/Sagat.json" },
+    { "path" : "textures/ui/Sagat.png" },
+    { "path" : "textures/ui/ChunLi.json" },
+    { "path" : "textures/ui/ChunLi.png" },
+    { "path" : "textures/ui/Juri.json" },
+    { "path" : "textures/ui/Juri.png" }
+],
+"version" : 1
+}

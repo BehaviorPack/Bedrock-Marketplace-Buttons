@@ -1,0 +1,17 @@
+{
+   "content" : [
+      {
+         "path" : "manifest.json"
+      },      
+      {
+         "path" : "contents.json"
+      },
+	  {
+		 "path": "ui"
+	  },
+	  {
+		 "path": "ui/store_data_driven_screen.json"
+	  }
+   ],
+   "version" : 1
+}

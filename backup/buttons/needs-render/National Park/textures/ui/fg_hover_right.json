@@ -1,0 +1,587 @@
+{ "frames": [
+   {
+    "filename": "NATIONAL PARK 20241007 FINAL (HOVER FG) #HOVER 0.aseprite",
+    "frame": { "x": 0, "y": 0, "w": 90, "h": 66 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 90, "h": 66 },
+    "sourceSize": { "w": 90, "h": 66 },
+    "duration": 100
+   },
+   {
+    "filename": "NATIONAL PARK 20241007 FINAL (HOVER FG) #HOVER 1.aseprite",
+    "frame": { "x": 0, "y": 0, "w": 90, "h": 66 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 90, "h": 66 },
+    "sourceSize": { "w": 90, "h": 66 },
+    "duration": 100
+   },
+   {
+    "filename": "NATIONAL PARK 20241007 FINAL (HOVER FG) #HOVER 2.aseprite",
+    "frame": { "x": 0, "y": 0, "w": 90, "h": 66 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 90, "h": 66 },
+    "sourceSize": { "w": 90, "h": 66 },
+    "duration": 100
+   },
+   {
+    "filename": "NATIONAL PARK 20241007 FINAL (HOVER FG) #HOVER 3.aseprite",
+    "frame": { "x": 90, "y": 0, "w": 90, "h": 66 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 90, "h": 66 },
+    "sourceSize": { "w": 90, "h": 66 },
+    "duration": 100
+   },
+   {
+    "filename": "NATIONAL PARK 20241007 FINAL (HOVER FG) #HOVER 4.aseprite",
+    "frame": { "x": 90, "y": 0, "w": 90, "h": 66 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 90, "h": 66 },
+    "sourceSize": { "w": 90, "h": 66 },
+    "duration": 100
+   },
+   {
+    "filename": "NATIONAL PARK 20241007 FINAL (HOVER FG) #HOVER 5.aseprite",
+    "frame": { "x": 180, "y": 0, "w": 90, "h": 66 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 90, "h": 66 },
+    "sourceSize": { "w": 90, "h": 66 },
+    "duration": 100
+   },
+   {
+    "filename": "NATIONAL PARK 20241007 FINAL (HOVER FG) #HOVER 6.aseprite",
+    "frame": { "x": 180, "y": 0, "w": 90, "h": 66 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 90, "h": 66 },
+    "sourceSize": { "w": 90, "h": 66 },
+    "duration": 100
+   },
+   {
+    "filename": "NATIONAL PARK 20241007 FINAL (HOVER FG) #HOVER 7.aseprite",
+    "frame": { "x": 90, "y": 0, "w": 90, "h": 66 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 90, "h": 66 },
+    "sourceSize": { "w": 90, "h": 66 },
+    "duration": 100
+   },
+   {
+    "filename": "NATIONAL PARK 20241007 FINAL (HOVER FG) #HOVER 8.aseprite",
+    "frame": { "x": 90, "y": 0, "w": 90, "h": 66 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 90, "h": 66 },
+    "sourceSize": { "w": 90, "h": 66 },
+    "duration": 100
+   },
+   {
+    "filename": "NATIONAL PARK 20241007 FINAL (HOVER FG) #HOVER 9.aseprite",
+    "frame": { "x": 0, "y": 0, "w": 90, "h": 66 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 90, "h": 66 },
+    "sourceSize": { "w": 90, "h": 66 },
+    "duration": 100
+   },
+   {
+    "filename": "NATIONAL PARK 20241007 FINAL (HOVER FG) #HOVER 10.aseprite",
+    "frame": { "x": 90, "y": 0, "w": 90, "h": 66 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 90, "h": 66 },
+    "sourceSize": { "w": 90, "h": 66 },
+    "duration": 100
+   },
+   {
+    "filename": "NATIONAL PARK 20241007 FINAL (HOVER FG) #HOVER 11.aseprite",
+    "frame": { "x": 90, "y": 0, "w": 90, "h": 66 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 90, "h": 66 },
+    "sourceSize": { "w": 90, "h": 66 },
+    "duration": 100
+   },
+   {
+    "filename": "NATIONAL PARK 20241007 FINAL (HOVER FG) #HOVER 12.aseprite",
+    "frame": { "x": 180, "y": 0, "w": 90, "h": 66 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 90, "h": 66 },
+    "sourceSize": { "w": 90, "h": 66 },
+    "duration": 100
+   },
+   {
+    "filename": "NATIONAL PARK 20241007 FINAL (HOVER FG) #HOVER 13.aseprite",
+    "frame": { "x": 90, "y": 0, "w": 90, "h": 66 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 90, "h": 66 },
+    "sourceSize": { "w": 90, "h": 66 },
+    "duration": 100
+   },
+   {
+    "filename": "NATIONAL PARK 20241007 FINAL (HOVER FG) #HOVER 14.aseprite",
+    "frame": { "x": 0, "y": 0, "w": 90, "h": 66 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 90, "h": 66 },
+    "sourceSize": { "w": 90, "h": 66 },
+    "duration": 100
+   },
+   {
+    "filename": "NATIONAL PARK 20241007 FINAL (HOVER FG) #HOVER 15.aseprite",
+    "frame": { "x": 0, "y": 0, "w": 90, "h": 66 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 90, "h": 66 },
+    "sourceSize": { "w": 90, "h": 66 },
+    "duration": 100
+   },
+   {
+    "filename": "NATIONAL PARK 20241007 FINAL (HOVER FG) #HOVER 16.aseprite",
+    "frame": { "x": 0, "y": 0, "w": 90, "h": 66 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 90, "h": 66 },
+    "sourceSize": { "w": 90, "h": 66 },
+    "duration": 100
+   },
+   {
+    "filename": "NATIONAL PARK 20241007 FINAL (HOVER FG) #HOVER 17.aseprite",
+    "frame": { "x": 0, "y": 0, "w": 90, "h": 66 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 90, "h": 66 },
+    "sourceSize": { "w": 90, "h": 66 },
+    "duration": 100
+   },
+   {
+    "filename": "NATIONAL PARK 20241007 FINAL (HOVER FG) #HOVER 18.aseprite",
+    "frame": { "x": 0, "y": 0, "w": 90, "h": 66 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 90, "h": 66 },
+    "sourceSize": { "w": 90, "h": 66 },
+    "duration": 100
+   },
+   {
+    "filename": "NATIONAL PARK 20241007 FINAL (HOVER FG) #HOVER 19.aseprite",
+    "frame": { "x": 270, "y": 0, "w": 90, "h": 66 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 90, "h": 66 },
+    "sourceSize": { "w": 90, "h": 66 },
+    "duration": 100
+   },
+   {
+    "filename": "NATIONAL PARK 20241007 FINAL (HOVER FG) #HOVER 20.aseprite",
+    "frame": { "x": 360, "y": 0, "w": 90, "h": 66 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 90, "h": 66 },
+    "sourceSize": { "w": 90, "h": 66 },
+    "duration": 100
+   },
+   {
+    "filename": "NATIONAL PARK 20241007 FINAL (HOVER FG) #HOVER 21.aseprite",
+    "frame": { "x": 450, "y": 0, "w": 90, "h": 66 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 90, "h": 66 },
+    "sourceSize": { "w": 90, "h": 66 },
+    "duration": 100
+   },
+   {
+    "filename": "NATIONAL PARK 20241007 FINAL (HOVER FG) #HOVER 22.aseprite",
+    "frame": { "x": 540, "y": 0, "w": 90, "h": 66 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 90, "h": 66 },
+    "sourceSize": { "w": 90, "h": 66 },
+    "duration": 100
+   },
+   {
+    "filename": "NATIONAL PARK 20241007 FINAL (HOVER FG) #HOVER 23.aseprite",
+    "frame": { "x": 630, "y": 0, "w": 90, "h": 66 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 90, "h": 66 },
+    "sourceSize": { "w": 90, "h": 66 },
+    "duration": 100
+   },
+   {
+    "filename": "NATIONAL PARK 20241007 FINAL (HOVER FG) #HOVER 24.aseprite",
+    "frame": { "x": 720, "y": 0, "w": 90, "h": 66 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 90, "h": 66 },
+    "sourceSize": { "w": 90, "h": 66 },
+    "duration": 100
+   },
+   {
+    "filename": "NATIONAL PARK 20241007 FINAL (HOVER FG) #HOVER 25.aseprite",
+    "frame": { "x": 720, "y": 0, "w": 90, "h": 66 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 90, "h": 66 },
+    "sourceSize": { "w": 90, "h": 66 },
+    "duration": 100
+   },
+   {
+    "filename": "NATIONAL PARK 20241007 FINAL (HOVER FG) #HOVER 26.aseprite",
+    "frame": { "x": 810, "y": 0, "w": 90, "h": 66 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 90, "h": 66 },
+    "sourceSize": { "w": 90, "h": 66 },
+    "duration": 100
+   },
+   {
+    "filename": "NATIONAL PARK 20241007 FINAL (HOVER FG) #HOVER 27.aseprite",
+    "frame": { "x": 810, "y": 0, "w": 90, "h": 66 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 90, "h": 66 },
+    "sourceSize": { "w": 90, "h": 66 },
+    "duration": 100
+   },
+   {
+    "filename": "NATIONAL PARK 20241007 FINAL (HOVER FG) #HOVER 28.aseprite",
+    "frame": { "x": 900, "y": 0, "w": 90, "h": 66 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 90, "h": 66 },
+    "sourceSize": { "w": 90, "h": 66 },
+    "duration": 100
+   },
+   {
+    "filename": "NATIONAL PARK 20241007 FINAL (HOVER FG) #HOVER 29.aseprite",
+    "frame": { "x": 900, "y": 0, "w": 90, "h": 66 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 90, "h": 66 },
+    "sourceSize": { "w": 90, "h": 66 },
+    "duration": 100
+   },
+   {
+    "filename": "NATIONAL PARK 20241007 FINAL (HOVER FG) #HOVER 30.aseprite",
+    "frame": { "x": 900, "y": 0, "w": 90, "h": 66 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 90, "h": 66 },
+    "sourceSize": { "w": 90, "h": 66 },
+    "duration": 100
+   },
+   {
+    "filename": "NATIONAL PARK 20241007 FINAL (HOVER FG) #HOVER 31.aseprite",
+    "frame": { "x": 990, "y": 0, "w": 90, "h": 66 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 90, "h": 66 },
+    "sourceSize": { "w": 90, "h": 66 },
+    "duration": 100
+   },
+   {
+    "filename": "NATIONAL PARK 20241007 FINAL (HOVER FG) #HOVER 32.aseprite",
+    "frame": { "x": 1080, "y": 0, "w": 90, "h": 66 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 90, "h": 66 },
+    "sourceSize": { "w": 90, "h": 66 },
+    "duration": 100
+   },
+   {
+    "filename": "NATIONAL PARK 20241007 FINAL (HOVER FG) #HOVER 33.aseprite",
+    "frame": { "x": 450, "y": 0, "w": 90, "h": 66 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 90, "h": 66 },
+    "sourceSize": { "w": 90, "h": 66 },
+    "duration": 100
+   },
+   {
+    "filename": "NATIONAL PARK 20241007 FINAL (HOVER FG) #HOVER 34.aseprite",
+    "frame": { "x": 360, "y": 0, "w": 90, "h": 66 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 90, "h": 66 },
+    "sourceSize": { "w": 90, "h": 66 },
+    "duration": 100
+   },
+   {
+    "filename": "NATIONAL PARK 20241007 FINAL (HOVER FG) #HOVER 35.aseprite",
+    "frame": { "x": 270, "y": 0, "w": 90, "h": 66 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 90, "h": 66 },
+    "sourceSize": { "w": 90, "h": 66 },
+    "duration": 100
+   },
+   {
+    "filename": "NATIONAL PARK 20241007 FINAL (HOVER FG) #HOVER 36.aseprite",
+    "frame": { "x": 0, "y": 0, "w": 90, "h": 66 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 90, "h": 66 },
+    "sourceSize": { "w": 90, "h": 66 },
+    "duration": 100
+   },
+   {
+    "filename": "NATIONAL PARK 20241007 FINAL (HOVER FG) #HOVER 37.aseprite",
+    "frame": { "x": 0, "y": 0, "w": 90, "h": 66 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 90, "h": 66 },
+    "sourceSize": { "w": 90, "h": 66 },
+    "duration": 100
+   },
+   {
+    "filename": "NATIONAL PARK 20241007 FINAL (HOVER FG) #HOVER 38.aseprite",
+    "frame": { "x": 0, "y": 0, "w": 90, "h": 66 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 90, "h": 66 },
+    "sourceSize": { "w": 90, "h": 66 },
+    "duration": 100
+   },
+   {
+    "filename": "NATIONAL PARK 20241007 FINAL (HOVER FG) #HOVER 39.aseprite",
+    "frame": { "x": 0, "y": 0, "w": 90, "h": 66 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 90, "h": 66 },
+    "sourceSize": { "w": 90, "h": 66 },
+    "duration": 100
+   },
+   {
+    "filename": "NATIONAL PARK 20241007 FINAL (HOVER FG) #HOVER 40.aseprite",
+    "frame": { "x": 0, "y": 0, "w": 90, "h": 66 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 90, "h": 66 },
+    "sourceSize": { "w": 90, "h": 66 },
+    "duration": 100
+   },
+   {
+    "filename": "NATIONAL PARK 20241007 FINAL (HOVER FG) #HOVER 41.aseprite",
+    "frame": { "x": 0, "y": 0, "w": 90, "h": 66 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 90, "h": 66 },
+    "sourceSize": { "w": 90, "h": 66 },
+    "duration": 100
+   },
+   {
+    "filename": "NATIONAL PARK 20241007 FINAL (HOVER FG) #HOVER 42.aseprite",
+    "frame": { "x": 1170, "y": 0, "w": 90, "h": 66 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 90, "h": 66 },
+    "sourceSize": { "w": 90, "h": 66 },
+    "duration": 100
+   },
+   {
+    "filename": "NATIONAL PARK 20241007 FINAL (HOVER FG) #HOVER 43.aseprite",
+    "frame": { "x": 1170, "y": 0, "w": 90, "h": 66 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 90, "h": 66 },
+    "sourceSize": { "w": 90, "h": 66 },
+    "duration": 100
+   },
+   {
+    "filename": "NATIONAL PARK 20241007 FINAL (HOVER FG) #HOVER 44.aseprite",
+    "frame": { "x": 1260, "y": 0, "w": 90, "h": 66 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 90, "h": 66 },
+    "sourceSize": { "w": 90, "h": 66 },
+    "duration": 100
+   },
+   {
+    "filename": "NATIONAL PARK 20241007 FINAL (HOVER FG) #HOVER 45.aseprite",
+    "frame": { "x": 1260, "y": 0, "w": 90, "h": 66 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 90, "h": 66 },
+    "sourceSize": { "w": 90, "h": 66 },
+    "duration": 100
+   },
+   {
+    "filename": "NATIONAL PARK 20241007 FINAL (HOVER FG) #HOVER 46.aseprite",
+    "frame": { "x": 1260, "y": 0, "w": 90, "h": 66 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 90, "h": 66 },
+    "sourceSize": { "w": 90, "h": 66 },
+    "duration": 100
+   },
+   {
+    "filename": "NATIONAL PARK 20241007 FINAL (HOVER FG) #HOVER 47.aseprite",
+    "frame": { "x": 1260, "y": 0, "w": 90, "h": 66 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 90, "h": 66 },
+    "sourceSize": { "w": 90, "h": 66 },
+    "duration": 100
+   },
+   {
+    "filename": "NATIONAL PARK 20241007 FINAL (HOVER FG) #HOVER 48.aseprite",
+    "frame": { "x": 1260, "y": 0, "w": 90, "h": 66 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 90, "h": 66 },
+    "sourceSize": { "w": 90, "h": 66 },
+    "duration": 100
+   },
+   {
+    "filename": "NATIONAL PARK 20241007 FINAL (HOVER FG) #HOVER 49.aseprite",
+    "frame": { "x": 1260, "y": 0, "w": 90, "h": 66 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 90, "h": 66 },
+    "sourceSize": { "w": 90, "h": 66 },
+    "duration": 100
+   },
+   {
+    "filename": "NATIONAL PARK 20241007 FINAL (HOVER FG) #HOVER 50.aseprite",
+    "frame": { "x": 1350, "y": 0, "w": 90, "h": 66 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 90, "h": 66 },
+    "sourceSize": { "w": 90, "h": 66 },
+    "duration": 100
+   },
+   {
+    "filename": "NATIONAL PARK 20241007 FINAL (HOVER FG) #HOVER 51.aseprite",
+    "frame": { "x": 1350, "y": 0, "w": 90, "h": 66 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 90, "h": 66 },
+    "sourceSize": { "w": 90, "h": 66 },
+    "duration": 100
+   },
+   {
+    "filename": "NATIONAL PARK 20241007 FINAL (HOVER FG) #HOVER 52.aseprite",
+    "frame": { "x": 0, "y": 0, "w": 90, "h": 66 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 90, "h": 66 },
+    "sourceSize": { "w": 90, "h": 66 },
+    "duration": 100
+   },
+   {
+    "filename": "NATIONAL PARK 20241007 FINAL (HOVER FG) #HOVER 53.aseprite",
+    "frame": { "x": 0, "y": 0, "w": 90, "h": 66 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 90, "h": 66 },
+    "sourceSize": { "w": 90, "h": 66 },
+    "duration": 100
+   },
+   {
+    "filename": "NATIONAL PARK 20241007 FINAL (HOVER FG) #HOVER 54.aseprite",
+    "frame": { "x": 0, "y": 0, "w": 90, "h": 66 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 90, "h": 66 },
+    "sourceSize": { "w": 90, "h": 66 },
+    "duration": 100
+   },
+   {
+    "filename": "NATIONAL PARK 20241007 FINAL (HOVER FG) #HOVER 55.aseprite",
+    "frame": { "x": 0, "y": 0, "w": 90, "h": 66 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 90, "h": 66 },
+    "sourceSize": { "w": 90, "h": 66 },
+    "duration": 100
+   },
+   {
+    "filename": "NATIONAL PARK 20241007 FINAL (HOVER FG) #HOVER 56.aseprite",
+    "frame": { "x": 0, "y": 0, "w": 90, "h": 66 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 90, "h": 66 },
+    "sourceSize": { "w": 90, "h": 66 },
+    "duration": 100
+   },
+   {
+    "filename": "NATIONAL PARK 20241007 FINAL (HOVER FG) #HOVER 57.aseprite",
+    "frame": { "x": 0, "y": 0, "w": 90, "h": 66 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 90, "h": 66 },
+    "sourceSize": { "w": 90, "h": 66 },
+    "duration": 100
+   },
+   {
+    "filename": "NATIONAL PARK 20241007 FINAL (HOVER FG) #HOVER 58.aseprite",
+    "frame": { "x": 0, "y": 0, "w": 90, "h": 66 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 90, "h": 66 },
+    "sourceSize": { "w": 90, "h": 66 },
+    "duration": 100
+   },
+   {
+    "filename": "NATIONAL PARK 20241007 FINAL (HOVER FG) #HOVER 59.aseprite",
+    "frame": { "x": 0, "y": 0, "w": 90, "h": 66 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 90, "h": 66 },
+    "sourceSize": { "w": 90, "h": 66 },
+    "duration": 100
+   },
+   {
+    "filename": "NATIONAL PARK 20241007 FINAL (HOVER FG) #HOVER 60.aseprite",
+    "frame": { "x": 0, "y": 0, "w": 90, "h": 66 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 90, "h": 66 },
+    "sourceSize": { "w": 90, "h": 66 },
+    "duration": 100
+   },
+   {
+    "filename": "NATIONAL PARK 20241007 FINAL (HOVER FG) #HOVER 61.aseprite",
+    "frame": { "x": 0, "y": 0, "w": 90, "h": 66 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 90, "h": 66 },
+    "sourceSize": { "w": 90, "h": 66 },
+    "duration": 100
+   },
+   {
+    "filename": "NATIONAL PARK 20241007 FINAL (HOVER FG) #HOVER 62.aseprite",
+    "frame": { "x": 0, "y": 0, "w": 90, "h": 66 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 90, "h": 66 },
+    "sourceSize": { "w": 90, "h": 66 },
+    "duration": 100
+   },
+   {
+    "filename": "NATIONAL PARK 20241007 FINAL (HOVER FG) #HOVER 63.aseprite",
+    "frame": { "x": 0, "y": 0, "w": 90, "h": 66 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 90, "h": 66 },
+    "sourceSize": { "w": 90, "h": 66 },
+    "duration": 100
+   }
+ ],
+ "meta": {
+  "app": "https://www.aseprite.org/",
+  "version": "1.3.8.1-x64",
+  "image": "fg_hover_right.png",
+  "format": "RGBA8888",
+  "size": { "w": 1440, "h": 66 },
+  "scale": "1"
+ }
+}

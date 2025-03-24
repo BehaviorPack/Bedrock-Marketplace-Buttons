@@ -1,0 +1,26 @@
+﻿### Start Screen Buttons Countdown
+
+gathering.start_screen.countdown.button=영화 이벤트	###{MaxLength=19}This is a button that the player presses to start an event on the homescreen
+
+### Start Screen Buttons During
+
+gathering.start_screen.during.button=영화 이벤트 플레이하기	###{MaxLength=19}This is a button that the player presses to start an event on the homescreen
+
+### PDP Buttons Countdown
+
+gathering.info.countdown.action_button=더 보기	###{MaxLength=30}The player presses this button to read more about the event.
+gathering.info.countdown.info_button=영화 정보	###{MaxLength=30}The player presses this button to read more about the movie.
+
+### PDP Buttons During
+
+gathering.info.during.action_button=지금 플레이하기	###{MaxLength=30}Pressing this button allows the player to vote.
+gathering.info.during.info_button=더 보기	###{MaxLength=30}The player presses this button to read more about the event.
+
+### Client Outdated
+gathering.info.body.update=이 라이브 이벤트에 액세스하려면 최신 버전으로 업데이트하세요.	###{MaxLength=300}An updated version of Minecraft is required for the user to join this event
+gathering.info.button.update=업데이트 필요	###{MaxLength=30}An updated version of Minecraft is required for the user to proceed
+
+### PDP
+gathering.info.header=마인크래프트 무비 라이브 이벤트	###{MaxLength=60}This is the name of the event. A Minecraft Movie is the name. Live Event is the type of event
+gathering.info.title=마인크래프트 무비 라이브 이벤트!	###{MaxLength=60}This is the name of the event. A Minecraft Movie is the name. Live Event is the type of event
+gathering.info.body=미드포트 마을에서 스티브와 그의 동료들과 함께 피글린의 침략을 방어하세요!~LINEBREAK~~LINEBREAK~이 진화하는 라이브 이벤트에 뛰어들어 게임을 플레이하여 장비를 업그레이드하고 마을 방어를 강화하세요. 챌린지를 완료하여 보상을 획득하고 모두 완료하여 영화 망토를 획득하세요!~LINEBREAK~~LINEBREAK~마인크래프트 무비 라이브 이벤트는 3월 25일 오후 2:00(태평양 표준시)에 시작하여 4월 7일 오후 2:00(태평양 표준시)까지 진행됩니다.	###{MaxLength=1000}{StrContains=~LINEBREAK~}Midport is the name of the Village. piglin is a character in the Minecraft game. Movie Cape is the name of a reward the player can earn. The date and time should remain in Pacific Time.

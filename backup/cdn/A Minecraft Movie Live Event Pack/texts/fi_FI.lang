@@ -1,0 +1,26 @@
+﻿### Start Screen Buttons Countdown
+
+gathering.start_screen.countdown.button=Elokuvatapahtuma	###{MaxLength=19}This is a button that the player presses to start an event on the homescreen
+
+### Start Screen Buttons During
+
+gathering.start_screen.during.button=Elokuvatapahtuma	###{MaxLength=19}This is a button that the player presses to start an event on the homescreen
+
+### PDP Buttons Countdown
+
+gathering.info.countdown.action_button=Lue lisätietoja	###{MaxLength=30}The player presses this button to read more about the event.
+gathering.info.countdown.info_button=Elokuvan tiedot	###{MaxLength=30}The player presses this button to read more about the movie.
+
+### PDP Buttons During
+
+gathering.info.during.action_button=Pelaa nyt!	###{MaxLength=30}Pressing this button allows the player to vote.
+gathering.info.during.info_button=Lue lisätietoja	###{MaxLength=30}The player presses this button to read more about the event.
+
+### Client Outdated
+gathering.info.body.update=Päivitä viimeisimpään versioon päästäksesi tähän live-tapahtumaan.	###{MaxLength=300}An updated version of Minecraft is required for the user to join this event
+gathering.info.button.update=Vaatii päivityksen	###{MaxLength=30}An updated version of Minecraft is required for the user to proceed
+
+### PDP
+gathering.info.header=Minecraft-elokuva-live-tapahtuma	###{MaxLength=60}This is the name of the event. A Minecraft Movie is the name. Live Event is the type of event
+gathering.info.title=Minecraft-elokuva-live-tapahtuma!	###{MaxLength=60}This is the name of the event. A Minecraft Movie is the name. Live Event is the type of event
+gathering.info.body=Liity Steven ja kumppanien seuraan Keskiportin kylässä ja puolustaudu piglinien hyökkäystä vastaan!~LINEBREAK~~LINEBREAK~Hyppää kehittyvään live-tapahtumaan ja pelaa pelejä päivittääksesi varustustasi ja kylän puolustuksia. Ansaitse palkintoja suorittamalla haasteita, suorita kaikki haasteet niin saat elokuvaviitan!~LINEBREAK~~LINEBREAK~Minecraft-elokuva-live-tapahtuma käynnistyy täällä 25. maaliskuuta klo 14.00 PT (26. maaliskuuta klo 0.00 Suomen aikaa) ja päättyy 7. huhtikuuta klo 14.00 PT (8. huhtikuuta klo 0.00 Suomen aikaa).	###{MaxLength=1000}{StrContains=~LINEBREAK~}Midport is the name of the Village. piglin is a character in the Minecraft game. Movie Cape is the name of a reward the player can earn. The date and time should remain in Pacific Time.

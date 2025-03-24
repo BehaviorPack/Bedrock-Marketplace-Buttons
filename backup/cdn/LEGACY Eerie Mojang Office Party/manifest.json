@@ -1,0 +1,18 @@
+{
+    "format_version": 2,
+    "header": {
+      "description": "LEGACY Eerie Mojang Office Party pack",
+      "name": "LEGACY Eerie Mojang Office Party",
+      "uuid":"3877fbb2-2afc-4adb-af70-5f49ae8d5bb2",
+      "version": [0, 0, 7],
+      "min_engine_version": [1, 19, 0]
+     },
+    "modules": [
+      {
+        "description": "LEGACY Eerie Mojang Office Party pack module",
+        "type": "resources",
+        "uuid": "4c6c2305-2214-45a4-9c47-a4b706b09047",
+        "version": [1, 0, 0]
+      }
+    ]
+}

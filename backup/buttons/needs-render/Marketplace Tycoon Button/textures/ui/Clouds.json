@@ -1,0 +1,220 @@
+{ "frames": [
+   {
+    "filename": "MarketplaceTycoon (Dream Clouds) #Hover 0.aseprite",
+    "frame": { "x": 0, "y": 0, "w": 156, "h": 34 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 156, "h": 34 },
+    "sourceSize": { "w": 156, "h": 34 },
+    "duration": 180
+   },
+   {
+    "filename": "MarketplaceTycoon (Dream Clouds) #Hover 1.aseprite",
+    "frame": { "x": 0, "y": 0, "w": 156, "h": 34 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 156, "h": 34 },
+    "sourceSize": { "w": 156, "h": 34 },
+    "duration": 180
+   },
+   {
+    "filename": "MarketplaceTycoon (Dream Clouds) #Hover 2.aseprite",
+    "frame": { "x": 0, "y": 0, "w": 156, "h": 34 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 156, "h": 34 },
+    "sourceSize": { "w": 156, "h": 34 },
+    "duration": 180
+   },
+   {
+    "filename": "MarketplaceTycoon (Dream Clouds) #Hover 3.aseprite",
+    "frame": { "x": 0, "y": 0, "w": 156, "h": 34 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 156, "h": 34 },
+    "sourceSize": { "w": 156, "h": 34 },
+    "duration": 180
+   },
+   {
+    "filename": "MarketplaceTycoon (Dream Clouds) #Hover 4.aseprite",
+    "frame": { "x": 0, "y": 0, "w": 156, "h": 34 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 156, "h": 34 },
+    "sourceSize": { "w": 156, "h": 34 },
+    "duration": 180
+   },
+   {
+    "filename": "MarketplaceTycoon (Dream Clouds) #Hover 5.aseprite",
+    "frame": { "x": 0, "y": 0, "w": 156, "h": 34 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 156, "h": 34 },
+    "sourceSize": { "w": 156, "h": 34 },
+    "duration": 180
+   },
+   {
+    "filename": "MarketplaceTycoon (Dream Clouds) #Hover 6.aseprite",
+    "frame": { "x": 0, "y": 0, "w": 156, "h": 34 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 156, "h": 34 },
+    "sourceSize": { "w": 156, "h": 34 },
+    "duration": 180
+   },
+   {
+    "filename": "MarketplaceTycoon (Dream Clouds) #Hover 7.aseprite",
+    "frame": { "x": 0, "y": 0, "w": 156, "h": 34 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 156, "h": 34 },
+    "sourceSize": { "w": 156, "h": 34 },
+    "duration": 180
+   },
+   {
+    "filename": "MarketplaceTycoon (Dream Clouds) #Hover 8.aseprite",
+    "frame": { "x": 0, "y": 0, "w": 156, "h": 34 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 156, "h": 34 },
+    "sourceSize": { "w": 156, "h": 34 },
+    "duration": 180
+   },
+   {
+    "filename": "MarketplaceTycoon (Dream Clouds) #Hover 9.aseprite",
+    "frame": { "x": 0, "y": 0, "w": 156, "h": 34 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 156, "h": 34 },
+    "sourceSize": { "w": 156, "h": 34 },
+    "duration": 180
+   },
+   {
+    "filename": "MarketplaceTycoon (Dream Clouds) #Hover 10.aseprite",
+    "frame": { "x": 0, "y": 0, "w": 156, "h": 34 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 156, "h": 34 },
+    "sourceSize": { "w": 156, "h": 34 },
+    "duration": 180
+   },
+   {
+    "filename": "MarketplaceTycoon (Dream Clouds) #Hover 11.aseprite",
+    "frame": { "x": 0, "y": 0, "w": 156, "h": 34 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 156, "h": 34 },
+    "sourceSize": { "w": 156, "h": 34 },
+    "duration": 180
+   },
+   {
+    "filename": "MarketplaceTycoon (Dream Clouds) #Hover 12.aseprite",
+    "frame": { "x": 0, "y": 0, "w": 156, "h": 34 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 156, "h": 34 },
+    "sourceSize": { "w": 156, "h": 34 },
+    "duration": 180
+   },
+   {
+    "filename": "MarketplaceTycoon (Dream Clouds) #Hover 13.aseprite",
+    "frame": { "x": 0, "y": 0, "w": 156, "h": 34 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 156, "h": 34 },
+    "sourceSize": { "w": 156, "h": 34 },
+    "duration": 180
+   },
+   {
+    "filename": "MarketplaceTycoon (Dream Clouds) #Hover 14.aseprite",
+    "frame": { "x": 0, "y": 0, "w": 156, "h": 34 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 156, "h": 34 },
+    "sourceSize": { "w": 156, "h": 34 },
+    "duration": 180
+   },
+   {
+    "filename": "MarketplaceTycoon (Dream Clouds) #Hover 15.aseprite",
+    "frame": { "x": 0, "y": 0, "w": 156, "h": 34 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 156, "h": 34 },
+    "sourceSize": { "w": 156, "h": 34 },
+    "duration": 180
+   },
+   {
+    "filename": "MarketplaceTycoon (Dream Clouds) #Hover 16.aseprite",
+    "frame": { "x": 0, "y": 0, "w": 156, "h": 34 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 156, "h": 34 },
+    "sourceSize": { "w": 156, "h": 34 },
+    "duration": 180
+   },
+   {
+    "filename": "MarketplaceTycoon (Dream Clouds) #Hover 17.aseprite",
+    "frame": { "x": 0, "y": 0, "w": 156, "h": 34 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 156, "h": 34 },
+    "sourceSize": { "w": 156, "h": 34 },
+    "duration": 180
+   },
+   {
+    "filename": "MarketplaceTycoon (Dream Clouds) #Hover 18.aseprite",
+    "frame": { "x": 0, "y": 0, "w": 156, "h": 34 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 156, "h": 34 },
+    "sourceSize": { "w": 156, "h": 34 },
+    "duration": 180
+   },
+   {
+    "filename": "MarketplaceTycoon (Dream Clouds) #Hover 19.aseprite",
+    "frame": { "x": 0, "y": 0, "w": 156, "h": 34 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 156, "h": 34 },
+    "sourceSize": { "w": 156, "h": 34 },
+    "duration": 180
+   },
+   {
+    "filename": "MarketplaceTycoon (Dream Clouds) #Hover 20.aseprite",
+    "frame": { "x": 0, "y": 0, "w": 156, "h": 34 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 156, "h": 34 },
+    "sourceSize": { "w": 156, "h": 34 },
+    "duration": 180
+   },
+   {
+    "filename": "MarketplaceTycoon (Dream Clouds) #Hover 21.aseprite",
+    "frame": { "x": 0, "y": 0, "w": 156, "h": 34 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 156, "h": 34 },
+    "sourceSize": { "w": 156, "h": 34 },
+    "duration": 180
+   }
+ ],
+ "meta": {
+  "app": "https://www.aseprite.org/",
+  "version": "1.2.34.1-x64",
+  "image": "Clouds.png",
+  "format": "RGBA8888",
+  "size": { "w": 156, "h": 34 },
+  "scale": "1",
+  "frameTags": [
+   { "name": "Default", "from": 0, "to": 95, "direction": "forward" },
+   { "name": "Typing", "from": 0, "to": 3, "direction": "forward" },
+   { "name": "Hover", "from": 96, "to": 117, "direction": "forward" }
+  ],
+  "layers": [
+   { "name": "Dream Clouds", "opacity": 255, "blendMode": "normal" }
+  ],
+  "slices": [
+   { "name": "Right Side", "color": "#fe5b59ff", "keys": [{ "frame": 0, "bounds": {"x": 9895936, "y": -1669857248, "w": 229757421, "h": -1006616448 } }] }
+  ]
+ }
+}

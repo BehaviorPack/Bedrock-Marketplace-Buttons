@@ -1,0 +1,83 @@
+{ "frames": [
+   {
+    "filename": "Actions-n-Stuff #Hover 0.ase",
+    "frame": { "x": 0, "y": 0, "w": 165, "h": 34 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 165, "h": 34 },
+    "sourceSize": { "w": 165, "h": 34 },
+    "duration": 170
+   },
+   {
+    "filename": "Actions-n-Stuff #Hover 1.ase",
+    "frame": { "x": 165, "y": 0, "w": 165, "h": 34 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 165, "h": 34 },
+    "sourceSize": { "w": 165, "h": 34 },
+    "duration": 170
+   },
+   {
+    "filename": "Actions-n-Stuff #Hover 2.ase",
+    "frame": { "x": 330, "y": 0, "w": 165, "h": 34 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 165, "h": 34 },
+    "sourceSize": { "w": 165, "h": 34 },
+    "duration": 170
+   },
+   {
+    "filename": "Actions-n-Stuff #Hover 3.ase",
+    "frame": { "x": 495, "y": 0, "w": 165, "h": 34 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 165, "h": 34 },
+    "sourceSize": { "w": 165, "h": 34 },
+    "duration": 170
+   },
+   {
+    "filename": "Actions-n-Stuff #Hover 4.ase",
+    "frame": { "x": 660, "y": 0, "w": 165, "h": 34 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 165, "h": 34 },
+    "sourceSize": { "w": 165, "h": 34 },
+    "duration": 170
+   },
+   {
+    "filename": "Actions-n-Stuff #Hover 5.ase",
+    "frame": { "x": 825, "y": 0, "w": 165, "h": 34 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 165, "h": 34 },
+    "sourceSize": { "w": 165, "h": 34 },
+    "duration": 170
+   },
+   {
+    "filename": "Actions-n-Stuff #Hover 6.ase",
+    "frame": { "x": 990, "y": 0, "w": 165, "h": 34 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 165, "h": 34 },
+    "sourceSize": { "w": 165, "h": 34 },
+    "duration": 170
+   },
+   {
+    "filename": "Actions-n-Stuff #Hover 7.ase",
+    "frame": { "x": 1155, "y": 0, "w": 165, "h": 34 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 165, "h": 34 },
+    "sourceSize": { "w": 165, "h": 34 },
+    "duration": 170
+   }
+ ],
+ "meta": {
+  "app": "https://www.aseprite.org/",
+  "version": "1.3.9.2-x64",
+  "image": "Hover.png",
+  "format": "RGBA8888",
+  "size": { "w": 1320, "h": 34 },
+  "scale": "1"
+ }
+}

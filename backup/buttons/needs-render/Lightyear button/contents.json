@@ -1,0 +1,27 @@
+{
+"content" : [
+    { "path" : "contents.json" },
+    { "path" : "textures" },
+    { "path" : "textures/ui" },
+    { "path" : "ui" },
+    { "path" : "ui/start_screen.json" },
+    { "path" : "manifest.json" },
+    { "path" : "textures/ui/BG_Default.json" },
+    { "path" : "textures/ui/BG_Default.png" },
+    { "path" : "textures/ui/BG_Hover.json" },
+    { "path" : "textures/ui/BG_Hover.png" },
+    { "path" : "textures/ui/FG_Default.json" },
+    { "path" : "textures/ui/FG_Default.png" },
+    { "path" : "textures/ui/Buzz_Default.json" },
+    { "path" : "textures/ui/Buzz_Default.png" },
+    { "path" : "textures/ui/Buzz_Hover.json" },
+    { "path" : "textures/ui/Buzz_Hover.png" },
+    { "path" : "textures/ui/Bug.json" },
+    { "path" : "textures/ui/Bug.png" },
+    { "path" : "textures/ui/Space_Left.json" },
+    { "path" : "textures/ui/Space_Left.png" },
+    { "path" : "textures/ui/Space_Right.json" },
+    { "path" : "textures/ui/Space_Right.png" }
+],
+"version" : 1
+}

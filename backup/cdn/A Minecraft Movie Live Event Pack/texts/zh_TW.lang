@@ -1,0 +1,26 @@
+﻿### Start Screen Buttons Countdown
+
+gathering.start_screen.countdown.button=電影活動	###{MaxLength=19}This is a button that the player presses to start an event on the homescreen
+
+### Start Screen Buttons During
+
+gathering.start_screen.during.button=遊玩電影活動	###{MaxLength=19}This is a button that the player presses to start an event on the homescreen
+
+### PDP Buttons Countdown
+
+gathering.info.countdown.action_button=閱讀更多	###{MaxLength=30}The player presses this button to read more about the event.
+gathering.info.countdown.info_button=電影資訊	###{MaxLength=30}The player presses this button to read more about the movie.
+
+### PDP Buttons During
+
+gathering.info.during.action_button=馬上玩！	###{MaxLength=30}Pressing this button allows the player to vote.
+gathering.info.during.info_button=閱讀更多	###{MaxLength=30}The player presses this button to read more about the event.
+
+### Client Outdated
+gathering.info.body.update=請更新至最新版本以存取此即時活動。	###{MaxLength=300}An updated version of Minecraft is required for the user to join this event
+gathering.info.button.update=必須更新	###{MaxLength=30}An updated version of Minecraft is required for the user to proceed
+
+### PDP
+gathering.info.header=MINECRAFT 麥塊電影即時活動	###{MaxLength=60}This is the name of the event. A Minecraft Movie is the name. Live Event is the type of event
+gathering.info.title=MINECRAFT 麥塊電影即時活動！	###{MaxLength=60}This is the name of the event. A Minecraft Movie is the name. Live Event is the type of event
+gathering.info.body=加入史蒂夫和他的夥伴們，一起來到中港村，協助抵禦豬布林入侵！~LINEBREAK~~LINEBREAK~趕快加入這個不斷演進的即時活動，透過遊玩各種遊戲來升級你的裝備並強化村莊的防禦。完成挑戰就能獲得獎勵，全部完成還能獲得電影披風~LINEBREAK~~LINEBREAK~MINECRAFT 麥塊電影即時活動將於 3 月 25 日下午 2:00 (太平洋時間) 開始，並持續到 4 月 7 日下午 2:00 (太平洋時間)。	###{MaxLength=1000}{StrContains=~LINEBREAK~}Midport is the name of the Village. piglin is a character in the Minecraft game. Movie Cape is the name of a reward the player can earn. The date and time should remain in Pacific Time.

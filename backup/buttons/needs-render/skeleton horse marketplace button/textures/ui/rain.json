@@ -1,0 +1,218 @@
+{ "frames": [
+   {
+    "filename": "sketeleton_trap #Rain 0.aseprite",
+    "frame": { "x": 1, "y": 1, "w": 146, "h": 31 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 5, "y": 27, "w": 146, "h": 31 },
+    "sourceSize": { "w": 156, "h": 60 },
+    "duration": 80
+   },
+   {
+    "filename": "sketeleton_trap #Rain 1.aseprite",
+    "frame": { "x": 149, "y": 1, "w": 146, "h": 31 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 5, "y": 27, "w": 146, "h": 31 },
+    "sourceSize": { "w": 156, "h": 60 },
+    "duration": 80
+   },
+   {
+    "filename": "sketeleton_trap #Rain 2.aseprite",
+    "frame": { "x": 297, "y": 1, "w": 146, "h": 31 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 5, "y": 27, "w": 146, "h": 31 },
+    "sourceSize": { "w": 156, "h": 60 },
+    "duration": 80
+   },
+   {
+    "filename": "sketeleton_trap #Rain 3.aseprite",
+    "frame": { "x": 445, "y": 1, "w": 146, "h": 31 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 5, "y": 27, "w": 146, "h": 31 },
+    "sourceSize": { "w": 156, "h": 60 },
+    "duration": 80
+   },
+   {
+    "filename": "sketeleton_trap #Rain 4.aseprite",
+    "frame": { "x": 593, "y": 1, "w": 146, "h": 31 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 5, "y": 27, "w": 146, "h": 31 },
+    "sourceSize": { "w": 156, "h": 60 },
+    "duration": 80
+   },
+   {
+    "filename": "sketeleton_trap #Rain 5.aseprite",
+    "frame": { "x": 741, "y": 1, "w": 146, "h": 31 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 5, "y": 27, "w": 146, "h": 31 },
+    "sourceSize": { "w": 156, "h": 60 },
+    "duration": 80
+   },
+   {
+    "filename": "sketeleton_trap #Rain 6.aseprite",
+    "frame": { "x": 889, "y": 1, "w": 146, "h": 31 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 5, "y": 27, "w": 146, "h": 31 },
+    "sourceSize": { "w": 156, "h": 60 },
+    "duration": 80
+   },
+   {
+    "filename": "sketeleton_trap #Rain 7.aseprite",
+    "frame": { "x": 1037, "y": 1, "w": 146, "h": 31 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 5, "y": 27, "w": 146, "h": 31 },
+    "sourceSize": { "w": 156, "h": 60 },
+    "duration": 80
+   },
+   {
+    "filename": "sketeleton_trap #Rain 8.aseprite",
+    "frame": { "x": 1185, "y": 1, "w": 146, "h": 31 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 5, "y": 27, "w": 146, "h": 31 },
+    "sourceSize": { "w": 156, "h": 60 },
+    "duration": 80
+   },
+   {
+    "filename": "sketeleton_trap #Rain 9.aseprite",
+    "frame": { "x": 1333, "y": 1, "w": 146, "h": 31 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 5, "y": 27, "w": 146, "h": 31 },
+    "sourceSize": { "w": 156, "h": 60 },
+    "duration": 80
+   },
+   {
+    "filename": "sketeleton_trap #Rain 10.aseprite",
+    "frame": { "x": 1481, "y": 1, "w": 146, "h": 31 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 5, "y": 27, "w": 146, "h": 31 },
+    "sourceSize": { "w": 156, "h": 60 },
+    "duration": 80
+   },
+   {
+    "filename": "sketeleton_trap #Rain 11.aseprite",
+    "frame": { "x": 1629, "y": 1, "w": 146, "h": 31 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 5, "y": 27, "w": 146, "h": 31 },
+    "sourceSize": { "w": 156, "h": 60 },
+    "duration": 80
+   },
+   {
+    "filename": "sketeleton_trap #Rain 12.aseprite",
+    "frame": { "x": 1777, "y": 1, "w": 146, "h": 31 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 5, "y": 27, "w": 146, "h": 31 },
+    "sourceSize": { "w": 156, "h": 60 },
+    "duration": 80
+   },
+   {
+    "filename": "sketeleton_trap #Rain 13.aseprite",
+    "frame": { "x": 1925, "y": 1, "w": 146, "h": 31 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 5, "y": 27, "w": 146, "h": 31 },
+    "sourceSize": { "w": 156, "h": 60 },
+    "duration": 80
+   },
+   {
+    "filename": "sketeleton_trap #Rain 14.aseprite",
+    "frame": { "x": 2073, "y": 1, "w": 146, "h": 31 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 5, "y": 27, "w": 146, "h": 31 },
+    "sourceSize": { "w": 156, "h": 60 },
+    "duration": 80
+   },
+   {
+    "filename": "sketeleton_trap #Rain 15.aseprite",
+    "frame": { "x": 2221, "y": 1, "w": 146, "h": 31 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 5, "y": 27, "w": 146, "h": 31 },
+    "sourceSize": { "w": 156, "h": 60 },
+    "duration": 80
+   },
+   {
+    "filename": "sketeleton_trap #Rain 16.aseprite",
+    "frame": { "x": 2369, "y": 1, "w": 146, "h": 31 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 5, "y": 27, "w": 146, "h": 31 },
+    "sourceSize": { "w": 156, "h": 60 },
+    "duration": 80
+   },
+   {
+    "filename": "sketeleton_trap #Rain 17.aseprite",
+    "frame": { "x": 2517, "y": 1, "w": 146, "h": 31 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 5, "y": 27, "w": 146, "h": 31 },
+    "sourceSize": { "w": 156, "h": 60 },
+    "duration": 80
+   },
+   {
+    "filename": "sketeleton_trap #Rain 18.aseprite",
+    "frame": { "x": 2665, "y": 1, "w": 146, "h": 31 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 5, "y": 27, "w": 146, "h": 31 },
+    "sourceSize": { "w": 156, "h": 60 },
+    "duration": 80
+   },
+   {
+    "filename": "sketeleton_trap #Rain 19.aseprite",
+    "frame": { "x": 2813, "y": 1, "w": 146, "h": 31 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 5, "y": 27, "w": 146, "h": 31 },
+    "sourceSize": { "w": 156, "h": 60 },
+    "duration": 80
+   },
+   {
+    "filename": "sketeleton_trap #Rain 20.aseprite",
+    "frame": { "x": 2961, "y": 1, "w": 146, "h": 31 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 5, "y": 27, "w": 146, "h": 31 },
+    "sourceSize": { "w": 156, "h": 60 },
+    "duration": 80
+   },
+   {
+    "filename": "sketeleton_trap #Rain 21.aseprite",
+    "frame": { "x": 3109, "y": 1, "w": 146, "h": 31 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 5, "y": 27, "w": 146, "h": 31 },
+    "sourceSize": { "w": 156, "h": 60 },
+    "duration": 80
+   },
+   {
+    "filename": "sketeleton_trap #Rain 22.aseprite",
+    "frame": { "x": 3257, "y": 1, "w": 146, "h": 31 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 5, "y": 27, "w": 146, "h": 31 },
+    "sourceSize": { "w": 156, "h": 60 },
+    "duration": 80
+   }
+ ],
+ "meta": {
+  "app": "http://www.aseprite.org/",
+  "version": "1.2.29-x64",
+  "image": "rain.png",
+  "format": "RGBA8888",
+  "size": { "w": 3403, "h": 32 },
+  "scale": "1"
+ }
+}

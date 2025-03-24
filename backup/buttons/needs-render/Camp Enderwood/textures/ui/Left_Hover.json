@@ -1,0 +1,676 @@
+{ "frames": [
+   {
+    "filename": "Camp Enderwood Button #Hover 0.aseprite",
+    "frame": { "x": 0, "y": 0, "w": 150, "h": 68 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 150, "h": 68 },
+    "sourceSize": { "w": 150, "h": 68 },
+    "duration": 130
+   },
+   {
+    "filename": "Camp Enderwood Button #Hover 1.aseprite",
+    "frame": { "x": 150, "y": 0, "w": 150, "h": 68 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 150, "h": 68 },
+    "sourceSize": { "w": 150, "h": 68 },
+    "duration": 130
+   },
+   {
+    "filename": "Camp Enderwood Button #Hover 2.aseprite",
+    "frame": { "x": 300, "y": 0, "w": 150, "h": 68 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 150, "h": 68 },
+    "sourceSize": { "w": 150, "h": 68 },
+    "duration": 130
+   },
+   {
+    "filename": "Camp Enderwood Button #Hover 3.aseprite",
+    "frame": { "x": 450, "y": 0, "w": 150, "h": 68 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 150, "h": 68 },
+    "sourceSize": { "w": 150, "h": 68 },
+    "duration": 130
+   },
+   {
+    "filename": "Camp Enderwood Button #Hover 4.aseprite",
+    "frame": { "x": 600, "y": 0, "w": 150, "h": 68 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 150, "h": 68 },
+    "sourceSize": { "w": 150, "h": 68 },
+    "duration": 130
+   },
+   {
+    "filename": "Camp Enderwood Button #Hover 5.aseprite",
+    "frame": { "x": 450, "y": 0, "w": 150, "h": 68 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 150, "h": 68 },
+    "sourceSize": { "w": 150, "h": 68 },
+    "duration": 130
+   },
+   {
+    "filename": "Camp Enderwood Button #Hover 6.aseprite",
+    "frame": { "x": 300, "y": 0, "w": 150, "h": 68 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 150, "h": 68 },
+    "sourceSize": { "w": 150, "h": 68 },
+    "duration": 130
+   },
+   {
+    "filename": "Camp Enderwood Button #Hover 7.aseprite",
+    "frame": { "x": 300, "y": 0, "w": 150, "h": 68 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 150, "h": 68 },
+    "sourceSize": { "w": 150, "h": 68 },
+    "duration": 130
+   },
+   {
+    "filename": "Camp Enderwood Button #Hover 8.aseprite",
+    "frame": { "x": 450, "y": 0, "w": 150, "h": 68 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 150, "h": 68 },
+    "sourceSize": { "w": 150, "h": 68 },
+    "duration": 130
+   },
+   {
+    "filename": "Camp Enderwood Button #Hover 9.aseprite",
+    "frame": { "x": 600, "y": 0, "w": 150, "h": 68 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 150, "h": 68 },
+    "sourceSize": { "w": 150, "h": 68 },
+    "duration": 130
+   },
+   {
+    "filename": "Camp Enderwood Button #Hover 10.aseprite",
+    "frame": { "x": 450, "y": 0, "w": 150, "h": 68 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 150, "h": 68 },
+    "sourceSize": { "w": 150, "h": 68 },
+    "duration": 130
+   },
+   {
+    "filename": "Camp Enderwood Button #Hover 11.aseprite",
+    "frame": { "x": 300, "y": 0, "w": 150, "h": 68 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 150, "h": 68 },
+    "sourceSize": { "w": 150, "h": 68 },
+    "duration": 130
+   },
+   {
+    "filename": "Camp Enderwood Button #Hover 12.aseprite",
+    "frame": { "x": 150, "y": 0, "w": 150, "h": 68 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 150, "h": 68 },
+    "sourceSize": { "w": 150, "h": 68 },
+    "duration": 130
+   },
+   {
+    "filename": "Camp Enderwood Button #Hover 13.aseprite",
+    "frame": { "x": 750, "y": 0, "w": 150, "h": 68 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 150, "h": 68 },
+    "sourceSize": { "w": 150, "h": 68 },
+    "duration": 130
+   },
+   {
+    "filename": "Camp Enderwood Button #Hover 14.aseprite",
+    "frame": { "x": 900, "y": 0, "w": 150, "h": 68 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 150, "h": 68 },
+    "sourceSize": { "w": 150, "h": 68 },
+    "duration": 130
+   },
+   {
+    "filename": "Camp Enderwood Button #Hover 15.aseprite",
+    "frame": { "x": 750, "y": 0, "w": 150, "h": 68 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 150, "h": 68 },
+    "sourceSize": { "w": 150, "h": 68 },
+    "duration": 130
+   },
+   {
+    "filename": "Camp Enderwood Button #Hover 16.aseprite",
+    "frame": { "x": 900, "y": 0, "w": 150, "h": 68 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 150, "h": 68 },
+    "sourceSize": { "w": 150, "h": 68 },
+    "duration": 130
+   },
+   {
+    "filename": "Camp Enderwood Button #Hover 17.aseprite",
+    "frame": { "x": 0, "y": 0, "w": 150, "h": 68 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 150, "h": 68 },
+    "sourceSize": { "w": 150, "h": 68 },
+    "duration": 130
+   },
+   {
+    "filename": "Camp Enderwood Button #Hover 18.aseprite",
+    "frame": { "x": 900, "y": 0, "w": 150, "h": 68 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 150, "h": 68 },
+    "sourceSize": { "w": 150, "h": 68 },
+    "duration": 130
+   },
+   {
+    "filename": "Camp Enderwood Button #Hover 19.aseprite",
+    "frame": { "x": 750, "y": 0, "w": 150, "h": 68 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 150, "h": 68 },
+    "sourceSize": { "w": 150, "h": 68 },
+    "duration": 130
+   },
+   {
+    "filename": "Camp Enderwood Button #Hover 20.aseprite",
+    "frame": { "x": 750, "y": 0, "w": 150, "h": 68 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 150, "h": 68 },
+    "sourceSize": { "w": 150, "h": 68 },
+    "duration": 130
+   },
+   {
+    "filename": "Camp Enderwood Button #Hover 21.aseprite",
+    "frame": { "x": 150, "y": 0, "w": 150, "h": 68 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 150, "h": 68 },
+    "sourceSize": { "w": 150, "h": 68 },
+    "duration": 130
+   },
+   {
+    "filename": "Camp Enderwood Button #Hover 22.aseprite",
+    "frame": { "x": 300, "y": 0, "w": 150, "h": 68 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 150, "h": 68 },
+    "sourceSize": { "w": 150, "h": 68 },
+    "duration": 130
+   },
+   {
+    "filename": "Camp Enderwood Button #Hover 23.aseprite",
+    "frame": { "x": 450, "y": 0, "w": 150, "h": 68 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 150, "h": 68 },
+    "sourceSize": { "w": 150, "h": 68 },
+    "duration": 130
+   },
+   {
+    "filename": "Camp Enderwood Button #Hover 24.aseprite",
+    "frame": { "x": 450, "y": 0, "w": 150, "h": 68 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 150, "h": 68 },
+    "sourceSize": { "w": 150, "h": 68 },
+    "duration": 130
+   },
+   {
+    "filename": "Camp Enderwood Button #Hover 25.aseprite",
+    "frame": { "x": 300, "y": 0, "w": 150, "h": 68 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 150, "h": 68 },
+    "sourceSize": { "w": 150, "h": 68 },
+    "duration": 130
+   },
+   {
+    "filename": "Camp Enderwood Button #Hover 26.aseprite",
+    "frame": { "x": 300, "y": 0, "w": 150, "h": 68 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 150, "h": 68 },
+    "sourceSize": { "w": 150, "h": 68 },
+    "duration": 130
+   },
+   {
+    "filename": "Camp Enderwood Button #Hover 27.aseprite",
+    "frame": { "x": 450, "y": 0, "w": 150, "h": 68 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 150, "h": 68 },
+    "sourceSize": { "w": 150, "h": 68 },
+    "duration": 130
+   },
+   {
+    "filename": "Camp Enderwood Button #Hover 28.aseprite",
+    "frame": { "x": 600, "y": 0, "w": 150, "h": 68 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 150, "h": 68 },
+    "sourceSize": { "w": 150, "h": 68 },
+    "duration": 130
+   },
+   {
+    "filename": "Camp Enderwood Button #Hover 29.aseprite",
+    "frame": { "x": 450, "y": 0, "w": 150, "h": 68 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 150, "h": 68 },
+    "sourceSize": { "w": 150, "h": 68 },
+    "duration": 130
+   },
+   {
+    "filename": "Camp Enderwood Button #Hover 30.aseprite",
+    "frame": { "x": 300, "y": 0, "w": 150, "h": 68 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 150, "h": 68 },
+    "sourceSize": { "w": 150, "h": 68 },
+    "duration": 130
+   },
+   {
+    "filename": "Camp Enderwood Button #Hover 31.aseprite",
+    "frame": { "x": 300, "y": 0, "w": 150, "h": 68 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 150, "h": 68 },
+    "sourceSize": { "w": 150, "h": 68 },
+    "duration": 130
+   },
+   {
+    "filename": "Camp Enderwood Button #Hover 32.aseprite",
+    "frame": { "x": 1050, "y": 0, "w": 150, "h": 68 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 150, "h": 68 },
+    "sourceSize": { "w": 150, "h": 68 },
+    "duration": 130
+   },
+   {
+    "filename": "Camp Enderwood Button #Hover 33.aseprite",
+    "frame": { "x": 750, "y": 0, "w": 150, "h": 68 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 150, "h": 68 },
+    "sourceSize": { "w": 150, "h": 68 },
+    "duration": 130
+   },
+   {
+    "filename": "Camp Enderwood Button #Hover 34.aseprite",
+    "frame": { "x": 900, "y": 0, "w": 150, "h": 68 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 150, "h": 68 },
+    "sourceSize": { "w": 150, "h": 68 },
+    "duration": 130
+   },
+   {
+    "filename": "Camp Enderwood Button #Hover 35.aseprite",
+    "frame": { "x": 0, "y": 0, "w": 150, "h": 68 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 150, "h": 68 },
+    "sourceSize": { "w": 150, "h": 68 },
+    "duration": 130
+   },
+   {
+    "filename": "Camp Enderwood Button #Hover 36.aseprite",
+    "frame": { "x": 900, "y": 0, "w": 150, "h": 68 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 150, "h": 68 },
+    "sourceSize": { "w": 150, "h": 68 },
+    "duration": 130
+   },
+   {
+    "filename": "Camp Enderwood Button #Hover 37.aseprite",
+    "frame": { "x": 750, "y": 0, "w": 150, "h": 68 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 150, "h": 68 },
+    "sourceSize": { "w": 150, "h": 68 },
+    "duration": 130
+   },
+   {
+    "filename": "Camp Enderwood Button #Hover 38.aseprite",
+    "frame": { "x": 750, "y": 0, "w": 150, "h": 68 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 150, "h": 68 },
+    "sourceSize": { "w": 150, "h": 68 },
+    "duration": 130
+   },
+   {
+    "filename": "Camp Enderwood Button #Hover 39.aseprite",
+    "frame": { "x": 750, "y": 0, "w": 150, "h": 68 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 150, "h": 68 },
+    "sourceSize": { "w": 150, "h": 68 },
+    "duration": 130
+   },
+   {
+    "filename": "Camp Enderwood Button #Hover 40.aseprite",
+    "frame": { "x": 150, "y": 0, "w": 150, "h": 68 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 150, "h": 68 },
+    "sourceSize": { "w": 150, "h": 68 },
+    "duration": 130
+   },
+   {
+    "filename": "Camp Enderwood Button #Hover 41.aseprite",
+    "frame": { "x": 1200, "y": 0, "w": 150, "h": 68 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 150, "h": 68 },
+    "sourceSize": { "w": 150, "h": 68 },
+    "duration": 130
+   },
+   {
+    "filename": "Camp Enderwood Button #Hover 42.aseprite",
+    "frame": { "x": 1350, "y": 0, "w": 150, "h": 68 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 150, "h": 68 },
+    "sourceSize": { "w": 150, "h": 68 },
+    "duration": 130
+   },
+   {
+    "filename": "Camp Enderwood Button #Hover 43.aseprite",
+    "frame": { "x": 1500, "y": 0, "w": 150, "h": 68 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 150, "h": 68 },
+    "sourceSize": { "w": 150, "h": 68 },
+    "duration": 130
+   },
+   {
+    "filename": "Camp Enderwood Button #Hover 44.aseprite",
+    "frame": { "x": 1350, "y": 0, "w": 150, "h": 68 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 150, "h": 68 },
+    "sourceSize": { "w": 150, "h": 68 },
+    "duration": 130
+   },
+   {
+    "filename": "Camp Enderwood Button #Hover 45.aseprite",
+    "frame": { "x": 1500, "y": 0, "w": 150, "h": 68 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 150, "h": 68 },
+    "sourceSize": { "w": 150, "h": 68 },
+    "duration": 130
+   },
+   {
+    "filename": "Camp Enderwood Button #Hover 46.aseprite",
+    "frame": { "x": 1650, "y": 0, "w": 150, "h": 68 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 150, "h": 68 },
+    "sourceSize": { "w": 150, "h": 68 },
+    "duration": 130
+   },
+   {
+    "filename": "Camp Enderwood Button #Hover 47.aseprite",
+    "frame": { "x": 1500, "y": 0, "w": 150, "h": 68 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 150, "h": 68 },
+    "sourceSize": { "w": 150, "h": 68 },
+    "duration": 130
+   },
+   {
+    "filename": "Camp Enderwood Button #Hover 48.aseprite",
+    "frame": { "x": 1350, "y": 0, "w": 150, "h": 68 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 150, "h": 68 },
+    "sourceSize": { "w": 150, "h": 68 },
+    "duration": 130
+   },
+   {
+    "filename": "Camp Enderwood Button #Hover 49.aseprite",
+    "frame": { "x": 1800, "y": 0, "w": 150, "h": 68 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 150, "h": 68 },
+    "sourceSize": { "w": 150, "h": 68 },
+    "duration": 130
+   },
+   {
+    "filename": "Camp Enderwood Button #Hover 50.aseprite",
+    "frame": { "x": 450, "y": 0, "w": 150, "h": 68 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 150, "h": 68 },
+    "sourceSize": { "w": 150, "h": 68 },
+    "duration": 130
+   },
+   {
+    "filename": "Camp Enderwood Button #Hover 51.aseprite",
+    "frame": { "x": 600, "y": 0, "w": 150, "h": 68 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 150, "h": 68 },
+    "sourceSize": { "w": 150, "h": 68 },
+    "duration": 130
+   },
+   {
+    "filename": "Camp Enderwood Button #Hover 52.aseprite",
+    "frame": { "x": 450, "y": 0, "w": 150, "h": 68 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 150, "h": 68 },
+    "sourceSize": { "w": 150, "h": 68 },
+    "duration": 130
+   },
+   {
+    "filename": "Camp Enderwood Button #Hover 53.aseprite",
+    "frame": { "x": 300, "y": 0, "w": 150, "h": 68 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 150, "h": 68 },
+    "sourceSize": { "w": 150, "h": 68 },
+    "duration": 130
+   },
+   {
+    "filename": "Camp Enderwood Button #Hover 54.aseprite",
+    "frame": { "x": 300, "y": 0, "w": 150, "h": 68 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 150, "h": 68 },
+    "sourceSize": { "w": 150, "h": 68 },
+    "duration": 130
+   },
+   {
+    "filename": "Camp Enderwood Button #Hover 55.aseprite",
+    "frame": { "x": 300, "y": 0, "w": 150, "h": 68 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 150, "h": 68 },
+    "sourceSize": { "w": 150, "h": 68 },
+    "duration": 130
+   },
+   {
+    "filename": "Camp Enderwood Button #Hover 56.aseprite",
+    "frame": { "x": 450, "y": 0, "w": 150, "h": 68 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 150, "h": 68 },
+    "sourceSize": { "w": 150, "h": 68 },
+    "duration": 130
+   },
+   {
+    "filename": "Camp Enderwood Button #Hover 57.aseprite",
+    "frame": { "x": 300, "y": 0, "w": 150, "h": 68 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 150, "h": 68 },
+    "sourceSize": { "w": 150, "h": 68 },
+    "duration": 130
+   },
+   {
+    "filename": "Camp Enderwood Button #Hover 58.aseprite",
+    "frame": { "x": 450, "y": 0, "w": 150, "h": 68 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 150, "h": 68 },
+    "sourceSize": { "w": 150, "h": 68 },
+    "duration": 130
+   },
+   {
+    "filename": "Camp Enderwood Button #Hover 59.aseprite",
+    "frame": { "x": 450, "y": 0, "w": 150, "h": 68 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 150, "h": 68 },
+    "sourceSize": { "w": 150, "h": 68 },
+    "duration": 130
+   },
+   {
+    "filename": "Camp Enderwood Button #Hover 60.aseprite",
+    "frame": { "x": 300, "y": 0, "w": 150, "h": 68 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 150, "h": 68 },
+    "sourceSize": { "w": 150, "h": 68 },
+    "duration": 130
+   },
+   {
+    "filename": "Camp Enderwood Button #Hover 61.aseprite",
+    "frame": { "x": 150, "y": 0, "w": 150, "h": 68 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 150, "h": 68 },
+    "sourceSize": { "w": 150, "h": 68 },
+    "duration": 130
+   },
+   {
+    "filename": "Camp Enderwood Button #Hover 62.aseprite",
+    "frame": { "x": 750, "y": 0, "w": 150, "h": 68 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 150, "h": 68 },
+    "sourceSize": { "w": 150, "h": 68 },
+    "duration": 130
+   },
+   {
+    "filename": "Camp Enderwood Button #Hover 63.aseprite",
+    "frame": { "x": 900, "y": 0, "w": 150, "h": 68 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 150, "h": 68 },
+    "sourceSize": { "w": 150, "h": 68 },
+    "duration": 130
+   },
+   {
+    "filename": "Camp Enderwood Button #Hover 64.aseprite",
+    "frame": { "x": 0, "y": 0, "w": 150, "h": 68 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 150, "h": 68 },
+    "sourceSize": { "w": 150, "h": 68 },
+    "duration": 130
+   },
+   {
+    "filename": "Camp Enderwood Button #Hover 65.aseprite",
+    "frame": { "x": 900, "y": 0, "w": 150, "h": 68 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 150, "h": 68 },
+    "sourceSize": { "w": 150, "h": 68 },
+    "duration": 130
+   },
+   {
+    "filename": "Camp Enderwood Button #Hover 66.aseprite",
+    "frame": { "x": 750, "y": 0, "w": 150, "h": 68 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 150, "h": 68 },
+    "sourceSize": { "w": 150, "h": 68 },
+    "duration": 130
+   },
+   {
+    "filename": "Camp Enderwood Button #Hover 67.aseprite",
+    "frame": { "x": 750, "y": 0, "w": 150, "h": 68 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 150, "h": 68 },
+    "sourceSize": { "w": 150, "h": 68 },
+    "duration": 130
+   },
+   {
+    "filename": "Camp Enderwood Button #Hover 68.aseprite",
+    "frame": { "x": 900, "y": 0, "w": 150, "h": 68 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 150, "h": 68 },
+    "sourceSize": { "w": 150, "h": 68 },
+    "duration": 130
+   },
+   {
+    "filename": "Camp Enderwood Button #Hover 69.aseprite",
+    "frame": { "x": 750, "y": 0, "w": 150, "h": 68 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 150, "h": 68 },
+    "sourceSize": { "w": 150, "h": 68 },
+    "duration": 130
+   },
+   {
+    "filename": "Camp Enderwood Button #Hover 70.aseprite",
+    "frame": { "x": 900, "y": 0, "w": 150, "h": 68 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 150, "h": 68 },
+    "sourceSize": { "w": 150, "h": 68 },
+    "duration": 130
+   },
+   {
+    "filename": "Camp Enderwood Button #Hover 71.aseprite",
+    "frame": { "x": 900, "y": 0, "w": 150, "h": 68 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 150, "h": 68 },
+    "sourceSize": { "w": 150, "h": 68 },
+    "duration": 130
+   }
+ ],
+ "meta": {
+  "app": "https://www.aseprite.org/",
+  "version": "1.2.35-x64",
+  "image": "Left_Hover.png",
+  "format": "RGBA8888",
+  "size": { "w": 1950, "h": 68 },
+  "scale": "1",
+  "frameTags": [
+   { "name": "Default", "from": 0, "to": 63, "direction": "forward" },
+   { "name": "Hover", "from": 64, "to": 135, "direction": "forward" }
+  ],
+  "layers": [
+   { "name": "Right animation", "opacity": 255, "blendMode": "normal" },
+   { "name": "Left person" },
+   { "name": "Body", "group": "Left person", "opacity": 255, "blendMode": "normal" },
+   { "name": "Arm Left", "group": "Left person", "opacity": 255, "blendMode": "normal" },
+   { "name": "Arrow & owl", "group": "Left person", "opacity": 255, "blendMode": "normal" },
+   { "name": "Arm right", "group": "Left person", "opacity": 255, "blendMode": "normal" },
+   { "name": "glow", "group": "Left person", "opacity": 195, "blendMode": "overlay" },
+   { "name": "shadow", "group": "Left person", "opacity": 135, "blendMode": "multiply" }
+  ],
+  "slices": [
+   { "name": "Right Side", "color": "#fe5b59ff", "keys": [{ "frame": 0, "bounds": {"x": 9895936, "y": -1669857248, "w": 229757421, "h": -1006616448 } }] }
+  ]
+ }
+}

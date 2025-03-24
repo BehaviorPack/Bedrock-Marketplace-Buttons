@@ -1,0 +1,27 @@
+{
+"content" : [
+    { "path" : "contents.json" },
+    { "path" : "textures" },
+    { "path" : "textures/ui" },
+    { "path" : "ui" },
+    { "path" : "ui/start_screen.json" },
+    { "path" : "manifest.json" },
+    { "path" : "textures/ui/BG_Default.json" },
+    { "path" : "textures/ui/BG_Default.png" },
+    { "path" : "textures/ui/BG_Hover.json" },
+    { "path" : "textures/ui/BG_Hover.png" },
+    { "path" : "textures/ui/Megaman_Default.json" },
+    { "path" : "textures/ui/Megaman_Default.png" },
+    { "path" : "textures/ui/Megaman_Hover.json" },
+    { "path" : "textures/ui/Megaman_Hover.png" },
+    { "path" : "textures/ui/MG_Left.json" },
+    { "path" : "textures/ui/MG_Left.png" },
+    { "path" : "textures/ui/MG_Right.json" },
+    { "path" : "textures/ui/MG_Right.png" },
+    { "path" : "textures/ui/MG_Center.json" },
+    { "path" : "textures/ui/MG_Center.png" },
+    { "path" : "textures/ui/Vile.json" },
+    { "path" : "textures/ui/Vile.png" }
+],
+"version" : 1
+}

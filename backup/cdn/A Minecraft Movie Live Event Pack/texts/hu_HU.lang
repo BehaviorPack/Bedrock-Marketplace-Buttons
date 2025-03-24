@@ -1,0 +1,26 @@
+﻿### Start Screen Buttons Countdown
+
+gathering.start_screen.countdown.button=Filmes esemény	###{MaxLength=19}This is a button that the player presses to start an event on the homescreen
+
+### Start Screen Buttons During
+
+gathering.start_screen.during.button=Filmesemény kezdése	###{MaxLength=19}This is a button that the player presses to start an event on the homescreen
+
+### PDP Buttons Countdown
+
+gathering.info.countdown.action_button=Tovább olvasok	###{MaxLength=30}The player presses this button to read more about the event.
+gathering.info.countdown.info_button=Tudnivalók a filmről	###{MaxLength=30}The player presses this button to read more about the movie.
+
+### PDP Buttons During
+
+gathering.info.during.action_button=Játssz vele most!	###{MaxLength=30}Pressing this button allows the player to vote.
+gathering.info.during.info_button=Tovább olvasok	###{MaxLength=30}The player presses this button to read more about the event.
+
+### Client Outdated
+gathering.info.body.update=Frissíts a legújabb verzióra az élő esemény eléréséhez.	###{MaxLength=300}An updated version of Minecraft is required for the user to join this event
+gathering.info.button.update=Frissítés szükséges	###{MaxLength=30}An updated version of Minecraft is required for the user to proceed
+
+### PDP
+gathering.info.header=A Minecraft film élő eseménye	###{MaxLength=60}This is the name of the event. A Minecraft Movie is the name. Live Event is the type of event
+gathering.info.title=A Minecraft film élő eseménye!	###{MaxLength=60}This is the name of the event. A Minecraft Movie is the name. Live Event is the type of event
+gathering.info.body=Csatlakozz Steve-hez és társaihoz Félútfalván, hogy segítsetek védekezni a piglininvázió ellen!~LINEBREAK~~LINEBREAK~Ugorj be ebbe az alakuló élő eseménybe, és játssz különféle játékokkal, hogy fejleszthesd a felszerelésed, és megerősíthesd a falu védelmét. Teljesíts kihívásokat, hogy jutalmakat szerezz, és teljesítsd mindet, hogy megszerezd a filmes köpenyt!~LINEBREAK~~LINEBREAK~A Minecraft film élő eseménye itt kezdődik március 25-én magyar idő szerint 23:00-kor, és április 7-én 23:00-ig tart.	###{MaxLength=1000}{StrContains=~LINEBREAK~}Midport is the name of the Village. piglin is a character in the Minecraft game. Movie Cape is the name of a reward the player can earn. The date and time should remain in Pacific Time.

@@ -1,0 +1,26 @@
+﻿### Start Screen Buttons Countdown
+
+gathering.start_screen.countdown.button=Кинособытие	###{MaxLength=19}This is a button that the player presses to start an event on the homescreen
+
+### Start Screen Buttons During
+
+gathering.start_screen.during.button=Воспроизвести	###{MaxLength=19}This is a button that the player presses to start an event on the homescreen
+
+### PDP Buttons Countdown
+
+gathering.info.countdown.action_button=Подробнее	###{MaxLength=30}The player presses this button to read more about the event.
+gathering.info.countdown.info_button=Узнать подробности	###{MaxLength=30}The player presses this button to read more about the movie.
+
+### PDP Buttons During
+
+gathering.info.during.action_button=Играйте сейчас!	###{MaxLength=30}Pressing this button allows the player to vote.
+gathering.info.during.info_button=Подробнее	###{MaxLength=30}The player presses this button to read more about the event.
+
+### Client Outdated
+gathering.info.body.update=Обновите игру до последней версии, чтобы получить доступ к этому событию.	###{MaxLength=300}An updated version of Minecraft is required for the user to join this event
+gathering.info.button.update=Требуется обновление	###{MaxLength=30}An updated version of Minecraft is required for the user to proceed
+
+### PDP
+gathering.info.header=Событие, посвященное выходу «MINECRAFT в кино»	###{MaxLength=60}This is the name of the event. A Minecraft Movie is the name. Live Event is the type of event
+gathering.info.title=Событие, посвященное выходу «MINECRAFT в кино»!	###{MaxLength=60}This is the name of the event. A Minecraft Movie is the name. Live Event is the type of event
+gathering.info.body=Присоединяйтесь к Стиву и его товарищам в деревне Мидпорт, чтобы помочь им отбить атаку пиглинов!~LINEBREAK~~LINEBREAK~Станьте частью нашего растущего мероприятия и играйте в игры, чтобы прокачивать свое снаряжение и улучшать защитные сооружения деревни. Выполняйте задания и зарабатывайте награды. Завершите все задания и получите Киноплащ!~LINEBREAK~~LINEBREAK~Событие, посвященное выходу «MINECRAFT в кино» начнется здесь в 00:00 26 марта, и продлится до 00:00 8 апреля по московскому времени.	###{MaxLength=1000}{StrContains=~LINEBREAK~}Midport is the name of the Village. piglin is a character in the Minecraft game. Movie Cape is the name of a reward the player can earn. The date and time should remain in Pacific Time.

@@ -1,0 +1,10 @@
+{
+"sales_banner@start.store_button_sale_banner": {
+    "texture": "textures/ui/SaleBanner",
+    "$title_text_color": [ 0.82, 1, 0.64 ],
+    "anchor_from": "top_right",
+    "anchor_to": "top_right",
+    "offset": [ 23, -4 ],
+    "layer": 25
+    }
+}

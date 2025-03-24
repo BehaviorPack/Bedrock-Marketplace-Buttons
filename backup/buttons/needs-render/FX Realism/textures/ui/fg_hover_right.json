@@ -1,0 +1,551 @@
+{ "frames": [
+   {
+    "filename": "FX_Realism_Henrik 0.aseprite",
+    "frame": { "x": 0, "y": 0, "w": 74, "h": 70 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 74, "h": 70 },
+    "sourceSize": { "w": 74, "h": 70 },
+    "duration": 100
+   },
+   {
+    "filename": "FX_Realism_Henrik 1.aseprite",
+    "frame": { "x": 74, "y": 0, "w": 74, "h": 70 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 74, "h": 70 },
+    "sourceSize": { "w": 74, "h": 70 },
+    "duration": 100
+   },
+   {
+    "filename": "FX_Realism_Henrik 2.aseprite",
+    "frame": { "x": 148, "y": 0, "w": 74, "h": 70 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 74, "h": 70 },
+    "sourceSize": { "w": 74, "h": 70 },
+    "duration": 100
+   },
+   {
+    "filename": "FX_Realism_Henrik 3.aseprite",
+    "frame": { "x": 222, "y": 0, "w": 74, "h": 70 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 74, "h": 70 },
+    "sourceSize": { "w": 74, "h": 70 },
+    "duration": 100
+   },
+   {
+    "filename": "FX_Realism_Henrik 4.aseprite",
+    "frame": { "x": 296, "y": 0, "w": 74, "h": 70 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 74, "h": 70 },
+    "sourceSize": { "w": 74, "h": 70 },
+    "duration": 100
+   },
+   {
+    "filename": "FX_Realism_Henrik 5.aseprite",
+    "frame": { "x": 370, "y": 0, "w": 74, "h": 70 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 74, "h": 70 },
+    "sourceSize": { "w": 74, "h": 70 },
+    "duration": 100
+   },
+   {
+    "filename": "FX_Realism_Henrik 6.aseprite",
+    "frame": { "x": 444, "y": 0, "w": 74, "h": 70 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 74, "h": 70 },
+    "sourceSize": { "w": 74, "h": 70 },
+    "duration": 100
+   },
+   {
+    "filename": "FX_Realism_Henrik 7.aseprite",
+    "frame": { "x": 518, "y": 0, "w": 74, "h": 70 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 74, "h": 70 },
+    "sourceSize": { "w": 74, "h": 70 },
+    "duration": 100
+   },
+   {
+    "filename": "FX_Realism_Henrik 8.aseprite",
+    "frame": { "x": 592, "y": 0, "w": 74, "h": 70 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 74, "h": 70 },
+    "sourceSize": { "w": 74, "h": 70 },
+    "duration": 100
+   },
+   {
+    "filename": "FX_Realism_Henrik 9.aseprite",
+    "frame": { "x": 666, "y": 0, "w": 74, "h": 70 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 74, "h": 70 },
+    "sourceSize": { "w": 74, "h": 70 },
+    "duration": 100
+   },
+   {
+    "filename": "FX_Realism_Henrik 10.aseprite",
+    "frame": { "x": 740, "y": 0, "w": 74, "h": 70 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 74, "h": 70 },
+    "sourceSize": { "w": 74, "h": 70 },
+    "duration": 100
+   },
+   {
+    "filename": "FX_Realism_Henrik 11.aseprite",
+    "frame": { "x": 814, "y": 0, "w": 74, "h": 70 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 74, "h": 70 },
+    "sourceSize": { "w": 74, "h": 70 },
+    "duration": 100
+   },
+   {
+    "filename": "FX_Realism_Henrik 12.aseprite",
+    "frame": { "x": 888, "y": 0, "w": 74, "h": 70 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 74, "h": 70 },
+    "sourceSize": { "w": 74, "h": 70 },
+    "duration": 100
+   },
+   {
+    "filename": "FX_Realism_Henrik 13.aseprite",
+    "frame": { "x": 962, "y": 0, "w": 74, "h": 70 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 74, "h": 70 },
+    "sourceSize": { "w": 74, "h": 70 },
+    "duration": 100
+   },
+   {
+    "filename": "FX_Realism_Henrik 14.aseprite",
+    "frame": { "x": 1036, "y": 0, "w": 74, "h": 70 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 74, "h": 70 },
+    "sourceSize": { "w": 74, "h": 70 },
+    "duration": 100
+   },
+   {
+    "filename": "FX_Realism_Henrik 15.aseprite",
+    "frame": { "x": 1110, "y": 0, "w": 74, "h": 70 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 74, "h": 70 },
+    "sourceSize": { "w": 74, "h": 70 },
+    "duration": 100
+   },
+   {
+    "filename": "FX_Realism_Henrik 16.aseprite",
+    "frame": { "x": 1184, "y": 0, "w": 74, "h": 70 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 74, "h": 70 },
+    "sourceSize": { "w": 74, "h": 70 },
+    "duration": 100
+   },
+   {
+    "filename": "FX_Realism_Henrik 17.aseprite",
+    "frame": { "x": 1258, "y": 0, "w": 74, "h": 70 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 74, "h": 70 },
+    "sourceSize": { "w": 74, "h": 70 },
+    "duration": 100
+   },
+   {
+    "filename": "FX_Realism_Henrik 18.aseprite",
+    "frame": { "x": 1332, "y": 0, "w": 74, "h": 70 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 74, "h": 70 },
+    "sourceSize": { "w": 74, "h": 70 },
+    "duration": 100
+   },
+   {
+    "filename": "FX_Realism_Henrik 19.aseprite",
+    "frame": { "x": 1406, "y": 0, "w": 74, "h": 70 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 74, "h": 70 },
+    "sourceSize": { "w": 74, "h": 70 },
+    "duration": 100
+   },
+   {
+    "filename": "FX_Realism_Henrik 20.aseprite",
+    "frame": { "x": 1480, "y": 0, "w": 74, "h": 70 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 74, "h": 70 },
+    "sourceSize": { "w": 74, "h": 70 },
+    "duration": 100
+   },
+   {
+    "filename": "FX_Realism_Henrik 21.aseprite",
+    "frame": { "x": 1554, "y": 0, "w": 74, "h": 70 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 74, "h": 70 },
+    "sourceSize": { "w": 74, "h": 70 },
+    "duration": 100
+   },
+   {
+    "filename": "FX_Realism_Henrik 22.aseprite",
+    "frame": { "x": 1628, "y": 0, "w": 74, "h": 70 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 74, "h": 70 },
+    "sourceSize": { "w": 74, "h": 70 },
+    "duration": 100
+   },
+   {
+    "filename": "FX_Realism_Henrik 23.aseprite",
+    "frame": { "x": 1702, "y": 0, "w": 74, "h": 70 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 74, "h": 70 },
+    "sourceSize": { "w": 74, "h": 70 },
+    "duration": 100
+   },
+   {
+    "filename": "FX_Realism_Henrik 24.aseprite",
+    "frame": { "x": 1776, "y": 0, "w": 74, "h": 70 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 74, "h": 70 },
+    "sourceSize": { "w": 74, "h": 70 },
+    "duration": 100
+   },
+   {
+    "filename": "FX_Realism_Henrik 25.aseprite",
+    "frame": { "x": 1850, "y": 0, "w": 74, "h": 70 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 74, "h": 70 },
+    "sourceSize": { "w": 74, "h": 70 },
+    "duration": 100
+   },
+   {
+    "filename": "FX_Realism_Henrik 26.aseprite",
+    "frame": { "x": 1924, "y": 0, "w": 74, "h": 70 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 74, "h": 70 },
+    "sourceSize": { "w": 74, "h": 70 },
+    "duration": 100
+   },
+   {
+    "filename": "FX_Realism_Henrik 27.aseprite",
+    "frame": { "x": 1998, "y": 0, "w": 74, "h": 70 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 74, "h": 70 },
+    "sourceSize": { "w": 74, "h": 70 },
+    "duration": 100
+   },
+   {
+    "filename": "FX_Realism_Henrik 28.aseprite",
+    "frame": { "x": 2072, "y": 0, "w": 74, "h": 70 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 74, "h": 70 },
+    "sourceSize": { "w": 74, "h": 70 },
+    "duration": 100
+   },
+   {
+    "filename": "FX_Realism_Henrik 29.aseprite",
+    "frame": { "x": 2146, "y": 0, "w": 74, "h": 70 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 74, "h": 70 },
+    "sourceSize": { "w": 74, "h": 70 },
+    "duration": 100
+   },
+   {
+    "filename": "FX_Realism_Henrik 30.aseprite",
+    "frame": { "x": 2220, "y": 0, "w": 74, "h": 70 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 74, "h": 70 },
+    "sourceSize": { "w": 74, "h": 70 },
+    "duration": 100
+   },
+   {
+    "filename": "FX_Realism_Henrik 31.aseprite",
+    "frame": { "x": 2294, "y": 0, "w": 74, "h": 70 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 74, "h": 70 },
+    "sourceSize": { "w": 74, "h": 70 },
+    "duration": 100
+   },
+   {
+    "filename": "FX_Realism_Henrik 32.aseprite",
+    "frame": { "x": 2368, "y": 0, "w": 74, "h": 70 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 74, "h": 70 },
+    "sourceSize": { "w": 74, "h": 70 },
+    "duration": 100
+   },
+   {
+    "filename": "FX_Realism_Henrik 33.aseprite",
+    "frame": { "x": 2442, "y": 0, "w": 74, "h": 70 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 74, "h": 70 },
+    "sourceSize": { "w": 74, "h": 70 },
+    "duration": 100
+   },
+   {
+    "filename": "FX_Realism_Henrik 34.aseprite",
+    "frame": { "x": 2516, "y": 0, "w": 74, "h": 70 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 74, "h": 70 },
+    "sourceSize": { "w": 74, "h": 70 },
+    "duration": 100
+   },
+   {
+    "filename": "FX_Realism_Henrik 35.aseprite",
+    "frame": { "x": 2590, "y": 0, "w": 74, "h": 70 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 74, "h": 70 },
+    "sourceSize": { "w": 74, "h": 70 },
+    "duration": 100
+   },
+   {
+    "filename": "FX_Realism_Henrik 36.aseprite",
+    "frame": { "x": 2664, "y": 0, "w": 74, "h": 70 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 74, "h": 70 },
+    "sourceSize": { "w": 74, "h": 70 },
+    "duration": 100
+   },
+   {
+    "filename": "FX_Realism_Henrik 37.aseprite",
+    "frame": { "x": 2738, "y": 0, "w": 74, "h": 70 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 74, "h": 70 },
+    "sourceSize": { "w": 74, "h": 70 },
+    "duration": 100
+   },
+   {
+    "filename": "FX_Realism_Henrik 38.aseprite",
+    "frame": { "x": 2812, "y": 0, "w": 74, "h": 70 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 74, "h": 70 },
+    "sourceSize": { "w": 74, "h": 70 },
+    "duration": 100
+   },
+   {
+    "filename": "FX_Realism_Henrik 39.aseprite",
+    "frame": { "x": 2886, "y": 0, "w": 74, "h": 70 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 74, "h": 70 },
+    "sourceSize": { "w": 74, "h": 70 },
+    "duration": 100
+   },
+   {
+    "filename": "FX_Realism_Henrik 40.aseprite",
+    "frame": { "x": 2960, "y": 0, "w": 74, "h": 70 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 74, "h": 70 },
+    "sourceSize": { "w": 74, "h": 70 },
+    "duration": 100
+   },
+   {
+    "filename": "FX_Realism_Henrik 41.aseprite",
+    "frame": { "x": 3034, "y": 0, "w": 74, "h": 70 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 74, "h": 70 },
+    "sourceSize": { "w": 74, "h": 70 },
+    "duration": 100
+   },
+   {
+    "filename": "FX_Realism_Henrik 42.aseprite",
+    "frame": { "x": 3108, "y": 0, "w": 74, "h": 70 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 74, "h": 70 },
+    "sourceSize": { "w": 74, "h": 70 },
+    "duration": 100
+   },
+   {
+    "filename": "FX_Realism_Henrik 43.aseprite",
+    "frame": { "x": 3182, "y": 0, "w": 74, "h": 70 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 74, "h": 70 },
+    "sourceSize": { "w": 74, "h": 70 },
+    "duration": 100
+   },
+   {
+    "filename": "FX_Realism_Henrik 44.aseprite",
+    "frame": { "x": 3256, "y": 0, "w": 74, "h": 70 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 74, "h": 70 },
+    "sourceSize": { "w": 74, "h": 70 },
+    "duration": 100
+   },
+   {
+    "filename": "FX_Realism_Henrik 45.aseprite",
+    "frame": { "x": 3330, "y": 0, "w": 74, "h": 70 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 74, "h": 70 },
+    "sourceSize": { "w": 74, "h": 70 },
+    "duration": 100
+   },
+   {
+    "filename": "FX_Realism_Henrik 46.aseprite",
+    "frame": { "x": 3404, "y": 0, "w": 74, "h": 70 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 74, "h": 70 },
+    "sourceSize": { "w": 74, "h": 70 },
+    "duration": 100
+   },
+   {
+    "filename": "FX_Realism_Henrik 47.aseprite",
+    "frame": { "x": 3478, "y": 0, "w": 74, "h": 70 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 74, "h": 70 },
+    "sourceSize": { "w": 74, "h": 70 },
+    "duration": 100
+   },
+   {
+    "filename": "FX_Realism_Henrik 48.aseprite",
+    "frame": { "x": 3552, "y": 0, "w": 74, "h": 70 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 74, "h": 70 },
+    "sourceSize": { "w": 74, "h": 70 },
+    "duration": 100
+   },
+   {
+    "filename": "FX_Realism_Henrik 49.aseprite",
+    "frame": { "x": 3626, "y": 0, "w": 74, "h": 70 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 74, "h": 70 },
+    "sourceSize": { "w": 74, "h": 70 },
+    "duration": 100
+   },
+   {
+    "filename": "FX_Realism_Henrik 50.aseprite",
+    "frame": { "x": 3700, "y": 0, "w": 74, "h": 70 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 74, "h": 70 },
+    "sourceSize": { "w": 74, "h": 70 },
+    "duration": 100
+   },
+   {
+    "filename": "FX_Realism_Henrik 51.aseprite",
+    "frame": { "x": 3774, "y": 0, "w": 74, "h": 70 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 74, "h": 70 },
+    "sourceSize": { "w": 74, "h": 70 },
+    "duration": 100
+   },
+   {
+    "filename": "FX_Realism_Henrik 52.aseprite",
+    "frame": { "x": 3848, "y": 0, "w": 74, "h": 70 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 74, "h": 70 },
+    "sourceSize": { "w": 74, "h": 70 },
+    "duration": 100
+   },
+   {
+    "filename": "FX_Realism_Henrik 53.aseprite",
+    "frame": { "x": 3922, "y": 0, "w": 74, "h": 70 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 74, "h": 70 },
+    "sourceSize": { "w": 74, "h": 70 },
+    "duration": 100
+   },
+   {
+    "filename": "FX_Realism_Henrik 54.aseprite",
+    "frame": { "x": 3996, "y": 0, "w": 74, "h": 70 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 74, "h": 70 },
+    "sourceSize": { "w": 74, "h": 70 },
+    "duration": 100
+   },
+   {
+    "filename": "FX_Realism_Henrik 55.aseprite",
+    "frame": { "x": 4070, "y": 0, "w": 74, "h": 70 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 74, "h": 70 },
+    "sourceSize": { "w": 74, "h": 70 },
+    "duration": 100
+   },
+   {
+    "filename": "FX_Realism_Henrik 56.aseprite",
+    "frame": { "x": 4144, "y": 0, "w": 74, "h": 70 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 74, "h": 70 },
+    "sourceSize": { "w": 74, "h": 70 },
+    "duration": 100
+   },
+   {
+    "filename": "FX_Realism_Henrik 57.aseprite",
+    "frame": { "x": 4218, "y": 0, "w": 74, "h": 70 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 74, "h": 70 },
+    "sourceSize": { "w": 74, "h": 70 },
+    "duration": 100
+   },
+   {
+    "filename": "FX_Realism_Henrik 58.aseprite",
+    "frame": { "x": 4292, "y": 0, "w": 74, "h": 70 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 74, "h": 70 },
+    "sourceSize": { "w": 74, "h": 70 },
+    "duration": 100
+   },
+   {
+    "filename": "FX_Realism_Henrik 59.aseprite",
+    "frame": { "x": 4366, "y": 0, "w": 74, "h": 70 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 74, "h": 70 },
+    "sourceSize": { "w": 74, "h": 70 },
+    "duration": 100
+   }
+ ],
+ "meta": {
+  "app": "https://www.aseprite.org/",
+  "version": "1.3.9-x64",
+  "image": "fg_hover_right.png",
+  "format": "RGBA8888",
+  "size": { "w": 4440, "h": 70 },
+  "scale": "1"
+ }
+}

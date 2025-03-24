@@ -1,0 +1,779 @@
+{ "frames": [
+   {
+    "filename": "Halloween Button Zombie Apocalypse condensed #Hover 0.aseprite",
+    "frame": { "x": 0, "y": 0, "w": 75, "h": 34 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 75, "h": 34 },
+    "sourceSize": { "w": 75, "h": 34 },
+    "duration": 180
+   },
+   {
+    "filename": "Halloween Button Zombie Apocalypse condensed #Hover 1.aseprite",
+    "frame": { "x": 0, "y": 0, "w": 75, "h": 34 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 75, "h": 34 },
+    "sourceSize": { "w": 75, "h": 34 },
+    "duration": 180
+   },
+   {
+    "filename": "Halloween Button Zombie Apocalypse condensed #Hover 2.aseprite",
+    "frame": { "x": 75, "y": 0, "w": 75, "h": 34 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 75, "h": 34 },
+    "sourceSize": { "w": 75, "h": 34 },
+    "duration": 180
+   },
+   {
+    "filename": "Halloween Button Zombie Apocalypse condensed #Hover 3.aseprite",
+    "frame": { "x": 150, "y": 0, "w": 75, "h": 34 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 75, "h": 34 },
+    "sourceSize": { "w": 75, "h": 34 },
+    "duration": 180
+   },
+   {
+    "filename": "Halloween Button Zombie Apocalypse condensed #Hover 4.aseprite",
+    "frame": { "x": 225, "y": 0, "w": 75, "h": 34 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 75, "h": 34 },
+    "sourceSize": { "w": 75, "h": 34 },
+    "duration": 180
+   },
+   {
+    "filename": "Halloween Button Zombie Apocalypse condensed #Hover 5.aseprite",
+    "frame": { "x": 300, "y": 0, "w": 75, "h": 34 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 75, "h": 34 },
+    "sourceSize": { "w": 75, "h": 34 },
+    "duration": 180
+   },
+   {
+    "filename": "Halloween Button Zombie Apocalypse condensed #Hover 6.aseprite",
+    "frame": { "x": 375, "y": 0, "w": 75, "h": 34 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 75, "h": 34 },
+    "sourceSize": { "w": 75, "h": 34 },
+    "duration": 180
+   },
+   {
+    "filename": "Halloween Button Zombie Apocalypse condensed #Hover 7.aseprite",
+    "frame": { "x": 450, "y": 0, "w": 75, "h": 34 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 75, "h": 34 },
+    "sourceSize": { "w": 75, "h": 34 },
+    "duration": 180
+   },
+   {
+    "filename": "Halloween Button Zombie Apocalypse condensed #Hover 8.aseprite",
+    "frame": { "x": 525, "y": 0, "w": 75, "h": 34 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 75, "h": 34 },
+    "sourceSize": { "w": 75, "h": 34 },
+    "duration": 180
+   },
+   {
+    "filename": "Halloween Button Zombie Apocalypse condensed #Hover 9.aseprite",
+    "frame": { "x": 600, "y": 0, "w": 75, "h": 34 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 75, "h": 34 },
+    "sourceSize": { "w": 75, "h": 34 },
+    "duration": 180
+   },
+   {
+    "filename": "Halloween Button Zombie Apocalypse condensed #Hover 10.aseprite",
+    "frame": { "x": 675, "y": 0, "w": 75, "h": 34 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 75, "h": 34 },
+    "sourceSize": { "w": 75, "h": 34 },
+    "duration": 180
+   },
+   {
+    "filename": "Halloween Button Zombie Apocalypse condensed #Hover 11.aseprite",
+    "frame": { "x": 750, "y": 0, "w": 75, "h": 34 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 75, "h": 34 },
+    "sourceSize": { "w": 75, "h": 34 },
+    "duration": 180
+   },
+   {
+    "filename": "Halloween Button Zombie Apocalypse condensed #Hover 12.aseprite",
+    "frame": { "x": 825, "y": 0, "w": 75, "h": 34 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 75, "h": 34 },
+    "sourceSize": { "w": 75, "h": 34 },
+    "duration": 180
+   },
+   {
+    "filename": "Halloween Button Zombie Apocalypse condensed #Hover 13.aseprite",
+    "frame": { "x": 900, "y": 0, "w": 75, "h": 34 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 75, "h": 34 },
+    "sourceSize": { "w": 75, "h": 34 },
+    "duration": 180
+   },
+   {
+    "filename": "Halloween Button Zombie Apocalypse condensed #Hover 14.aseprite",
+    "frame": { "x": 975, "y": 0, "w": 75, "h": 34 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 75, "h": 34 },
+    "sourceSize": { "w": 75, "h": 34 },
+    "duration": 180
+   },
+   {
+    "filename": "Halloween Button Zombie Apocalypse condensed #Hover 15.aseprite",
+    "frame": { "x": 1050, "y": 0, "w": 75, "h": 34 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 75, "h": 34 },
+    "sourceSize": { "w": 75, "h": 34 },
+    "duration": 180
+   },
+   {
+    "filename": "Halloween Button Zombie Apocalypse condensed #Hover 16.aseprite",
+    "frame": { "x": 1125, "y": 0, "w": 75, "h": 34 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 75, "h": 34 },
+    "sourceSize": { "w": 75, "h": 34 },
+    "duration": 180
+   },
+   {
+    "filename": "Halloween Button Zombie Apocalypse condensed #Hover 17.aseprite",
+    "frame": { "x": 1200, "y": 0, "w": 75, "h": 34 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 75, "h": 34 },
+    "sourceSize": { "w": 75, "h": 34 },
+    "duration": 180
+   },
+   {
+    "filename": "Halloween Button Zombie Apocalypse condensed #Hover 18.aseprite",
+    "frame": { "x": 1275, "y": 0, "w": 75, "h": 34 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 75, "h": 34 },
+    "sourceSize": { "w": 75, "h": 34 },
+    "duration": 180
+   },
+   {
+    "filename": "Halloween Button Zombie Apocalypse condensed #Hover 19.aseprite",
+    "frame": { "x": 1350, "y": 0, "w": 75, "h": 34 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 75, "h": 34 },
+    "sourceSize": { "w": 75, "h": 34 },
+    "duration": 180
+   },
+   {
+    "filename": "Halloween Button Zombie Apocalypse condensed #Hover 20.aseprite",
+    "frame": { "x": 1425, "y": 0, "w": 75, "h": 34 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 75, "h": 34 },
+    "sourceSize": { "w": 75, "h": 34 },
+    "duration": 180
+   },
+   {
+    "filename": "Halloween Button Zombie Apocalypse condensed #Hover 21.aseprite",
+    "frame": { "x": 1500, "y": 0, "w": 75, "h": 34 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 75, "h": 34 },
+    "sourceSize": { "w": 75, "h": 34 },
+    "duration": 180
+   },
+   {
+    "filename": "Halloween Button Zombie Apocalypse condensed #Hover 22.aseprite",
+    "frame": { "x": 1575, "y": 0, "w": 75, "h": 34 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 75, "h": 34 },
+    "sourceSize": { "w": 75, "h": 34 },
+    "duration": 180
+   },
+   {
+    "filename": "Halloween Button Zombie Apocalypse condensed #Hover 23.aseprite",
+    "frame": { "x": 1650, "y": 0, "w": 75, "h": 34 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 75, "h": 34 },
+    "sourceSize": { "w": 75, "h": 34 },
+    "duration": 180
+   },
+   {
+    "filename": "Halloween Button Zombie Apocalypse condensed #Hover 24.aseprite",
+    "frame": { "x": 1725, "y": 0, "w": 75, "h": 34 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 75, "h": 34 },
+    "sourceSize": { "w": 75, "h": 34 },
+    "duration": 180
+   },
+   {
+    "filename": "Halloween Button Zombie Apocalypse condensed #Hover 25.aseprite",
+    "frame": { "x": 1800, "y": 0, "w": 75, "h": 34 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 75, "h": 34 },
+    "sourceSize": { "w": 75, "h": 34 },
+    "duration": 180
+   },
+   {
+    "filename": "Halloween Button Zombie Apocalypse condensed #Hover 26.aseprite",
+    "frame": { "x": 1875, "y": 0, "w": 75, "h": 34 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 75, "h": 34 },
+    "sourceSize": { "w": 75, "h": 34 },
+    "duration": 180
+   },
+   {
+    "filename": "Halloween Button Zombie Apocalypse condensed #Hover 27.aseprite",
+    "frame": { "x": 1950, "y": 0, "w": 75, "h": 34 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 75, "h": 34 },
+    "sourceSize": { "w": 75, "h": 34 },
+    "duration": 180
+   },
+   {
+    "filename": "Halloween Button Zombie Apocalypse condensed #Hover 28.aseprite",
+    "frame": { "x": 2025, "y": 0, "w": 75, "h": 34 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 75, "h": 34 },
+    "sourceSize": { "w": 75, "h": 34 },
+    "duration": 180
+   },
+   {
+    "filename": "Halloween Button Zombie Apocalypse condensed #Hover 29.aseprite",
+    "frame": { "x": 2100, "y": 0, "w": 75, "h": 34 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 75, "h": 34 },
+    "sourceSize": { "w": 75, "h": 34 },
+    "duration": 180
+   },
+   {
+    "filename": "Halloween Button Zombie Apocalypse condensed #Hover 30.aseprite",
+    "frame": { "x": 2175, "y": 0, "w": 75, "h": 34 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 75, "h": 34 },
+    "sourceSize": { "w": 75, "h": 34 },
+    "duration": 180
+   },
+   {
+    "filename": "Halloween Button Zombie Apocalypse condensed #Hover 31.aseprite",
+    "frame": { "x": 2250, "y": 0, "w": 75, "h": 34 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 75, "h": 34 },
+    "sourceSize": { "w": 75, "h": 34 },
+    "duration": 180
+   },
+   {
+    "filename": "Halloween Button Zombie Apocalypse condensed #Hover 32.aseprite",
+    "frame": { "x": 2325, "y": 0, "w": 75, "h": 34 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 75, "h": 34 },
+    "sourceSize": { "w": 75, "h": 34 },
+    "duration": 180
+   },
+   {
+    "filename": "Halloween Button Zombie Apocalypse condensed #Hover 33.aseprite",
+    "frame": { "x": 2400, "y": 0, "w": 75, "h": 34 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 75, "h": 34 },
+    "sourceSize": { "w": 75, "h": 34 },
+    "duration": 180
+   },
+   {
+    "filename": "Halloween Button Zombie Apocalypse condensed #Hover 34.aseprite",
+    "frame": { "x": 2475, "y": 0, "w": 75, "h": 34 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 75, "h": 34 },
+    "sourceSize": { "w": 75, "h": 34 },
+    "duration": 180
+   },
+   {
+    "filename": "Halloween Button Zombie Apocalypse condensed #Hover 35.aseprite",
+    "frame": { "x": 2550, "y": 0, "w": 75, "h": 34 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 75, "h": 34 },
+    "sourceSize": { "w": 75, "h": 34 },
+    "duration": 180
+   },
+   {
+    "filename": "Halloween Button Zombie Apocalypse condensed #Hover 36.aseprite",
+    "frame": { "x": 2625, "y": 0, "w": 75, "h": 34 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 75, "h": 34 },
+    "sourceSize": { "w": 75, "h": 34 },
+    "duration": 180
+   },
+   {
+    "filename": "Halloween Button Zombie Apocalypse condensed #Hover 37.aseprite",
+    "frame": { "x": 2700, "y": 0, "w": 75, "h": 34 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 75, "h": 34 },
+    "sourceSize": { "w": 75, "h": 34 },
+    "duration": 180
+   },
+   {
+    "filename": "Halloween Button Zombie Apocalypse condensed #Hover 38.aseprite",
+    "frame": { "x": 2775, "y": 0, "w": 75, "h": 34 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 75, "h": 34 },
+    "sourceSize": { "w": 75, "h": 34 },
+    "duration": 180
+   },
+   {
+    "filename": "Halloween Button Zombie Apocalypse condensed #Hover 39.aseprite",
+    "frame": { "x": 2850, "y": 0, "w": 75, "h": 34 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 75, "h": 34 },
+    "sourceSize": { "w": 75, "h": 34 },
+    "duration": 180
+   },
+   {
+    "filename": "Halloween Button Zombie Apocalypse condensed #Hover 40.aseprite",
+    "frame": { "x": 2925, "y": 0, "w": 75, "h": 34 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 75, "h": 34 },
+    "sourceSize": { "w": 75, "h": 34 },
+    "duration": 180
+   },
+   {
+    "filename": "Halloween Button Zombie Apocalypse condensed #Hover 41.aseprite",
+    "frame": { "x": 3000, "y": 0, "w": 75, "h": 34 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 75, "h": 34 },
+    "sourceSize": { "w": 75, "h": 34 },
+    "duration": 180
+   },
+   {
+    "filename": "Halloween Button Zombie Apocalypse condensed #Hover 42.aseprite",
+    "frame": { "x": 3075, "y": 0, "w": 75, "h": 34 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 75, "h": 34 },
+    "sourceSize": { "w": 75, "h": 34 },
+    "duration": 180
+   },
+   {
+    "filename": "Halloween Button Zombie Apocalypse condensed #Hover 43.aseprite",
+    "frame": { "x": 0, "y": 0, "w": 75, "h": 34 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 75, "h": 34 },
+    "sourceSize": { "w": 75, "h": 34 },
+    "duration": 180
+   },
+   {
+    "filename": "Halloween Button Zombie Apocalypse condensed #Hover 44.aseprite",
+    "frame": { "x": 0, "y": 0, "w": 75, "h": 34 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 75, "h": 34 },
+    "sourceSize": { "w": 75, "h": 34 },
+    "duration": 180
+   },
+   {
+    "filename": "Halloween Button Zombie Apocalypse condensed #Hover 45.aseprite",
+    "frame": { "x": 0, "y": 0, "w": 75, "h": 34 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 75, "h": 34 },
+    "sourceSize": { "w": 75, "h": 34 },
+    "duration": 180
+   },
+   {
+    "filename": "Halloween Button Zombie Apocalypse condensed #Hover 46.aseprite",
+    "frame": { "x": 0, "y": 0, "w": 75, "h": 34 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 75, "h": 34 },
+    "sourceSize": { "w": 75, "h": 34 },
+    "duration": 180
+   },
+   {
+    "filename": "Halloween Button Zombie Apocalypse condensed #Hover 47.aseprite",
+    "frame": { "x": 0, "y": 0, "w": 75, "h": 34 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 75, "h": 34 },
+    "sourceSize": { "w": 75, "h": 34 },
+    "duration": 180
+   },
+   {
+    "filename": "Halloween Button Zombie Apocalypse condensed #Hover 48.aseprite",
+    "frame": { "x": 3150, "y": 0, "w": 75, "h": 34 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 75, "h": 34 },
+    "sourceSize": { "w": 75, "h": 34 },
+    "duration": 180
+   },
+   {
+    "filename": "Halloween Button Zombie Apocalypse condensed #Hover 49.aseprite",
+    "frame": { "x": 3225, "y": 0, "w": 75, "h": 34 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 75, "h": 34 },
+    "sourceSize": { "w": 75, "h": 34 },
+    "duration": 180
+   },
+   {
+    "filename": "Halloween Button Zombie Apocalypse condensed #Hover 50.aseprite",
+    "frame": { "x": 3300, "y": 0, "w": 75, "h": 34 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 75, "h": 34 },
+    "sourceSize": { "w": 75, "h": 34 },
+    "duration": 180
+   },
+   {
+    "filename": "Halloween Button Zombie Apocalypse condensed #Hover 51.aseprite",
+    "frame": { "x": 3375, "y": 0, "w": 75, "h": 34 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 75, "h": 34 },
+    "sourceSize": { "w": 75, "h": 34 },
+    "duration": 180
+   },
+   {
+    "filename": "Halloween Button Zombie Apocalypse condensed #Hover 52.aseprite",
+    "frame": { "x": 3450, "y": 0, "w": 75, "h": 34 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 75, "h": 34 },
+    "sourceSize": { "w": 75, "h": 34 },
+    "duration": 180
+   },
+   {
+    "filename": "Halloween Button Zombie Apocalypse condensed #Hover 53.aseprite",
+    "frame": { "x": 3525, "y": 0, "w": 75, "h": 34 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 75, "h": 34 },
+    "sourceSize": { "w": 75, "h": 34 },
+    "duration": 180
+   },
+   {
+    "filename": "Halloween Button Zombie Apocalypse condensed #Hover 54.aseprite",
+    "frame": { "x": 3600, "y": 0, "w": 75, "h": 34 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 75, "h": 34 },
+    "sourceSize": { "w": 75, "h": 34 },
+    "duration": 180
+   },
+   {
+    "filename": "Halloween Button Zombie Apocalypse condensed #Hover 55.aseprite",
+    "frame": { "x": 3675, "y": 0, "w": 75, "h": 34 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 75, "h": 34 },
+    "sourceSize": { "w": 75, "h": 34 },
+    "duration": 180
+   },
+   {
+    "filename": "Halloween Button Zombie Apocalypse condensed #Hover 56.aseprite",
+    "frame": { "x": 3750, "y": 0, "w": 75, "h": 34 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 75, "h": 34 },
+    "sourceSize": { "w": 75, "h": 34 },
+    "duration": 180
+   },
+   {
+    "filename": "Halloween Button Zombie Apocalypse condensed #Hover 57.aseprite",
+    "frame": { "x": 3825, "y": 0, "w": 75, "h": 34 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 75, "h": 34 },
+    "sourceSize": { "w": 75, "h": 34 },
+    "duration": 180
+   },
+   {
+    "filename": "Halloween Button Zombie Apocalypse condensed #Hover 58.aseprite",
+    "frame": { "x": 3900, "y": 0, "w": 75, "h": 34 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 75, "h": 34 },
+    "sourceSize": { "w": 75, "h": 34 },
+    "duration": 180
+   },
+   {
+    "filename": "Halloween Button Zombie Apocalypse condensed #Hover 59.aseprite",
+    "frame": { "x": 3975, "y": 0, "w": 75, "h": 34 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 75, "h": 34 },
+    "sourceSize": { "w": 75, "h": 34 },
+    "duration": 180
+   },
+   {
+    "filename": "Halloween Button Zombie Apocalypse condensed #Hover 60.aseprite",
+    "frame": { "x": 0, "y": 0, "w": 75, "h": 34 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 75, "h": 34 },
+    "sourceSize": { "w": 75, "h": 34 },
+    "duration": 180
+   },
+   {
+    "filename": "Halloween Button Zombie Apocalypse condensed #Hover 61.aseprite",
+    "frame": { "x": 0, "y": 0, "w": 75, "h": 34 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 75, "h": 34 },
+    "sourceSize": { "w": 75, "h": 34 },
+    "duration": 180
+   },
+   {
+    "filename": "Halloween Button Zombie Apocalypse condensed #Hover 62.aseprite",
+    "frame": { "x": 0, "y": 0, "w": 75, "h": 34 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 75, "h": 34 },
+    "sourceSize": { "w": 75, "h": 34 },
+    "duration": 180
+   },
+   {
+    "filename": "Halloween Button Zombie Apocalypse condensed #Hover 63.aseprite",
+    "frame": { "x": 4050, "y": 0, "w": 75, "h": 34 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 75, "h": 34 },
+    "sourceSize": { "w": 75, "h": 34 },
+    "duration": 180
+   },
+   {
+    "filename": "Halloween Button Zombie Apocalypse condensed #Hover 64.aseprite",
+    "frame": { "x": 4125, "y": 0, "w": 75, "h": 34 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 75, "h": 34 },
+    "sourceSize": { "w": 75, "h": 34 },
+    "duration": 180
+   },
+   {
+    "filename": "Halloween Button Zombie Apocalypse condensed #Hover 65.aseprite",
+    "frame": { "x": 4200, "y": 0, "w": 75, "h": 34 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 75, "h": 34 },
+    "sourceSize": { "w": 75, "h": 34 },
+    "duration": 180
+   },
+   {
+    "filename": "Halloween Button Zombie Apocalypse condensed #Hover 66.aseprite",
+    "frame": { "x": 4275, "y": 0, "w": 75, "h": 34 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 75, "h": 34 },
+    "sourceSize": { "w": 75, "h": 34 },
+    "duration": 180
+   },
+   {
+    "filename": "Halloween Button Zombie Apocalypse condensed #Hover 67.aseprite",
+    "frame": { "x": 4350, "y": 0, "w": 75, "h": 34 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 75, "h": 34 },
+    "sourceSize": { "w": 75, "h": 34 },
+    "duration": 180
+   },
+   {
+    "filename": "Halloween Button Zombie Apocalypse condensed #Hover 68.aseprite",
+    "frame": { "x": 4425, "y": 0, "w": 75, "h": 34 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 75, "h": 34 },
+    "sourceSize": { "w": 75, "h": 34 },
+    "duration": 180
+   },
+   {
+    "filename": "Halloween Button Zombie Apocalypse condensed #Hover 69.aseprite",
+    "frame": { "x": 0, "y": 0, "w": 75, "h": 34 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 75, "h": 34 },
+    "sourceSize": { "w": 75, "h": 34 },
+    "duration": 180
+   },
+   {
+    "filename": "Halloween Button Zombie Apocalypse condensed #Hover 70.aseprite",
+    "frame": { "x": 0, "y": 0, "w": 75, "h": 34 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 75, "h": 34 },
+    "sourceSize": { "w": 75, "h": 34 },
+    "duration": 180
+   },
+   {
+    "filename": "Halloween Button Zombie Apocalypse condensed #Hover 71.aseprite",
+    "frame": { "x": 0, "y": 0, "w": 75, "h": 34 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 75, "h": 34 },
+    "sourceSize": { "w": 75, "h": 34 },
+    "duration": 180
+   },
+   {
+    "filename": "Halloween Button Zombie Apocalypse condensed #Hover 72.aseprite",
+    "frame": { "x": 0, "y": 0, "w": 75, "h": 34 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 75, "h": 34 },
+    "sourceSize": { "w": 75, "h": 34 },
+    "duration": 180
+   },
+   {
+    "filename": "Halloween Button Zombie Apocalypse condensed #Hover 73.aseprite",
+    "frame": { "x": 0, "y": 0, "w": 75, "h": 34 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 75, "h": 34 },
+    "sourceSize": { "w": 75, "h": 34 },
+    "duration": 180
+   },
+   {
+    "filename": "Halloween Button Zombie Apocalypse condensed #Hover 74.aseprite",
+    "frame": { "x": 0, "y": 0, "w": 75, "h": 34 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 75, "h": 34 },
+    "sourceSize": { "w": 75, "h": 34 },
+    "duration": 180
+   },
+   {
+    "filename": "Halloween Button Zombie Apocalypse condensed #Hover 75.aseprite",
+    "frame": { "x": 0, "y": 0, "w": 75, "h": 34 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 75, "h": 34 },
+    "sourceSize": { "w": 75, "h": 34 },
+    "duration": 180
+   },
+   {
+    "filename": "Halloween Button Zombie Apocalypse condensed #Hover 76.aseprite",
+    "frame": { "x": 0, "y": 0, "w": 75, "h": 34 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 75, "h": 34 },
+    "sourceSize": { "w": 75, "h": 34 },
+    "duration": 180
+   },
+   {
+    "filename": "Halloween Button Zombie Apocalypse condensed #Hover 77.aseprite",
+    "frame": { "x": 0, "y": 0, "w": 75, "h": 34 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 75, "h": 34 },
+    "sourceSize": { "w": 75, "h": 34 },
+    "duration": 180
+   },
+   {
+    "filename": "Halloween Button Zombie Apocalypse condensed #Hover 78.aseprite",
+    "frame": { "x": 0, "y": 0, "w": 75, "h": 34 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 75, "h": 34 },
+    "sourceSize": { "w": 75, "h": 34 },
+    "duration": 180
+   },
+   {
+    "filename": "Halloween Button Zombie Apocalypse condensed #Hover 79.aseprite",
+    "frame": { "x": 0, "y": 0, "w": 75, "h": 34 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 75, "h": 34 },
+    "sourceSize": { "w": 75, "h": 34 },
+    "duration": 180
+   },
+   {
+    "filename": "Halloween Button Zombie Apocalypse condensed #Hover 80.aseprite",
+    "frame": { "x": 0, "y": 0, "w": 75, "h": 34 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 75, "h": 34 },
+    "sourceSize": { "w": 75, "h": 34 },
+    "duration": 180
+   },
+   {
+    "filename": "Halloween Button Zombie Apocalypse condensed #Hover 81.aseprite",
+    "frame": { "x": 0, "y": 0, "w": 75, "h": 34 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 75, "h": 34 },
+    "sourceSize": { "w": 75, "h": 34 },
+    "duration": 180
+   },
+   {
+    "filename": "Halloween Button Zombie Apocalypse condensed #Hover 82.aseprite",
+    "frame": { "x": 0, "y": 0, "w": 75, "h": 34 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 75, "h": 34 },
+    "sourceSize": { "w": 75, "h": 34 },
+    "duration": 180
+   },
+   {
+    "filename": "Halloween Button Zombie Apocalypse condensed #Hover 83.aseprite",
+    "frame": { "x": 0, "y": 0, "w": 75, "h": 34 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 75, "h": 34 },
+    "sourceSize": { "w": 75, "h": 34 },
+    "duration": 180
+   }
+ ],
+ "meta": {
+  "app": "https://www.aseprite.org/",
+  "version": "1.2.40-x64",
+  "image": "Left_Hover.png",
+  "format": "RGBA8888",
+  "size": { "w": 4500, "h": 34 },
+  "scale": "1",
+  "frameTags": [
+   { "name": "Default", "from": 0, "to": 83, "direction": "forward" },
+   { "name": "Hover", "from": 84, "to": 167, "direction": "forward" },
+   { "name": "Eagle", "from": 84, "to": 167, "direction": "forward" }
+  ],
+  "layers": [
+   { "name": "Left animation", "opacity": 255, "blendMode": "normal" },
+   { "name": "Right animation", "opacity": 255, "blendMode": "normal" }
+  ],
+  "slices": [
+   { "name": "Right Side", "color": "#fe5b59ff", "keys": [{ "frame": 0, "bounds": {"x": 9895936, "y": -1669857248, "w": 229757421, "h": -1006616448 } }] }
+  ]
+ }
+}

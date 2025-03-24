@@ -1,0 +1,23 @@
+{
+	"content": [
+		{
+			"path": "contents.json"
+		},
+		{
+			"path": "textures"
+		},
+		{
+			"path": "textures/ui"
+		},
+		{
+			"path": "manifest.json"
+		},
+		{
+			"path": "textures/ui/Wishlist_Rabbit_UI.json"
+		},
+		{
+			"path": "textures/ui/Wishlist_Rabbit_UI.png"
+		}
+	],
+	"version": 1
+}

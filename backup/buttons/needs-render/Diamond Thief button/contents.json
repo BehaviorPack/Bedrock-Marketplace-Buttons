@@ -1,0 +1,19 @@
+{
+"content" : [
+    { "path" : "contents.json" },
+    { "path" : "textures" },
+    { "path" : "textures/ui" },
+    { "path" : "ui" },
+    { "path" : "ui/start_screen.json" },
+    { "path" : "manifest.json" },
+    { "path" : "textures/ui/BG_Default.json" },
+    { "path" : "textures/ui/BG_Default.png" },
+    { "path" : "textures/ui/BG_Hover.json" },
+    { "path" : "textures/ui/BG_Hover.png" },
+    { "path" : "textures/ui/Thief01.json" },
+    { "path" : "textures/ui/Thief01.png" },
+    { "path" : "textures/ui/Thief02.json" },
+    { "path" : "textures/ui/Thief02.png" }
+],
+"version" : 1
+}

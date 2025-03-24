@@ -1,0 +1,31 @@
+{
+"content" : [
+    { "path" : "contents.json" },
+    { "path" : "textures" },
+    { "path" : "textures/ui" },
+    { "path" : "ui" },
+    { "path" : "ui/start_screen.json" },
+    { "path" : "manifest.json" },
+    { "path" : "textures/ui/BG_Default.json" },
+    { "path" : "textures/ui/BG_Default.png" },
+    { "path" : "textures/ui/BG_Hover.json" },
+    { "path" : "textures/ui/BG_Hover.png" },
+    { "path" : "textures/ui/Clouds_01.json" },
+    { "path" : "textures/ui/Clouds_01.png" },
+    { "path" : "textures/ui/Clouds_02.json" },
+    { "path" : "textures/ui/Clouds_02.png" },
+    { "path" : "textures/ui/Clouds_03.json" },
+    { "path" : "textures/ui/Clouds_03.png" },
+    { "path" : "textures/ui/Clouds_04.json" },
+    { "path" : "textures/ui/Clouds_04.png" },
+    { "path" : "textures/ui/Moon.json" },
+    { "path" : "textures/ui/Moon.png" },
+    { "path" : "textures/ui/SLS_Default.json" },
+    { "path" : "textures/ui/SLS_Default.png" },
+    { "path" : "textures/ui/SLS_Hover.json" },
+    { "path" : "textures/ui/SLS_Hover.png" },
+    { "path" : "textures/ui/Windsock.json" },
+    { "path" : "textures/ui/Windsock.png" }
+],
+"version" : 1
+}

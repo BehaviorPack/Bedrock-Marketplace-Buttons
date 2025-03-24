@@ -1,0 +1,23 @@
+{
+"content" : [
+    { "path" : "contents.json" },
+    { "path" : "textures" },
+    { "path" : "textures/ui" },
+    { "path" : "ui" },
+    { "path" : "ui/start_screen.json" },
+    { "path" : "manifest.json" },
+    { "path" : "textures/ui/BG_Default.json" },
+    { "path" : "textures/ui/BG_Default.png" },
+    { "path" : "textures/ui/BG_Hover.json" },
+    { "path" : "textures/ui/BG_Hover.png" },
+    { "path" : "textures/ui/KingAxo.json" },
+    { "path" : "textures/ui/KingAxo.png" },
+    { "path" : "textures/ui/KingAxo_Hover.json" },
+    { "path" : "textures/ui/KingAxo_Hover.png" },
+    { "path" : "textures/ui/LilAxo.json" },
+    { "path" : "textures/ui/LilAxo.png" },
+    { "path" : "textures/ui/LilAxo_Hover.json" },
+    { "path" : "textures/ui/LilAxo_Hover.png" }
+],
+"version" : 1
+}

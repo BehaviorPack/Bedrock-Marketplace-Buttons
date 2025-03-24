@@ -1,0 +1,256 @@
+{ "frames": [
+   {
+    "filename": "skeleton_heads 0.ase",
+    "frame": { "x": 0, "y": 0, "w": 32, "h": 30 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 32, "h": 30 },
+    "sourceSize": { "w": 32, "h": 30 },
+    "duration": 1500
+   },
+   {
+    "filename": "skeleton_heads 1.ase",
+    "frame": { "x": 32, "y": 0, "w": 32, "h": 30 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 32, "h": 30 },
+    "sourceSize": { "w": 32, "h": 30 },
+    "duration": 100
+   },
+   {
+    "filename": "skeleton_heads 2.ase",
+    "frame": { "x": 64, "y": 0, "w": 32, "h": 30 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 32, "h": 30 },
+    "sourceSize": { "w": 32, "h": 30 },
+    "duration": 100
+   },
+   {
+    "filename": "skeleton_heads 3.ase",
+    "frame": { "x": 96, "y": 0, "w": 32, "h": 30 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 32, "h": 30 },
+    "sourceSize": { "w": 32, "h": 30 },
+    "duration": 100
+   },
+   {
+    "filename": "skeleton_heads 4.ase",
+    "frame": { "x": 128, "y": 0, "w": 32, "h": 30 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 32, "h": 30 },
+    "sourceSize": { "w": 32, "h": 30 },
+    "duration": 100
+   },
+   {
+    "filename": "skeleton_heads 5.ase",
+    "frame": { "x": 160, "y": 0, "w": 32, "h": 30 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 32, "h": 30 },
+    "sourceSize": { "w": 32, "h": 30 },
+    "duration": 100
+   },
+   {
+    "filename": "skeleton_heads 6.ase",
+    "frame": { "x": 192, "y": 0, "w": 32, "h": 30 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 32, "h": 30 },
+    "sourceSize": { "w": 32, "h": 30 },
+    "duration": 1800
+   },
+   {
+    "filename": "skeleton_heads 7.ase",
+    "frame": { "x": 160, "y": 0, "w": 32, "h": 30 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 32, "h": 30 },
+    "sourceSize": { "w": 32, "h": 30 },
+    "duration": 100
+   },
+   {
+    "filename": "skeleton_heads 8.ase",
+    "frame": { "x": 128, "y": 0, "w": 32, "h": 30 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 32, "h": 30 },
+    "sourceSize": { "w": 32, "h": 30 },
+    "duration": 100
+   },
+   {
+    "filename": "skeleton_heads 9.ase",
+    "frame": { "x": 96, "y": 0, "w": 32, "h": 30 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 32, "h": 30 },
+    "sourceSize": { "w": 32, "h": 30 },
+    "duration": 100
+   },
+   {
+    "filename": "skeleton_heads 10.ase",
+    "frame": { "x": 64, "y": 0, "w": 32, "h": 30 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 32, "h": 30 },
+    "sourceSize": { "w": 32, "h": 30 },
+    "duration": 100
+   },
+   {
+    "filename": "skeleton_heads 11.ase",
+    "frame": { "x": 32, "y": 0, "w": 32, "h": 30 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 32, "h": 30 },
+    "sourceSize": { "w": 32, "h": 30 },
+    "duration": 100
+   },
+   {
+    "filename": "skeleton_heads 1.ase",
+    "frame": { "x": 32, "y": 0, "w": 32, "h": 30 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 32, "h": 30 },
+    "sourceSize": { "w": 32, "h": 30 },
+    "duration": 100
+   },
+   {
+    "filename": "skeleton_heads 0.ase",
+    "frame": { "x": 0, "y": 0, "w": 32, "h": 30 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 32, "h": 30 },
+    "sourceSize": { "w": 32, "h": 30 },
+    "duration": 3000
+   },
+   {
+    "filename": "skeleton_heads 1.ase",
+    "frame": { "x": 32, "y": 0, "w": 32, "h": 30 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 32, "h": 30 },
+    "sourceSize": { "w": 32, "h": 30 },
+    "duration": 100
+   },
+   {
+    "filename": "skeleton_heads 2.ase",
+    "frame": { "x": 64, "y": 0, "w": 32, "h": 30 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 32, "h": 30 },
+    "sourceSize": { "w": 32, "h": 30 },
+    "duration": 100
+   },
+   {
+    "filename": "skeleton_heads 3.ase",
+    "frame": { "x": 96, "y": 0, "w": 32, "h": 30 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 32, "h": 30 },
+    "sourceSize": { "w": 32, "h": 30 },
+    "duration": 100
+   },
+   {
+    "filename": "skeleton_heads 4.ase",
+    "frame": { "x": 128, "y": 0, "w": 32, "h": 30 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 32, "h": 30 },
+    "sourceSize": { "w": 32, "h": 30 },
+    "duration": 100
+   },
+   {
+    "filename": "skeleton_heads 5.ase",
+    "frame": { "x": 160, "y": 0, "w": 32, "h": 30 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 32, "h": 30 },
+    "sourceSize": { "w": 32, "h": 30 },
+    "duration": 100
+   },
+   {
+    "filename": "skeleton_heads 6.ase",
+    "frame": { "x": 192, "y": 0, "w": 32, "h": 30 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 32, "h": 30 },
+    "sourceSize": { "w": 32, "h": 30 },
+    "duration": 1800
+   },
+   {
+    "filename": "skeleton_heads 7.ase",
+    "frame": { "x": 160, "y": 0, "w": 32, "h": 30 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 32, "h": 30 },
+    "sourceSize": { "w": 32, "h": 30 },
+    "duration": 100
+   },
+   {
+    "filename": "skeleton_heads 8.ase",
+    "frame": { "x": 128, "y": 0, "w": 32, "h": 30 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 32, "h": 30 },
+    "sourceSize": { "w": 32, "h": 30 },
+    "duration": 100
+   },
+   {
+    "filename": "skeleton_heads 9.ase",
+    "frame": { "x": 96, "y": 0, "w": 32, "h": 30 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 32, "h": 30 },
+    "sourceSize": { "w": 32, "h": 30 },
+    "duration": 100
+   },
+   {
+    "filename": "skeleton_heads 10.ase",
+    "frame": { "x": 64, "y": 0, "w": 32, "h": 30 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 32, "h": 30 },
+    "sourceSize": { "w": 32, "h": 30 },
+    "duration": 100
+   },
+   {
+    "filename": "skeleton_heads 11.ase",
+    "frame": { "x": 32, "y": 0, "w": 32, "h": 30 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 32, "h": 30 },
+    "sourceSize": { "w": 32, "h": 30 },
+    "duration": 100
+   },
+   {
+    "filename": "skeleton_heads 1.ase",
+    "frame": { "x": 32, "y": 0, "w": 32, "h": 30 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 32, "h": 30 },
+    "sourceSize": { "w": 32, "h": 30 },
+    "duration": 100
+   },
+   {
+    "filename": "skeleton_heads 0.ase",
+    "frame": { "x": 0, "y": 0, "w": 32, "h": 30 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 32, "h": 30 },
+    "sourceSize": { "w": 32, "h": 30 },
+    "duration": 820
+   }
+ ],
+ "meta": {
+  "app": "http://www.aseprite.org/",
+  "version": "1.2.29-x64",
+  "image": "skeleton_heads.png",
+  "format": "RGBA8888",
+  "size": { "w": 224, "h": 30 },
+  "scale": "1",
+  "frameTags": [
+  ]
+ }
+}

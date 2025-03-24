@@ -1,0 +1,26 @@
+﻿### Start Screen Buttons Countdown
+
+gathering.start_screen.countdown.button=电影活动	###{MaxLength=19}This is a button that the player presses to start an event on the homescreen
+
+### Start Screen Buttons During
+
+gathering.start_screen.during.button=播放电影活动	###{MaxLength=19}This is a button that the player presses to start an event on the homescreen
+
+### PDP Buttons Countdown
+
+gathering.info.countdown.action_button=阅读更多	###{MaxLength=30}The player presses this button to read more about the event.
+gathering.info.countdown.info_button=电影信息	###{MaxLength=30}The player presses this button to read more about the movie.
+
+### PDP Buttons During
+
+gathering.info.during.action_button=立即开玩！	###{MaxLength=30}Pressing this button allows the player to vote.
+gathering.info.during.info_button=阅读更多	###{MaxLength=30}The player presses this button to read more about the event.
+
+### Client Outdated
+gathering.info.body.update=更新到最新版本才能观看此直播活动。	###{MaxLength=300}An updated version of Minecraft is required for the user to join this event
+gathering.info.button.update=需要更新	###{MaxLength=30}An updated version of Minecraft is required for the user to proceed
+
+### PDP
+gathering.info.header=我的世界大电影直播活动	###{MaxLength=60}This is the name of the event. A Minecraft Movie is the name. Live Event is the type of event
+gathering.info.title=我的世界大电影直播活动！	###{MaxLength=60}This is the name of the event. A Minecraft Movie is the name. Live Event is the type of event
+gathering.info.body=加入史蒂夫和他的伙伴们，在米德波特村庄抵御猪灵入侵！~LINEBREAK~~LINEBREAK~参与这个持续更新的直播活动，玩游戏来升级你的装备并加强村庄防御。完成挑战以获得奖励，完成全部挑战即可获得电影斗篷！~LINEBREAK~~LINEBREAK~我的世界大电影直播活动将于 3 月 25 日下午 2:00（太平洋时间）开始，持续到 4 月 7 日下午 2:00（太平洋时间）。	###{MaxLength=1000}{StrContains=~LINEBREAK~}Midport is the name of the Village. piglin is a character in the Minecraft game. Movie Cape is the name of a reward the player can earn. The date and time should remain in Pacific Time.

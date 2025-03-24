@@ -1,0 +1,349 @@
+{
+  "treatment_store_button_content": {
+    "type": "panel",
+    "controls": [
+      {
+        "button_label@common_buttons.new_ui_binding_button_label": {
+          "layer": 50
+        }
+      },
+
+      {
+        "Fog01_Default": {
+          "type": "image",
+          "texture": "textures/ui/Fog01_Default",
+          "size": [ 66 , 15 ],
+          "anchor_from": "top_left",
+          "anchor_to": "top_left",
+          "offset": [ 40, -2 ],
+          "layer": 5,
+          "ignored": "(not $default_state)",
+          "uv_size": [ 132 , 30 ],
+          "uv": "@start.animation",
+          "disable_anim_fast_forward": true
+        }
+      },
+      {
+        "Fog02_Default": {
+          "type": "image",
+          "texture": "textures/ui/Fog02_Default",
+          "size": [ 66 , 15 ],
+          "anchor_from": "top_left",
+          "anchor_to": "top_left",
+          "offset": [ 40, -2 ],
+          "layer": 5,
+          "ignored": "(not $default_state)",
+          "uv_size": [ 132 , 30 ],
+          "uv": "@start.animation",
+          "disable_anim_fast_forward": true
+        }
+      },
+      {
+        "Fog03_Default": {
+          "type": "image",
+          "texture": "textures/ui/Fog03_Default",
+          "size": [ 66 , 15 ],
+          "anchor_from": "top_left",
+          "anchor_to": "top_left",
+          "offset": [ 40, -2 ],
+          "layer": 5,
+          "ignored": "(not $default_state)",
+          "uv_size": [ 132 , 30 ],
+          "uv": "@start.animation",
+          "disable_anim_fast_forward": true
+        }
+      },
+
+      {
+        "Fog01_Hover": {
+          "type": "image",
+          "texture": "textures/ui/Fog01_Hover",
+          "size": [ 66 , 15 ],
+          "anchor_from": "top_left",
+          "anchor_to": "top_left",
+          "offset": [ 40, -2 ],
+          "layer": 5,
+          "ignored": "($default_state)",
+          "uv_size": [ 132 , 30 ],
+          "uv": "@start.animation",
+          "disable_anim_fast_forward": true
+        }
+      },
+      {
+        "Fog02_Hover": {
+          "type": "image",
+          "texture": "textures/ui/Fog02_Hover",
+          "size": [ 66 , 15 ],
+          "anchor_from": "top_left",
+          "anchor_to": "top_left",
+          "offset": [ 40, -2 ],
+          "layer": 5,
+          "ignored": "($default_state)",
+          "uv_size": [ 132 , 30 ],
+          "uv": "@start.animation",
+          "disable_anim_fast_forward": true
+        }
+      },
+      {
+        "Fog03_Hover": {
+          "type": "image",
+          "texture": "textures/ui/Fog03_Hover",
+          "size": [ 66 , 15 ],
+          "anchor_from": "top_left",
+          "anchor_to": "top_left",
+          "offset": [ 40, -2 ],
+          "layer": 5,
+          "ignored": "($default_state)",
+          "uv_size": [ 132 , 30 ],
+          "uv": "@start.animation",
+          "disable_anim_fast_forward": true
+        }
+      },
+
+
+
+      {
+        "Left_Default": {
+          "type": "image",
+          "texture": "textures/ui/Left_Default",
+          "size": [ 50 , 24 ],
+          "anchor_from": "bottom_left",
+          "anchor_to": "bottom_left",
+          "offset": [ -3, -1 ],
+          "layer": 10,
+          "ignored": "(not $default_state)",
+          "uv_size": [ 100 , 48 ],
+          "uv": "@start.animation",
+          "disable_anim_fast_forward": true
+        }
+      },
+      {
+        "Left_Hover": {
+          "type": "image",
+          "texture": "textures/ui/Left_Hover",
+          "size": [ 50 , 24 ],
+          "anchor_from": "bottom_left",
+          "anchor_to": "bottom_left",
+          "offset": [ -3, -1 ],
+          "layer": 10,
+          "ignored": "($default_state)",
+          "uv_size": [ 100 , 48 ],
+          "uv": "@start.animation",
+          "disable_anim_fast_forward": true
+        }
+      },
+      {
+        "Right_Default": {
+          "type": "image",
+          "texture": "textures/ui/Right_Default",
+          "size": [ 48 , 26 ],
+          "anchor_from": "bottom_right",
+          "anchor_to": "bottom_right",
+          "offset": [ 3, 0 ],
+          "layer": 10,
+          "ignored": "(not $default_state)",
+          "uv_size": [ 96 , 52 ],
+          "uv": "@start.animation",
+          "disable_anim_fast_forward": true
+        }
+      },
+      {
+        "Right_Hover": {
+          "type": "image",
+          "texture": "textures/ui/Right_Hover",
+          "size": [ 48 , 26 ],
+          "anchor_from": "bottom_right",
+          "anchor_to": "bottom_right",
+          "offset": [ 3, 0 ],
+          "layer": 10,
+          "ignored": "($default_state)",
+          "uv_size": [ 96 , 52 ],
+          "uv": "@start.animation",
+          "disable_anim_fast_forward": true
+        }
+      },
+
+      {
+        "Flare": {
+          "type": "image",
+          "texture": "textures/ui/Flare",
+          "size": [ 59 , 34 ],
+          "anchor_from": "bottom_left",
+          "anchor_to": "bottom_left",
+          "offset": [ 30 , 5 ],
+          "layer": 20,
+          "ignored": "(not $default_state)",
+          "uv_size": [ 118 , 68 ],
+          "uv": "@start.animation",
+          "disable_anim_fast_forward": true
+        }
+      },
+
+      {
+        "Fireflies_Left": {
+          "type": "image",
+          "texture": "textures/ui/Fireflies_Left",
+          "size": [ 29 , 34 ],
+          "anchor_from": "bottom_left",
+          "anchor_to": "bottom_left",
+          "offset": [ -2 , 5 ],
+          "layer": 20,
+          "ignored": "($default_state)",
+          "uv_size": [ 58 , 68 ],
+          "uv": "@start.animation",
+          "disable_anim_fast_forward": true
+        }
+      },
+      {
+        "Fireflies_Center": {
+          "type": "image",
+          "texture": "textures/ui/Fireflies_Center",
+          "size": [ 22 , 34 ],
+          "anchor_from": "bottom_left",
+          "anchor_to": "bottom_left",
+          "offset": [ 51 , 5 ],
+          "layer": 20,
+          "ignored": "($default_state)",
+          "uv_size": [ 44 , 68 ],
+          "uv": "@start.animation",
+          "disable_anim_fast_forward": true
+        }
+      },
+      {
+        "Fireflies_Right": {
+          "type": "image",
+          "texture": "textures/ui/Fireflies_Right",
+          "size": [ 30 , 34 ],
+          "anchor_from": "bottom_right",
+          "anchor_to": "bottom_right",
+          "offset": [ -14 , 5 ],
+          "layer": 20,
+          "ignored": "($default_state)",
+          "uv_size": [ 60 , 68 ],
+          "uv": "@start.animation",
+          "disable_anim_fast_forward": true
+        }
+      },
+
+      {
+        "Creaking_Close": {
+          "type": "image",
+          "texture": "textures/ui/Creaking_Close",
+          "size": [ 54 , 34 ],
+          "anchor_from": "bottom_right",
+          "anchor_to": "bottom_right",
+          "offset": [ 17 , 5 ],
+          "layer": 40,
+          "ignored": "($default_state)",
+          "uv_size": [ 108 , 68 ],
+          "uv": "@start.animation",
+          "disable_anim_fast_forward": true
+        }
+      },
+      {
+        "Creaking_Far": {
+          "type": "image",
+          "texture": "textures/ui/Creaking_Far",
+          "size": [ 28 , 34 ],
+          "anchor_from": "bottom_right",
+          "anchor_to": "bottom_right",
+          "offset": [ 10 , 5 ],
+          "layer": 40,
+          "ignored": "($default_state)",
+          "uv_size": [ 56 , 68 ],
+          "uv": "@start.animation",
+          "disable_anim_fast_forward": true
+        }
+      }
+    ]
+  },
+
+  "treatment_store_button@common_buttons.light_content_button": {
+    "size": ["100% - 2px", "100% - 2px"],
+    "$pressed_button_name": "button.menu_store",
+    "$button_text": "menu.store",
+    "$button_content": "start.treatment_store_button_content",
+    "$button_text_binding_type": "none",
+    "$button_binding_condition": "none",
+    "$button_text_grid_collection_name": "",
+    "tts_inherit_siblings": true,
+    "$button_pressed_offset": [0, 0],
+	
+    "$default_button_texture": "textures/ui/BG_Default.png",
+    "$hover_button_texture": "textures/ui/BG_Hover.png",
+    "$pressed_button_texture": "textures/ui/BG_Hover.png",
+    "$default_text_color": [ 0.075, 0.075, 0.075 ],
+    "$light_button_hover_text_color": [ 0.937, 0.639, 0.216 ],
+    "$light_button_pressed_text_color": [ 0.937, 0.639, 0.216 ],
+    "$light_border_default_color": [ 0.075, 0.075, 0.075 ],
+    "$light_border_hover_color": [ 0.937, 0.639, 0.216 ],
+    "$light_border_pressed_color": [ 0.937, 0.639, 0.216 ]
+  },
+  
+  
+  
+  "animation": {
+    "anim_type": "aseprite_flip_book",
+    "initial_uv": [ 0, 0 ]
+  },
+  
+  "store_button_stack@start.stacked_row": {
+    "controls": [
+      {
+        "store_button@start.treatment_store_button": {
+          "enabled": "(not $store_disabled)",
+          "bindings": [
+            {
+              "binding_name": "(not #marketplace_disabled)",
+              "binding_name_override": "#visible"
+            }
+          ]
+        }
+      },
+      {
+        "marketplace_error_button@common_buttons.dynamic_tooltip_notification_panel": {
+          "size": [ "100%", "100%" ],
+          "button_mappings": [
+            {
+              "from_button_id": "button.menu_select",
+              "to_button_id": "button.menu_store_error",
+              "mapping_type": "pressed"
+            },
+            {
+              "to_button_id": "button.is_hovered",
+              "mapping_type": "pressed"
+            }
+          ],
+          "consume_hover_events": false,
+          "focus_enabled": true,
+          "$dynamic_tooltip_button_visibility_binding_name": "#has_marketplace_errors",
+          "$tooltip_popup_visible_binding": "#marketplace_errors_tooltip_visible",
+          "$override_tooltip_popup_image": true,
+          "$tooltip_popup_override_image_panel": "start.store_error_image",
+          "$tooltip_text_binding_name": "#marketplace_error_text",
+          "$tool_tip_text_max_size": [ "300px", "default" ],
+          "$tooltip_panel_content": "start.store_error_content",
+          "bindings": [
+            {
+              "binding_name": "#marketplace_disabled",
+              "binding_name_override": "#visible"
+            }
+          ]
+        }
+      },
+      {
+        "marketplace_error_icon@start.marketplace_error_icon": {
+          "anchor_from": "top_left",
+          "anchor_to": "top_left",
+          "offset": [ -2, 0 ],
+          "bindings": [
+            {
+              "binding_name": "#marketplace_disabled",
+              "binding_name_override": "#visible"
+            }
+          ]
+        }
+      }
+    ]
+  }
+}

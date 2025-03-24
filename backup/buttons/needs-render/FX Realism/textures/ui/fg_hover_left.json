@@ -1,0 +1,551 @@
+{ "frames": [
+   {
+    "filename": "FX_Realism_Henrik_new 0.aseprite",
+    "frame": { "x": 0, "y": 0, "w": 80, "h": 70 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 80, "h": 70 },
+    "sourceSize": { "w": 80, "h": 70 },
+    "duration": 100
+   },
+   {
+    "filename": "FX_Realism_Henrik_new 1.aseprite",
+    "frame": { "x": 80, "y": 0, "w": 80, "h": 70 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 80, "h": 70 },
+    "sourceSize": { "w": 80, "h": 70 },
+    "duration": 100
+   },
+   {
+    "filename": "FX_Realism_Henrik_new 2.aseprite",
+    "frame": { "x": 160, "y": 0, "w": 80, "h": 70 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 80, "h": 70 },
+    "sourceSize": { "w": 80, "h": 70 },
+    "duration": 100
+   },
+   {
+    "filename": "FX_Realism_Henrik_new 3.aseprite",
+    "frame": { "x": 240, "y": 0, "w": 80, "h": 70 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 80, "h": 70 },
+    "sourceSize": { "w": 80, "h": 70 },
+    "duration": 100
+   },
+   {
+    "filename": "FX_Realism_Henrik_new 4.aseprite",
+    "frame": { "x": 320, "y": 0, "w": 80, "h": 70 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 80, "h": 70 },
+    "sourceSize": { "w": 80, "h": 70 },
+    "duration": 100
+   },
+   {
+    "filename": "FX_Realism_Henrik_new 5.aseprite",
+    "frame": { "x": 400, "y": 0, "w": 80, "h": 70 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 80, "h": 70 },
+    "sourceSize": { "w": 80, "h": 70 },
+    "duration": 100
+   },
+   {
+    "filename": "FX_Realism_Henrik_new 6.aseprite",
+    "frame": { "x": 480, "y": 0, "w": 80, "h": 70 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 80, "h": 70 },
+    "sourceSize": { "w": 80, "h": 70 },
+    "duration": 100
+   },
+   {
+    "filename": "FX_Realism_Henrik_new 7.aseprite",
+    "frame": { "x": 560, "y": 0, "w": 80, "h": 70 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 80, "h": 70 },
+    "sourceSize": { "w": 80, "h": 70 },
+    "duration": 100
+   },
+   {
+    "filename": "FX_Realism_Henrik_new 8.aseprite",
+    "frame": { "x": 640, "y": 0, "w": 80, "h": 70 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 80, "h": 70 },
+    "sourceSize": { "w": 80, "h": 70 },
+    "duration": 100
+   },
+   {
+    "filename": "FX_Realism_Henrik_new 9.aseprite",
+    "frame": { "x": 720, "y": 0, "w": 80, "h": 70 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 80, "h": 70 },
+    "sourceSize": { "w": 80, "h": 70 },
+    "duration": 100
+   },
+   {
+    "filename": "FX_Realism_Henrik_new 10.aseprite",
+    "frame": { "x": 800, "y": 0, "w": 80, "h": 70 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 80, "h": 70 },
+    "sourceSize": { "w": 80, "h": 70 },
+    "duration": 100
+   },
+   {
+    "filename": "FX_Realism_Henrik_new 11.aseprite",
+    "frame": { "x": 880, "y": 0, "w": 80, "h": 70 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 80, "h": 70 },
+    "sourceSize": { "w": 80, "h": 70 },
+    "duration": 100
+   },
+   {
+    "filename": "FX_Realism_Henrik_new 12.aseprite",
+    "frame": { "x": 960, "y": 0, "w": 80, "h": 70 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 80, "h": 70 },
+    "sourceSize": { "w": 80, "h": 70 },
+    "duration": 100
+   },
+   {
+    "filename": "FX_Realism_Henrik_new 13.aseprite",
+    "frame": { "x": 1040, "y": 0, "w": 80, "h": 70 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 80, "h": 70 },
+    "sourceSize": { "w": 80, "h": 70 },
+    "duration": 100
+   },
+   {
+    "filename": "FX_Realism_Henrik_new 14.aseprite",
+    "frame": { "x": 1120, "y": 0, "w": 80, "h": 70 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 80, "h": 70 },
+    "sourceSize": { "w": 80, "h": 70 },
+    "duration": 100
+   },
+   {
+    "filename": "FX_Realism_Henrik_new 15.aseprite",
+    "frame": { "x": 1200, "y": 0, "w": 80, "h": 70 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 80, "h": 70 },
+    "sourceSize": { "w": 80, "h": 70 },
+    "duration": 100
+   },
+   {
+    "filename": "FX_Realism_Henrik_new 16.aseprite",
+    "frame": { "x": 1280, "y": 0, "w": 80, "h": 70 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 80, "h": 70 },
+    "sourceSize": { "w": 80, "h": 70 },
+    "duration": 100
+   },
+   {
+    "filename": "FX_Realism_Henrik_new 17.aseprite",
+    "frame": { "x": 1360, "y": 0, "w": 80, "h": 70 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 80, "h": 70 },
+    "sourceSize": { "w": 80, "h": 70 },
+    "duration": 100
+   },
+   {
+    "filename": "FX_Realism_Henrik_new 18.aseprite",
+    "frame": { "x": 1440, "y": 0, "w": 80, "h": 70 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 80, "h": 70 },
+    "sourceSize": { "w": 80, "h": 70 },
+    "duration": 100
+   },
+   {
+    "filename": "FX_Realism_Henrik_new 19.aseprite",
+    "frame": { "x": 1520, "y": 0, "w": 80, "h": 70 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 80, "h": 70 },
+    "sourceSize": { "w": 80, "h": 70 },
+    "duration": 100
+   },
+   {
+    "filename": "FX_Realism_Henrik_new 20.aseprite",
+    "frame": { "x": 1600, "y": 0, "w": 80, "h": 70 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 80, "h": 70 },
+    "sourceSize": { "w": 80, "h": 70 },
+    "duration": 100
+   },
+   {
+    "filename": "FX_Realism_Henrik_new 21.aseprite",
+    "frame": { "x": 1680, "y": 0, "w": 80, "h": 70 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 80, "h": 70 },
+    "sourceSize": { "w": 80, "h": 70 },
+    "duration": 100
+   },
+   {
+    "filename": "FX_Realism_Henrik_new 22.aseprite",
+    "frame": { "x": 1760, "y": 0, "w": 80, "h": 70 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 80, "h": 70 },
+    "sourceSize": { "w": 80, "h": 70 },
+    "duration": 100
+   },
+   {
+    "filename": "FX_Realism_Henrik_new 23.aseprite",
+    "frame": { "x": 1840, "y": 0, "w": 80, "h": 70 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 80, "h": 70 },
+    "sourceSize": { "w": 80, "h": 70 },
+    "duration": 100
+   },
+   {
+    "filename": "FX_Realism_Henrik_new 24.aseprite",
+    "frame": { "x": 1920, "y": 0, "w": 80, "h": 70 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 80, "h": 70 },
+    "sourceSize": { "w": 80, "h": 70 },
+    "duration": 100
+   },
+   {
+    "filename": "FX_Realism_Henrik_new 25.aseprite",
+    "frame": { "x": 2000, "y": 0, "w": 80, "h": 70 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 80, "h": 70 },
+    "sourceSize": { "w": 80, "h": 70 },
+    "duration": 100
+   },
+   {
+    "filename": "FX_Realism_Henrik_new 26.aseprite",
+    "frame": { "x": 2080, "y": 0, "w": 80, "h": 70 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 80, "h": 70 },
+    "sourceSize": { "w": 80, "h": 70 },
+    "duration": 100
+   },
+   {
+    "filename": "FX_Realism_Henrik_new 27.aseprite",
+    "frame": { "x": 2160, "y": 0, "w": 80, "h": 70 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 80, "h": 70 },
+    "sourceSize": { "w": 80, "h": 70 },
+    "duration": 100
+   },
+   {
+    "filename": "FX_Realism_Henrik_new 28.aseprite",
+    "frame": { "x": 2240, "y": 0, "w": 80, "h": 70 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 80, "h": 70 },
+    "sourceSize": { "w": 80, "h": 70 },
+    "duration": 100
+   },
+   {
+    "filename": "FX_Realism_Henrik_new 29.aseprite",
+    "frame": { "x": 2320, "y": 0, "w": 80, "h": 70 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 80, "h": 70 },
+    "sourceSize": { "w": 80, "h": 70 },
+    "duration": 100
+   },
+   {
+    "filename": "FX_Realism_Henrik_new 30.aseprite",
+    "frame": { "x": 2400, "y": 0, "w": 80, "h": 70 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 80, "h": 70 },
+    "sourceSize": { "w": 80, "h": 70 },
+    "duration": 100
+   },
+   {
+    "filename": "FX_Realism_Henrik_new 31.aseprite",
+    "frame": { "x": 2480, "y": 0, "w": 80, "h": 70 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 80, "h": 70 },
+    "sourceSize": { "w": 80, "h": 70 },
+    "duration": 100
+   },
+   {
+    "filename": "FX_Realism_Henrik_new 32.aseprite",
+    "frame": { "x": 2560, "y": 0, "w": 80, "h": 70 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 80, "h": 70 },
+    "sourceSize": { "w": 80, "h": 70 },
+    "duration": 100
+   },
+   {
+    "filename": "FX_Realism_Henrik_new 33.aseprite",
+    "frame": { "x": 2640, "y": 0, "w": 80, "h": 70 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 80, "h": 70 },
+    "sourceSize": { "w": 80, "h": 70 },
+    "duration": 100
+   },
+   {
+    "filename": "FX_Realism_Henrik_new 34.aseprite",
+    "frame": { "x": 2720, "y": 0, "w": 80, "h": 70 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 80, "h": 70 },
+    "sourceSize": { "w": 80, "h": 70 },
+    "duration": 100
+   },
+   {
+    "filename": "FX_Realism_Henrik_new 35.aseprite",
+    "frame": { "x": 2800, "y": 0, "w": 80, "h": 70 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 80, "h": 70 },
+    "sourceSize": { "w": 80, "h": 70 },
+    "duration": 100
+   },
+   {
+    "filename": "FX_Realism_Henrik_new 36.aseprite",
+    "frame": { "x": 2880, "y": 0, "w": 80, "h": 70 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 80, "h": 70 },
+    "sourceSize": { "w": 80, "h": 70 },
+    "duration": 100
+   },
+   {
+    "filename": "FX_Realism_Henrik_new 37.aseprite",
+    "frame": { "x": 2960, "y": 0, "w": 80, "h": 70 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 80, "h": 70 },
+    "sourceSize": { "w": 80, "h": 70 },
+    "duration": 100
+   },
+   {
+    "filename": "FX_Realism_Henrik_new 38.aseprite",
+    "frame": { "x": 3040, "y": 0, "w": 80, "h": 70 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 80, "h": 70 },
+    "sourceSize": { "w": 80, "h": 70 },
+    "duration": 100
+   },
+   {
+    "filename": "FX_Realism_Henrik_new 39.aseprite",
+    "frame": { "x": 3120, "y": 0, "w": 80, "h": 70 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 80, "h": 70 },
+    "sourceSize": { "w": 80, "h": 70 },
+    "duration": 100
+   },
+   {
+    "filename": "FX_Realism_Henrik_new 40.aseprite",
+    "frame": { "x": 3200, "y": 0, "w": 80, "h": 70 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 80, "h": 70 },
+    "sourceSize": { "w": 80, "h": 70 },
+    "duration": 100
+   },
+   {
+    "filename": "FX_Realism_Henrik_new 41.aseprite",
+    "frame": { "x": 3280, "y": 0, "w": 80, "h": 70 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 80, "h": 70 },
+    "sourceSize": { "w": 80, "h": 70 },
+    "duration": 100
+   },
+   {
+    "filename": "FX_Realism_Henrik_new 42.aseprite",
+    "frame": { "x": 3360, "y": 0, "w": 80, "h": 70 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 80, "h": 70 },
+    "sourceSize": { "w": 80, "h": 70 },
+    "duration": 100
+   },
+   {
+    "filename": "FX_Realism_Henrik_new 43.aseprite",
+    "frame": { "x": 3440, "y": 0, "w": 80, "h": 70 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 80, "h": 70 },
+    "sourceSize": { "w": 80, "h": 70 },
+    "duration": 100
+   },
+   {
+    "filename": "FX_Realism_Henrik_new 44.aseprite",
+    "frame": { "x": 3520, "y": 0, "w": 80, "h": 70 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 80, "h": 70 },
+    "sourceSize": { "w": 80, "h": 70 },
+    "duration": 100
+   },
+   {
+    "filename": "FX_Realism_Henrik_new 45.aseprite",
+    "frame": { "x": 3600, "y": 0, "w": 80, "h": 70 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 80, "h": 70 },
+    "sourceSize": { "w": 80, "h": 70 },
+    "duration": 100
+   },
+   {
+    "filename": "FX_Realism_Henrik_new 46.aseprite",
+    "frame": { "x": 3680, "y": 0, "w": 80, "h": 70 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 80, "h": 70 },
+    "sourceSize": { "w": 80, "h": 70 },
+    "duration": 100
+   },
+   {
+    "filename": "FX_Realism_Henrik_new 47.aseprite",
+    "frame": { "x": 3760, "y": 0, "w": 80, "h": 70 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 80, "h": 70 },
+    "sourceSize": { "w": 80, "h": 70 },
+    "duration": 100
+   },
+   {
+    "filename": "FX_Realism_Henrik_new 48.aseprite",
+    "frame": { "x": 3840, "y": 0, "w": 80, "h": 70 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 80, "h": 70 },
+    "sourceSize": { "w": 80, "h": 70 },
+    "duration": 100
+   },
+   {
+    "filename": "FX_Realism_Henrik_new 49.aseprite",
+    "frame": { "x": 3920, "y": 0, "w": 80, "h": 70 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 80, "h": 70 },
+    "sourceSize": { "w": 80, "h": 70 },
+    "duration": 100
+   },
+   {
+    "filename": "FX_Realism_Henrik_new 50.aseprite",
+    "frame": { "x": 4000, "y": 0, "w": 80, "h": 70 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 80, "h": 70 },
+    "sourceSize": { "w": 80, "h": 70 },
+    "duration": 100
+   },
+   {
+    "filename": "FX_Realism_Henrik_new 51.aseprite",
+    "frame": { "x": 4080, "y": 0, "w": 80, "h": 70 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 80, "h": 70 },
+    "sourceSize": { "w": 80, "h": 70 },
+    "duration": 100
+   },
+   {
+    "filename": "FX_Realism_Henrik_new 52.aseprite",
+    "frame": { "x": 4160, "y": 0, "w": 80, "h": 70 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 80, "h": 70 },
+    "sourceSize": { "w": 80, "h": 70 },
+    "duration": 100
+   },
+   {
+    "filename": "FX_Realism_Henrik_new 53.aseprite",
+    "frame": { "x": 4240, "y": 0, "w": 80, "h": 70 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 80, "h": 70 },
+    "sourceSize": { "w": 80, "h": 70 },
+    "duration": 100
+   },
+   {
+    "filename": "FX_Realism_Henrik_new 54.aseprite",
+    "frame": { "x": 4320, "y": 0, "w": 80, "h": 70 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 80, "h": 70 },
+    "sourceSize": { "w": 80, "h": 70 },
+    "duration": 100
+   },
+   {
+    "filename": "FX_Realism_Henrik_new 55.aseprite",
+    "frame": { "x": 4400, "y": 0, "w": 80, "h": 70 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 80, "h": 70 },
+    "sourceSize": { "w": 80, "h": 70 },
+    "duration": 100
+   },
+   {
+    "filename": "FX_Realism_Henrik_new 56.aseprite",
+    "frame": { "x": 4480, "y": 0, "w": 80, "h": 70 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 80, "h": 70 },
+    "sourceSize": { "w": 80, "h": 70 },
+    "duration": 100
+   },
+   {
+    "filename": "FX_Realism_Henrik_new 57.aseprite",
+    "frame": { "x": 4560, "y": 0, "w": 80, "h": 70 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 80, "h": 70 },
+    "sourceSize": { "w": 80, "h": 70 },
+    "duration": 100
+   },
+   {
+    "filename": "FX_Realism_Henrik_new 58.aseprite",
+    "frame": { "x": 4640, "y": 0, "w": 80, "h": 70 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 80, "h": 70 },
+    "sourceSize": { "w": 80, "h": 70 },
+    "duration": 100
+   },
+   {
+    "filename": "FX_Realism_Henrik_new 59.aseprite",
+    "frame": { "x": 4720, "y": 0, "w": 80, "h": 70 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 80, "h": 70 },
+    "sourceSize": { "w": 80, "h": 70 },
+    "duration": 100
+   }
+ ],
+ "meta": {
+  "app": "https://www.aseprite.org/",
+  "version": "1.3.9-x64",
+  "image": "fg_hover_left.png",
+  "format": "RGBA8888",
+  "size": { "w": 4800, "h": 70 },
+  "scale": "1"
+ }
+}

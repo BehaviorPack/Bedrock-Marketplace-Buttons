@@ -1,0 +1,137 @@
+{ "frames": [
+   {
+    "filename": "Idaho #Hover 0.ase",
+    "frame": { "x": 0, "y": 0, "w": 110, "h": 68 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 110, "h": 68 },
+    "sourceSize": { "w": 110, "h": 68 },
+    "duration": 70
+   },
+   {
+    "filename": "Idaho #Hover 1.ase",
+    "frame": { "x": 110, "y": 0, "w": 110, "h": 68 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 110, "h": 68 },
+    "sourceSize": { "w": 110, "h": 68 },
+    "duration": 70
+   },
+   {
+    "filename": "Idaho #Hover 2.ase",
+    "frame": { "x": 220, "y": 0, "w": 110, "h": 68 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 110, "h": 68 },
+    "sourceSize": { "w": 110, "h": 68 },
+    "duration": 70
+   },
+   {
+    "filename": "Idaho #Hover 3.ase",
+    "frame": { "x": 330, "y": 0, "w": 110, "h": 68 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 110, "h": 68 },
+    "sourceSize": { "w": 110, "h": 68 },
+    "duration": 70
+   },
+   {
+    "filename": "Idaho #Hover 4.ase",
+    "frame": { "x": 440, "y": 0, "w": 110, "h": 68 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 110, "h": 68 },
+    "sourceSize": { "w": 110, "h": 68 },
+    "duration": 70
+   },
+   {
+    "filename": "Idaho #Hover 5.ase",
+    "frame": { "x": 550, "y": 0, "w": 110, "h": 68 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 110, "h": 68 },
+    "sourceSize": { "w": 110, "h": 68 },
+    "duration": 70
+   },
+   {
+    "filename": "Idaho #Hover 6.ase",
+    "frame": { "x": 660, "y": 0, "w": 110, "h": 68 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 110, "h": 68 },
+    "sourceSize": { "w": 110, "h": 68 },
+    "duration": 70
+   },
+   {
+    "filename": "Idaho #Hover 7.ase",
+    "frame": { "x": 770, "y": 0, "w": 110, "h": 68 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 110, "h": 68 },
+    "sourceSize": { "w": 110, "h": 68 },
+    "duration": 70
+   },
+   {
+    "filename": "Idaho #Hover 8.ase",
+    "frame": { "x": 880, "y": 0, "w": 110, "h": 68 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 110, "h": 68 },
+    "sourceSize": { "w": 110, "h": 68 },
+    "duration": 70
+   },
+   {
+    "filename": "Idaho #Hover 9.ase",
+    "frame": { "x": 990, "y": 0, "w": 110, "h": 68 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 110, "h": 68 },
+    "sourceSize": { "w": 110, "h": 68 },
+    "duration": 70
+   },
+   {
+    "filename": "Idaho #Hover 10.ase",
+    "frame": { "x": 1100, "y": 0, "w": 110, "h": 68 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 110, "h": 68 },
+    "sourceSize": { "w": 110, "h": 68 },
+    "duration": 70
+   },
+   {
+    "filename": "Idaho #Hover 11.ase",
+    "frame": { "x": 1210, "y": 0, "w": 110, "h": 68 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 110, "h": 68 },
+    "sourceSize": { "w": 110, "h": 68 },
+    "duration": 70
+   },
+   {
+    "filename": "Idaho #Hover 12.ase",
+    "frame": { "x": 1320, "y": 0, "w": 110, "h": 68 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 110, "h": 68 },
+    "sourceSize": { "w": 110, "h": 68 },
+    "duration": 70
+   },
+   {
+    "filename": "Idaho #Hover 13.ase",
+    "frame": { "x": 1430, "y": 0, "w": 110, "h": 68 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 110, "h": 68 },
+    "sourceSize": { "w": 110, "h": 68 },
+    "duration": 70
+   }
+ ],
+ "meta": {
+  "app": "https://www.aseprite.org/",
+  "version": "1.3.9.2-x64",
+  "image": "Left_Hover.png",
+  "format": "RGBA8888",
+  "size": { "w": 1540, "h": 68 },
+  "scale": "1"
+ }
+}

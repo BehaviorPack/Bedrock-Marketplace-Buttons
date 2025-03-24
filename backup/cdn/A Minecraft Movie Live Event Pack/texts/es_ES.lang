@@ -1,0 +1,26 @@
+﻿### Start Screen Buttons Countdown
+
+gathering.start_screen.countdown.button=Evento cinemático	###{MaxLength=19}This is a button that the player presses to start an event on the homescreen
+
+### Start Screen Buttons During
+
+gathering.start_screen.during.button=Repr. event. cine.	###{MaxLength=19}This is a button that the player presses to start an event on the homescreen
+
+### PDP Buttons Countdown
+
+gathering.info.countdown.action_button=Leer más	###{MaxLength=30}The player presses this button to read more about the event.
+gathering.info.countdown.info_button=Información cinemát.	###{MaxLength=30}The player presses this button to read more about the movie.
+
+### PDP Buttons During
+
+gathering.info.during.action_button=Juega ya	###{MaxLength=30}Pressing this button allows the player to vote.
+gathering.info.during.info_button=Leer más	###{MaxLength=30}The player presses this button to read more about the event.
+
+### Client Outdated
+gathering.info.body.update=Actualiza a la última versión para acceder a este evento en directo.	###{MaxLength=300}An updated version of Minecraft is required for the user to join this event
+gathering.info.button.update=Actualización necesaria	###{MaxLength=30}An updated version of Minecraft is required for the user to proceed
+
+### PDP
+gathering.info.header=Un evento en directo de una película de Minecraft	###{MaxLength=60}This is the name of the event. A Minecraft Movie is the name. Live Event is the type of event
+gathering.info.title=¡Un evento en directo de una película de Minecraft!	###{MaxLength=60}This is the name of the event. A Minecraft Movie is the name. Live Event is the type of event
+gathering.info.body=¡Únete a Steve y a sus compañeros en la aldea Midport para ayudarlos a defenderla de la invasión de los piglins!~LINEBREAK~~LINEBREAK~Sumérgete en este evento en directo en constante evolución y prueba distintos juegos para mejorar tu equipo y reforzar las defensas de la aldea. ¡Completa desafíos para ganar recompensas y acaba con todos para ganar la capa de la película!~LINEBREAK~~LINEBREAK~El evento en directo de la película de Minecraft comenzará aquí el 25 de marzo a las 14:00 (hora del Pacífico) y durará hasta el 7 de abril a las 14:00 (hora del Pacífico).	###{MaxLength=1000}{StrContains=~LINEBREAK~}Midport is the name of the Village. piglin is a character in the Minecraft game. Movie Cape is the name of a reward the player can earn. The date and time should remain in Pacific Time.

@@ -1,0 +1,283 @@
+{
+  "treatment_store_button_content": {
+    "type": "panel",
+    "controls": [
+      {
+        "button_label@common_buttons.new_ui_binding_button_label": {
+          "layer": 50
+        }
+      }, 
+      
+      {
+        "Thief01": {
+          "type": "image",
+          "texture": "textures/ui/Thief01",
+          "size": [ 73, 31 ],
+          "anchor_from": "bottom_left",
+          "anchor_to": "bottom_left",
+          "offset": [ -3, 2 ],
+          "layer": 20,
+          "uv_size": [ 73, 31 ],
+          "uv": "@start.Thief01_animation",
+          "disable_anim_fast_forward": true
+        }
+      },
+      {
+        "Thief02": {
+          "type": "image",
+          "texture": "textures/ui/Thief02",
+          "size": [ 73, 31 ],
+          "anchor_from": "bottom_left",
+          "anchor_to": "bottom_left",
+          "offset": [ 68, 2 ],
+          "layer": 20,
+          "uv_size": [ 73, 31 ],
+          "uv": "@start.Thief02_animation",
+          "disable_anim_fast_forward": true
+        }
+      }     
+    ]
+  },
+
+
+  "Thief01_animation": {
+    "anim_type": "aseprite_flip_book",
+    "initial_uv": [ 0, 0 ]
+  },
+  "Thief02_animation": {
+    "anim_type": "aseprite_flip_book",
+    "initial_uv": [ 0, 0 ]
+  },
+
+  
+  "store_button_stack@start.stacked_row": {
+    "controls": [
+      {
+        "store_button@start.treatment_store_button": {
+          "enabled": "(not $store_disabled)",
+          "$default_button_texture": "textures/ui/BG_Default",
+          "$hover_button_texture": "textures/ui/BG_Hover",
+          "$pressed_button_texture": "textures/ui/BG_Hover",
+          "$default_text_color": [ 0.251, 0.251, 0.251 ],
+          "$light_button_hover_text_color": [ 0.137, 1, 1 ],
+          "$light_button_pressed_text_color": [ 1, 1, 1 ],
+          "$light_border_default_color": [ 0.137, 0.137, 0.137 ],
+          "$light_border_hover_color": [ 0.137, 1, 1 ],
+          "$light_border_pressed_color": [ 1, 1, 1 ]
+        }
+      }
+    ]
+  },
+
+
+  "treatment_store_button@common_buttons.light_content_button": {
+    "size": [
+      "100% - 2px",
+      "100% - 2px"
+    ],
+    "$pressed_button_name": "button.menu_store",
+    "$button_text": "menu.store",
+    "$button_content": "start.treatment_store_button_content",
+    "$button_text_binding_type": "none",
+    "$button_binding_condition": "none",
+    "$button_text_grid_collection_name": "",
+    "tts_inherit_siblings": true,
+    "$button_pressed_offset": [
+      0,
+      0
+    ]
+  },
+  "main_buttons_panel": {
+    "type": "panel",
+    "size": [
+      150,
+      "100%c"
+    ],
+    "controls": [
+      {
+        "stacked_rows": {
+          "type": "stack_panel",
+          "size": [
+            "100%",
+            "100%c"
+          ],
+          "anchor_from": "bottom_middle",
+          "anchor_to": "bottom_middle",
+          "controls": [
+            {
+              "stacked_row_0@start.stacked_row": {
+                "ignored": "(not $play_button_visible)",
+                "controls": [
+                  {
+                    "play_button@start.play_button": {}
+                  }
+                ]
+              }
+            },
+            {
+              "course@start.stacked_row": {
+                "ignored": "$courses_ignored",
+                "controls": [
+                  {
+                    "course_button@start.course_button": {}
+                  }
+                ]
+              }
+            },
+            {
+              "featured_world@start.stacked_row": {
+                "ignored": "$featured_world_ignored",
+                "controls": [
+                  {
+                    "featured_world_button@start.featured_world_button": {}
+                  }
+                ]
+              }
+            },
+            {
+              "stacked_row_2@start.stacked_row": {
+                "ignored": "(not $trial or $use_single_column_for_buttons)",
+                "controls": [
+                  {
+                    "stacked_columns": {
+                      "type": "stack_panel",
+                      "size": [
+                        "100%",
+                        "100%"
+                      ],
+                      "orientation": "horizontal",
+                      "controls": [
+                        {
+                          "stacked_col_0": {
+                            "type": "panel",
+                            "size": [
+                              "fill",
+                              "100%"
+                            ],
+                            "controls": [
+                              {
+                                "settings_button@start.settings_button": {}
+                              }
+                            ]
+                          }
+                        },
+                        {
+                          "stacked_col_1": {
+                            "type": "panel",
+                            "size": [
+                              "fill",
+                              "100%"
+                            ],
+                            "ignored": "($store_ignored)",
+                            "controls": [
+                              {
+                                "store_button@start.store_button": {
+                                  "enabled": "(not $store_disabled)"
+                                }
+                              },
+                              {
+                                "update_icon@start.update_prompt_icon": {
+                                  "size": [
+                                    "52.38%y",
+                                    15
+                                  ],
+                                  "offset": [
+                                    -16,
+                                    -6
+                                  ],
+                                  "bindings": [
+                                    {
+                                      "binding_name": "#update_icon_visible",
+                                      "binding_name_override": "#visible",
+                                      "binding_condition": "always"
+                                    }
+                                  ]
+                                }
+                              },
+                              {
+                                "new_offers_icon@start.new_offers_icon": {
+                                  "offset": [
+                                    8,
+                                    -6
+                                  ],
+                                  "anchor_from": "top_right",
+                                  "anchor_to": "top_right",
+                                  "bindings": [
+                                    {
+                                      "binding_name": "#new_offers",
+                                      "binding_name_override": "#visible"
+                                    }
+                                  ]
+                                }
+                              }
+                            ]
+                          }
+                        }
+                      ]
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "settings@start.stacked_row": {
+                "ignored": "($trial and not $use_single_column_for_buttons)",
+                "controls": [
+                  {
+                    "settings_button@start.settings_button": {}
+                  }
+                ]
+              }
+            },
+            {
+              "switch_accounts_row@start.stacked_row": {
+                "ignored": "$switch_accounts_ignored",
+                "controls": [
+                  {
+                    "switch_accounts@start.switch_accounts_button": {}
+                  }
+                ]
+              }
+            },
+            {
+              "store@start.store_button_stack": {
+                "ignored": "(($trial and not $use_single_column_for_buttons) or ($store_ignored))"
+              }
+            },
+            {
+              "buy_game@start.stacked_row": {
+                "controls": [
+                  {
+                    "buy_game_button@start.buy_game_button": {}
+                  }
+                ],
+                "bindings": [
+                  {
+                    "binding_name": "#buy_game_visible",
+                    "binding_name_override": "#visible"
+                  }
+                ]
+              }
+            },
+            {
+              "launch_editions@start.stacked_row": {
+                "ignored": "($trial or not $supports_launching_legacy_version)",
+                "controls": [
+                  {
+                    "launch_editions_button@start.launch_editions_button": {}
+                  }
+                ],
+                "bindings": [
+                  {
+                    "binding_name": "#editions_visible",
+                    "binding_name_override": "#visible"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      }
+    ]
+  }
+}

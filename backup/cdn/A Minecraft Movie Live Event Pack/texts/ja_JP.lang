@@ -1,0 +1,26 @@
+﻿### Start Screen Buttons Countdown
+
+gathering.start_screen.countdown.button=ムービー イベント	###{MaxLength=19}This is a button that the player presses to start an event on the homescreen
+
+### Start Screen Buttons During
+
+gathering.start_screen.during.button=ムービー イベントをプレイ	###{MaxLength=19}This is a button that the player presses to start an event on the homescreen
+
+### PDP Buttons Countdown
+
+gathering.info.countdown.action_button=詳細を読む	###{MaxLength=30}The player presses this button to read more about the event.
+gathering.info.countdown.info_button=さらに詳しく	###{MaxLength=30}The player presses this button to read more about the movie.
+
+### PDP Buttons During
+
+gathering.info.during.action_button=今すぐプレイ!	###{MaxLength=30}Pressing this button allows the player to vote.
+gathering.info.during.info_button=詳細を読む	###{MaxLength=30}The player presses this button to read more about the event.
+
+### Client Outdated
+gathering.info.body.update=このライブ イベントにアクセスするには、最新バージョンに更新してください。	###{MaxLength=300}An updated version of Minecraft is required for the user to join this event
+gathering.info.button.update=アップデートが必要です	###{MaxLength=30}An updated version of Minecraft is required for the user to proceed
+
+### PDP
+gathering.info.header=『マインクラフト／ザ・ムービー』ライブ イベント	###{MaxLength=60}This is the name of the event. A Minecraft Movie is the name. Live Event is the type of event
+gathering.info.title=『マインクラフト／ザ・ムービー』ライブ イベント!	###{MaxLength=60}This is the name of the event. A Minecraft Movie is the name. Live Event is the type of event
+gathering.info.body=ミッドポート村でスティーブと仲間たちと一緒に、ピグリンの侵略から村を守りましょう! ~LINEBREAK~~LINEBREAK~進化を続けるこのライブ イベントに参加し、ゲームをプレイして装備をアップグレードし、村の防衛を強化してください。チャレンジを完了して報酬を獲得し、すべてを完了してムービー ケープを獲得しましょう!~LINEBREAK~~LINEBREAK~『マインクラフト／ザ・ムービー』ライブ イベントは、3 月 26 日午前 6 時 (日本時間) に始まり、4 月 8 日午前 6 時 (日本時間) まで開催されます。 ###{MaxLength=1000}{StrContains=~LINEBREAK~}Midport is the name of the Village. piglin is a character in the Minecraft game. Movie Cape is the name of a reward the player can earn. The date and time should remain in Pacific Time.

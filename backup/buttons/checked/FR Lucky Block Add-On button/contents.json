@@ -1,0 +1,29 @@
+{
+"content" : [
+    { "path" : "contents.json" },
+    { "path" : "textures" },
+    { "path" : "textures/ui" },
+    { "path" : "ui" },
+    { "path" : "ui/start_screen.json" },
+    { "path" : "manifest.json" },
+    { "path" : "textures/ui/BG_Default.json" },
+    { "path" : "textures/ui/BG_Default.png" },
+    { "path" : "textures/ui/BG_Hover.json" },
+    { "path" : "textures/ui/BG_Hover.png" },
+    { "path" : "textures/ui/Default_01.json" },
+    { "path" : "textures/ui/Default_01.png" },
+    { "path" : "textures/ui/Hover_01.json" },
+    { "path" : "textures/ui/Hover_01.png" },
+    { "path" : "textures/ui/Default_02.json" },
+    { "path" : "textures/ui/Default_02.png" },
+    { "path" : "textures/ui/Hover_02.json" },
+    { "path" : "textures/ui/Hover_02.png" },
+    { "path" : "textures/ui/Default_03.json" },
+    { "path" : "textures/ui/Default_03.png" },
+    { "path" : "textures/ui/Hover_03.json" },
+    { "path" : "textures/ui/Hover_03.png" },
+    { "path" : "textures/ui/AddOns_fr.json" },
+    { "path" : "textures/ui/AddOns_fr.png" }
+],
+"version" : 1
+}

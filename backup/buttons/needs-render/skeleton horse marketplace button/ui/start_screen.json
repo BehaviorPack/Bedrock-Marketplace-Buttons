@@ -1,0 +1,380 @@
+{
+  "treatment_store_button_content": {
+    "type": "panel",
+    "controls": [
+      {
+        "button_label@common_buttons.new_ui_binding_button_label": {
+          "layer": 50
+        }
+      },      
+      {
+        "horse_head": {
+          "type": "image",
+          "texture": "textures/ui/horse_head",
+          "size": [ 24, 28 ],
+          "anchor_from": "top_right",
+          "anchor_to": "top_right",
+          "offset": [ -11, 1 ],
+          "layer": 20,
+          "ignored": "(not $default_state)",
+          "uv_size": [ 24, 28 ],
+          "uv": "@start.horse_head_animation",
+          "disable_anim_fast_forward": true
+          
+        }
+      },
+      {
+        "horse_body": {
+          "type": "image",
+          "texture": "textures/ui/horse_body",
+          "size": [ 27, 17 ],
+          "anchor_from": "top_right",
+          "anchor_to": "top_right",
+          "offset": [ 4, 12 ],
+          "layer": 15,
+          "ignored": "(not $default_state)",
+          "uv_size": [ 27, 16 ],
+          "uv": "@start.horse_body_animation",
+          "disable_anim_fast_forward": true
+          
+        }
+      },
+
+      {
+        "skeleton_head": {
+          "type": "image",
+          "texture": "textures/ui/skeleton_head",
+          "size": [ 32, 30 ],
+          "anchor_from": "top_right",
+          "anchor_to": "top_right",
+          "offset": [ -3, -1 ],
+          "layer": 20,
+          "ignored": "($default_state)",
+          "uv_size": [ 32, 30 ],
+          "uv": "@start.skeleton_head_animation",
+          "disable_anim_fast_forward": true
+          
+        }
+      },
+      {
+        "skeleton": {
+          "type": "image",
+          "texture": "textures/ui/skeleton",
+          "size": [ 12, 8 ],
+          "anchor_from": "top_right",
+          "anchor_to": "top_right",
+          "offset": [ -3, -1 ],
+          "layer": 21,
+          "ignored": "($default_state)",
+          "uv_size": [ 12, 8 ],
+          "uv": "@start.skeleton_animation",
+          "disable_anim_fast_forward": true
+          
+        }
+      },
+      {
+        "rain": {
+          "type": "image",
+          "texture": "textures/ui/rain",
+          "size": [ 146, 31 ],
+          "anchor_from": "top_right",
+          "anchor_to": "top_right",
+          "offset": [ 2, -2 ],
+          "layer": 10,
+          "ignored": "($default_state)",
+          "uv_size": [ 146, 31 ],
+          "uv": "@start.rain_animation",
+          "disable_anim_fast_forward": true
+        }
+      },
+      {
+        "lightning": {
+          "type": "image",
+          "texture": "textures/ui/lightning",
+          "size": [ 148, 31 ],
+          "anchor_from": "top_right",
+          "anchor_to": "top_right",
+          "offset": [ 2, -2 ],
+          "layer": 5,
+          "ignored": "($default_state)",
+          "uv_size": [ 148, 32 ],
+          "uv": "@start.lightning_animation",
+          "disable_anim_fast_forward": true
+        }
+      },
+      {
+        "rimlight": {
+          "type": "image",
+          "texture": "textures/ui/rimlight",
+          "size": [ 30, 30 ],
+          "anchor_from": "top_right",
+          "anchor_to": "top_right",
+          "offset": [ -1, -1 ],
+          "layer": 25,
+          "ignored": "($default_state)",
+          "uv_size": [ 30, 30 ],
+          "uv": "@start.rimlight_animation",
+          "disable_anim_fast_forward": true
+          
+        }
+      }
+    ]
+  },
+  "horse_head_animation": {
+    "anim_type": "aseprite_flip_book",
+    "initial_uv": [ 0, 0 ]
+  },
+  "horse_body_animation": {
+    "anim_type": "aseprite_flip_book",
+    "initial_uv": [ 0, 0 ]
+  },
+  "skeleton_head_animation": {
+    "anim_type": "aseprite_flip_book",
+    "initial_uv": [ 0, 0 ]
+  },
+  "skeleton_animation": {
+    "anim_type": "aseprite_flip_book",
+    "initial_uv": [ 0, 0 ]
+  },
+  "rain_animation": {
+    "anim_type": "aseprite_flip_book",
+    "initial_uv": [ 0, 0 ]
+  },
+  "lightning_animation": {
+    "anim_type": "aseprite_flip_book",
+    "initial_uv": [ 0, 0 ]
+  },
+  "rimlight_animation": {
+    "anim_type": "aseprite_flip_book",
+    "initial_uv": [ 0, 0 ]
+  },
+  
+  "store_button_stack@start.stacked_row": {
+    "controls": [
+      {
+        "store_button@start.treatment_store_button": {
+          "enabled": "(not $store_disabled)",
+          "$default_button_texture": "textures/ui/store_button",
+          "$hover_button_texture": "textures/ui/store_button_hover",
+          "$pressed_button_texture": "textures/ui/store_button_pressed",
+          "$default_text_color": [ 0, 0, 0 ],
+          "$light_button_hover_text_color": [ 0.654, 0.968, 0.98 ],
+          "$light_button_pressed_text_color": [ 1, 1, 1 ],
+          "$light_border_default_color": [ 0, 0, 0 ],
+          "$light_border_hover_color": [ 0.654, 0.968, 0.98 ],
+          "$light_border_pressed_color": [ 0, 0, 0 ]
+        }
+      }
+    ]
+  },
+  "treatment_store_button@common_buttons.light_content_button": {
+    "size": [
+      "100% - 2px",
+      "100% - 2px"
+    ],
+    "$pressed_button_name": "button.menu_store",
+    "$button_text": "menu.store",
+    "$button_content": "start.treatment_store_button_content",
+    "$button_text_binding_type": "none",
+    "$button_binding_condition": "none",
+    "$button_text_grid_collection_name": "",
+    "tts_inherit_siblings": true,
+    "$button_pressed_offset": [
+      0,
+      0
+    ]
+  },
+  "main_buttons_panel": {
+    "type": "panel",
+    "size": [
+      150,
+      "100%c"
+    ],
+    "controls": [
+      {
+        "stacked_rows": {
+          "type": "stack_panel",
+          "size": [
+            "100%",
+            "100%c"
+          ],
+          "anchor_from": "bottom_middle",
+          "anchor_to": "bottom_middle",
+          "controls": [
+            {
+              "stacked_row_0@start.stacked_row": {
+                "ignored": "(not $play_button_visible)",
+                "controls": [
+                  {
+                    "play_button@start.play_button": {}
+                  }
+                ]
+              }
+            },
+            {
+              "course@start.stacked_row": {
+                "ignored": "$courses_ignored",
+                "controls": [
+                  {
+                    "course_button@start.course_button": {}
+                  }
+                ]
+              }
+            },
+            {
+              "featured_world@start.stacked_row": {
+                "ignored": "$featured_world_ignored",
+                "controls": [
+                  {
+                    "featured_world_button@start.featured_world_button": {}
+                  }
+                ]
+              }
+            },
+            {
+              "stacked_row_2@start.stacked_row": {
+                "ignored": "(not $trial or $use_single_column_for_buttons)",
+                "controls": [
+                  {
+                    "stacked_columns": {
+                      "type": "stack_panel",
+                      "size": [
+                        "100%",
+                        "100%"
+                      ],
+                      "orientation": "horizontal",
+                      "controls": [
+                        {
+                          "stacked_col_0": {
+                            "type": "panel",
+                            "size": [
+                              "fill",
+                              "100%"
+                            ],
+                            "controls": [
+                              {
+                                "settings_button@start.settings_button": {}
+                              }
+                            ]
+                          }
+                        },
+                        {
+                          "stacked_col_1": {
+                            "type": "panel",
+                            "size": [
+                              "fill",
+                              "100%"
+                            ],
+                            "ignored": "($store_ignored)",
+                            "controls": [
+                              {
+                                "store_button@start.store_button": {
+                                  "enabled": "(not $store_disabled)"
+                                }
+                              },
+                              {
+                                "update_icon@start.update_prompt_icon": {
+                                  "size": [
+                                    "52.38%y",
+                                    15
+                                  ],
+                                  "offset": [
+                                    -16,
+                                    -6
+                                  ],
+                                  "bindings": [
+                                    {
+                                      "binding_name": "#update_icon_visible",
+                                      "binding_name_override": "#visible",
+                                      "binding_condition": "always"
+                                    }
+                                  ]
+                                }
+                              },
+                              {
+                                "new_offers_icon@start.new_offers_icon": {
+                                  "offset": [
+                                    8,
+                                    -6
+                                  ],
+                                  "anchor_from": "top_right",
+                                  "anchor_to": "top_right",
+                                  "bindings": [
+                                    {
+                                      "binding_name": "#new_offers",
+                                      "binding_name_override": "#visible"
+                                    }
+                                  ]
+                                }
+                              }
+                            ]
+                          }
+                        }
+                      ]
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "settings@start.stacked_row": {
+                "ignored": "($trial and not $use_single_column_for_buttons)",
+                "controls": [
+                  {
+                    "settings_button@start.settings_button": {}
+                  }
+                ]
+              }
+            },
+            {
+              "switch_accounts_row@start.stacked_row": {
+                "ignored": "$switch_accounts_ignored",
+                "controls": [
+                  {
+                    "switch_accounts@start.switch_accounts_button": {}
+                  }
+                ]
+              }
+            },
+            {
+              "store@start.store_button_stack": {
+                "ignored": "(($trial and not $use_single_column_for_buttons) or ($store_ignored))"
+              }
+            },
+            {
+              "buy_game@start.stacked_row": {
+                "controls": [
+                  {
+                    "buy_game_button@start.buy_game_button": {}
+                  }
+                ],
+                "bindings": [
+                  {
+                    "binding_name": "#buy_game_visible",
+                    "binding_name_override": "#visible"
+                  }
+                ]
+              }
+            },
+            {
+              "launch_editions@start.stacked_row": {
+                "ignored": "($trial or not $supports_launching_legacy_version)",
+                "controls": [
+                  {
+                    "launch_editions_button@start.launch_editions_button": {}
+                  }
+                ],
+                "bindings": [
+                  {
+                    "binding_name": "#editions_visible",
+                    "binding_name_override": "#visible"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      }
+    ]
+  }
+}

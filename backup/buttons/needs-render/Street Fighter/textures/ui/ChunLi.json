@@ -1,0 +1,65 @@
+{ "frames": [
+   {
+    "filename": "0.aseprite",
+    "frame": { "x": 0, "y": 0, "w": 50, "h": 66 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 50, "h": 66 },
+    "sourceSize": { "w": 50, "h": 66 },
+    "duration": 180
+   },
+   {
+    "filename": "1.aseprite",
+    "frame": { "x": 50, "y": 0, "w": 50, "h": 66 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 50, "h": 66 },
+    "sourceSize": { "w": 50, "h": 66 },
+    "duration": 180
+   },
+   {
+    "filename": "2.aseprite",
+    "frame": { "x": 100, "y": 0, "w": 50, "h": 66 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 50, "h": 66 },
+    "sourceSize": { "w": 50, "h": 66 },
+    "duration": 180
+   },
+   {
+    "filename": "3.aseprite",
+    "frame": { "x": 150, "y": 0, "w": 50, "h": 66 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 50, "h": 66 },
+    "sourceSize": { "w": 50, "h": 66 },
+    "duration": 180
+   },
+   {
+    "filename": "4.aseprite",
+    "frame": { "x": 200, "y": 0, "w": 50, "h": 66 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 50, "h": 66 },
+    "sourceSize": { "w": 50, "h": 66 },
+    "duration": 180
+   },
+   {
+    "filename": "5.aseprite",
+    "frame": { "x": 250, "y": 0, "w": 50, "h": 66 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 50, "h": 66 },
+    "sourceSize": { "w": 50, "h": 66 },
+    "duration": 180
+   }
+ ],
+ "meta": {
+  "app": "http://www.aseprite.org/",
+  "version": "1.2.29-x64",
+  "image": "ChunLi.png",
+  "format": "RGBA8888",
+  "size": { "w": 300, "h": 66 },
+  "scale": "1"
+ }
+}

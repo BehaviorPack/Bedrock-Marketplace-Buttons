@@ -1,0 +1,162 @@
+{
+  "namespace": "gathering_info",
+  
+  "info_content": {
+    "type": "panel",
+    "controls": [
+      {
+        "header@common.fullscreen_header": {
+          "$back_button_has_title": true,
+          "$button_text": "#header_text",
+          "$button_text_binding_type": "global"
+        }
+      },
+      {
+        "left_panel": {
+          "type": "panel",
+          "size": [ "40%", "100% - 22px" ],
+          "offset": [ 0, 22 ],
+          "anchor_to": "top_left",
+          "anchor_from": "top_left",
+          "controls": [
+            {
+              "stack": {
+                "type": "stack_panel",
+                "orientation": "vertical",
+                "size": [ "100% - 18px", "100%" ],
+                "controls": [
+                  {
+                    "event_image": {
+                      "type": "image",
+                      "size": [ "100%", "77%x" ],
+                      "max_size": [ "100%", "100% - 119px" ],
+                      "allow_debug_missing_texture": false,
+                      "bindings": [
+                        {
+                          "binding_name": "#event_image",
+                          "binding_name_override": "#texture"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "pad_2@common.empty_panel": {
+                      "size": [ "100%", 8 ]
+                    }
+                  },
+                  {
+                    "button_and_caption": {
+                      "type": "panel",
+                      "size": [ "100%", 28 ],
+                      "controls": [
+                        {
+                          "caption@start.gathering_caption": {
+                            "size": [ "100%c + 6px", "100%c + 8px" ],
+                            "anchor_to": "bottom_left",
+                            "anchor_from": "bottom_left",
+                            "offset": [ 8, -19 ],
+                            "layer": 20
+                          }
+                        },
+                        {
+                          "action_button@common_buttons.light_text_button": {
+                            "size": [ "100%", 28 ],
+                            "$pressed_button_name": "button.action",
+                            "$button_text": "#action_button_text",
+                            "$button_text_binding_type": "global",
+                            "bindings": [
+                              {
+                                "binding_name": "#action_button_enabled",
+                                "binding_name_override": "#enabled"
+                              }
+                            ]
+                          }
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "pad_3@common.empty_panel": {
+                      "size": [ "100%", 4 ]
+                    }
+                  },
+                  {
+                    "info_button@common_buttons.light_text_button": {
+                      "size": [ "100%", 28 ],
+                      "$pressed_button_name": "button.info",
+                      "$button_text": "#info_button_text",
+                      "$button_text_binding_type": "global"
+                    }
+                  },
+                  {
+                    "pad_4@common.empty_panel": {
+                      "size": [ "100%", 10 ]
+                    }
+                  },
+                  {
+                    "gamepad_helper_panel": {
+                      "type": "panel",
+                      "size": [ "100%", 26 ],
+                      "controls": [
+                        {
+                          "gamepad_helpers@gathering_info.gamepad_helpers": {}
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "pad_fill@common.empty_panel": {
+                      "size": [ "100%", "fill" ]
+                    }
+                  },
+                  {
+                    "gathering_id_label": {
+                      "type": "label",
+                      "text": "#gathering_id_label",
+                      "size": [ "100%", "20px" ],
+                      "color": "$alert_label_background_color",
+                      "text_alignment": "center",
+                      "bindings": [
+                        {
+                          "binding_name": "#gathering_id_label",
+                          "binding_condition": "once"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "pad_5@common.empty_panel": {
+                      "size": [ "100%", "5px" ]
+                    }
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "section_divider@gathering_info.section_divider": {}
+      },
+      {
+        "right_panel": {
+          "type": "panel",
+          "size": [ "60% - 4px", "100% - 23px" ],
+          "offset": [ 0, 23 ],
+          "anchor_to": "top_right",
+          "anchor_from": "top_right",
+          "controls": [
+            {
+              "scroll@common.scrolling_panel": {
+                "$scrolling_content": "gathering_info.right_panel_content",
+                "$scrolling_content_anchor_from": "top_middle",
+                "$scrolling_content_anchor_to": "top_middle",
+                "$show_background": false
+              }
+            }
+          ]
+        }
+      }
+    ]
+  }
+}

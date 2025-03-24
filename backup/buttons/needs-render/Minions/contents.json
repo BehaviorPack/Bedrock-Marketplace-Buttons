@@ -1,0 +1,37 @@
+{
+"content" : [
+    {"path" : "contents.json"},
+    {"path" : "textures"},
+    {"path" : "textures/ui"},
+    {"path" : "ui"},
+    {"path" : "ui/start_screen.json"},
+    {"path" : "manifest.json"},
+    {"path" : "textures/ui/default01-sheet.json"},
+    {"path" : "textures/ui/default01-sheet.png"},
+    {"path" : "textures/ui/default02-sheet.json"},
+    {"path" : "textures/ui/default02-sheet.png"},
+    {"path" : "textures/ui/default03-sheet.json"},
+    {"path" : "textures/ui/default03-sheet.png"},
+    {"path" : "textures/ui/default04-sheet.json"},
+    {"path" : "textures/ui/default04-sheet.png"},
+    {"path" : "textures/ui/default05-sheet.json"},
+    {"path" : "textures/ui/default05-sheet.png"},
+    {"path" : "textures/ui/default06-sheet.json"},
+    {"path" : "textures/ui/default06-sheet.png"},
+    {"path" : "textures/ui/default07-sheet.json"},
+    {"path" : "textures/ui/default07-sheet.png"},
+    {"path" : "textures/ui/default08-sheet.json"},
+    {"path" : "textures/ui/default08-sheet.png"},
+
+    {"path" : "textures/ui/treatment_button_borderless_light.json"},
+    {"path" : "textures/ui/treatment_button_borderless_light.png"},
+    {"path" : "textures/ui/treatment_button_borderless_lighthover.json"},
+    {"path" : "textures/ui/treatment_button_borderless_lighthover.png"},
+    {"path" : "textures/ui/treatment_button_borderless_lightpressed.json"},
+    {"path" : "textures/ui/treatment_button_borderless_lightpressed.png"},
+
+    {"path" : "textures/ui/SaleBanner.json"},
+    {"path" : "textures/ui/SaleBanner.png"}
+],
+"version" : 1
+}

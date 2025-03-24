@@ -1,0 +1,578 @@
+{ "frames": [
+   {
+    "filename": "Sonic the Hedgehog_default bu 0.aseprite",
+    "frame": { "x": 0, "y": 0, "w": 44, "h": 72 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 40, "h": 68 },
+    "sourceSize": { "w": 40, "h": 68 },
+    "duration": 100
+   },
+   {
+    "filename": "Sonic the Hedgehog_default bu 1.aseprite",
+    "frame": { "x": 44, "y": 0, "w": 44, "h": 72 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 40, "h": 68 },
+    "sourceSize": { "w": 40, "h": 68 },
+    "duration": 100
+   },
+   {
+    "filename": "Sonic the Hedgehog_default bu 2.aseprite",
+    "frame": { "x": 88, "y": 0, "w": 44, "h": 72 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 40, "h": 68 },
+    "sourceSize": { "w": 40, "h": 68 },
+    "duration": 100
+   },
+   {
+    "filename": "Sonic the Hedgehog_default bu 3.aseprite",
+    "frame": { "x": 132, "y": 0, "w": 44, "h": 72 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 40, "h": 68 },
+    "sourceSize": { "w": 40, "h": 68 },
+    "duration": 100
+   },
+   {
+    "filename": "Sonic the Hedgehog_default bu 4.aseprite",
+    "frame": { "x": 176, "y": 0, "w": 44, "h": 72 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 40, "h": 68 },
+    "sourceSize": { "w": 40, "h": 68 },
+    "duration": 100
+   },
+   {
+    "filename": "Sonic the Hedgehog_default bu 5.aseprite",
+    "frame": { "x": 220, "y": 0, "w": 44, "h": 72 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 40, "h": 68 },
+    "sourceSize": { "w": 40, "h": 68 },
+    "duration": 100
+   },
+   {
+    "filename": "Sonic the Hedgehog_default bu 6.aseprite",
+    "frame": { "x": 264, "y": 0, "w": 44, "h": 72 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 40, "h": 68 },
+    "sourceSize": { "w": 40, "h": 68 },
+    "duration": 100
+   },
+   {
+    "filename": "Sonic the Hedgehog_default bu 7.aseprite",
+    "frame": { "x": 308, "y": 0, "w": 44, "h": 72 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 40, "h": 68 },
+    "sourceSize": { "w": 40, "h": 68 },
+    "duration": 100
+   },
+   {
+    "filename": "Sonic the Hedgehog_default bu 8.aseprite",
+    "frame": { "x": 352, "y": 0, "w": 44, "h": 72 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 40, "h": 68 },
+    "sourceSize": { "w": 40, "h": 68 },
+    "duration": 100
+   },
+   {
+    "filename": "Sonic the Hedgehog_default bu 9.aseprite",
+    "frame": { "x": 396, "y": 0, "w": 44, "h": 72 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 40, "h": 68 },
+    "sourceSize": { "w": 40, "h": 68 },
+    "duration": 100
+   },
+   {
+    "filename": "Sonic the Hedgehog_default bu 10.aseprite",
+    "frame": { "x": 440, "y": 0, "w": 44, "h": 72 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 40, "h": 68 },
+    "sourceSize": { "w": 40, "h": 68 },
+    "duration": 100
+   },
+   {
+    "filename": "Sonic the Hedgehog_default bu 11.aseprite",
+    "frame": { "x": 484, "y": 0, "w": 44, "h": 72 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 40, "h": 68 },
+    "sourceSize": { "w": 40, "h": 68 },
+    "duration": 100
+   },
+   {
+    "filename": "Sonic the Hedgehog_default bu 12.aseprite",
+    "frame": { "x": 528, "y": 0, "w": 44, "h": 72 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 40, "h": 68 },
+    "sourceSize": { "w": 40, "h": 68 },
+    "duration": 100
+   },
+   {
+    "filename": "Sonic the Hedgehog_default bu 13.aseprite",
+    "frame": { "x": 572, "y": 0, "w": 44, "h": 72 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 40, "h": 68 },
+    "sourceSize": { "w": 40, "h": 68 },
+    "duration": 100
+   },
+   {
+    "filename": "Sonic the Hedgehog_default bu 14.aseprite",
+    "frame": { "x": 616, "y": 0, "w": 44, "h": 72 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 40, "h": 68 },
+    "sourceSize": { "w": 40, "h": 68 },
+    "duration": 100
+   },
+   {
+    "filename": "Sonic the Hedgehog_default bu 15.aseprite",
+    "frame": { "x": 660, "y": 0, "w": 44, "h": 72 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 40, "h": 68 },
+    "sourceSize": { "w": 40, "h": 68 },
+    "duration": 100
+   },
+   {
+    "filename": "Sonic the Hedgehog_default bu 16.aseprite",
+    "frame": { "x": 704, "y": 0, "w": 44, "h": 72 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 40, "h": 68 },
+    "sourceSize": { "w": 40, "h": 68 },
+    "duration": 100
+   },
+   {
+    "filename": "Sonic the Hedgehog_default bu 17.aseprite",
+    "frame": { "x": 220, "y": 0, "w": 44, "h": 72 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 40, "h": 68 },
+    "sourceSize": { "w": 40, "h": 68 },
+    "duration": 100
+   },
+   {
+    "filename": "Sonic the Hedgehog_default bu 18.aseprite",
+    "frame": { "x": 748, "y": 0, "w": 44, "h": 72 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 40, "h": 68 },
+    "sourceSize": { "w": 40, "h": 68 },
+    "duration": 100
+   },
+   {
+    "filename": "Sonic the Hedgehog_default bu 19.aseprite",
+    "frame": { "x": 792, "y": 0, "w": 44, "h": 72 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 40, "h": 68 },
+    "sourceSize": { "w": 40, "h": 68 },
+    "duration": 100
+   },
+   {
+    "filename": "Sonic the Hedgehog_default bu 20.aseprite",
+    "frame": { "x": 836, "y": 0, "w": 44, "h": 72 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 40, "h": 68 },
+    "sourceSize": { "w": 40, "h": 68 },
+    "duration": 100
+   },
+   {
+    "filename": "Sonic the Hedgehog_default bu 21.aseprite",
+    "frame": { "x": 880, "y": 0, "w": 44, "h": 72 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 40, "h": 68 },
+    "sourceSize": { "w": 40, "h": 68 },
+    "duration": 100
+   },
+   {
+    "filename": "Sonic the Hedgehog_default bu 22.aseprite",
+    "frame": { "x": 924, "y": 0, "w": 44, "h": 72 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 40, "h": 68 },
+    "sourceSize": { "w": 40, "h": 68 },
+    "duration": 100
+   },
+   {
+    "filename": "Sonic the Hedgehog_default bu 23.aseprite",
+    "frame": { "x": 968, "y": 0, "w": 44, "h": 72 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 40, "h": 68 },
+    "sourceSize": { "w": 40, "h": 68 },
+    "duration": 100
+   },
+   {
+    "filename": "Sonic the Hedgehog_default bu 24.aseprite",
+    "frame": { "x": 1012, "y": 0, "w": 44, "h": 72 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 40, "h": 68 },
+    "sourceSize": { "w": 40, "h": 68 },
+    "duration": 100
+   },
+   {
+    "filename": "Sonic the Hedgehog_default bu 25.aseprite",
+    "frame": { "x": 1056, "y": 0, "w": 44, "h": 72 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 40, "h": 68 },
+    "sourceSize": { "w": 40, "h": 68 },
+    "duration": 100
+   },
+   {
+    "filename": "Sonic the Hedgehog_default bu 26.aseprite",
+    "frame": { "x": 1100, "y": 0, "w": 44, "h": 72 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 40, "h": 68 },
+    "sourceSize": { "w": 40, "h": 68 },
+    "duration": 100
+   },
+   {
+    "filename": "Sonic the Hedgehog_default bu 27.aseprite",
+    "frame": { "x": 1144, "y": 0, "w": 44, "h": 72 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 40, "h": 68 },
+    "sourceSize": { "w": 40, "h": 68 },
+    "duration": 100
+   },
+   {
+    "filename": "Sonic the Hedgehog_default bu 28.aseprite",
+    "frame": { "x": 1188, "y": 0, "w": 44, "h": 72 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 40, "h": 68 },
+    "sourceSize": { "w": 40, "h": 68 },
+    "duration": 100
+   },
+   {
+    "filename": "Sonic the Hedgehog_default bu 29.aseprite",
+    "frame": { "x": 1056, "y": 0, "w": 44, "h": 72 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 40, "h": 68 },
+    "sourceSize": { "w": 40, "h": 68 },
+    "duration": 100
+   },
+   {
+    "filename": "Sonic the Hedgehog_default bu 30.aseprite",
+    "frame": { "x": 1100, "y": 0, "w": 44, "h": 72 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 40, "h": 68 },
+    "sourceSize": { "w": 40, "h": 68 },
+    "duration": 100
+   },
+   {
+    "filename": "Sonic the Hedgehog_default bu 31.aseprite",
+    "frame": { "x": 1144, "y": 0, "w": 44, "h": 72 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 40, "h": 68 },
+    "sourceSize": { "w": 40, "h": 68 },
+    "duration": 100
+   },
+   {
+    "filename": "Sonic the Hedgehog_default bu 32.aseprite",
+    "frame": { "x": 1232, "y": 0, "w": 44, "h": 72 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 40, "h": 68 },
+    "sourceSize": { "w": 40, "h": 68 },
+    "duration": 100
+   },
+   {
+    "filename": "Sonic the Hedgehog_default bu 33.aseprite",
+    "frame": { "x": 1276, "y": 0, "w": 44, "h": 72 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 40, "h": 68 },
+    "sourceSize": { "w": 40, "h": 68 },
+    "duration": 100
+   },
+   {
+    "filename": "Sonic the Hedgehog_default bu 34.aseprite",
+    "frame": { "x": 1320, "y": 0, "w": 44, "h": 72 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 40, "h": 68 },
+    "sourceSize": { "w": 40, "h": 68 },
+    "duration": 100
+   },
+   {
+    "filename": "Sonic the Hedgehog_default bu 35.aseprite",
+    "frame": { "x": 1144, "y": 0, "w": 44, "h": 72 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 40, "h": 68 },
+    "sourceSize": { "w": 40, "h": 68 },
+    "duration": 100
+   },
+   {
+    "filename": "Sonic the Hedgehog_default bu 36.aseprite",
+    "frame": { "x": 1188, "y": 0, "w": 44, "h": 72 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 40, "h": 68 },
+    "sourceSize": { "w": 40, "h": 68 },
+    "duration": 100
+   },
+   {
+    "filename": "Sonic the Hedgehog_default bu 37.aseprite",
+    "frame": { "x": 1056, "y": 0, "w": 44, "h": 72 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 40, "h": 68 },
+    "sourceSize": { "w": 40, "h": 68 },
+    "duration": 100
+   },
+   {
+    "filename": "Sonic the Hedgehog_default bu 38.aseprite",
+    "frame": { "x": 1100, "y": 0, "w": 44, "h": 72 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 40, "h": 68 },
+    "sourceSize": { "w": 40, "h": 68 },
+    "duration": 100
+   },
+   {
+    "filename": "Sonic the Hedgehog_default bu 39.aseprite",
+    "frame": { "x": 1144, "y": 0, "w": 44, "h": 72 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 40, "h": 68 },
+    "sourceSize": { "w": 40, "h": 68 },
+    "duration": 100
+   },
+   {
+    "filename": "Sonic the Hedgehog_default bu 40.aseprite",
+    "frame": { "x": 1188, "y": 0, "w": 44, "h": 72 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 40, "h": 68 },
+    "sourceSize": { "w": 40, "h": 68 },
+    "duration": 100
+   },
+   {
+    "filename": "Sonic the Hedgehog_default bu 41.aseprite",
+    "frame": { "x": 1056, "y": 0, "w": 44, "h": 72 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 40, "h": 68 },
+    "sourceSize": { "w": 40, "h": 68 },
+    "duration": 100
+   },
+   {
+    "filename": "Sonic the Hedgehog_default bu 42.aseprite",
+    "frame": { "x": 1364, "y": 0, "w": 44, "h": 72 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 40, "h": 68 },
+    "sourceSize": { "w": 40, "h": 68 },
+    "duration": 100
+   },
+   {
+    "filename": "Sonic the Hedgehog_default bu 43.aseprite",
+    "frame": { "x": 968, "y": 0, "w": 44, "h": 72 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 40, "h": 68 },
+    "sourceSize": { "w": 40, "h": 68 },
+    "duration": 100
+   },
+   {
+    "filename": "Sonic the Hedgehog_default bu 44.aseprite",
+    "frame": { "x": 1012, "y": 0, "w": 44, "h": 72 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 40, "h": 68 },
+    "sourceSize": { "w": 40, "h": 68 },
+    "duration": 100
+   },
+   {
+    "filename": "Sonic the Hedgehog_default bu 45.aseprite",
+    "frame": { "x": 1056, "y": 0, "w": 44, "h": 72 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 40, "h": 68 },
+    "sourceSize": { "w": 40, "h": 68 },
+    "duration": 100
+   },
+   {
+    "filename": "Sonic the Hedgehog_default bu 46.aseprite",
+    "frame": { "x": 1100, "y": 0, "w": 44, "h": 72 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 40, "h": 68 },
+    "sourceSize": { "w": 40, "h": 68 },
+    "duration": 100
+   },
+   {
+    "filename": "Sonic the Hedgehog_default bu 47.aseprite",
+    "frame": { "x": 1144, "y": 0, "w": 44, "h": 72 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 40, "h": 68 },
+    "sourceSize": { "w": 40, "h": 68 },
+    "duration": 100
+   },
+   {
+    "filename": "Sonic the Hedgehog_default bu 48.aseprite",
+    "frame": { "x": 1188, "y": 0, "w": 44, "h": 72 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 40, "h": 68 },
+    "sourceSize": { "w": 40, "h": 68 },
+    "duration": 100
+   },
+   {
+    "filename": "Sonic the Hedgehog_default bu 49.aseprite",
+    "frame": { "x": 1056, "y": 0, "w": 44, "h": 72 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 40, "h": 68 },
+    "sourceSize": { "w": 40, "h": 68 },
+    "duration": 100
+   },
+   {
+    "filename": "Sonic the Hedgehog_default bu 50.aseprite",
+    "frame": { "x": 1100, "y": 0, "w": 44, "h": 72 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 40, "h": 68 },
+    "sourceSize": { "w": 40, "h": 68 },
+    "duration": 100
+   },
+   {
+    "filename": "Sonic the Hedgehog_default bu 51.aseprite",
+    "frame": { "x": 660, "y": 0, "w": 44, "h": 72 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 40, "h": 68 },
+    "sourceSize": { "w": 40, "h": 68 },
+    "duration": 100
+   },
+   {
+    "filename": "Sonic the Hedgehog_default bu 52.aseprite",
+    "frame": { "x": 1408, "y": 0, "w": 44, "h": 72 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 40, "h": 68 },
+    "sourceSize": { "w": 40, "h": 68 },
+    "duration": 100
+   },
+   {
+    "filename": "Sonic the Hedgehog_default bu 53.aseprite",
+    "frame": { "x": 1452, "y": 0, "w": 44, "h": 72 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 40, "h": 68 },
+    "sourceSize": { "w": 40, "h": 68 },
+    "duration": 100
+   },
+   {
+    "filename": "Sonic the Hedgehog_default bu 54.aseprite",
+    "frame": { "x": 1496, "y": 0, "w": 44, "h": 72 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 40, "h": 68 },
+    "sourceSize": { "w": 40, "h": 68 },
+    "duration": 100
+   },
+   {
+    "filename": "Sonic the Hedgehog_default bu 55.aseprite",
+    "frame": { "x": 308, "y": 0, "w": 44, "h": 72 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 40, "h": 68 },
+    "sourceSize": { "w": 40, "h": 68 },
+    "duration": 100
+   },
+   {
+    "filename": "Sonic the Hedgehog_default bu 56.aseprite",
+    "frame": { "x": 352, "y": 0, "w": 44, "h": 72 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 40, "h": 68 },
+    "sourceSize": { "w": 40, "h": 68 },
+    "duration": 100
+   },
+   {
+    "filename": "Sonic the Hedgehog_default bu 57.aseprite",
+    "frame": { "x": 396, "y": 0, "w": 44, "h": 72 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 40, "h": 68 },
+    "sourceSize": { "w": 40, "h": 68 },
+    "duration": 100
+   },
+   {
+    "filename": "Sonic the Hedgehog_default bu 58.aseprite",
+    "frame": { "x": 440, "y": 0, "w": 44, "h": 72 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 40, "h": 68 },
+    "sourceSize": { "w": 40, "h": 68 },
+    "duration": 100
+   },
+   {
+    "filename": "Sonic the Hedgehog_default bu 59.aseprite",
+    "frame": { "x": 484, "y": 0, "w": 44, "h": 72 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 40, "h": 68 },
+    "sourceSize": { "w": 40, "h": 68 },
+    "duration": 100
+   }
+ ],
+ "meta": {
+  "app": "http://www.aseprite.org/",
+  "version": "1.2.27-x64",
+  "image": "default04-sheet.png",
+  "format": "RGBA8888",
+  "size": { "w": 1540, "h": 72 },
+  "scale": "1",
+  "frameTags": [
+  ],
+  "layers": [
+   { "name": "waterfall 12", "opacity": 255, "blendMode": "normal" },
+   { "name": "coin", "opacity": 255, "blendMode": "normal" },
+   { "name": "coin", "opacity": 255, "blendMode": "normal" },
+   { "name": "coin Copy Copy Copy", "opacity": 255, "blendMode": "normal" },
+   { "name": "coin Copy Copy", "opacity": 255, "blendMode": "normal" },
+   { "name": "coin", "opacity": 255, "blendMode": "normal" },
+   { "name": "Sonic arm 2", "opacity": 255, "blendMode": "normal" },
+   { "name": "Sonic leg 2", "opacity": 255, "blendMode": "normal" },
+   { "name": "Sonic body", "opacity": 255, "blendMode": "normal" },
+   { "name": "Sonic leg 1", "opacity": 255, "blendMode": "normal" },
+   { "name": "Sonic head", "opacity": 255, "blendMode": "normal" },
+   { "name": "Sonic needles", "opacity": 255, "blendMode": "normal" },
+   { "name": "Sonic arm 1", "opacity": 255, "blendMode": "normal" },
+   { "name": "fish", "opacity": 255, "blendMode": "normal" },
+   { "name": "crab", "opacity": 255, "blendMode": "normal" },
+   { "name": "explosion", "opacity": 255, "blendMode": "normal" },
+   { "name": "particles", "opacity": 255, "blendMode": "normal" },
+   { "name": "particles", "opacity": 255, "blendMode": "normal" },
+   { "name": "particles Copy", "opacity": 255, "blendMode": "normal" },
+   { "name": "particles Copy Copy", "opacity": 255, "blendMode": "normal" },
+   { "name": "mask_blue", "opacity": 255, "blendMode": "normal" }
+  ],
+  "slices": [
+  ]
+ }
+}

@@ -1,0 +1,26 @@
+﻿### Start Screen Buttons Countdown
+
+gathering.start_screen.countdown.button=Filmarrangement	###{MaxLength=19}This is a button that the player presses to start an event on the homescreen
+
+### Start Screen Buttons During
+
+gathering.start_screen.during.button=Spill arrangement	###{MaxLength=19}This is a button that the player presses to start an event on the homescreen
+
+### PDP Buttons Countdown
+
+gathering.info.countdown.action_button=Vis mer	###{MaxLength=30}The player presses this button to read more about the event.
+gathering.info.countdown.info_button=Filminformasjon	###{MaxLength=30}The player presses this button to read more about the movie.
+
+### PDP Buttons During
+
+gathering.info.during.action_button=Spill nå!	###{MaxLength=30}Pressing this button allows the player to vote.
+gathering.info.during.info_button=Vis mer	###{MaxLength=30}The player presses this button to read more about the event.
+
+### Client Outdated
+gathering.info.body.update=Oppdater til den nyeste versjonen for å få tilgang til dette live-arrangementet.	###{MaxLength=300}An updated version of Minecraft is required for the user to join this event
+gathering.info.button.update=Oppdatering kreves	###{MaxLength=30}An updated version of Minecraft is required for the user to proceed
+
+### PDP
+gathering.info.header=A Minecraft Movie – live-arrangement	###{MaxLength=60}This is the name of the event. A Minecraft Movie is the name. Live Event is the type of event
+gathering.info.title=A Minecraft Movie – live-arrangement!	###{MaxLength=60}This is the name of the event. A Minecraft Movie is the name. Live Event is the type of event
+gathering.info.body=Bli med Steve og følgesvennene hans til havnelandsbyen for å hjelpe til med å forsvare mot piglininvasjonen!~LINEBREAK~~LINEBREAK~Stup ut i dette utviklende live-arrangementet og spill spill for å oppgradere utstyret ditt og styrke landsbyens forsvarsverk. Fullfør utfordringer for å tjene belønninger, og fullfør alle for å skaffe filmkappen!~LINEBREAK~~LINEBREAK~A Minecraft Movie – live-arrangementet begynner her 25. mars kl. 22.00 og varer til 7. april kl. 22.00 norsk tid.	###{MaxLength=1000}{StrContains=~LINEBREAK~}Midport is the name of the Village. piglin is a character in the Minecraft game. Movie Cape is the name of a reward the player can earn. The date and time should remain in Pacific Time.

@@ -1,0 +1,26 @@
+﻿### Start Screen Buttons Countdown
+
+gathering.start_screen.countdown.button=Filmová událost	###{MaxLength=19}This is a button that the player presses to start an event on the homescreen
+
+### Start Screen Buttons During
+
+gathering.start_screen.during.button=Hraj film. událost	###{MaxLength=19}This is a button that the player presses to start an event on the homescreen
+
+### PDP Buttons Countdown
+
+gathering.info.countdown.action_button=Zjistit víc	###{MaxLength=30}The player presses this button to read more about the event.
+gathering.info.countdown.info_button=Informace o filmu	###{MaxLength=30}The player presses this button to read more about the movie.
+
+### PDP Buttons During
+
+gathering.info.during.action_button=Hrát nyní!	###{MaxLength=30}Pressing this button allows the player to vote.
+gathering.info.during.info_button=Zjistit víc	###{MaxLength=30}The player presses this button to read more about the event.
+
+### Client Outdated
+gathering.info.body.update=Chcete-li získat přístup k této živé události, aktualizujte na nejnovější verzi.	###{MaxLength=300}An updated version of Minecraft is required for the user to join this event
+gathering.info.button.update=Je vyžadována aktualizace	###{MaxLength=30}An updated version of Minecraft is required for the user to proceed
+
+### PDP
+gathering.info.header=Živá událost k Minecraft filmu	###{MaxLength=60}This is the name of the event. A Minecraft Movie is the name. Live Event is the type of event
+gathering.info.title=Živá událost k Minecraft filmu!	###{MaxLength=60}This is the name of the event. A Minecraft Movie is the name. Live Event is the type of event
+gathering.info.body=Připojte se ke Steveovi a jeho společníkům ve vesnici Midport a pomozte jim bránit se proti invazi piglinů!~LINEBREAK~~LINEBREAK~Přidejte se k této rozvíjející se živé události a hrajte hry, abyste si vylepšili své vybavení a posílili obranu vesnice. Plňte úkoly a získejte odměny. Pokud je dokončíte všechny, získáte Filmový plášť!~LINEBREAK~~LINEBREAK~Živá událost k Minecraft filmu začíná zde 25. března ve 23:00 SEČ a potrvá do 7. dubna do 23:00 SEČ.	###{MaxLength=1000}{StrContains=~LINEBREAK~}Midport is the name of the Village. piglin is a character in the Minecraft game. Movie Cape is the name of a reward the player can earn. The date and time should remain in Pacific Time.

@@ -1,0 +1,33 @@
+{
+"content" : [
+    { "path" : "contents.json" },
+    { "path" : "textures" },
+    { "path" : "textures/ui" },
+    { "path" : "ui" },
+    { "path" : "ui/start_screen.json" },
+    { "path" : "manifest.json" },
+    { "path" : "textures/ui/BG.json" },
+    { "path" : "textures/ui/BG.png" },
+    { "path" : "textures/ui/BGL_default.json" },
+    { "path" : "textures/ui/BGL_default.png" },
+    { "path" : "textures/ui/BGR_default.json" },
+    { "path" : "textures/ui/BGR_default.png" },
+    { "path" : "textures/ui/BGL_hover.json" },
+    { "path" : "textures/ui/BGL_hover.png" },
+    { "path" : "textures/ui/BGR_hover.json" },
+    { "path" : "textures/ui/BGR_hover.png" },
+    { "path" : "textures/ui/Truck.json" },
+    { "path" : "textures/ui/Truck.png" },
+    { "path" : "textures/ui/ZombieA.json" },
+    { "path" : "textures/ui/ZombieA.png" },
+    { "path" : "textures/ui/ZombieB.json" },
+    { "path" : "textures/ui/ZombieB.png" },
+    { "path" : "textures/ui/ZombieC.json" },
+    { "path" : "textures/ui/ZombieC.png" },
+    { "path" : "textures/ui/ZombieD.json" },
+    { "path" : "textures/ui/ZombieD.png" },
+    { "path" : "textures/ui/ZombieHead.json" },
+    { "path" : "textures/ui/ZombieHead.png" }
+],
+"version" : 1
+}

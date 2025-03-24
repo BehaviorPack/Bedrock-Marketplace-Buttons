@@ -1,0 +1,92 @@
+{ "frames": [
+   {
+    "filename": "0.ase",
+    "frame": { "x": 0, "y": 0, "w": 91, "h": 34 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 91, "h": 34 },
+    "sourceSize": { "w": 91, "h": 34 },
+    "duration": 180
+   },
+   {
+    "filename": "1.ase",
+    "frame": { "x": 91, "y": 0, "w": 91, "h": 34 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 91, "h": 34 },
+    "sourceSize": { "w": 91, "h": 34 },
+    "duration": 180
+   },
+   {
+    "filename": "2.ase",
+    "frame": { "x": 182, "y": 0, "w": 91, "h": 34 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 91, "h": 34 },
+    "sourceSize": { "w": 91, "h": 34 },
+    "duration": 180
+   },
+   {
+    "filename": "3.ase",
+    "frame": { "x": 273, "y": 0, "w": 91, "h": 34 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 91, "h": 34 },
+    "sourceSize": { "w": 91, "h": 34 },
+    "duration": 180
+   },
+   {
+    "filename": "4.ase",
+    "frame": { "x": 364, "y": 0, "w": 91, "h": 34 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 91, "h": 34 },
+    "sourceSize": { "w": 91, "h": 34 },
+    "duration": 180
+   },
+   {
+    "filename": "5.ase",
+    "frame": { "x": 455, "y": 0, "w": 91, "h": 34 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 91, "h": 34 },
+    "sourceSize": { "w": 91, "h": 34 },
+    "duration": 180
+   },
+   {
+    "filename": "6.ase",
+    "frame": { "x": 546, "y": 0, "w": 91, "h": 34 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 91, "h": 34 },
+    "sourceSize": { "w": 91, "h": 34 },
+    "duration": 180
+   },
+   {
+    "filename": "7.ase",
+    "frame": { "x": 637, "y": 0, "w": 91, "h": 34 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 91, "h": 34 },
+    "sourceSize": { "w": 91, "h": 34 },
+    "duration": 180
+   },
+   {
+    "filename": "8.ase",
+    "frame": { "x": 728, "y": 0, "w": 91, "h": 34 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 91, "h": 34 },
+    "sourceSize": { "w": 91, "h": 34 },
+    "duration": 180
+   }
+ ],
+ "meta": {
+  "app": "https://www.aseprite.org/",
+  "version": "1.3-beta21-x64",
+  "image": "Right_Hover.png",
+  "format": "RGBA8888",
+  "size": { "w": 819, "h": 34 },
+  "scale": "1"
+ }
+}

@@ -1,0 +1,602 @@
+{ "frames": [
+   {
+    "filename": "Holiday Resort Button #Hover 0.aseprite",
+    "frame": { "x": 0, "y": 0, "w": 184, "h": 68 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 184, "h": 68 },
+    "sourceSize": { "w": 184, "h": 68 },
+    "duration": 130
+   },
+   {
+    "filename": "Holiday Resort Button #Hover 1.aseprite",
+    "frame": { "x": 184, "y": 0, "w": 184, "h": 68 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 184, "h": 68 },
+    "sourceSize": { "w": 184, "h": 68 },
+    "duration": 130
+   },
+   {
+    "filename": "Holiday Resort Button #Hover 2.aseprite",
+    "frame": { "x": 368, "y": 0, "w": 184, "h": 68 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 184, "h": 68 },
+    "sourceSize": { "w": 184, "h": 68 },
+    "duration": 130
+   },
+   {
+    "filename": "Holiday Resort Button #Hover 3.aseprite",
+    "frame": { "x": 552, "y": 0, "w": 184, "h": 68 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 184, "h": 68 },
+    "sourceSize": { "w": 184, "h": 68 },
+    "duration": 130
+   },
+   {
+    "filename": "Holiday Resort Button #Hover 4.aseprite",
+    "frame": { "x": 736, "y": 0, "w": 184, "h": 68 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 184, "h": 68 },
+    "sourceSize": { "w": 184, "h": 68 },
+    "duration": 130
+   },
+   {
+    "filename": "Holiday Resort Button #Hover 5.aseprite",
+    "frame": { "x": 920, "y": 0, "w": 184, "h": 68 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 184, "h": 68 },
+    "sourceSize": { "w": 184, "h": 68 },
+    "duration": 130
+   },
+   {
+    "filename": "Holiday Resort Button #Hover 6.aseprite",
+    "frame": { "x": 1104, "y": 0, "w": 184, "h": 68 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 184, "h": 68 },
+    "sourceSize": { "w": 184, "h": 68 },
+    "duration": 130
+   },
+   {
+    "filename": "Holiday Resort Button #Hover 7.aseprite",
+    "frame": { "x": 1288, "y": 0, "w": 184, "h": 68 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 184, "h": 68 },
+    "sourceSize": { "w": 184, "h": 68 },
+    "duration": 130
+   },
+   {
+    "filename": "Holiday Resort Button #Hover 8.aseprite",
+    "frame": { "x": 1472, "y": 0, "w": 184, "h": 68 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 184, "h": 68 },
+    "sourceSize": { "w": 184, "h": 68 },
+    "duration": 130
+   },
+   {
+    "filename": "Holiday Resort Button #Hover 9.aseprite",
+    "frame": { "x": 1656, "y": 0, "w": 184, "h": 68 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 184, "h": 68 },
+    "sourceSize": { "w": 184, "h": 68 },
+    "duration": 130
+   },
+   {
+    "filename": "Holiday Resort Button #Hover 10.aseprite",
+    "frame": { "x": 1840, "y": 0, "w": 184, "h": 68 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 184, "h": 68 },
+    "sourceSize": { "w": 184, "h": 68 },
+    "duration": 130
+   },
+   {
+    "filename": "Holiday Resort Button #Hover 11.aseprite",
+    "frame": { "x": 2024, "y": 0, "w": 184, "h": 68 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 184, "h": 68 },
+    "sourceSize": { "w": 184, "h": 68 },
+    "duration": 130
+   },
+   {
+    "filename": "Holiday Resort Button #Hover 12.aseprite",
+    "frame": { "x": 2208, "y": 0, "w": 184, "h": 68 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 184, "h": 68 },
+    "sourceSize": { "w": 184, "h": 68 },
+    "duration": 130
+   },
+   {
+    "filename": "Holiday Resort Button #Hover 13.aseprite",
+    "frame": { "x": 2208, "y": 0, "w": 184, "h": 68 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 184, "h": 68 },
+    "sourceSize": { "w": 184, "h": 68 },
+    "duration": 130
+   },
+   {
+    "filename": "Holiday Resort Button #Hover 14.aseprite",
+    "frame": { "x": 2392, "y": 0, "w": 184, "h": 68 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 184, "h": 68 },
+    "sourceSize": { "w": 184, "h": 68 },
+    "duration": 130
+   },
+   {
+    "filename": "Holiday Resort Button #Hover 15.aseprite",
+    "frame": { "x": 2576, "y": 0, "w": 184, "h": 68 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 184, "h": 68 },
+    "sourceSize": { "w": 184, "h": 68 },
+    "duration": 130
+   },
+   {
+    "filename": "Holiday Resort Button #Hover 16.aseprite",
+    "frame": { "x": 2576, "y": 0, "w": 184, "h": 68 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 184, "h": 68 },
+    "sourceSize": { "w": 184, "h": 68 },
+    "duration": 130
+   },
+   {
+    "filename": "Holiday Resort Button #Hover 17.aseprite",
+    "frame": { "x": 2392, "y": 0, "w": 184, "h": 68 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 184, "h": 68 },
+    "sourceSize": { "w": 184, "h": 68 },
+    "duration": 130
+   },
+   {
+    "filename": "Holiday Resort Button #Hover 18.aseprite",
+    "frame": { "x": 2208, "y": 0, "w": 184, "h": 68 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 184, "h": 68 },
+    "sourceSize": { "w": 184, "h": 68 },
+    "duration": 130
+   },
+   {
+    "filename": "Holiday Resort Button #Hover 19.aseprite",
+    "frame": { "x": 2208, "y": 0, "w": 184, "h": 68 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 184, "h": 68 },
+    "sourceSize": { "w": 184, "h": 68 },
+    "duration": 130
+   },
+   {
+    "filename": "Holiday Resort Button #Hover 20.aseprite",
+    "frame": { "x": 2392, "y": 0, "w": 184, "h": 68 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 184, "h": 68 },
+    "sourceSize": { "w": 184, "h": 68 },
+    "duration": 130
+   },
+   {
+    "filename": "Holiday Resort Button #Hover 21.aseprite",
+    "frame": { "x": 2576, "y": 0, "w": 184, "h": 68 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 184, "h": 68 },
+    "sourceSize": { "w": 184, "h": 68 },
+    "duration": 130
+   },
+   {
+    "filename": "Holiday Resort Button #Hover 22.aseprite",
+    "frame": { "x": 2576, "y": 0, "w": 184, "h": 68 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 184, "h": 68 },
+    "sourceSize": { "w": 184, "h": 68 },
+    "duration": 130
+   },
+   {
+    "filename": "Holiday Resort Button #Hover 23.aseprite",
+    "frame": { "x": 2392, "y": 0, "w": 184, "h": 68 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 184, "h": 68 },
+    "sourceSize": { "w": 184, "h": 68 },
+    "duration": 130
+   },
+   {
+    "filename": "Holiday Resort Button #Hover 24.aseprite",
+    "frame": { "x": 2208, "y": 0, "w": 184, "h": 68 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 184, "h": 68 },
+    "sourceSize": { "w": 184, "h": 68 },
+    "duration": 130
+   },
+   {
+    "filename": "Holiday Resort Button #Hover 25.aseprite",
+    "frame": { "x": 2208, "y": 0, "w": 184, "h": 68 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 184, "h": 68 },
+    "sourceSize": { "w": 184, "h": 68 },
+    "duration": 130
+   },
+   {
+    "filename": "Holiday Resort Button #Hover 26.aseprite",
+    "frame": { "x": 2392, "y": 0, "w": 184, "h": 68 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 184, "h": 68 },
+    "sourceSize": { "w": 184, "h": 68 },
+    "duration": 130
+   },
+   {
+    "filename": "Holiday Resort Button #Hover 27.aseprite",
+    "frame": { "x": 2576, "y": 0, "w": 184, "h": 68 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 184, "h": 68 },
+    "sourceSize": { "w": 184, "h": 68 },
+    "duration": 130
+   },
+   {
+    "filename": "Holiday Resort Button #Hover 28.aseprite",
+    "frame": { "x": 2576, "y": 0, "w": 184, "h": 68 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 184, "h": 68 },
+    "sourceSize": { "w": 184, "h": 68 },
+    "duration": 130
+   },
+   {
+    "filename": "Holiday Resort Button #Hover 29.aseprite",
+    "frame": { "x": 2392, "y": 0, "w": 184, "h": 68 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 184, "h": 68 },
+    "sourceSize": { "w": 184, "h": 68 },
+    "duration": 130
+   },
+   {
+    "filename": "Holiday Resort Button #Hover 30.aseprite",
+    "frame": { "x": 2760, "y": 0, "w": 184, "h": 68 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 184, "h": 68 },
+    "sourceSize": { "w": 184, "h": 68 },
+    "duration": 130
+   },
+   {
+    "filename": "Holiday Resort Button #Hover 31.aseprite",
+    "frame": { "x": 2944, "y": 0, "w": 184, "h": 68 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 184, "h": 68 },
+    "sourceSize": { "w": 184, "h": 68 },
+    "duration": 130
+   },
+   {
+    "filename": "Holiday Resort Button #Hover 32.aseprite",
+    "frame": { "x": 3128, "y": 0, "w": 184, "h": 68 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 184, "h": 68 },
+    "sourceSize": { "w": 184, "h": 68 },
+    "duration": 130
+   },
+   {
+    "filename": "Holiday Resort Button #Hover 33.aseprite",
+    "frame": { "x": 3312, "y": 0, "w": 184, "h": 68 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 184, "h": 68 },
+    "sourceSize": { "w": 184, "h": 68 },
+    "duration": 130
+   },
+   {
+    "filename": "Holiday Resort Button #Hover 34.aseprite",
+    "frame": { "x": 3496, "y": 0, "w": 184, "h": 68 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 184, "h": 68 },
+    "sourceSize": { "w": 184, "h": 68 },
+    "duration": 130
+   },
+   {
+    "filename": "Holiday Resort Button #Hover 35.aseprite",
+    "frame": { "x": 3680, "y": 0, "w": 184, "h": 68 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 184, "h": 68 },
+    "sourceSize": { "w": 184, "h": 68 },
+    "duration": 130
+   },
+   {
+    "filename": "Holiday Resort Button #Hover 36.aseprite",
+    "frame": { "x": 3864, "y": 0, "w": 184, "h": 68 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 184, "h": 68 },
+    "sourceSize": { "w": 184, "h": 68 },
+    "duration": 130
+   },
+   {
+    "filename": "Holiday Resort Button #Hover 37.aseprite",
+    "frame": { "x": 4048, "y": 0, "w": 184, "h": 68 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 184, "h": 68 },
+    "sourceSize": { "w": 184, "h": 68 },
+    "duration": 130
+   },
+   {
+    "filename": "Holiday Resort Button #Hover 38.aseprite",
+    "frame": { "x": 4232, "y": 0, "w": 184, "h": 68 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 184, "h": 68 },
+    "sourceSize": { "w": 184, "h": 68 },
+    "duration": 130
+   },
+   {
+    "filename": "Holiday Resort Button #Hover 39.aseprite",
+    "frame": { "x": 4232, "y": 0, "w": 184, "h": 68 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 184, "h": 68 },
+    "sourceSize": { "w": 184, "h": 68 },
+    "duration": 130
+   },
+   {
+    "filename": "Holiday Resort Button #Hover 40.aseprite",
+    "frame": { "x": 4232, "y": 0, "w": 184, "h": 68 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 184, "h": 68 },
+    "sourceSize": { "w": 184, "h": 68 },
+    "duration": 130
+   },
+   {
+    "filename": "Holiday Resort Button #Hover 41.aseprite",
+    "frame": { "x": 4232, "y": 0, "w": 184, "h": 68 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 184, "h": 68 },
+    "sourceSize": { "w": 184, "h": 68 },
+    "duration": 130
+   },
+   {
+    "filename": "Holiday Resort Button #Hover 42.aseprite",
+    "frame": { "x": 4232, "y": 0, "w": 184, "h": 68 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 184, "h": 68 },
+    "sourceSize": { "w": 184, "h": 68 },
+    "duration": 130
+   },
+   {
+    "filename": "Holiday Resort Button #Hover 43.aseprite",
+    "frame": { "x": 4232, "y": 0, "w": 184, "h": 68 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 184, "h": 68 },
+    "sourceSize": { "w": 184, "h": 68 },
+    "duration": 130
+   },
+   {
+    "filename": "Holiday Resort Button #Hover 44.aseprite",
+    "frame": { "x": 4232, "y": 0, "w": 184, "h": 68 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 184, "h": 68 },
+    "sourceSize": { "w": 184, "h": 68 },
+    "duration": 130
+   },
+   {
+    "filename": "Holiday Resort Button #Hover 45.aseprite",
+    "frame": { "x": 4232, "y": 0, "w": 184, "h": 68 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 184, "h": 68 },
+    "sourceSize": { "w": 184, "h": 68 },
+    "duration": 130
+   },
+   {
+    "filename": "Holiday Resort Button #Hover 46.aseprite",
+    "frame": { "x": 4232, "y": 0, "w": 184, "h": 68 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 184, "h": 68 },
+    "sourceSize": { "w": 184, "h": 68 },
+    "duration": 130
+   },
+   {
+    "filename": "Holiday Resort Button #Hover 47.aseprite",
+    "frame": { "x": 4232, "y": 0, "w": 184, "h": 68 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 184, "h": 68 },
+    "sourceSize": { "w": 184, "h": 68 },
+    "duration": 130
+   },
+   {
+    "filename": "Holiday Resort Button #Hover 48.aseprite",
+    "frame": { "x": 4232, "y": 0, "w": 184, "h": 68 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 184, "h": 68 },
+    "sourceSize": { "w": 184, "h": 68 },
+    "duration": 130
+   },
+   {
+    "filename": "Holiday Resort Button #Hover 49.aseprite",
+    "frame": { "x": 4232, "y": 0, "w": 184, "h": 68 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 184, "h": 68 },
+    "sourceSize": { "w": 184, "h": 68 },
+    "duration": 130
+   },
+   {
+    "filename": "Holiday Resort Button #Hover 50.aseprite",
+    "frame": { "x": 4232, "y": 0, "w": 184, "h": 68 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 184, "h": 68 },
+    "sourceSize": { "w": 184, "h": 68 },
+    "duration": 130
+   },
+   {
+    "filename": "Holiday Resort Button #Hover 51.aseprite",
+    "frame": { "x": 4232, "y": 0, "w": 184, "h": 68 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 184, "h": 68 },
+    "sourceSize": { "w": 184, "h": 68 },
+    "duration": 130
+   },
+   {
+    "filename": "Holiday Resort Button #Hover 52.aseprite",
+    "frame": { "x": 4232, "y": 0, "w": 184, "h": 68 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 184, "h": 68 },
+    "sourceSize": { "w": 184, "h": 68 },
+    "duration": 130
+   },
+   {
+    "filename": "Holiday Resort Button #Hover 53.aseprite",
+    "frame": { "x": 4232, "y": 0, "w": 184, "h": 68 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 184, "h": 68 },
+    "sourceSize": { "w": 184, "h": 68 },
+    "duration": 130
+   },
+   {
+    "filename": "Holiday Resort Button #Hover 54.aseprite",
+    "frame": { "x": 4232, "y": 0, "w": 184, "h": 68 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 184, "h": 68 },
+    "sourceSize": { "w": 184, "h": 68 },
+    "duration": 130
+   },
+   {
+    "filename": "Holiday Resort Button #Hover 55.aseprite",
+    "frame": { "x": 4232, "y": 0, "w": 184, "h": 68 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 184, "h": 68 },
+    "sourceSize": { "w": 184, "h": 68 },
+    "duration": 130
+   },
+   {
+    "filename": "Holiday Resort Button #Hover 56.aseprite",
+    "frame": { "x": 4232, "y": 0, "w": 184, "h": 68 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 184, "h": 68 },
+    "sourceSize": { "w": 184, "h": 68 },
+    "duration": 130
+   },
+   {
+    "filename": "Holiday Resort Button #Hover 57.aseprite",
+    "frame": { "x": 4232, "y": 0, "w": 184, "h": 68 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 184, "h": 68 },
+    "sourceSize": { "w": 184, "h": 68 },
+    "duration": 130
+   },
+   {
+    "filename": "Holiday Resort Button #Hover 58.aseprite",
+    "frame": { "x": 4232, "y": 0, "w": 184, "h": 68 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 184, "h": 68 },
+    "sourceSize": { "w": 184, "h": 68 },
+    "duration": 130
+   },
+   {
+    "filename": "Holiday Resort Button #Hover 59.aseprite",
+    "frame": { "x": 4232, "y": 0, "w": 184, "h": 68 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 184, "h": 68 },
+    "sourceSize": { "w": 184, "h": 68 },
+    "duration": 130
+   },
+   {
+    "filename": "Holiday Resort Button #Hover 60.aseprite",
+    "frame": { "x": 4232, "y": 0, "w": 184, "h": 68 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 184, "h": 68 },
+    "sourceSize": { "w": 184, "h": 68 },
+    "duration": 130
+   },
+   {
+    "filename": "Holiday Resort Button #Hover 61.aseprite",
+    "frame": { "x": 4232, "y": 0, "w": 184, "h": 68 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 184, "h": 68 },
+    "sourceSize": { "w": 184, "h": 68 },
+    "duration": 130
+   },
+   {
+    "filename": "Holiday Resort Button #Hover 62.aseprite",
+    "frame": { "x": 4232, "y": 0, "w": 184, "h": 68 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 184, "h": 68 },
+    "sourceSize": { "w": 184, "h": 68 },
+    "duration": 130
+   },
+   {
+    "filename": "Holiday Resort Button #Hover 63.aseprite",
+    "frame": { "x": 4232, "y": 0, "w": 184, "h": 68 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 184, "h": 68 },
+    "sourceSize": { "w": 184, "h": 68 },
+    "duration": 130
+   }
+ ],
+ "meta": {
+  "app": "https://www.aseprite.org/",
+  "version": "1.2.35-x64",
+  "image": "Right_Hover.png",
+  "format": "RGBA8888",
+  "size": { "w": 4416, "h": 68 },
+  "scale": "1",
+  "frameTags": [
+   { "name": "Default", "from": 0, "to": 63, "direction": "forward" },
+   { "name": "Hover", "from": 64, "to": 127, "direction": "forward" }
+  ],
+  "layers": [
+   { "name": "Person" },
+   { "name": "Body/jetski", "group": "Person", "opacity": 255, "blendMode": "normal" },
+   { "name": "Head", "group": "Person", "opacity": 255, "blendMode": "normal" },
+   { "name": "Arms", "group": "Person", "opacity": 255, "blendMode": "normal" },
+   { "name": "Ring - golf ball", "opacity": 255, "blendMode": "normal" },
+   { "name": "Split", "opacity": 255, "blendMode": "normal", "color": "#d186dfff" }
+  ],
+  "slices": [
+   { "name": "Right Side", "color": "#fe5b59ff", "keys": [{ "frame": 0, "bounds": {"x": 9895936, "y": -1669857248, "w": 229757421, "h": -1006616448 } }] }
+  ]
+ }
+}

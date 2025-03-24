@@ -1,0 +1,35 @@
+{
+"content" : [
+{
+"path" : "contents.json"
+},
+{
+"path" : "textures"
+},
+{
+"path" : "textures/ui"
+},
+{
+"path" : "manifest.json"
+},
+{
+"path" : "textures/ui/panorama_0.png"
+},
+{
+"path" : "textures/ui/panorama_1.png"
+},
+{
+"path" : "textures/ui/panorama_2.png"
+},
+{
+"path" : "textures/ui/panorama_3.png"
+},
+{
+"path" : "textures/ui/panorama_4.png"
+},
+{
+"path" : "textures/ui/panorama_5.png"
+}
+],
+"version" : 1
+}

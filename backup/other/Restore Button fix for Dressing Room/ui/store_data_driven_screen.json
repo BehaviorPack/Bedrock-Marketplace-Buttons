@@ -1,0 +1,52 @@
+{
+  "character_creator_screen@store_layout.character_creator_base_screen": {
+    "$sdl_screen_content": "store_layout.character_creator_screen_layout",
+    "$requires_restore_button": false
+  },
+
+  "dressing_room_color_picker_screen@store_layout.character_creator_screen": {
+    "$persona_dialog_content": "persona_sdl.color_picker_content_panel",
+    "$character_creator_right_side_content": "persona_sdl.color_picker_right_side_stack",
+    "$requires_restore_button": false
+  },
+
+  "expanded_appearance_view_screen@store_layout.character_creator_base_screen": {
+    "$sdl_screen_content": "persona_sdl.expanded_appearance_view",
+    "$requires_restore_button": false
+  },
+
+  "non_scrollable_sdl_screen@store_layout.sdl_base_screen": {
+    "$is_non_scrollable_sdl_screen": true,
+    "$ignore_search": "(not $is_persona_search_enabled)",
+    "$requires_restore_button": false
+  },
+  
+  "skin_selector_screen@store_layout.sdl_base_screen": {
+    "$sdl_screen_content": "store_layout.character_creator_screen_layout",
+    "$ignore_search": "(not $is_persona_search_enabled)",
+    "$requires_restore_button": false,
+    "bindings": [
+      {
+        "binding_name": "#register_as_dressing_room_scene",
+        "binding_type": "global"
+      }
+    ],
+    "$wallet_gamepad_helper_bindings": [
+      {
+        "binding_name": "(#gamepad_helper_visible and #x_bind_not_overriden)",
+        "binding_name_override": "#visible",
+        "binding_condition": "always"
+      }
+    ]
+  },
+  
+  "store_data_driven_modal_one_button_screen@store_layout.store_data_driven_screen_base": {
+    "$screen_content": "store_layout.store_screen_modal_panel",
+    "$header_safezone_control": "common.empty_panel",
+    "$header_bar_control": "common.empty_panel",
+    "$screen_background_control": "common_store.store_background",
+    "$is_full_screen_layout": false,
+    "force_render_below": true,
+    "$requires_restore_button": false
+  }
+}

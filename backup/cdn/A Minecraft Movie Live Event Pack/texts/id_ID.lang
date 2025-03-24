@@ -1,0 +1,26 @@
+﻿### Start Screen Buttons Countdown
+
+gathering.start_screen.countdown.button=Acara Film	###{MaxLength=19}This is a button that the player presses to start an event on the homescreen
+
+### Start Screen Buttons During
+
+gathering.start_screen.during.button=Putar Acara Film	###{MaxLength=19}This is a button that the player presses to start an event on the homescreen
+
+### PDP Buttons Countdown
+
+gathering.info.countdown.action_button=Baca Selengkapnya	###{MaxLength=30}The player presses this button to read more about the event.
+gathering.info.countdown.info_button=Info Film	###{MaxLength=30}The player presses this button to read more about the movie.
+
+### PDP Buttons During
+
+gathering.info.during.action_button=Main Sekarang!	###{MaxLength=30}Pressing this button allows the player to vote.
+gathering.info.during.info_button=Baca Selengkapnya	###{MaxLength=30}The player presses this button to read more about the event.
+
+### Client Outdated
+gathering.info.body.update=Perbarui ke versi terkini untuk mengakses Acara Siaran Langsung ini.	###{MaxLength=300}An updated version of Minecraft is required for the user to join this event
+gathering.info.button.update=Memerlukan Pembaruan	###{MaxLength=30}An updated version of Minecraft is required for the user to proceed
+
+### PDP
+gathering.info.header=Acara Siaran Langsung A Minecraft Movie	###{MaxLength=60}This is the name of the event. A Minecraft Movie is the name. Live Event is the type of event
+gathering.info.title=Acara Siaran Langsung A Minecraft Movie!	###{MaxLength=60}This is the name of the event. A Minecraft Movie is the name. Live Event is the type of event
+gathering.info.body=Gabung dengan Steve & rombongannya di Desa Midport untuk ikut bertahan melawan serbuan piglin!~LINEBREAK~~LINEBREAK~Masuk ke acara siaran langsung yang terus berkembang dan mainkan game agar perlengkapanmu makin hebat dan pertahanan Desa Midport makin kuat. Rampungkan tantangan untuk mendapat hadiah dan tuntaskan semuanya untuk mendapat Jubah Film!~LINEBREAK~~LINEBREAK~Acara Siaran Langsung A Minecraft Movie dimulai di sini pada 25 Maret, pukul 14.00 PT (26 Maret, pukul 04.00 WIB) sampai 7 April, pukul 14.00 PT (8 April, pukul 04.00 WIB).	###{MaxLength=1000}{StrContains=~LINEBREAK~}Midport is the name of the Village. piglin is a character in the Minecraft game. Movie Cape is the name of a reward the player can earn. The date and time should remain in Pacific Time.

@@ -1,0 +1,894 @@
+{ "frames": [
+   {
+    "filename": "MarketplaceTycoon #Default 0.aseprite",
+    "frame": { "x": 0, "y": 0, "w": 49, "h": 30 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 49, "h": 30 },
+    "sourceSize": { "w": 49, "h": 30 },
+    "duration": 100
+   },
+   {
+    "filename": "MarketplaceTycoon #Default 1.aseprite",
+    "frame": { "x": 49, "y": 0, "w": 49, "h": 30 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 49, "h": 30 },
+    "sourceSize": { "w": 49, "h": 30 },
+    "duration": 100
+   },
+   {
+    "filename": "MarketplaceTycoon #Default 2.aseprite",
+    "frame": { "x": 98, "y": 0, "w": 49, "h": 30 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 49, "h": 30 },
+    "sourceSize": { "w": 49, "h": 30 },
+    "duration": 100
+   },
+   {
+    "filename": "MarketplaceTycoon #Default 3.aseprite",
+    "frame": { "x": 147, "y": 0, "w": 49, "h": 30 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 49, "h": 30 },
+    "sourceSize": { "w": 49, "h": 30 },
+    "duration": 100
+   },
+   {
+    "filename": "MarketplaceTycoon #Default 4.aseprite",
+    "frame": { "x": 0, "y": 0, "w": 49, "h": 30 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 49, "h": 30 },
+    "sourceSize": { "w": 49, "h": 30 },
+    "duration": 100
+   },
+   {
+    "filename": "MarketplaceTycoon #Default 5.aseprite",
+    "frame": { "x": 49, "y": 0, "w": 49, "h": 30 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 49, "h": 30 },
+    "sourceSize": { "w": 49, "h": 30 },
+    "duration": 100
+   },
+   {
+    "filename": "MarketplaceTycoon #Default 6.aseprite",
+    "frame": { "x": 98, "y": 0, "w": 49, "h": 30 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 49, "h": 30 },
+    "sourceSize": { "w": 49, "h": 30 },
+    "duration": 100
+   },
+   {
+    "filename": "MarketplaceTycoon #Default 7.aseprite",
+    "frame": { "x": 147, "y": 0, "w": 49, "h": 30 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 49, "h": 30 },
+    "sourceSize": { "w": 49, "h": 30 },
+    "duration": 100
+   },
+   {
+    "filename": "MarketplaceTycoon #Default 8.aseprite",
+    "frame": { "x": 0, "y": 0, "w": 49, "h": 30 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 49, "h": 30 },
+    "sourceSize": { "w": 49, "h": 30 },
+    "duration": 100
+   },
+   {
+    "filename": "MarketplaceTycoon #Default 9.aseprite",
+    "frame": { "x": 49, "y": 0, "w": 49, "h": 30 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 49, "h": 30 },
+    "sourceSize": { "w": 49, "h": 30 },
+    "duration": 100
+   },
+   {
+    "filename": "MarketplaceTycoon #Default 10.aseprite",
+    "frame": { "x": 98, "y": 0, "w": 49, "h": 30 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 49, "h": 30 },
+    "sourceSize": { "w": 49, "h": 30 },
+    "duration": 100
+   },
+   {
+    "filename": "MarketplaceTycoon #Default 11.aseprite",
+    "frame": { "x": 147, "y": 0, "w": 49, "h": 30 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 49, "h": 30 },
+    "sourceSize": { "w": 49, "h": 30 },
+    "duration": 100
+   },
+   {
+    "filename": "MarketplaceTycoon #Default 12.aseprite",
+    "frame": { "x": 0, "y": 0, "w": 49, "h": 30 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 49, "h": 30 },
+    "sourceSize": { "w": 49, "h": 30 },
+    "duration": 100
+   },
+   {
+    "filename": "MarketplaceTycoon #Default 13.aseprite",
+    "frame": { "x": 49, "y": 0, "w": 49, "h": 30 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 49, "h": 30 },
+    "sourceSize": { "w": 49, "h": 30 },
+    "duration": 100
+   },
+   {
+    "filename": "MarketplaceTycoon #Default 14.aseprite",
+    "frame": { "x": 98, "y": 0, "w": 49, "h": 30 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 49, "h": 30 },
+    "sourceSize": { "w": 49, "h": 30 },
+    "duration": 100
+   },
+   {
+    "filename": "MarketplaceTycoon #Default 15.aseprite",
+    "frame": { "x": 147, "y": 0, "w": 49, "h": 30 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 49, "h": 30 },
+    "sourceSize": { "w": 49, "h": 30 },
+    "duration": 100
+   },
+   {
+    "filename": "MarketplaceTycoon #Default 16.aseprite",
+    "frame": { "x": 0, "y": 0, "w": 49, "h": 30 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 49, "h": 30 },
+    "sourceSize": { "w": 49, "h": 30 },
+    "duration": 100
+   },
+   {
+    "filename": "MarketplaceTycoon #Default 17.aseprite",
+    "frame": { "x": 49, "y": 0, "w": 49, "h": 30 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 49, "h": 30 },
+    "sourceSize": { "w": 49, "h": 30 },
+    "duration": 100
+   },
+   {
+    "filename": "MarketplaceTycoon #Default 18.aseprite",
+    "frame": { "x": 98, "y": 0, "w": 49, "h": 30 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 49, "h": 30 },
+    "sourceSize": { "w": 49, "h": 30 },
+    "duration": 100
+   },
+   {
+    "filename": "MarketplaceTycoon #Default 19.aseprite",
+    "frame": { "x": 147, "y": 0, "w": 49, "h": 30 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 49, "h": 30 },
+    "sourceSize": { "w": 49, "h": 30 },
+    "duration": 100
+   },
+   {
+    "filename": "MarketplaceTycoon #Default 20.aseprite",
+    "frame": { "x": 0, "y": 0, "w": 49, "h": 30 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 49, "h": 30 },
+    "sourceSize": { "w": 49, "h": 30 },
+    "duration": 100
+   },
+   {
+    "filename": "MarketplaceTycoon #Default 21.aseprite",
+    "frame": { "x": 49, "y": 0, "w": 49, "h": 30 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 49, "h": 30 },
+    "sourceSize": { "w": 49, "h": 30 },
+    "duration": 100
+   },
+   {
+    "filename": "MarketplaceTycoon #Default 22.aseprite",
+    "frame": { "x": 98, "y": 0, "w": 49, "h": 30 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 49, "h": 30 },
+    "sourceSize": { "w": 49, "h": 30 },
+    "duration": 100
+   },
+   {
+    "filename": "MarketplaceTycoon #Default 23.aseprite",
+    "frame": { "x": 147, "y": 0, "w": 49, "h": 30 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 49, "h": 30 },
+    "sourceSize": { "w": 49, "h": 30 },
+    "duration": 100
+   },
+   {
+    "filename": "MarketplaceTycoon #Default 24.aseprite",
+    "frame": { "x": 0, "y": 0, "w": 49, "h": 30 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 49, "h": 30 },
+    "sourceSize": { "w": 49, "h": 30 },
+    "duration": 100
+   },
+   {
+    "filename": "MarketplaceTycoon #Default 25.aseprite",
+    "frame": { "x": 49, "y": 0, "w": 49, "h": 30 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 49, "h": 30 },
+    "sourceSize": { "w": 49, "h": 30 },
+    "duration": 100
+   },
+   {
+    "filename": "MarketplaceTycoon #Default 26.aseprite",
+    "frame": { "x": 98, "y": 0, "w": 49, "h": 30 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 49, "h": 30 },
+    "sourceSize": { "w": 49, "h": 30 },
+    "duration": 100
+   },
+   {
+    "filename": "MarketplaceTycoon #Default 27.aseprite",
+    "frame": { "x": 147, "y": 0, "w": 49, "h": 30 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 49, "h": 30 },
+    "sourceSize": { "w": 49, "h": 30 },
+    "duration": 100
+   },
+   {
+    "filename": "MarketplaceTycoon #Default 28.aseprite",
+    "frame": { "x": 0, "y": 0, "w": 49, "h": 30 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 49, "h": 30 },
+    "sourceSize": { "w": 49, "h": 30 },
+    "duration": 100
+   },
+   {
+    "filename": "MarketplaceTycoon #Default 29.aseprite",
+    "frame": { "x": 49, "y": 0, "w": 49, "h": 30 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 49, "h": 30 },
+    "sourceSize": { "w": 49, "h": 30 },
+    "duration": 100
+   },
+   {
+    "filename": "MarketplaceTycoon #Default 30.aseprite",
+    "frame": { "x": 98, "y": 0, "w": 49, "h": 30 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 49, "h": 30 },
+    "sourceSize": { "w": 49, "h": 30 },
+    "duration": 100
+   },
+   {
+    "filename": "MarketplaceTycoon #Default 31.aseprite",
+    "frame": { "x": 147, "y": 0, "w": 49, "h": 30 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 49, "h": 30 },
+    "sourceSize": { "w": 49, "h": 30 },
+    "duration": 100
+   },
+   {
+    "filename": "MarketplaceTycoon #Default 32.aseprite",
+    "frame": { "x": 0, "y": 0, "w": 49, "h": 30 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 49, "h": 30 },
+    "sourceSize": { "w": 49, "h": 30 },
+    "duration": 100
+   },
+   {
+    "filename": "MarketplaceTycoon #Default 33.aseprite",
+    "frame": { "x": 49, "y": 0, "w": 49, "h": 30 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 49, "h": 30 },
+    "sourceSize": { "w": 49, "h": 30 },
+    "duration": 100
+   },
+   {
+    "filename": "MarketplaceTycoon #Default 34.aseprite",
+    "frame": { "x": 98, "y": 0, "w": 49, "h": 30 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 49, "h": 30 },
+    "sourceSize": { "w": 49, "h": 30 },
+    "duration": 100
+   },
+   {
+    "filename": "MarketplaceTycoon #Default 35.aseprite",
+    "frame": { "x": 147, "y": 0, "w": 49, "h": 30 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 49, "h": 30 },
+    "sourceSize": { "w": 49, "h": 30 },
+    "duration": 100
+   },
+   {
+    "filename": "MarketplaceTycoon #Default 36.aseprite",
+    "frame": { "x": 0, "y": 0, "w": 49, "h": 30 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 49, "h": 30 },
+    "sourceSize": { "w": 49, "h": 30 },
+    "duration": 100
+   },
+   {
+    "filename": "MarketplaceTycoon #Default 37.aseprite",
+    "frame": { "x": 49, "y": 0, "w": 49, "h": 30 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 49, "h": 30 },
+    "sourceSize": { "w": 49, "h": 30 },
+    "duration": 100
+   },
+   {
+    "filename": "MarketplaceTycoon #Default 38.aseprite",
+    "frame": { "x": 98, "y": 0, "w": 49, "h": 30 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 49, "h": 30 },
+    "sourceSize": { "w": 49, "h": 30 },
+    "duration": 100
+   },
+   {
+    "filename": "MarketplaceTycoon #Default 39.aseprite",
+    "frame": { "x": 147, "y": 0, "w": 49, "h": 30 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 49, "h": 30 },
+    "sourceSize": { "w": 49, "h": 30 },
+    "duration": 100
+   },
+   {
+    "filename": "MarketplaceTycoon #Default 40.aseprite",
+    "frame": { "x": 0, "y": 0, "w": 49, "h": 30 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 49, "h": 30 },
+    "sourceSize": { "w": 49, "h": 30 },
+    "duration": 100
+   },
+   {
+    "filename": "MarketplaceTycoon #Default 41.aseprite",
+    "frame": { "x": 49, "y": 0, "w": 49, "h": 30 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 49, "h": 30 },
+    "sourceSize": { "w": 49, "h": 30 },
+    "duration": 100
+   },
+   {
+    "filename": "MarketplaceTycoon #Default 42.aseprite",
+    "frame": { "x": 98, "y": 0, "w": 49, "h": 30 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 49, "h": 30 },
+    "sourceSize": { "w": 49, "h": 30 },
+    "duration": 100
+   },
+   {
+    "filename": "MarketplaceTycoon #Default 43.aseprite",
+    "frame": { "x": 147, "y": 0, "w": 49, "h": 30 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 49, "h": 30 },
+    "sourceSize": { "w": 49, "h": 30 },
+    "duration": 100
+   },
+   {
+    "filename": "MarketplaceTycoon #Default 44.aseprite",
+    "frame": { "x": 0, "y": 0, "w": 49, "h": 30 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 49, "h": 30 },
+    "sourceSize": { "w": 49, "h": 30 },
+    "duration": 100
+   },
+   {
+    "filename": "MarketplaceTycoon #Default 45.aseprite",
+    "frame": { "x": 49, "y": 0, "w": 49, "h": 30 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 49, "h": 30 },
+    "sourceSize": { "w": 49, "h": 30 },
+    "duration": 100
+   },
+   {
+    "filename": "MarketplaceTycoon #Default 46.aseprite",
+    "frame": { "x": 98, "y": 0, "w": 49, "h": 30 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 49, "h": 30 },
+    "sourceSize": { "w": 49, "h": 30 },
+    "duration": 100
+   },
+   {
+    "filename": "MarketplaceTycoon #Default 47.aseprite",
+    "frame": { "x": 147, "y": 0, "w": 49, "h": 30 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 49, "h": 30 },
+    "sourceSize": { "w": 49, "h": 30 },
+    "duration": 100
+   },
+   {
+    "filename": "MarketplaceTycoon #Default 48.aseprite",
+    "frame": { "x": 0, "y": 0, "w": 49, "h": 30 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 49, "h": 30 },
+    "sourceSize": { "w": 49, "h": 30 },
+    "duration": 100
+   },
+   {
+    "filename": "MarketplaceTycoon #Default 49.aseprite",
+    "frame": { "x": 49, "y": 0, "w": 49, "h": 30 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 49, "h": 30 },
+    "sourceSize": { "w": 49, "h": 30 },
+    "duration": 100
+   },
+   {
+    "filename": "MarketplaceTycoon #Default 50.aseprite",
+    "frame": { "x": 98, "y": 0, "w": 49, "h": 30 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 49, "h": 30 },
+    "sourceSize": { "w": 49, "h": 30 },
+    "duration": 100
+   },
+   {
+    "filename": "MarketplaceTycoon #Default 51.aseprite",
+    "frame": { "x": 147, "y": 0, "w": 49, "h": 30 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 49, "h": 30 },
+    "sourceSize": { "w": 49, "h": 30 },
+    "duration": 100
+   },
+   {
+    "filename": "MarketplaceTycoon #Default 52.aseprite",
+    "frame": { "x": 0, "y": 0, "w": 49, "h": 30 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 49, "h": 30 },
+    "sourceSize": { "w": 49, "h": 30 },
+    "duration": 100
+   },
+   {
+    "filename": "MarketplaceTycoon #Default 53.aseprite",
+    "frame": { "x": 49, "y": 0, "w": 49, "h": 30 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 49, "h": 30 },
+    "sourceSize": { "w": 49, "h": 30 },
+    "duration": 100
+   },
+   {
+    "filename": "MarketplaceTycoon #Default 54.aseprite",
+    "frame": { "x": 98, "y": 0, "w": 49, "h": 30 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 49, "h": 30 },
+    "sourceSize": { "w": 49, "h": 30 },
+    "duration": 100
+   },
+   {
+    "filename": "MarketplaceTycoon #Default 55.aseprite",
+    "frame": { "x": 147, "y": 0, "w": 49, "h": 30 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 49, "h": 30 },
+    "sourceSize": { "w": 49, "h": 30 },
+    "duration": 100
+   },
+   {
+    "filename": "MarketplaceTycoon #Default 56.aseprite",
+    "frame": { "x": 0, "y": 0, "w": 49, "h": 30 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 49, "h": 30 },
+    "sourceSize": { "w": 49, "h": 30 },
+    "duration": 100
+   },
+   {
+    "filename": "MarketplaceTycoon #Default 57.aseprite",
+    "frame": { "x": 49, "y": 0, "w": 49, "h": 30 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 49, "h": 30 },
+    "sourceSize": { "w": 49, "h": 30 },
+    "duration": 100
+   },
+   {
+    "filename": "MarketplaceTycoon #Default 58.aseprite",
+    "frame": { "x": 98, "y": 0, "w": 49, "h": 30 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 49, "h": 30 },
+    "sourceSize": { "w": 49, "h": 30 },
+    "duration": 100
+   },
+   {
+    "filename": "MarketplaceTycoon #Default 59.aseprite",
+    "frame": { "x": 147, "y": 0, "w": 49, "h": 30 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 49, "h": 30 },
+    "sourceSize": { "w": 49, "h": 30 },
+    "duration": 100
+   },
+   {
+    "filename": "MarketplaceTycoon #Default 60.aseprite",
+    "frame": { "x": 0, "y": 0, "w": 49, "h": 30 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 49, "h": 30 },
+    "sourceSize": { "w": 49, "h": 30 },
+    "duration": 100
+   },
+   {
+    "filename": "MarketplaceTycoon #Default 61.aseprite",
+    "frame": { "x": 49, "y": 0, "w": 49, "h": 30 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 49, "h": 30 },
+    "sourceSize": { "w": 49, "h": 30 },
+    "duration": 100
+   },
+   {
+    "filename": "MarketplaceTycoon #Default 62.aseprite",
+    "frame": { "x": 98, "y": 0, "w": 49, "h": 30 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 49, "h": 30 },
+    "sourceSize": { "w": 49, "h": 30 },
+    "duration": 100
+   },
+   {
+    "filename": "MarketplaceTycoon #Default 63.aseprite",
+    "frame": { "x": 147, "y": 0, "w": 49, "h": 30 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 49, "h": 30 },
+    "sourceSize": { "w": 49, "h": 30 },
+    "duration": 100
+   },
+   {
+    "filename": "MarketplaceTycoon #Default 64.aseprite",
+    "frame": { "x": 0, "y": 0, "w": 49, "h": 30 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 49, "h": 30 },
+    "sourceSize": { "w": 49, "h": 30 },
+    "duration": 100
+   },
+   {
+    "filename": "MarketplaceTycoon #Default 65.aseprite",
+    "frame": { "x": 49, "y": 0, "w": 49, "h": 30 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 49, "h": 30 },
+    "sourceSize": { "w": 49, "h": 30 },
+    "duration": 100
+   },
+   {
+    "filename": "MarketplaceTycoon #Default 66.aseprite",
+    "frame": { "x": 98, "y": 0, "w": 49, "h": 30 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 49, "h": 30 },
+    "sourceSize": { "w": 49, "h": 30 },
+    "duration": 100
+   },
+   {
+    "filename": "MarketplaceTycoon #Default 67.aseprite",
+    "frame": { "x": 147, "y": 0, "w": 49, "h": 30 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 49, "h": 30 },
+    "sourceSize": { "w": 49, "h": 30 },
+    "duration": 100
+   },
+   {
+    "filename": "MarketplaceTycoon #Default 68.aseprite",
+    "frame": { "x": 0, "y": 0, "w": 49, "h": 30 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 49, "h": 30 },
+    "sourceSize": { "w": 49, "h": 30 },
+    "duration": 100
+   },
+   {
+    "filename": "MarketplaceTycoon #Default 69.aseprite",
+    "frame": { "x": 49, "y": 0, "w": 49, "h": 30 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 49, "h": 30 },
+    "sourceSize": { "w": 49, "h": 30 },
+    "duration": 100
+   },
+   {
+    "filename": "MarketplaceTycoon #Default 70.aseprite",
+    "frame": { "x": 98, "y": 0, "w": 49, "h": 30 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 49, "h": 30 },
+    "sourceSize": { "w": 49, "h": 30 },
+    "duration": 100
+   },
+   {
+    "filename": "MarketplaceTycoon #Default 71.aseprite",
+    "frame": { "x": 147, "y": 0, "w": 49, "h": 30 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 49, "h": 30 },
+    "sourceSize": { "w": 49, "h": 30 },
+    "duration": 100
+   },
+   {
+    "filename": "MarketplaceTycoon #Default 72.aseprite",
+    "frame": { "x": 0, "y": 0, "w": 49, "h": 30 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 49, "h": 30 },
+    "sourceSize": { "w": 49, "h": 30 },
+    "duration": 100
+   },
+   {
+    "filename": "MarketplaceTycoon #Default 73.aseprite",
+    "frame": { "x": 49, "y": 0, "w": 49, "h": 30 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 49, "h": 30 },
+    "sourceSize": { "w": 49, "h": 30 },
+    "duration": 100
+   },
+   {
+    "filename": "MarketplaceTycoon #Default 74.aseprite",
+    "frame": { "x": 98, "y": 0, "w": 49, "h": 30 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 49, "h": 30 },
+    "sourceSize": { "w": 49, "h": 30 },
+    "duration": 100
+   },
+   {
+    "filename": "MarketplaceTycoon #Default 75.aseprite",
+    "frame": { "x": 147, "y": 0, "w": 49, "h": 30 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 49, "h": 30 },
+    "sourceSize": { "w": 49, "h": 30 },
+    "duration": 100
+   },
+   {
+    "filename": "MarketplaceTycoon #Default 76.aseprite",
+    "frame": { "x": 0, "y": 0, "w": 49, "h": 30 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 49, "h": 30 },
+    "sourceSize": { "w": 49, "h": 30 },
+    "duration": 100
+   },
+   {
+    "filename": "MarketplaceTycoon #Default 77.aseprite",
+    "frame": { "x": 49, "y": 0, "w": 49, "h": 30 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 49, "h": 30 },
+    "sourceSize": { "w": 49, "h": 30 },
+    "duration": 100
+   },
+   {
+    "filename": "MarketplaceTycoon #Default 78.aseprite",
+    "frame": { "x": 98, "y": 0, "w": 49, "h": 30 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 49, "h": 30 },
+    "sourceSize": { "w": 49, "h": 30 },
+    "duration": 100
+   },
+   {
+    "filename": "MarketplaceTycoon #Default 79.aseprite",
+    "frame": { "x": 147, "y": 0, "w": 49, "h": 30 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 49, "h": 30 },
+    "sourceSize": { "w": 49, "h": 30 },
+    "duration": 100
+   },
+   {
+    "filename": "MarketplaceTycoon #Default 80.aseprite",
+    "frame": { "x": 0, "y": 0, "w": 49, "h": 30 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 49, "h": 30 },
+    "sourceSize": { "w": 49, "h": 30 },
+    "duration": 100
+   },
+   {
+    "filename": "MarketplaceTycoon #Default 81.aseprite",
+    "frame": { "x": 49, "y": 0, "w": 49, "h": 30 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 49, "h": 30 },
+    "sourceSize": { "w": 49, "h": 30 },
+    "duration": 100
+   },
+   {
+    "filename": "MarketplaceTycoon #Default 82.aseprite",
+    "frame": { "x": 98, "y": 0, "w": 49, "h": 30 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 49, "h": 30 },
+    "sourceSize": { "w": 49, "h": 30 },
+    "duration": 100
+   },
+   {
+    "filename": "MarketplaceTycoon #Default 83.aseprite",
+    "frame": { "x": 147, "y": 0, "w": 49, "h": 30 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 49, "h": 30 },
+    "sourceSize": { "w": 49, "h": 30 },
+    "duration": 100
+   },
+   {
+    "filename": "MarketplaceTycoon #Default 84.aseprite",
+    "frame": { "x": 0, "y": 0, "w": 49, "h": 30 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 49, "h": 30 },
+    "sourceSize": { "w": 49, "h": 30 },
+    "duration": 100
+   },
+   {
+    "filename": "MarketplaceTycoon #Default 85.aseprite",
+    "frame": { "x": 49, "y": 0, "w": 49, "h": 30 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 49, "h": 30 },
+    "sourceSize": { "w": 49, "h": 30 },
+    "duration": 100
+   },
+   {
+    "filename": "MarketplaceTycoon #Default 86.aseprite",
+    "frame": { "x": 98, "y": 0, "w": 49, "h": 30 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 49, "h": 30 },
+    "sourceSize": { "w": 49, "h": 30 },
+    "duration": 100
+   },
+   {
+    "filename": "MarketplaceTycoon #Default 87.aseprite",
+    "frame": { "x": 147, "y": 0, "w": 49, "h": 30 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 49, "h": 30 },
+    "sourceSize": { "w": 49, "h": 30 },
+    "duration": 100
+   },
+   {
+    "filename": "MarketplaceTycoon #Default 88.aseprite",
+    "frame": { "x": 0, "y": 0, "w": 49, "h": 30 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 49, "h": 30 },
+    "sourceSize": { "w": 49, "h": 30 },
+    "duration": 100
+   },
+   {
+    "filename": "MarketplaceTycoon #Default 89.aseprite",
+    "frame": { "x": 49, "y": 0, "w": 49, "h": 30 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 49, "h": 30 },
+    "sourceSize": { "w": 49, "h": 30 },
+    "duration": 100
+   },
+   {
+    "filename": "MarketplaceTycoon #Default 90.aseprite",
+    "frame": { "x": 98, "y": 0, "w": 49, "h": 30 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 49, "h": 30 },
+    "sourceSize": { "w": 49, "h": 30 },
+    "duration": 100
+   },
+   {
+    "filename": "MarketplaceTycoon #Default 91.aseprite",
+    "frame": { "x": 147, "y": 0, "w": 49, "h": 30 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 49, "h": 30 },
+    "sourceSize": { "w": 49, "h": 30 },
+    "duration": 100
+   },
+   {
+    "filename": "MarketplaceTycoon #Default 92.aseprite",
+    "frame": { "x": 0, "y": 0, "w": 49, "h": 30 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 49, "h": 30 },
+    "sourceSize": { "w": 49, "h": 30 },
+    "duration": 100
+   },
+   {
+    "filename": "MarketplaceTycoon #Default 93.aseprite",
+    "frame": { "x": 49, "y": 0, "w": 49, "h": 30 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 49, "h": 30 },
+    "sourceSize": { "w": 49, "h": 30 },
+    "duration": 100
+   },
+   {
+    "filename": "MarketplaceTycoon #Default 94.aseprite",
+    "frame": { "x": 98, "y": 0, "w": 49, "h": 30 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 49, "h": 30 },
+    "sourceSize": { "w": 49, "h": 30 },
+    "duration": 100
+   },
+   {
+    "filename": "MarketplaceTycoon #Default 95.aseprite",
+    "frame": { "x": 147, "y": 0, "w": 49, "h": 30 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 49, "h": 30 },
+    "sourceSize": { "w": 49, "h": 30 },
+    "duration": 100
+   }
+ ],
+ "meta": {
+  "app": "https://www.aseprite.org/",
+  "version": "1.2.34.1-x64",
+  "image": "Computer.png",
+  "format": "RGBA8888",
+  "size": { "w": 196, "h": 30 },
+  "scale": "1",
+  "frameTags": [
+   { "name": "Default", "from": 0, "to": 95, "direction": "forward" },
+   { "name": "Typing", "from": 0, "to": 3, "direction": "forward" },
+   { "name": "Hover", "from": 96, "to": 117, "direction": "forward" }
+  ],
+  "layers": [
+   { "name": "Dream Player", "opacity": 255, "blendMode": "normal" },
+   { "name": "Dream Clouds", "opacity": 255, "blendMode": "normal" },
+   { "name": "Skin", "opacity": 255, "blendMode": "normal" },
+   { "name": "Hopper", "opacity": 255, "blendMode": "normal" },
+   { "name": "Particles", "opacity": 255, "blendMode": "normal" },
+   { "name": "Player", "opacity": 255, "blendMode": "normal" },
+   { "name": "Arms", "opacity": 255, "blendMode": "normal" },
+   { "name": "Computer", "opacity": 255, "blendMode": "normal" },
+   { "name": "Sale Banner", "opacity": 255, "blendMode": "normal" }
+  ],
+  "slices": [
+   { "name": "Right Side", "color": "#fe5b59ff", "keys": [{ "frame": 0, "bounds": {"x": 9895936, "y": -1669857248, "w": 229757421, "h": -1006616448 } }] }
+  ]
+ }
+}

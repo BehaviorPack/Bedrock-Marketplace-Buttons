@@ -1,0 +1,18 @@
+{
+    "format_version": 2,
+    "header": {
+      "description": "A Minecraft Movie Live Event Pack",
+      "name": "A Minecraft Movie Live Event Pack",
+      "uuid":"beef26ac-fba9-4514-87f2-3a8d9a553dc6",
+      "version": [0, 0, 5],
+      "min_engine_version": [1, 21, 0]
+     },
+    "modules": [
+      {
+        "description": "A Minecraft Movie Live Event Pack",
+        "type": "resources",
+        "uuid": "e4206d84-e507-4da6-99c6-7be0dd65f8a6",
+        "version": [1, 0, 0]
+      }
+    ]
+}

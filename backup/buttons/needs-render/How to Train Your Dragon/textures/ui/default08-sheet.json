@@ -1,0 +1,897 @@
+{ "frames": [
+   {
+    "filename": "How to Train Your Dragon_default bu 0.aseprite",
+    "frame": { "x": 0, "y": 0, "w": 44, "h": 72 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 40, "h": 68 },
+    "sourceSize": { "w": 40, "h": 68 },
+    "duration": 100
+   },
+   {
+    "filename": "How to Train Your Dragon_default bu 1.aseprite",
+    "frame": { "x": 44, "y": 0, "w": 44, "h": 72 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 40, "h": 68 },
+    "sourceSize": { "w": 40, "h": 68 },
+    "duration": 100
+   },
+   {
+    "filename": "How to Train Your Dragon_default bu 2.aseprite",
+    "frame": { "x": 88, "y": 0, "w": 44, "h": 72 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 40, "h": 68 },
+    "sourceSize": { "w": 40, "h": 68 },
+    "duration": 100
+   },
+   {
+    "filename": "How to Train Your Dragon_default bu 3.aseprite",
+    "frame": { "x": 132, "y": 0, "w": 44, "h": 72 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 40, "h": 68 },
+    "sourceSize": { "w": 40, "h": 68 },
+    "duration": 100
+   },
+   {
+    "filename": "How to Train Your Dragon_default bu 4.aseprite",
+    "frame": { "x": 176, "y": 0, "w": 44, "h": 72 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 40, "h": 68 },
+    "sourceSize": { "w": 40, "h": 68 },
+    "duration": 100
+   },
+   {
+    "filename": "How to Train Your Dragon_default bu 5.aseprite",
+    "frame": { "x": 220, "y": 0, "w": 44, "h": 72 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 40, "h": 68 },
+    "sourceSize": { "w": 40, "h": 68 },
+    "duration": 100
+   },
+   {
+    "filename": "How to Train Your Dragon_default bu 6.aseprite",
+    "frame": { "x": 264, "y": 0, "w": 44, "h": 72 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 40, "h": 68 },
+    "sourceSize": { "w": 40, "h": 68 },
+    "duration": 100
+   },
+   {
+    "filename": "How to Train Your Dragon_default bu 7.aseprite",
+    "frame": { "x": 308, "y": 0, "w": 44, "h": 72 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 40, "h": 68 },
+    "sourceSize": { "w": 40, "h": 68 },
+    "duration": 100
+   },
+   {
+    "filename": "How to Train Your Dragon_default bu 8.aseprite",
+    "frame": { "x": 264, "y": 0, "w": 44, "h": 72 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 40, "h": 68 },
+    "sourceSize": { "w": 40, "h": 68 },
+    "duration": 100
+   },
+   {
+    "filename": "How to Train Your Dragon_default bu 9.aseprite",
+    "frame": { "x": 352, "y": 0, "w": 44, "h": 72 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 40, "h": 68 },
+    "sourceSize": { "w": 40, "h": 68 },
+    "duration": 100
+   },
+   {
+    "filename": "How to Train Your Dragon_default bu 10.aseprite",
+    "frame": { "x": 264, "y": 0, "w": 44, "h": 72 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 40, "h": 68 },
+    "sourceSize": { "w": 40, "h": 68 },
+    "duration": 100
+   },
+   {
+    "filename": "How to Train Your Dragon_default bu 11.aseprite",
+    "frame": { "x": 352, "y": 0, "w": 44, "h": 72 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 40, "h": 68 },
+    "sourceSize": { "w": 40, "h": 68 },
+    "duration": 100
+   },
+   {
+    "filename": "How to Train Your Dragon_default bu 12.aseprite",
+    "frame": { "x": 264, "y": 0, "w": 44, "h": 72 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 40, "h": 68 },
+    "sourceSize": { "w": 40, "h": 68 },
+    "duration": 100
+   },
+   {
+    "filename": "How to Train Your Dragon_default bu 13.aseprite",
+    "frame": { "x": 352, "y": 0, "w": 44, "h": 72 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 40, "h": 68 },
+    "sourceSize": { "w": 40, "h": 68 },
+    "duration": 100
+   },
+   {
+    "filename": "How to Train Your Dragon_default bu 14.aseprite",
+    "frame": { "x": 264, "y": 0, "w": 44, "h": 72 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 40, "h": 68 },
+    "sourceSize": { "w": 40, "h": 68 },
+    "duration": 100
+   },
+   {
+    "filename": "How to Train Your Dragon_default bu 15.aseprite",
+    "frame": { "x": 352, "y": 0, "w": 44, "h": 72 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 40, "h": 68 },
+    "sourceSize": { "w": 40, "h": 68 },
+    "duration": 100
+   },
+   {
+    "filename": "How to Train Your Dragon_default bu 16.aseprite",
+    "frame": { "x": 264, "y": 0, "w": 44, "h": 72 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 40, "h": 68 },
+    "sourceSize": { "w": 40, "h": 68 },
+    "duration": 100
+   },
+   {
+    "filename": "How to Train Your Dragon_default bu 17.aseprite",
+    "frame": { "x": 352, "y": 0, "w": 44, "h": 72 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 40, "h": 68 },
+    "sourceSize": { "w": 40, "h": 68 },
+    "duration": 100
+   },
+   {
+    "filename": "How to Train Your Dragon_default bu 18.aseprite",
+    "frame": { "x": 396, "y": 0, "w": 44, "h": 72 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 40, "h": 68 },
+    "sourceSize": { "w": 40, "h": 68 },
+    "duration": 100
+   },
+   {
+    "filename": "How to Train Your Dragon_default bu 19.aseprite",
+    "frame": { "x": 440, "y": 0, "w": 44, "h": 72 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 40, "h": 68 },
+    "sourceSize": { "w": 40, "h": 68 },
+    "duration": 100
+   },
+   {
+    "filename": "How to Train Your Dragon_default bu 20.aseprite",
+    "frame": { "x": 484, "y": 0, "w": 44, "h": 72 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 40, "h": 68 },
+    "sourceSize": { "w": 40, "h": 68 },
+    "duration": 100
+   },
+   {
+    "filename": "How to Train Your Dragon_default bu 21.aseprite",
+    "frame": { "x": 528, "y": 0, "w": 44, "h": 72 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 40, "h": 68 },
+    "sourceSize": { "w": 40, "h": 68 },
+    "duration": 100
+   },
+   {
+    "filename": "How to Train Your Dragon_default bu 22.aseprite",
+    "frame": { "x": 528, "y": 0, "w": 44, "h": 72 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 40, "h": 68 },
+    "sourceSize": { "w": 40, "h": 68 },
+    "duration": 100
+   },
+   {
+    "filename": "How to Train Your Dragon_default bu 23.aseprite",
+    "frame": { "x": 528, "y": 0, "w": 44, "h": 72 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 40, "h": 68 },
+    "sourceSize": { "w": 40, "h": 68 },
+    "duration": 100
+   },
+   {
+    "filename": "How to Train Your Dragon_default bu 24.aseprite",
+    "frame": { "x": 528, "y": 0, "w": 44, "h": 72 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 40, "h": 68 },
+    "sourceSize": { "w": 40, "h": 68 },
+    "duration": 100
+   },
+   {
+    "filename": "How to Train Your Dragon_default bu 25.aseprite",
+    "frame": { "x": 528, "y": 0, "w": 44, "h": 72 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 40, "h": 68 },
+    "sourceSize": { "w": 40, "h": 68 },
+    "duration": 100
+   },
+   {
+    "filename": "How to Train Your Dragon_default bu 26.aseprite",
+    "frame": { "x": 528, "y": 0, "w": 44, "h": 72 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 40, "h": 68 },
+    "sourceSize": { "w": 40, "h": 68 },
+    "duration": 100
+   },
+   {
+    "filename": "How to Train Your Dragon_default bu 27.aseprite",
+    "frame": { "x": 528, "y": 0, "w": 44, "h": 72 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 40, "h": 68 },
+    "sourceSize": { "w": 40, "h": 68 },
+    "duration": 100
+   },
+   {
+    "filename": "How to Train Your Dragon_default bu 28.aseprite",
+    "frame": { "x": 528, "y": 0, "w": 44, "h": 72 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 40, "h": 68 },
+    "sourceSize": { "w": 40, "h": 68 },
+    "duration": 100
+   },
+   {
+    "filename": "How to Train Your Dragon_default bu 29.aseprite",
+    "frame": { "x": 528, "y": 0, "w": 44, "h": 72 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 40, "h": 68 },
+    "sourceSize": { "w": 40, "h": 68 },
+    "duration": 100
+   },
+   {
+    "filename": "How to Train Your Dragon_default bu 30.aseprite",
+    "frame": { "x": 528, "y": 0, "w": 44, "h": 72 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 40, "h": 68 },
+    "sourceSize": { "w": 40, "h": 68 },
+    "duration": 100
+   },
+   {
+    "filename": "How to Train Your Dragon_default bu 31.aseprite",
+    "frame": { "x": 528, "y": 0, "w": 44, "h": 72 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 40, "h": 68 },
+    "sourceSize": { "w": 40, "h": 68 },
+    "duration": 100
+   },
+   {
+    "filename": "How to Train Your Dragon_default bu 32.aseprite",
+    "frame": { "x": 528, "y": 0, "w": 44, "h": 72 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 40, "h": 68 },
+    "sourceSize": { "w": 40, "h": 68 },
+    "duration": 100
+   },
+   {
+    "filename": "How to Train Your Dragon_default bu 33.aseprite",
+    "frame": { "x": 528, "y": 0, "w": 44, "h": 72 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 40, "h": 68 },
+    "sourceSize": { "w": 40, "h": 68 },
+    "duration": 100
+   },
+   {
+    "filename": "How to Train Your Dragon_default bu 34.aseprite",
+    "frame": { "x": 528, "y": 0, "w": 44, "h": 72 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 40, "h": 68 },
+    "sourceSize": { "w": 40, "h": 68 },
+    "duration": 100
+   },
+   {
+    "filename": "How to Train Your Dragon_default bu 35.aseprite",
+    "frame": { "x": 528, "y": 0, "w": 44, "h": 72 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 40, "h": 68 },
+    "sourceSize": { "w": 40, "h": 68 },
+    "duration": 100
+   },
+   {
+    "filename": "How to Train Your Dragon_default bu 36.aseprite",
+    "frame": { "x": 528, "y": 0, "w": 44, "h": 72 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 40, "h": 68 },
+    "sourceSize": { "w": 40, "h": 68 },
+    "duration": 100
+   },
+   {
+    "filename": "How to Train Your Dragon_default bu 37.aseprite",
+    "frame": { "x": 528, "y": 0, "w": 44, "h": 72 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 40, "h": 68 },
+    "sourceSize": { "w": 40, "h": 68 },
+    "duration": 100
+   },
+   {
+    "filename": "How to Train Your Dragon_default bu 38.aseprite",
+    "frame": { "x": 528, "y": 0, "w": 44, "h": 72 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 40, "h": 68 },
+    "sourceSize": { "w": 40, "h": 68 },
+    "duration": 100
+   },
+   {
+    "filename": "How to Train Your Dragon_default bu 39.aseprite",
+    "frame": { "x": 528, "y": 0, "w": 44, "h": 72 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 40, "h": 68 },
+    "sourceSize": { "w": 40, "h": 68 },
+    "duration": 100
+   },
+   {
+    "filename": "How to Train Your Dragon_default bu 40.aseprite",
+    "frame": { "x": 528, "y": 0, "w": 44, "h": 72 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 40, "h": 68 },
+    "sourceSize": { "w": 40, "h": 68 },
+    "duration": 100
+   },
+   {
+    "filename": "How to Train Your Dragon_default bu 41.aseprite",
+    "frame": { "x": 528, "y": 0, "w": 44, "h": 72 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 40, "h": 68 },
+    "sourceSize": { "w": 40, "h": 68 },
+    "duration": 100
+   },
+   {
+    "filename": "How to Train Your Dragon_default bu 42.aseprite",
+    "frame": { "x": 528, "y": 0, "w": 44, "h": 72 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 40, "h": 68 },
+    "sourceSize": { "w": 40, "h": 68 },
+    "duration": 100
+   },
+   {
+    "filename": "How to Train Your Dragon_default bu 43.aseprite",
+    "frame": { "x": 528, "y": 0, "w": 44, "h": 72 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 40, "h": 68 },
+    "sourceSize": { "w": 40, "h": 68 },
+    "duration": 100
+   },
+   {
+    "filename": "How to Train Your Dragon_default bu 44.aseprite",
+    "frame": { "x": 528, "y": 0, "w": 44, "h": 72 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 40, "h": 68 },
+    "sourceSize": { "w": 40, "h": 68 },
+    "duration": 100
+   },
+   {
+    "filename": "How to Train Your Dragon_default bu 45.aseprite",
+    "frame": { "x": 528, "y": 0, "w": 44, "h": 72 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 40, "h": 68 },
+    "sourceSize": { "w": 40, "h": 68 },
+    "duration": 100
+   },
+   {
+    "filename": "How to Train Your Dragon_default bu 46.aseprite",
+    "frame": { "x": 528, "y": 0, "w": 44, "h": 72 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 40, "h": 68 },
+    "sourceSize": { "w": 40, "h": 68 },
+    "duration": 100
+   },
+   {
+    "filename": "How to Train Your Dragon_default bu 47.aseprite",
+    "frame": { "x": 528, "y": 0, "w": 44, "h": 72 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 40, "h": 68 },
+    "sourceSize": { "w": 40, "h": 68 },
+    "duration": 100
+   },
+   {
+    "filename": "How to Train Your Dragon_default bu 48.aseprite",
+    "frame": { "x": 528, "y": 0, "w": 44, "h": 72 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 40, "h": 68 },
+    "sourceSize": { "w": 40, "h": 68 },
+    "duration": 100
+   },
+   {
+    "filename": "How to Train Your Dragon_default bu 49.aseprite",
+    "frame": { "x": 528, "y": 0, "w": 44, "h": 72 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 40, "h": 68 },
+    "sourceSize": { "w": 40, "h": 68 },
+    "duration": 100
+   },
+   {
+    "filename": "How to Train Your Dragon_default bu 50.aseprite",
+    "frame": { "x": 528, "y": 0, "w": 44, "h": 72 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 40, "h": 68 },
+    "sourceSize": { "w": 40, "h": 68 },
+    "duration": 100
+   },
+   {
+    "filename": "How to Train Your Dragon_default bu 51.aseprite",
+    "frame": { "x": 528, "y": 0, "w": 44, "h": 72 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 40, "h": 68 },
+    "sourceSize": { "w": 40, "h": 68 },
+    "duration": 100
+   },
+   {
+    "filename": "How to Train Your Dragon_default bu 52.aseprite",
+    "frame": { "x": 528, "y": 0, "w": 44, "h": 72 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 40, "h": 68 },
+    "sourceSize": { "w": 40, "h": 68 },
+    "duration": 100
+   },
+   {
+    "filename": "How to Train Your Dragon_default bu 53.aseprite",
+    "frame": { "x": 528, "y": 0, "w": 44, "h": 72 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 40, "h": 68 },
+    "sourceSize": { "w": 40, "h": 68 },
+    "duration": 100
+   },
+   {
+    "filename": "How to Train Your Dragon_default bu 54.aseprite",
+    "frame": { "x": 528, "y": 0, "w": 44, "h": 72 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 40, "h": 68 },
+    "sourceSize": { "w": 40, "h": 68 },
+    "duration": 100
+   },
+   {
+    "filename": "How to Train Your Dragon_default bu 55.aseprite",
+    "frame": { "x": 528, "y": 0, "w": 44, "h": 72 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 40, "h": 68 },
+    "sourceSize": { "w": 40, "h": 68 },
+    "duration": 100
+   },
+   {
+    "filename": "How to Train Your Dragon_default bu 56.aseprite",
+    "frame": { "x": 528, "y": 0, "w": 44, "h": 72 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 40, "h": 68 },
+    "sourceSize": { "w": 40, "h": 68 },
+    "duration": 100
+   },
+   {
+    "filename": "How to Train Your Dragon_default bu 57.aseprite",
+    "frame": { "x": 528, "y": 0, "w": 44, "h": 72 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 40, "h": 68 },
+    "sourceSize": { "w": 40, "h": 68 },
+    "duration": 100
+   },
+   {
+    "filename": "How to Train Your Dragon_default bu 58.aseprite",
+    "frame": { "x": 528, "y": 0, "w": 44, "h": 72 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 40, "h": 68 },
+    "sourceSize": { "w": 40, "h": 68 },
+    "duration": 100
+   },
+   {
+    "filename": "How to Train Your Dragon_default bu 59.aseprite",
+    "frame": { "x": 528, "y": 0, "w": 44, "h": 72 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 40, "h": 68 },
+    "sourceSize": { "w": 40, "h": 68 },
+    "duration": 100
+   },
+   {
+    "filename": "How to Train Your Dragon_default bu 60.aseprite",
+    "frame": { "x": 528, "y": 0, "w": 44, "h": 72 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 40, "h": 68 },
+    "sourceSize": { "w": 40, "h": 68 },
+    "duration": 100
+   },
+   {
+    "filename": "How to Train Your Dragon_default bu 61.aseprite",
+    "frame": { "x": 528, "y": 0, "w": 44, "h": 72 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 40, "h": 68 },
+    "sourceSize": { "w": 40, "h": 68 },
+    "duration": 100
+   },
+   {
+    "filename": "How to Train Your Dragon_default bu 62.aseprite",
+    "frame": { "x": 528, "y": 0, "w": 44, "h": 72 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 40, "h": 68 },
+    "sourceSize": { "w": 40, "h": 68 },
+    "duration": 100
+   },
+   {
+    "filename": "How to Train Your Dragon_default bu 63.aseprite",
+    "frame": { "x": 528, "y": 0, "w": 44, "h": 72 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 40, "h": 68 },
+    "sourceSize": { "w": 40, "h": 68 },
+    "duration": 100
+   },
+   {
+    "filename": "How to Train Your Dragon_default bu 64.aseprite",
+    "frame": { "x": 528, "y": 0, "w": 44, "h": 72 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 40, "h": 68 },
+    "sourceSize": { "w": 40, "h": 68 },
+    "duration": 100
+   },
+   {
+    "filename": "How to Train Your Dragon_default bu 65.aseprite",
+    "frame": { "x": 528, "y": 0, "w": 44, "h": 72 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 40, "h": 68 },
+    "sourceSize": { "w": 40, "h": 68 },
+    "duration": 100
+   },
+   {
+    "filename": "How to Train Your Dragon_default bu 66.aseprite",
+    "frame": { "x": 528, "y": 0, "w": 44, "h": 72 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 40, "h": 68 },
+    "sourceSize": { "w": 40, "h": 68 },
+    "duration": 100
+   },
+   {
+    "filename": "How to Train Your Dragon_default bu 67.aseprite",
+    "frame": { "x": 528, "y": 0, "w": 44, "h": 72 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 40, "h": 68 },
+    "sourceSize": { "w": 40, "h": 68 },
+    "duration": 100
+   },
+   {
+    "filename": "How to Train Your Dragon_default bu 68.aseprite",
+    "frame": { "x": 528, "y": 0, "w": 44, "h": 72 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 40, "h": 68 },
+    "sourceSize": { "w": 40, "h": 68 },
+    "duration": 100
+   },
+   {
+    "filename": "How to Train Your Dragon_default bu 69.aseprite",
+    "frame": { "x": 528, "y": 0, "w": 44, "h": 72 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 40, "h": 68 },
+    "sourceSize": { "w": 40, "h": 68 },
+    "duration": 100
+   },
+   {
+    "filename": "How to Train Your Dragon_default bu 70.aseprite",
+    "frame": { "x": 528, "y": 0, "w": 44, "h": 72 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 40, "h": 68 },
+    "sourceSize": { "w": 40, "h": 68 },
+    "duration": 100
+   },
+   {
+    "filename": "How to Train Your Dragon_default bu 71.aseprite",
+    "frame": { "x": 528, "y": 0, "w": 44, "h": 72 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 40, "h": 68 },
+    "sourceSize": { "w": 40, "h": 68 },
+    "duration": 100
+   },
+   {
+    "filename": "How to Train Your Dragon_default bu 72.aseprite",
+    "frame": { "x": 528, "y": 0, "w": 44, "h": 72 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 40, "h": 68 },
+    "sourceSize": { "w": 40, "h": 68 },
+    "duration": 100
+   },
+   {
+    "filename": "How to Train Your Dragon_default bu 73.aseprite",
+    "frame": { "x": 528, "y": 0, "w": 44, "h": 72 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 40, "h": 68 },
+    "sourceSize": { "w": 40, "h": 68 },
+    "duration": 100
+   },
+   {
+    "filename": "How to Train Your Dragon_default bu 74.aseprite",
+    "frame": { "x": 528, "y": 0, "w": 44, "h": 72 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 40, "h": 68 },
+    "sourceSize": { "w": 40, "h": 68 },
+    "duration": 100
+   },
+   {
+    "filename": "How to Train Your Dragon_default bu 75.aseprite",
+    "frame": { "x": 528, "y": 0, "w": 44, "h": 72 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 40, "h": 68 },
+    "sourceSize": { "w": 40, "h": 68 },
+    "duration": 100
+   },
+   {
+    "filename": "How to Train Your Dragon_default bu 76.aseprite",
+    "frame": { "x": 528, "y": 0, "w": 44, "h": 72 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 40, "h": 68 },
+    "sourceSize": { "w": 40, "h": 68 },
+    "duration": 100
+   },
+   {
+    "filename": "How to Train Your Dragon_default bu 77.aseprite",
+    "frame": { "x": 528, "y": 0, "w": 44, "h": 72 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 40, "h": 68 },
+    "sourceSize": { "w": 40, "h": 68 },
+    "duration": 100
+   },
+   {
+    "filename": "How to Train Your Dragon_default bu 78.aseprite",
+    "frame": { "x": 528, "y": 0, "w": 44, "h": 72 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 40, "h": 68 },
+    "sourceSize": { "w": 40, "h": 68 },
+    "duration": 100
+   },
+   {
+    "filename": "How to Train Your Dragon_default bu 79.aseprite",
+    "frame": { "x": 528, "y": 0, "w": 44, "h": 72 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 40, "h": 68 },
+    "sourceSize": { "w": 40, "h": 68 },
+    "duration": 100
+   },
+   {
+    "filename": "How to Train Your Dragon_default bu 80.aseprite",
+    "frame": { "x": 528, "y": 0, "w": 44, "h": 72 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 40, "h": 68 },
+    "sourceSize": { "w": 40, "h": 68 },
+    "duration": 100
+   },
+   {
+    "filename": "How to Train Your Dragon_default bu 81.aseprite",
+    "frame": { "x": 528, "y": 0, "w": 44, "h": 72 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 40, "h": 68 },
+    "sourceSize": { "w": 40, "h": 68 },
+    "duration": 100
+   },
+   {
+    "filename": "How to Train Your Dragon_default bu 82.aseprite",
+    "frame": { "x": 528, "y": 0, "w": 44, "h": 72 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 40, "h": 68 },
+    "sourceSize": { "w": 40, "h": 68 },
+    "duration": 100
+   },
+   {
+    "filename": "How to Train Your Dragon_default bu 83.aseprite",
+    "frame": { "x": 528, "y": 0, "w": 44, "h": 72 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 40, "h": 68 },
+    "sourceSize": { "w": 40, "h": 68 },
+    "duration": 100
+   },
+   {
+    "filename": "How to Train Your Dragon_default bu 84.aseprite",
+    "frame": { "x": 528, "y": 0, "w": 44, "h": 72 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 40, "h": 68 },
+    "sourceSize": { "w": 40, "h": 68 },
+    "duration": 100
+   },
+   {
+    "filename": "How to Train Your Dragon_default bu 85.aseprite",
+    "frame": { "x": 528, "y": 0, "w": 44, "h": 72 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 40, "h": 68 },
+    "sourceSize": { "w": 40, "h": 68 },
+    "duration": 100
+   },
+   {
+    "filename": "How to Train Your Dragon_default bu 86.aseprite",
+    "frame": { "x": 528, "y": 0, "w": 44, "h": 72 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 40, "h": 68 },
+    "sourceSize": { "w": 40, "h": 68 },
+    "duration": 100
+   },
+   {
+    "filename": "How to Train Your Dragon_default bu 87.aseprite",
+    "frame": { "x": 528, "y": 0, "w": 44, "h": 72 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 40, "h": 68 },
+    "sourceSize": { "w": 40, "h": 68 },
+    "duration": 100
+   },
+   {
+    "filename": "How to Train Your Dragon_default bu 88.aseprite",
+    "frame": { "x": 528, "y": 0, "w": 44, "h": 72 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 40, "h": 68 },
+    "sourceSize": { "w": 40, "h": 68 },
+    "duration": 100
+   },
+   {
+    "filename": "How to Train Your Dragon_default bu 89.aseprite",
+    "frame": { "x": 528, "y": 0, "w": 44, "h": 72 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 40, "h": 68 },
+    "sourceSize": { "w": 40, "h": 68 },
+    "duration": 100
+   },
+   {
+    "filename": "How to Train Your Dragon_default bu 90.aseprite",
+    "frame": { "x": 528, "y": 0, "w": 44, "h": 72 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 40, "h": 68 },
+    "sourceSize": { "w": 40, "h": 68 },
+    "duration": 100
+   },
+   {
+    "filename": "How to Train Your Dragon_default bu 91.aseprite",
+    "frame": { "x": 528, "y": 0, "w": 44, "h": 72 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 40, "h": 68 },
+    "sourceSize": { "w": 40, "h": 68 },
+    "duration": 100
+   },
+   {
+    "filename": "How to Train Your Dragon_default bu 92.aseprite",
+    "frame": { "x": 528, "y": 0, "w": 44, "h": 72 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 40, "h": 68 },
+    "sourceSize": { "w": 40, "h": 68 },
+    "duration": 100
+   },
+   {
+    "filename": "How to Train Your Dragon_default bu 93.aseprite",
+    "frame": { "x": 528, "y": 0, "w": 44, "h": 72 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 40, "h": 68 },
+    "sourceSize": { "w": 40, "h": 68 },
+    "duration": 100
+   },
+   {
+    "filename": "How to Train Your Dragon_default bu 94.aseprite",
+    "frame": { "x": 528, "y": 0, "w": 44, "h": 72 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 40, "h": 68 },
+    "sourceSize": { "w": 40, "h": 68 },
+    "duration": 100
+   }
+ ],
+ "meta": {
+  "app": "http://www.aseprite.org/",
+  "version": "1.2.27-x64",
+  "image": "default08-sheet.png",
+  "format": "RGBA8888",
+  "size": { "w": 572, "h": 72 },
+  "scale": "1",
+  "frameTags": [
+  ],
+  "layers": [
+   { "name": "shadow", "opacity": 255, "blendMode": "normal" },
+   { "name": "meatlug tail 2", "opacity": 255, "blendMode": "normal" },
+   { "name": "meatlug tail", "opacity": 255, "blendMode": "normal" },
+   { "name": "meatlug leg 2", "opacity": 255, "blendMode": "normal" },
+   { "name": "meatlug arm 2", "opacity": 255, "blendMode": "normal" },
+   { "name": "meatlug wing 2", "opacity": 255, "blendMode": "normal" },
+   { "name": "meatlug body", "opacity": 255, "blendMode": "normal" },
+   { "name": "meatlug wing 1", "opacity": 255, "blendMode": "normal" },
+   { "name": "meatlug leg 1", "opacity": 255, "blendMode": "normal" },
+   { "name": "meatlug arm 1", "opacity": 255, "blendMode": "normal" },
+   { "name": "meatlug head", "opacity": 255, "blendMode": "normal" },
+   { "name": "toothless wing", "opacity": 255, "blendMode": "normal" },
+   { "name": "hiccup arm 2", "opacity": 255, "blendMode": "normal" },
+   { "name": "hiccup leg 2", "opacity": 255, "blendMode": "normal" },
+   { "name": "toothless neck", "opacity": 255, "blendMode": "normal" },
+   { "name": "dust Copy", "opacity": 255, "blendMode": "normal" },
+   { "name": "dust", "opacity": 255, "blendMode": "normal" },
+   { "name": "hiccup body", "opacity": 255, "blendMode": "normal" },
+   { "name": "hiccup leg 1", "opacity": 255, "blendMode": "normal" },
+   { "name": "hiccup head", "opacity": 255, "blendMode": "normal" },
+   { "name": "toothless head", "opacity": 255, "blendMode": "normal" },
+   { "name": "toothless tail", "opacity": 255, "blendMode": "normal" },
+   { "name": "hiccup arm 1", "opacity": 255, "blendMode": "normal" },
+   { "name": "mask", "opacity": 255, "blendMode": "normal" },
+   { "name": "mask_blue", "opacity": 255, "blendMode": "normal" }
+  ],
+  "slices": [
+  ]
+ }
+}

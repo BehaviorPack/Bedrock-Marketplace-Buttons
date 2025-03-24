@@ -1,0 +1,47 @@
+{ "frames": [
+   {
+    "filename": "0.aseprite",
+    "frame": { "x": 0, "y": 0, "w": 94, "h": 60 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 94, "h": 60 },
+    "sourceSize": { "w": 94, "h": 60 },
+    "duration": 120
+   },
+   {
+    "filename": "1.aseprite",
+    "frame": { "x": 94, "y": 0, "w": 94, "h": 60 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 94, "h": 60 },
+    "sourceSize": { "w": 94, "h": 60 },
+    "duration": 120
+   },
+   {
+    "filename": "2.aseprite",
+    "frame": { "x": 188, "y": 0, "w": 94, "h": 60 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 94, "h": 60 },
+    "sourceSize": { "w": 94, "h": 60 },
+    "duration": 120
+   },
+   {
+    "filename": "3.aseprite",
+    "frame": { "x": 282, "y": 0, "w": 94, "h": 60 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 94, "h": 60 },
+    "sourceSize": { "w": 94, "h": 60 },
+    "duration": 120
+   }
+ ],
+ "meta": {
+  "app": "http://www.aseprite.org/",
+  "version": "1.2.29-x64",
+  "image": "Truck.png",
+  "format": "RGBA8888",
+  "size": { "w": 376, "h": 60 },
+  "scale": "1"
+ }
+}

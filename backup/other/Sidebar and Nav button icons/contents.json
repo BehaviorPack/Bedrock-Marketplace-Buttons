@@ -1,0 +1,107 @@
+{
+   "content" : [
+      {
+         "path" : "contents.json"
+      },
+      {
+         "path" : "manifest.json"
+      },
+      {
+         "path" : "textures/ui/icons/icon_adventuretime.png"
+      },
+      {
+         "path" : "textures/ui/icons/icon_angrybirds.png"
+      },
+      {
+         "path" : "textures/ui/icons/icon_batman.png"
+      },
+      {
+         "path" : "textures/ui/icons/icon_ben10.png"
+      },
+      {
+         "path" : "textures/ui/icons/icon_best.png"
+      },
+      {
+         "path" : "textures/ui/icons/icon_blackfriday.png"
+      },
+      {
+         "path" : "textures/ui/icons/icon_deals.png"
+      },
+      {
+         "path" : "textures/ui/icons/icon_fall.png"
+      },
+      {
+         "path" : "textures/ui/icons/icon_frozen.png"
+      },
+      {
+         "path" : "textures/ui/icons/icon_httyd.png"
+      },
+      {
+         "path" : "textures/ui/icons/icon_iceage.png"
+      },
+      {
+         "path" : "textures/ui/icons/icon_jurassic.png"
+      },
+      {
+         "path" : "textures/ui/icons/icon_lightyear.png"
+      },
+      {
+         "path" : "textures/ui/icons/icon_mashupbrush.png"
+      },
+      {
+         "path" : "textures/ui/icons/icon_mashuphanger.png"
+      },
+      {
+         "path" : "textures/ui/icons/icon_mashupworld.png"
+      },
+      {
+         "path" : "textures/ui/icons/icon_minions.png"
+      },
+      {
+         "path" : "textures/ui/icons/icon_multiplayer.png"
+      },
+      {
+         "path" : "textures/ui/icons/icon_new.png"
+      },
+      {
+         "path" : "textures/ui/icons/icon_nightmarebeforechristmas.png"
+      },
+      {
+         "path" : "textures/ui/icons/icon_piratesofthecaribbean.png"
+      },
+      {
+         "path" : "textures/ui/icons/icon_sonic.png"
+      },
+      {
+         "path" : "textures/ui/icons/icon_spongebobsquarepants.png"
+      },
+      {
+         "path" : "textures/ui/icons/icon_spring.png"
+      },
+      {
+         "path" : "textures/ui/icons/icon_staffpicks.png"
+      },
+      {
+         "path" : "textures/ui/icons/icon_starwars.png"
+      },
+      {
+         "path" : "textures/ui/icons/icon_summer.png"
+      },
+      {
+         "path" : "textures/ui/icons/icon_toystory.png"
+      },
+      {
+         "path" : "textures/ui/icons/icon_trailer.png"
+      },
+      {
+         "path" : "textures/ui/icons/icon_trending.png"
+      },
+      {
+         "path" : "textures/ui/icons/icon_wdwmagickingdomadventure.png"
+      },
+      {
+         "path" : "textures/ui/icons/icon_winter.png"
+      }
+   ],
+   "version" : 1
+}
