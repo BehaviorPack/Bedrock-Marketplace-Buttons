@@ -1,1 +1,1 @@
-{"format_version":2,"header":{"name":"Movie button","description":"https://github.com/BehaviorPack/Bedrock-Marketplace-Buttons","uuid":"ce345bb1-2b91-48c6-80aa-3a7a4001fe51","version":[1,0,1],"min_engine_version":[1,16,0]},"modules":[{"type":"resources","uuid":"05d114f7-c047-44b4-ba99-e2f0dc6b75b0","version":[1,0,1]}]}
+{"format_version":2,"header":{"name":"Movie button","uuid":"ce345bb1-2b91-48c6-80aa-3a7a4001fe51","version":[1,0,1],"min_engine_version":[1,16,0]},"modules":[{"type":"resources","uuid":"05d114f7-c047-44b4-ba99-e2f0dc6b75b0","version":[1,0,1]}]}

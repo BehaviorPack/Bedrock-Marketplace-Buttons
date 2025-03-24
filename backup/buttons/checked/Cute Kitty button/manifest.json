@@ -1,7 +1,7 @@
 {
   "format_version": 2,
   "header": {
-    "name": "Cute Kitty button","description":"https://github.com/BehaviorPack/Bedrock-Marketplace-Buttons",
+    "name": "Cute Kitty button",
     "uuid": "c23adf94-6f1e-47ca-a702-01cef51a8440",
     "version": [1, 0, 1],
     "min_engine_version": [1, 16, 0]
