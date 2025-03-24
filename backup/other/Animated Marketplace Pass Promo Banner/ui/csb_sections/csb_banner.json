@@ -1,0 +1,149 @@
+{
+  "namespace": "csb_banner",
+
+  "csb_banner": {
+    "type": "panel",
+    "size": [ "100% -8px", "100%cm + 8px" ],
+    "controls": [
+      {
+        "button@csb_banner.promo_banner_csb_button": {
+          "offset": [ "4px", 0 ]
+        }
+      }
+    ]
+  },
+
+  "promo_banner_csb_button@common.button": {
+    "size": [ "100%", "8.08%x" ],
+    "hover_control": "hover",
+    "pressed_control": "",
+    "default_control": "default",
+    "$pressed_button_name": "button.promotion_page",
+    "controls": [
+      {
+        "default@csb_banner.csb_banner_content": {
+          "$banner_texture": "textures/ui/CSB_Banner_Default_396x32_Spritesheet"
+        }
+      },
+      {
+        "hover@csb_banner.csb_banner_content": {
+          "$banner_texture": "textures/ui/CSB_Banner_Hover_396x32_Spritesheet"
+        }
+      }
+    ]
+  },
+
+  "csb_banner_content": {
+    "type": "panel",
+    "size": [ "100%", "100%" ],
+    "controls": [
+      {
+        "banner": {
+          "type": "image",
+          "layer": 1,
+          "size": [ "100%", "100%" ],
+          "texture": "$banner_texture",
+          "uv_size": [ 396, 32 ],
+          "uv": "@csb_banner.csb_banner_animation",
+          "keep_ratio": true,
+          "disable_anim_fast_forward": true
+        }
+      },
+      {
+        "text": {
+          "type": "stack_panel",
+          "orientation": "horizontal",
+          "size": [ "100% - 8px", "100%" ],
+          "layer": 1,
+          "controls": [
+            {
+              "logo_panel": {
+                "type": "panel",
+                "size": [ 125, "100%" ],
+                "controls": [
+                  {
+                    "logo@common_csb.csb_header": {
+                      "$font_scale_factor": 1.4,
+                      "$font_size": "medium",
+                      "offset": [ 0, -2 ]
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "offer_panel": {
+                "type": "panel",
+                "size": [ "fill", "100%" ],
+                "controls": [
+                  {
+                    "offer": {
+                      "type": "label",
+                      "size": [ "95%", "default" ],
+                      "anchor_from": "center",
+                      "anchor_to": "center",
+                      "color": "$store_white_text_color",
+                      "font_scale_factor": 0.9,
+                      "text": "store.csb.banner.offer"
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "learn_more_panel": {
+                "type": "panel",
+                "size": [ "100%c", "100%" ],
+                "anchor_from": "right_middle",
+                "anchor_to": "right_middle",
+                "controls": [
+                  {
+                    "learn_more": {
+                      "type": "stack_panel",
+                      "orientation": "horizontal",
+                      "anchor_from": "right_middle",
+                      "anchor_to": "right_middle",
+                      "size": [ "100%c", "100%cm" ],
+                      "controls": [
+                        {
+                          "more": {
+                            "type": "label",
+                            "anchor_from": "right_middle",
+                            "anchor_to": "right_middle",
+                            "color": "$store_csb_gold_text_color",
+                            "font_scale_factor": 0.9,
+                            "text": "store.csb.banner.learnMore"
+                          }
+                        },
+                        {
+                          "more_chevron": {
+                            "type": "label",
+                            "anchor_from": "right_middle",
+                            "anchor_to": "right_middle",
+                            "color": "$store_csb_gold_text_color",
+                            "font_scale_factor": 0.9,
+                            "text": " >"
+                          }
+                        }
+                      ]
+                    }
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      }
+    ]
+  },
+
+  "csb_banner_animation": {
+    "anim_type": "flip_book",
+    "initial_uv": [ 0, 0 ],
+    "frame_count": 30,
+    "frame_step": 1,
+    "fps": 10,
+    "reversible": false,
+    "orientation": "vertical"
+  }
+}

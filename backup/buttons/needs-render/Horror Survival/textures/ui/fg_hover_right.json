@@ -1,0 +1,551 @@
+{ "frames": [
+   {
+    "filename": "HORROR SURVIVAL FINAL 0.aseprite",
+    "frame": { "x": 0, "y": 0, "w": 92, "h": 54 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 92, "h": 54 },
+    "sourceSize": { "w": 92, "h": 54 },
+    "duration": 100
+   },
+   {
+    "filename": "HORROR SURVIVAL FINAL 1.aseprite",
+    "frame": { "x": 92, "y": 0, "w": 92, "h": 54 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 92, "h": 54 },
+    "sourceSize": { "w": 92, "h": 54 },
+    "duration": 100
+   },
+   {
+    "filename": "HORROR SURVIVAL FINAL 2.aseprite",
+    "frame": { "x": 184, "y": 0, "w": 92, "h": 54 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 92, "h": 54 },
+    "sourceSize": { "w": 92, "h": 54 },
+    "duration": 100
+   },
+   {
+    "filename": "HORROR SURVIVAL FINAL 3.aseprite",
+    "frame": { "x": 276, "y": 0, "w": 92, "h": 54 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 92, "h": 54 },
+    "sourceSize": { "w": 92, "h": 54 },
+    "duration": 100
+   },
+   {
+    "filename": "HORROR SURVIVAL FINAL 4.aseprite",
+    "frame": { "x": 368, "y": 0, "w": 92, "h": 54 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 92, "h": 54 },
+    "sourceSize": { "w": 92, "h": 54 },
+    "duration": 100
+   },
+   {
+    "filename": "HORROR SURVIVAL FINAL 5.aseprite",
+    "frame": { "x": 460, "y": 0, "w": 92, "h": 54 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 92, "h": 54 },
+    "sourceSize": { "w": 92, "h": 54 },
+    "duration": 100
+   },
+   {
+    "filename": "HORROR SURVIVAL FINAL 6.aseprite",
+    "frame": { "x": 552, "y": 0, "w": 92, "h": 54 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 92, "h": 54 },
+    "sourceSize": { "w": 92, "h": 54 },
+    "duration": 100
+   },
+   {
+    "filename": "HORROR SURVIVAL FINAL 7.aseprite",
+    "frame": { "x": 644, "y": 0, "w": 92, "h": 54 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 92, "h": 54 },
+    "sourceSize": { "w": 92, "h": 54 },
+    "duration": 100
+   },
+   {
+    "filename": "HORROR SURVIVAL FINAL 8.aseprite",
+    "frame": { "x": 736, "y": 0, "w": 92, "h": 54 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 92, "h": 54 },
+    "sourceSize": { "w": 92, "h": 54 },
+    "duration": 100
+   },
+   {
+    "filename": "HORROR SURVIVAL FINAL 9.aseprite",
+    "frame": { "x": 828, "y": 0, "w": 92, "h": 54 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 92, "h": 54 },
+    "sourceSize": { "w": 92, "h": 54 },
+    "duration": 100
+   },
+   {
+    "filename": "HORROR SURVIVAL FINAL 10.aseprite",
+    "frame": { "x": 920, "y": 0, "w": 92, "h": 54 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 92, "h": 54 },
+    "sourceSize": { "w": 92, "h": 54 },
+    "duration": 100
+   },
+   {
+    "filename": "HORROR SURVIVAL FINAL 11.aseprite",
+    "frame": { "x": 1012, "y": 0, "w": 92, "h": 54 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 92, "h": 54 },
+    "sourceSize": { "w": 92, "h": 54 },
+    "duration": 100
+   },
+   {
+    "filename": "HORROR SURVIVAL FINAL 12.aseprite",
+    "frame": { "x": 1104, "y": 0, "w": 92, "h": 54 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 92, "h": 54 },
+    "sourceSize": { "w": 92, "h": 54 },
+    "duration": 100
+   },
+   {
+    "filename": "HORROR SURVIVAL FINAL 13.aseprite",
+    "frame": { "x": 1196, "y": 0, "w": 92, "h": 54 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 92, "h": 54 },
+    "sourceSize": { "w": 92, "h": 54 },
+    "duration": 100
+   },
+   {
+    "filename": "HORROR SURVIVAL FINAL 14.aseprite",
+    "frame": { "x": 1288, "y": 0, "w": 92, "h": 54 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 92, "h": 54 },
+    "sourceSize": { "w": 92, "h": 54 },
+    "duration": 100
+   },
+   {
+    "filename": "HORROR SURVIVAL FINAL 15.aseprite",
+    "frame": { "x": 1380, "y": 0, "w": 92, "h": 54 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 92, "h": 54 },
+    "sourceSize": { "w": 92, "h": 54 },
+    "duration": 100
+   },
+   {
+    "filename": "HORROR SURVIVAL FINAL 16.aseprite",
+    "frame": { "x": 1472, "y": 0, "w": 92, "h": 54 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 92, "h": 54 },
+    "sourceSize": { "w": 92, "h": 54 },
+    "duration": 100
+   },
+   {
+    "filename": "HORROR SURVIVAL FINAL 17.aseprite",
+    "frame": { "x": 1564, "y": 0, "w": 92, "h": 54 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 92, "h": 54 },
+    "sourceSize": { "w": 92, "h": 54 },
+    "duration": 100
+   },
+   {
+    "filename": "HORROR SURVIVAL FINAL 18.aseprite",
+    "frame": { "x": 1656, "y": 0, "w": 92, "h": 54 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 92, "h": 54 },
+    "sourceSize": { "w": 92, "h": 54 },
+    "duration": 100
+   },
+   {
+    "filename": "HORROR SURVIVAL FINAL 19.aseprite",
+    "frame": { "x": 1748, "y": 0, "w": 92, "h": 54 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 92, "h": 54 },
+    "sourceSize": { "w": 92, "h": 54 },
+    "duration": 100
+   },
+   {
+    "filename": "HORROR SURVIVAL FINAL 20.aseprite",
+    "frame": { "x": 1840, "y": 0, "w": 92, "h": 54 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 92, "h": 54 },
+    "sourceSize": { "w": 92, "h": 54 },
+    "duration": 100
+   },
+   {
+    "filename": "HORROR SURVIVAL FINAL 21.aseprite",
+    "frame": { "x": 1932, "y": 0, "w": 92, "h": 54 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 92, "h": 54 },
+    "sourceSize": { "w": 92, "h": 54 },
+    "duration": 100
+   },
+   {
+    "filename": "HORROR SURVIVAL FINAL 22.aseprite",
+    "frame": { "x": 2024, "y": 0, "w": 92, "h": 54 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 92, "h": 54 },
+    "sourceSize": { "w": 92, "h": 54 },
+    "duration": 100
+   },
+   {
+    "filename": "HORROR SURVIVAL FINAL 23.aseprite",
+    "frame": { "x": 2116, "y": 0, "w": 92, "h": 54 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 92, "h": 54 },
+    "sourceSize": { "w": 92, "h": 54 },
+    "duration": 100
+   },
+   {
+    "filename": "HORROR SURVIVAL FINAL 24.aseprite",
+    "frame": { "x": 2208, "y": 0, "w": 92, "h": 54 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 92, "h": 54 },
+    "sourceSize": { "w": 92, "h": 54 },
+    "duration": 100
+   },
+   {
+    "filename": "HORROR SURVIVAL FINAL 25.aseprite",
+    "frame": { "x": 2300, "y": 0, "w": 92, "h": 54 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 92, "h": 54 },
+    "sourceSize": { "w": 92, "h": 54 },
+    "duration": 100
+   },
+   {
+    "filename": "HORROR SURVIVAL FINAL 26.aseprite",
+    "frame": { "x": 2392, "y": 0, "w": 92, "h": 54 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 92, "h": 54 },
+    "sourceSize": { "w": 92, "h": 54 },
+    "duration": 100
+   },
+   {
+    "filename": "HORROR SURVIVAL FINAL 27.aseprite",
+    "frame": { "x": 2484, "y": 0, "w": 92, "h": 54 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 92, "h": 54 },
+    "sourceSize": { "w": 92, "h": 54 },
+    "duration": 100
+   },
+   {
+    "filename": "HORROR SURVIVAL FINAL 28.aseprite",
+    "frame": { "x": 2576, "y": 0, "w": 92, "h": 54 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 92, "h": 54 },
+    "sourceSize": { "w": 92, "h": 54 },
+    "duration": 100
+   },
+   {
+    "filename": "HORROR SURVIVAL FINAL 29.aseprite",
+    "frame": { "x": 2668, "y": 0, "w": 92, "h": 54 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 92, "h": 54 },
+    "sourceSize": { "w": 92, "h": 54 },
+    "duration": 100
+   },
+   {
+    "filename": "HORROR SURVIVAL FINAL 30.aseprite",
+    "frame": { "x": 0, "y": 0, "w": 92, "h": 54 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 92, "h": 54 },
+    "sourceSize": { "w": 92, "h": 54 },
+    "duration": 100
+   },
+   {
+    "filename": "HORROR SURVIVAL FINAL 31.aseprite",
+    "frame": { "x": 92, "y": 0, "w": 92, "h": 54 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 92, "h": 54 },
+    "sourceSize": { "w": 92, "h": 54 },
+    "duration": 100
+   },
+   {
+    "filename": "HORROR SURVIVAL FINAL 32.aseprite",
+    "frame": { "x": 184, "y": 0, "w": 92, "h": 54 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 92, "h": 54 },
+    "sourceSize": { "w": 92, "h": 54 },
+    "duration": 100
+   },
+   {
+    "filename": "HORROR SURVIVAL FINAL 33.aseprite",
+    "frame": { "x": 276, "y": 0, "w": 92, "h": 54 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 92, "h": 54 },
+    "sourceSize": { "w": 92, "h": 54 },
+    "duration": 100
+   },
+   {
+    "filename": "HORROR SURVIVAL FINAL 34.aseprite",
+    "frame": { "x": 368, "y": 0, "w": 92, "h": 54 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 92, "h": 54 },
+    "sourceSize": { "w": 92, "h": 54 },
+    "duration": 100
+   },
+   {
+    "filename": "HORROR SURVIVAL FINAL 35.aseprite",
+    "frame": { "x": 460, "y": 0, "w": 92, "h": 54 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 92, "h": 54 },
+    "sourceSize": { "w": 92, "h": 54 },
+    "duration": 100
+   },
+   {
+    "filename": "HORROR SURVIVAL FINAL 36.aseprite",
+    "frame": { "x": 552, "y": 0, "w": 92, "h": 54 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 92, "h": 54 },
+    "sourceSize": { "w": 92, "h": 54 },
+    "duration": 100
+   },
+   {
+    "filename": "HORROR SURVIVAL FINAL 37.aseprite",
+    "frame": { "x": 644, "y": 0, "w": 92, "h": 54 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 92, "h": 54 },
+    "sourceSize": { "w": 92, "h": 54 },
+    "duration": 100
+   },
+   {
+    "filename": "HORROR SURVIVAL FINAL 38.aseprite",
+    "frame": { "x": 736, "y": 0, "w": 92, "h": 54 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 92, "h": 54 },
+    "sourceSize": { "w": 92, "h": 54 },
+    "duration": 100
+   },
+   {
+    "filename": "HORROR SURVIVAL FINAL 39.aseprite",
+    "frame": { "x": 828, "y": 0, "w": 92, "h": 54 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 92, "h": 54 },
+    "sourceSize": { "w": 92, "h": 54 },
+    "duration": 100
+   },
+   {
+    "filename": "HORROR SURVIVAL FINAL 40.aseprite",
+    "frame": { "x": 920, "y": 0, "w": 92, "h": 54 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 92, "h": 54 },
+    "sourceSize": { "w": 92, "h": 54 },
+    "duration": 100
+   },
+   {
+    "filename": "HORROR SURVIVAL FINAL 41.aseprite",
+    "frame": { "x": 1012, "y": 0, "w": 92, "h": 54 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 92, "h": 54 },
+    "sourceSize": { "w": 92, "h": 54 },
+    "duration": 100
+   },
+   {
+    "filename": "HORROR SURVIVAL FINAL 42.aseprite",
+    "frame": { "x": 1104, "y": 0, "w": 92, "h": 54 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 92, "h": 54 },
+    "sourceSize": { "w": 92, "h": 54 },
+    "duration": 100
+   },
+   {
+    "filename": "HORROR SURVIVAL FINAL 43.aseprite",
+    "frame": { "x": 1196, "y": 0, "w": 92, "h": 54 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 92, "h": 54 },
+    "sourceSize": { "w": 92, "h": 54 },
+    "duration": 100
+   },
+   {
+    "filename": "HORROR SURVIVAL FINAL 44.aseprite",
+    "frame": { "x": 1288, "y": 0, "w": 92, "h": 54 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 92, "h": 54 },
+    "sourceSize": { "w": 92, "h": 54 },
+    "duration": 100
+   },
+   {
+    "filename": "HORROR SURVIVAL FINAL 45.aseprite",
+    "frame": { "x": 1380, "y": 0, "w": 92, "h": 54 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 92, "h": 54 },
+    "sourceSize": { "w": 92, "h": 54 },
+    "duration": 100
+   },
+   {
+    "filename": "HORROR SURVIVAL FINAL 46.aseprite",
+    "frame": { "x": 1472, "y": 0, "w": 92, "h": 54 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 92, "h": 54 },
+    "sourceSize": { "w": 92, "h": 54 },
+    "duration": 100
+   },
+   {
+    "filename": "HORROR SURVIVAL FINAL 47.aseprite",
+    "frame": { "x": 1564, "y": 0, "w": 92, "h": 54 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 92, "h": 54 },
+    "sourceSize": { "w": 92, "h": 54 },
+    "duration": 100
+   },
+   {
+    "filename": "HORROR SURVIVAL FINAL 48.aseprite",
+    "frame": { "x": 1656, "y": 0, "w": 92, "h": 54 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 92, "h": 54 },
+    "sourceSize": { "w": 92, "h": 54 },
+    "duration": 100
+   },
+   {
+    "filename": "HORROR SURVIVAL FINAL 49.aseprite",
+    "frame": { "x": 1748, "y": 0, "w": 92, "h": 54 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 92, "h": 54 },
+    "sourceSize": { "w": 92, "h": 54 },
+    "duration": 100
+   },
+   {
+    "filename": "HORROR SURVIVAL FINAL 50.aseprite",
+    "frame": { "x": 1840, "y": 0, "w": 92, "h": 54 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 92, "h": 54 },
+    "sourceSize": { "w": 92, "h": 54 },
+    "duration": 100
+   },
+   {
+    "filename": "HORROR SURVIVAL FINAL 51.aseprite",
+    "frame": { "x": 1932, "y": 0, "w": 92, "h": 54 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 92, "h": 54 },
+    "sourceSize": { "w": 92, "h": 54 },
+    "duration": 100
+   },
+   {
+    "filename": "HORROR SURVIVAL FINAL 52.aseprite",
+    "frame": { "x": 2024, "y": 0, "w": 92, "h": 54 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 92, "h": 54 },
+    "sourceSize": { "w": 92, "h": 54 },
+    "duration": 100
+   },
+   {
+    "filename": "HORROR SURVIVAL FINAL 53.aseprite",
+    "frame": { "x": 2116, "y": 0, "w": 92, "h": 54 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 92, "h": 54 },
+    "sourceSize": { "w": 92, "h": 54 },
+    "duration": 100
+   },
+   {
+    "filename": "HORROR SURVIVAL FINAL 54.aseprite",
+    "frame": { "x": 2208, "y": 0, "w": 92, "h": 54 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 92, "h": 54 },
+    "sourceSize": { "w": 92, "h": 54 },
+    "duration": 100
+   },
+   {
+    "filename": "HORROR SURVIVAL FINAL 55.aseprite",
+    "frame": { "x": 2300, "y": 0, "w": 92, "h": 54 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 92, "h": 54 },
+    "sourceSize": { "w": 92, "h": 54 },
+    "duration": 100
+   },
+   {
+    "filename": "HORROR SURVIVAL FINAL 56.aseprite",
+    "frame": { "x": 2392, "y": 0, "w": 92, "h": 54 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 92, "h": 54 },
+    "sourceSize": { "w": 92, "h": 54 },
+    "duration": 100
+   },
+   {
+    "filename": "HORROR SURVIVAL FINAL 57.aseprite",
+    "frame": { "x": 2484, "y": 0, "w": 92, "h": 54 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 92, "h": 54 },
+    "sourceSize": { "w": 92, "h": 54 },
+    "duration": 100
+   },
+   {
+    "filename": "HORROR SURVIVAL FINAL 58.aseprite",
+    "frame": { "x": 2576, "y": 0, "w": 92, "h": 54 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 92, "h": 54 },
+    "sourceSize": { "w": 92, "h": 54 },
+    "duration": 100
+   },
+   {
+    "filename": "HORROR SURVIVAL FINAL 59.aseprite",
+    "frame": { "x": 2668, "y": 0, "w": 92, "h": 54 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 92, "h": 54 },
+    "sourceSize": { "w": 92, "h": 54 },
+    "duration": 100
+   }
+ ],
+ "meta": {
+  "app": "https://www.aseprite.org/",
+  "version": "1.3.8.1-x64",
+  "image": "fg_hover_right.png",
+  "format": "RGBA8888",
+  "size": { "w": 2760, "h": 54 },
+  "scale": "1"
+ }
+}

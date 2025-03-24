@@ -1,0 +1,95 @@
+{
+   "content" : [
+      {
+         "path" : "manifest.json"
+      },
+      {
+         "path" : "contents.json"
+      },
+      {
+         "path" : "ui"
+      },
+      {
+         "path" : "ui/start_screen.json"
+      },
+      {
+         "path" : "textures"
+      },
+      {
+         "path" : "textures/ui"
+      },
+      {
+         "path" : "textures/ui/bg_default.json"
+      },
+      {
+         "path" : "textures/ui/bg_default.png"
+      },
+      {
+         "path" : "textures/ui/bg_hover.json"
+      },
+      {
+         "path" : "textures/ui/bg_hover.png"
+      },
+      {
+         "path" : "textures/ui/fg_default_left.json"
+      },
+      {
+         "path" : "textures/ui/fg_default_left.png"
+      },
+      {
+         "path" : "textures/ui/fg_default_middle.json"
+      },
+      {
+         "path" : "textures/ui/fg_default_middle.png"
+      },
+      {
+         "path" : "textures/ui/fg_default_right.json"
+      },
+      {
+         "path" : "textures/ui/fg_default_right.png"
+      },
+      {
+         "path" : "textures/ui/fg_hover_left.json"
+      },
+      {
+         "path" : "textures/ui/fg_hover_left.png"
+      },
+      {
+         "path" : "textures/ui/fg_hover_middle.json"
+      },
+      {
+         "path" : "textures/ui/fg_hover_middle.png"
+      },
+      {
+         "path" : "textures/ui/fg_hover_right.json"
+      },
+      {
+         "path" : "textures/ui/fg_hover_right.png"
+      },
+      {
+         "path" : "textures/ui/AddOns_en.json"
+      },
+      {
+         "path" : "textures/ui/AddOns_en.png"
+      },
+      {
+         "path" : "textures/ui/AddOns_fr.json"
+      },
+      {
+         "path" : "textures/ui/AddOns_fr.png"
+      },
+      {
+         "path" : "textures/ui/AddOns_jp.json"
+      },
+      {
+         "path" : "textures/ui/AddOns_jp.png"
+      },
+      {
+         "path" : "textures/ui/AddOns_sp.json"
+      },
+      {
+         "path" : "textures/ui/AddOns_sp.png"
+      }
+   ],
+   "version" : 1
+}

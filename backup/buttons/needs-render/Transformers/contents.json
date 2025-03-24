@@ -1,0 +1,23 @@
+{
+"content" : [
+    { "path" : "contents.json" },
+    { "path" : "textures" },
+    { "path" : "textures/ui" },
+    { "path" : "ui" },
+    { "path" : "ui/start_screen.json" },
+    { "path" : "manifest.json" },
+    { "path" : "textures/ui/default_bg.json" },
+    { "path" : "textures/ui/default_bg.png" },
+    { "path" : "textures/ui/hover_bg.json" },
+    { "path" : "textures/ui/hover_bg.png" },
+    { "path" : "textures/ui/default_fg_left.json" },
+    { "path" : "textures/ui/default_fg_left.png" },
+    { "path" : "textures/ui/hover_fg_left.json" },
+    { "path" : "textures/ui/hover_fg_left.png" },
+    { "path" : "textures/ui/default_fg_right.json" },
+    { "path" : "textures/ui/default_fg_right.png" },
+    { "path" : "textures/ui/hover_fg_right.json" },
+    { "path" : "textures/ui/hover_fg_right.png" }
+],
+"version" : 1
+}

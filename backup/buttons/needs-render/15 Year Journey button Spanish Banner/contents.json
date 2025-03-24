@@ -1,0 +1,48 @@
+{
+"content" : [
+    { "path" : "contents.json" },
+    { "path" : "textures" },
+    { "path" : "textures/ui" },
+    { "path" : "ui" },
+    { "path" : "ui/start_screen.json" },
+    { "path" : "manifest.json" },
+    { "path" : "textures/ui/BG_Default.json" },
+    { "path" : "textures/ui/BG_Default.png" },
+    { "path" : "textures/ui/BG_Hover.json" },
+    { "path" : "textures/ui/BG_Hover.png" },
+
+    { "path" : "textures/ui/Balloons.json" },
+    { "path" : "textures/ui/Balloons.png" },
+
+    { "path" : "textures/ui/FG01_Default.json" },
+    { "path" : "textures/ui/FG01_Default.png" },
+    { "path" : "textures/ui/FG01_Hover.json" },
+    { "path" : "textures/ui/FG01_Hover.png" },
+    { "path" : "textures/ui/FG02_Default.json" },
+    { "path" : "textures/ui/FG02_Default.png" },
+    { "path" : "textures/ui/FG02_Hover.json" },
+    { "path" : "textures/ui/FG02_Hover.png" },
+    { "path" : "textures/ui/FG03_Default.json" },
+    { "path" : "textures/ui/FG03_Default.png" },
+    { "path" : "textures/ui/FG03_Hover.json" },
+    { "path" : "textures/ui/FG03_Hover.png" },
+    { "path" : "textures/ui/FG04_Default.json" },
+    { "path" : "textures/ui/FG04_Default.png" },
+    { "path" : "textures/ui/FG04_Hover.json" },
+    { "path" : "textures/ui/FG04_Hover.png" },
+
+    { "path" : "textures/ui/LeftDisplay_Default.json" },
+    { "path" : "textures/ui/LeftDisplay_Default.png" },
+    { "path" : "textures/ui/LeftDisplay_Hover.json" },
+    { "path" : "textures/ui/LeftDisplay_Hover.png" },
+
+    { "path" : "textures/ui/RightDisplay_Default.json" },
+    { "path" : "textures/ui/RightDisplay_Default.png" },
+    { "path" : "textures/ui/RightDisplay_Hover.json" },
+    { "path" : "textures/ui/RightDisplay_Hover.png" },
+
+    { "path" : "textures/ui/AddOns_sp.json" },
+    { "path" : "textures/ui/AddOns_sp.png" }
+],
+"version" : 1
+}

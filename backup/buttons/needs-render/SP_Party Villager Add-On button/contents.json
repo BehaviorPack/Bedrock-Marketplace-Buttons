@@ -1,0 +1,34 @@
+{
+"content" : [
+    { "path" : "contents.json" },
+    { "path" : "textures" },
+    { "path" : "textures/ui" },
+    { "path" : "ui" },
+    { "path" : "ui/start_screen.json" },
+    { "path" : "manifest.json" },
+    { "path" : "textures/ui/BG_Default.json" },
+    { "path" : "textures/ui/BG_Default.png" },
+    { "path" : "textures/ui/BG_Hover.json" },
+    { "path" : "textures/ui/BG_Hover.png" },
+
+    
+    { "path" : "textures/ui/Left.json" },
+    { "path" : "textures/ui/Left.png" },
+
+    { "path" : "textures/ui/Right_Default.json" },
+    { "path" : "textures/ui/Right_Default.png" },
+    { "path" : "textures/ui/Right_Hover.json" },
+    { "path" : "textures/ui/Right_Hover.png" },
+
+
+    { "path" : "textures/ui/Bunting_Default.json" },
+    { "path" : "textures/ui/Bunting_Default.png" },
+    { "path" : "textures/ui/Bunting_Hover.json" },
+    { "path" : "textures/ui/Bunting_Hover.png" },
+
+    
+    { "path" : "textures/ui/AddOns_sp.json" },
+    { "path" : "textures/ui/AddOns_sp.png" }
+],
+"version" : 1
+}
