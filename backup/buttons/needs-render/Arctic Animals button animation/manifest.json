@@ -1,0 +1,18 @@
+{
+    "format_version": 1,
+    "header": {
+        "description": "Arctic Animals button animation", 
+        "name": "Arctic Animals button animation", 
+        "uuid": "0538efae-e9c3-404c-ae7f-d2d5f6ecb1c8", 
+        "version": [1, 0, 0],
+        "min_engine_version": [1, 11, 0]
+    },
+    "modules": [
+        {
+            "description": "Arctic Animals button animation",
+            "type": "resources",
+            "uuid": "5d56e9f4-92cb-4d27-ad31-18ee7b0f04af", 
+            "version": [1, 0, 0]
+        }
+    ]
+}

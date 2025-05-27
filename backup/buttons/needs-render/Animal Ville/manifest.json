@@ -1,0 +1,1 @@
+{"format_version": 1,"header": {"description": "Button treatment", "name": "Animal Ville", "uuid": "0bd9eba4-2ae7-482f-a759-57943b87daa2", "version": [1, 0, 0],"min_engine_version": [1,11,0],"max_engine_version": [1,14,9]},"modules": [{"description": "Button treatment","type": "resources","uuid": "98448dfa-8b46-496a-bb4a-0e70c8ab53c2","version": [1, 0, 0]}]}

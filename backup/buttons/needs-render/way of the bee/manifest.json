@@ -1,0 +1,18 @@
+{
+    "format_version": 1,
+    "header": {
+        "description": "way of the bee button treatment", 
+        "name": "way of the bee", 
+        "uuid": "b743e728-fe6b-49d0-8a41-70124ffc09f2", 
+        "version": [1, 0, 0],
+        "min_engine_version": [1, 14, 0]
+    },
+    "modules": [
+        {
+            "description": "way of the bee",
+            "type": "resources",
+            "uuid": "6adff342-436e-4920-93f5-01b7a228a8a2", 
+            "version": [1, 0, 0]
+        }
+    ]
+}

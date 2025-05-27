@@ -1,0 +1,19 @@
+{
+    "format_version": 2,
+    "header": {
+        "description": "Holiday Button Treatment", 
+        "name": "Holiday", 
+        "uuid": "759164d6-e772-44d4-91d8-f9159cbf6f52", 
+        "version": [1, 0, 0],
+        "min_engine_version": [1, 14, 0],
+        "max_engine_version": [1, 14, 9]
+    },
+    "modules": [
+        {
+            "description": "Holiday Button Treatment",
+            "type": "resources",
+            "uuid": "12f9d2c7-38db-4346-a267-ff6e3f9c2aeb", 
+            "version": [1, 0, 0]
+        }
+    ]
+}

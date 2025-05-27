@@ -1,0 +1,122 @@
+{
+"content" : [
+{
+"path" : contents.json
+},
+{
+"path" : textures
+},
+{
+"path" : textures/ui
+},
+{
+"path" : ui
+},
+{
+"path" : ui/start_screen.json
+},
+{
+"path" : manifest.json
+},
+{
+"path" : ui/start_screen.json
+},
+{
+"path" : textures/ui/cloud1.json
+},
+{
+"path" : textures/ui/cloud1.png
+},
+{
+"path" : textures/ui/cloud2.json
+},
+{
+"path" : textures/ui/cloud2.png
+},
+{
+"path" : textures/ui/particle1.json
+},
+{
+"path" : textures/ui/particle1.png
+},
+{
+"path" : textures/ui/particle2.json
+},
+{
+"path" : textures/ui/particle2.png
+},
+{
+"path" : textures/ui/particle3.json
+},
+{
+"path" : textures/ui/particle3.png
+},
+{
+"path" : textures/ui/player1.json
+},
+{
+"path" : textures/ui/player1.png
+},
+{
+"path" : textures/ui/player2.json
+},
+{
+"path" : textures/ui/player2.png
+},
+{
+"path" : textures/ui/cloud1.json
+},
+{
+"path" : textures/ui/cloud1.png
+},
+{
+"path" : textures/ui/cloud2.json
+},
+{
+"path" : textures/ui/cloud2.png
+},
+{
+"path" : textures/ui/zombie1.json
+},
+{
+"path" : textures/ui/zombie1.png
+},
+{
+"path" : textures/ui/zombie2.json
+},
+{
+"path" : textures/ui/zombie2.png
+},
+{
+"path" : textures/ui/zombie3.json
+},
+{
+"path" : textures/ui/zombie3.png
+},
+{
+"path" : textures/ui/flyingbee.json
+},
+{
+"path" : textures/ui/flyingbee.png
+},
+{
+"path" : textures/ui/treatment_button_borderless_light.json
+},
+{
+"path" : textures/ui/treatment_button_borderless_light.png
+},
+{
+"path" : textures/ui/treatment_button_borderless_lighthover.json
+},
+{
+"path" : textures/ui/treatment_button_borderless_lighthover.png
+},
+{
+"path" : textures/ui/treatment_button_borderless_lightpressed.json
+},
+{
+"path" : textures/ui/treatment_button_borderless_lightpressed.png
+}
+],
+"version" : 1
+}

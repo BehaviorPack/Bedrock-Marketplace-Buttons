@@ -1,0 +1,70 @@
+{
+   "content" : [      
+	  {
+         "path" : "contents.json"
+      },
+	  {
+		 "path": "textures"
+	  },
+	  {
+		 "path": "textures/ui"
+	  },
+	  {
+		 "path": "textures/ui/SaleBanner.png"
+	  },
+	  {
+		 "path": "textures/ui/SaleBanner.json"
+	  },
+	  {
+		 "path": "textures/ui/staff.json"
+	  },
+	  {
+		 "path": "textures/ui/staff.png"
+	  },
+	  {
+		 "path": "textures/ui/default.png"
+	  },
+	  {
+		 "path": "textures/ui/default.json"
+	  },
+	  {
+		 "path": "textures/ui/hover.png"
+	  },
+	  {
+		 "path": "textures/ui/hover.json"
+	  },	  {
+		 "path": "textures/ui/button_store.png"
+	  },
+	  {
+		 "path": "textures/ui/button_store.json"
+	  },
+	  {
+		 "path": "textures/ui/button_storehover.png"
+	  },
+	  {
+		 "path": "textures/ui/button_storehover.json"
+	  },
+	  {
+		 "path": "textures/ui/button_storepressed.png"
+	  },
+	  {
+		 "path": "textures/ui/button_storepressed.json"
+	  },
+	  {
+		 "path": "textures/ui/button_storepressednohover.png"
+	  },
+	  {
+		 "path": "textures/ui/button_storepressednohover.json"
+	  },
+	  {
+		 "path": "ui"
+	  },	  
+	  {
+		 "path": "ui/start_screen.json"
+	  },	  
+	  {
+         "path" : "ui/store_common.json"
+      },
+   ],
+   "version" : 1
+}

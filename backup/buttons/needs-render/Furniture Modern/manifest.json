@@ -1,0 +1,19 @@
+{
+    "format_version": 1,
+    "header": {
+        "description": "Furniture: Modern Button Treatment", 
+        "name": "Furniture: Modern", 
+        "uuid": "5f5376c3-ee41-46e9-9e7c-b7c0569ff069", 
+        "version": [1, 0, 0],
+        "min_engine_version": [1, 11, 0],
+        "max_engine_version": [1, 13, 9]
+    },
+    "modules": [
+        {
+            "description": "Furniture: Modern Button Treatment",
+            "type": "resources",
+            "uuid": "5d5d0194-4d8a-4885-baf4-10b29f8be344", 
+            "version": [1, 0, 0]
+        }
+    ]
+}

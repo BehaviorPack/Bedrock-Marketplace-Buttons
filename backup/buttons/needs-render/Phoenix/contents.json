@@ -1,0 +1,71 @@
+{
+   "content" : [      
+	  {
+         "path" : "contents.json"
+      },
+	  {
+		 "path": "textures"
+	  },
+	  {
+		 "path": "textures/ui"
+	  },
+	 {
+		"path": "textures/ui/phoenix.png"
+	 },
+	 {
+		"path": "textures/ui/phoenix.json"
+	 },
+
+	 {
+		"path": "textures/ui/yetihover.png"
+	 },
+	 {
+		"path": "textures/ui/yetihover.json"
+	 },
+
+	 {
+		"path": "textures/ui/yetinormal.png"
+	 },
+	 {
+		"path": "textures/ui/yetinormal.json"
+	 },
+
+	 {
+		"path": "textures/ui/SaleBanner.png"
+	 },
+	 {
+		"path": "textures/ui/SaleBanner.json"
+	  },
+	  {
+		 "path": "textures/ui/button_store.png"
+	  },
+	  {
+		 "path": "textures/ui/button_store.json"
+	  },
+	  {
+		 "path": "textures/ui/button_storehover.png"
+	  },
+	  {
+		 "path": "textures/ui/button_storehover.json"
+	  },
+	  {
+		 "path": "textures/ui/button_storepressed.png"
+	  },
+	  {
+		 "path": "textures/ui/button_storepressed.json"
+	  },
+	  {
+		 "path": "textures/ui/button_storepressednohover.png"
+	  },
+	  {
+		 "path": "textures/ui/button_storepressednohover.json"
+	  },
+	  {
+		 "path": "ui"
+	  },	  
+	  {
+		 "path": "ui/start_screen.json"
+	  }	  
+   ],
+   "version" : 1
+}

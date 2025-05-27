@@ -1,0 +1,20 @@
+{
+            "content" : [    
+	        {
+            "path" : "contents.json"
+            },
+	        {
+		    "path": "textures"
+	        },
+	        {
+		    "path": "textures/ui"
+	        }, 
+	        {
+		    "path": "ui"
+            },	  
+	        {
+		    "path": "ui/start_screen.json"
+	        },	  
+	        {
+            "path" : "manifest.json"
+            },{{"path":"textures/ui/start_screen.json"}}],"version" : 1

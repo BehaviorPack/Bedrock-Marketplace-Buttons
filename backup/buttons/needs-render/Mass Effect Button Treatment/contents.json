@@ -1,0 +1,20 @@
+{
+            "content" : [    
+	        {
+            "path" : "contents.json"
+            },
+	        {
+		    "path": "textures"
+	        },
+	        {
+		    "path": "textures/ui"
+	        }, 
+	        {
+		    "path": "ui"
+            },	  
+	        {
+		    "path": "ui/start_screen.json"
+	        },	  
+	        {
+            "path" : "manifest.json"
+            },{"path":"ui/start_screen.json"},{"path":"textures/ui/red_default.json"},{"path":"textures/ui/red_default.png"},{"path":"textures/ui/red_hover.json"},{"path":"textures/ui/red_hover.png"},{"path":"textures/ui/shep_default.json"},{"path":"textures/ui/shep_default.png"},{"path":"textures/ui/shep_hover.json"},{"path":"textures/ui/shep_hover.png"},{"path":"textures/ui/treatment_button_borderless_light.json"},{"path":"textures/ui/treatment_button_borderless_light.png"},{"path":"textures/ui/treatment_button_borderless_lighthover.json"},{"path":"textures/ui/treatment_button_borderless_lighthover.png"},{"path":"textures/ui/treatment_button_borderless_lightpressed.json"},{"path":"textures/ui/treatment_button_borderless_lightpressed.png"}],"version" : 1}

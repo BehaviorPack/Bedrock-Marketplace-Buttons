@@ -1,0 +1,35 @@
+{
+	"format_version": 1,
+	"header": {
+		"description": "Knight School Button Treatment",
+		"name": "Knight School",
+		"uuid": "f327e392-3189-49fd-8478-12c2f6cd4753",
+		"version": [
+			1,
+			0,
+			0
+		],
+		"min_engine_version": [
+			1,
+			11,
+			0
+		],
+		"max_engine_version": [
+			1,
+			14,
+			9
+		]
+	},
+	"modules": [
+		{
+			"description": "Knight School Button Treatment",
+			"type": "resources",
+			"uuid": "f62c3f88-31af-4e2f-a85a-ded17c6e3cd7",
+			"version": [
+				1,
+				0,
+				0
+			]
+		}
+	]
+}

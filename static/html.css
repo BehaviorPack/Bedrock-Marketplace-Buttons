@@ -16,6 +16,7 @@ body {
     justify-items: center;
     align-items: center;
     grid-template-columns: 1fr;
+    padding: 20px;
 }
 
 .grid-item {
@@ -29,13 +30,25 @@ body {
     align-items: center;
     text-align: center;
     padding: 10px;
+    margin-bottom: 10px;
 }
 
 .grid-item:hover {
     transform: scale(1.1);
 }
 
-img {
+.grid-item img {
+  max-width: 100%;
+  height: auto;
+  display: block;
+  padding: 6px;
+  box-sizing: border-box;
+  border-radius: 2% 2% 0 0;
+  object-fit: cover; /* optional, keeps images nicely cropped */
+}
+
+
+.map-thumbnail {
     max-width: 100%;
     max-height: 100%;
     border-radius: 2% 2% 0px 0px;
@@ -43,34 +56,46 @@ img {
     margin-bottom: 10px;
 }
 
-.map-name {
+.date-name {
     margin-top: 5px;
+}
+
+.promote-name a {
+  color: #4da6ff;
+  text-decoration: none;
+  font-weight: bold;
+  transition: color 0.2s ease, background-color 0.2s ease;
+  padding: 2px 4px;
+  border-radius: 4px;
+  display: inline-block;
+}
+
+.promote-name a:hover {
+  color: white;
+  background-color: rgba(77, 166, 255, 0.2);
 }
 
 
 @media screen and (min-aspect-ratio: 3/4) {
     .grid-container {
-        grid-template-columns: auto auto auto;
+        grid-template-columns: repeat(4, auto);
     }
 }
 
-@media screen and (max-aspect-ratio: 3/4) {
-    .grid-container {
-        grid-template-columns: auto auto;
-    }
+.discord-container {
+    margin-top: 30px;
+    grid-template-columns: auto auto;
 }
 
 .fancy-title-container {
     width: fit-content;
-    margin: 0 auto 30px;
+    margin: 0 auto;
 }
 
 .fancy-title {
-    padding: 20px;
-    background: linear-gradient(45deg, #6a11cb, #2575fc);
     border-radius: 5px;
     display: block;
-    margin-bottom: 30px;
+    margin-top: 30px;
     text-align: center;
 }
 
@@ -83,3 +108,36 @@ a {
 a:hover {
     color: #fff
 }
+
+.discord-float-button {
+    position: fixed;
+    bottom: 20px;
+    left: 20px;
+    z-index: 1001;
+    background-color: #5865F2;
+    color: #fff;
+    padding: 12px 16px; /* slightly larger padding */
+    border-radius: 10px;
+    align-items: center;
+    text-decoration: none;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.4);
+    transition: transform 0.2s, background-color 0.2s;
+  }
+  
+  .discord-float-button:hover {
+    background-color: #4752c4;
+    transform: scale(1.08); /* modest hover scale */
+  }
+  
+  .discord-float-button img {
+    width: 132px;
+    position: absolute;
+    bottom: 100%;
+    left: -12px;
+  }
+  
+  .discord-float-button span {
+    font-weight: bold;
+    font-size: 15px; /* slightly larger text */
+    margin-top: 68px;  /* adjusted to match new image size */
+  }

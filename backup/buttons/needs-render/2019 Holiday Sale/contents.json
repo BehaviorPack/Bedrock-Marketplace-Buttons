@@ -1,0 +1,125 @@
+{
+   "content" : [      
+	  {
+         "path" : "contents.json"
+      },
+	  {
+		 "path": "textures"
+	  },
+	  {
+		 "path": "textures/ui"
+	  },
+	  {
+		 "path": "textures/ui/SnowGolem.json"
+	  },
+	  {
+		 "path": "textures/ui/SnowGolem.png"
+	  },
+	  {
+		 "path": "textures/ui/cat.png"
+	  },
+	  {
+		 "path": "textures/ui/cat.json"
+	  },
+	  {
+		 "path": "textures/ui/button_store.png"
+	  },
+	  {
+		 "path": "textures/ui/button_store.json"
+	  },
+	  {
+		 "path": "textures/ui/button_storehover.png"
+	  },
+	  {
+		 "path": "textures/ui/button_storehover.json"
+	  },
+	  {
+		 "path": "textures/ui/button_storepressed.png"
+	  },
+	  {
+		 "path": "textures/ui/button_storepressed.json"
+	  },
+	  {
+		 "path": "textures/ui/button_storepressednohover.png"
+	  },
+	  {
+		 "path": "textures/ui/button_storepressednohover.json"
+	  },
+	  {
+		 "path": "textures/ui/SaleBanner.png"
+	  },
+	  {
+		 "path": "textures/ui/SaleBanner.json"
+	  },
+	  {
+		 "path": "textures/ui/shade1.png"
+	  },
+	  {
+		 "path": "textures/ui/shade1.json"
+	  },
+	  {
+		 "path": "textures/ui/shade2.png"
+	  },
+	  {
+		 "path": "textures/ui/shade2.json"
+	  },
+	  {
+		 "path": "textures/ui/lights.png"
+	  },
+	  {
+		 "path": "textures/ui/lights.json"
+	  },
+	  {
+		 "path": "textures/ui/snowflake1.png"
+	  },
+	  {
+		 "path": "textures/ui/snowflake1.json"
+	  },
+	  {
+		 "path": "textures/ui/snowflake2.png"
+	  },
+	  {
+		 "path": "textures/ui/snowflake2.json"
+	  },
+	  {
+		 "path": "textures/ui/snowflake3.png"
+	  },
+	  {
+		 "path": "textures/ui/snowflake3.json"
+	  },
+	  {
+		 "path": "textures/ui/snowflake4.png"
+	  },
+	  {
+		 "path": "textures/ui/snowflake4.json"
+	  },
+	  {
+		 "path": "textures/ui/snowflake5.png"
+	  },
+	  {
+		 "path": "textures/ui/snowflake5.json"
+	  },
+	  {
+		 "path": "textures/ui/snowflake6.png"
+	  },
+	  {
+		 "path": "textures/ui/snowflake6.json"
+	  },
+	  {
+		 "path": "textures/ui/TreeTip.png"
+	  },
+	  {
+		 "path": "textures/ui/TreeTip.json"
+	  },
+	  {
+		 "path": "ui"
+	  },	  
+	  {
+		 "path": "ui/start_screen.json"
+	  },	  
+	  {
+         "path" : "ui/store_common.json"
+      },
+   ],
+   "version" : 1
+}

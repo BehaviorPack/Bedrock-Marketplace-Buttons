@@ -1,0 +1,35 @@
+{
+	"format_version": 1,
+	"header": {
+		"description": "Chicken Block Button Treatment",
+		"name": "Chicken Block",
+		"uuid": "97d1045a-a539-4130-9135-0196b529d953",
+		"version": [
+			1,
+			0,
+			0
+		],
+		"min_engine_version": [
+			1,
+			11,
+			0
+		],
+		"max_engine_version": [
+			1,
+			14,
+			9
+		]
+	},
+	"modules": [
+		{
+			"description": "Chicken Block Button Treatment",
+			"type": "resources",
+			"uuid": "6b0f43c9-9a0a-4397-98b0-b5ce584e8433",
+			"version": [
+				1,
+				0,
+				0
+			]
+		}
+	]
+}

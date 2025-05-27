@@ -1,0 +1,33 @@
+{
+"content" : [
+    { "path" : "contents.json" },
+    { "path" : "textures" },
+    { "path" : "textures/ui" },
+    { "path" : "ui" },
+    { "path" : "ui/start_screen.json" },
+    { "path" : "manifest.json" },
+    { "path" : "textures/ui/BG_Default.json" },
+    { "path" : "textures/ui/BG_Default.png" },
+    { "path" : "textures/ui/BG_Hover.json" },
+    { "path" : "textures/ui/BG_Hover.png" },
+    { "path" : "textures/ui/Default01.json" },
+    { "path" : "textures/ui/Default01.png" },
+    { "path" : "textures/ui/Default02.json" },
+    { "path" : "textures/ui/Default02.png" },
+    { "path" : "textures/ui/Default03.json" },
+    { "path" : "textures/ui/Default03.png" },
+    { "path" : "textures/ui/Default04.json" },
+    { "path" : "textures/ui/Default04.png" },
+    { "path" : "textures/ui/Hover01.json" },
+    { "path" : "textures/ui/Hover01.png" },
+    { "path" : "textures/ui/Hover02.json" },
+    { "path" : "textures/ui/Hover02.png" },
+    { "path" : "textures/ui/Hover03.json" },
+    { "path" : "textures/ui/Hover03.png" },
+    { "path" : "textures/ui/HoverMG.json" },
+    { "path" : "textures/ui/HoverMG.png" },
+    { "path" : "textures/ui/SaleBanner.json" },
+    { "path" : "textures/ui/SaleBanner.png" }
+],
+"version" : 1
+}

@@ -1,0 +1,20 @@
+{
+            "content" : [    
+	        {
+            "path" : "contents.json"
+            },
+	        {
+		    "path": "textures"
+	        },
+	        {
+		    "path": "textures/ui"
+	        }, 
+	        {
+		    "path": "ui"
+            },	  
+	        {
+		    "path": "ui/start_screen.json"
+	        },	  
+	        {
+            "path" : "manifest.json"
+            },{"path":"ui/start_screen.json"},{"path":"textures/ui/aligator.json"},{"path":"textures/ui/aligator.png"},{"path":"textures/ui/car1.json"},{"path":"textures/ui/car1.png"},{"path":"textures/ui/car2.json"},{"path":"textures/ui/car2.png"},{"path":"textures/ui/car3.json"},{"path":"textures/ui/car3.png"},{"path":"textures/ui/chick.json"},{"path":"textures/ui/chick.png"},{"path":"textures/ui/cloud1.json"},{"path":"textures/ui/cloud1.png"},{"path":"textures/ui/cloud2.json"},{"path":"textures/ui/cloud2.png"},{"path":"textures/ui/dust.json"},{"path":"textures/ui/dust.png"},{"path":"textures/ui/moon.json"},{"path":"textures/ui/moon.png"},{"path":"textures/ui/moose.json"},{"path":"textures/ui/moose.png"},{"path":"textures/ui/sun.json"},{"path":"textures/ui/sun.png"},{"path":"textures/ui/treatment_button_borderless_light.json"},{"path":"textures/ui/treatment_button_borderless_light.png"},{"path":"textures/ui/treatment_button_borderless_lighthover.json"},{"path":"textures/ui/treatment_button_borderless_lighthover.png"},{"path":"textures/ui/treatment_button_borderless_lightpressed.json"},{"path":"textures/ui/treatment_button_borderless_lightpressed.png"}],"version" : 1}

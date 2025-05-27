@@ -1,0 +1,18 @@
+{
+    "format_version": 1,
+    "header": {
+        "description": "Car Builder button animation", 
+        "name": "Car Builder button animation", 
+        "uuid": "175fccbe-8e91-4bd4-9e30-52192ae2ea97", 
+        "version": [1, 0, 0],
+        "min_engine_version": [1, 11, 0]
+    },
+    "modules": [
+        {
+            "description": "Car Builder button animation",
+            "type": "resources",
+            "uuid": "c3956d8a-8a45-47dc-8f55-9fca50117e92", 
+            "version": [1, 0, 0]
+        }
+    ]
+}
