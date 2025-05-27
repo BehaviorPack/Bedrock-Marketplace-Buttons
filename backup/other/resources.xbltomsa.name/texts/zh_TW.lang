@@ -1,0 +1,80 @@
+networkWorld.connect_to_xbl=使用 Microsoft 帳戶登入以與好友一起玩遊戲。	#
+options.dev_useRetailXboxSandbox=使用少量 MSA 沙箱	#
+createWorldScreen.disconnectedXboxLive=您未連線至 Microsoft 服務。您有玩家代號的好友將無法加入您的多人遊戲世界。請登入您的 Microsoft 帳戶以與好友一起玩遊戲。	#
+realmsSharingScreen.failedSignInModalMessage=您必須登入 Microsoft 帳戶才能加入 Realm。請登入然後再試一次。	#
+commands.mixer.error.notoken=您必須以 Microsoft 帳戶登入才能啟用 Mixer 互動功能。	#
+realmsCreateScreen.incomplete.create.b=您開始建立 Realm 當時似乎是使用另一個 Microsoft 帳戶。您是否要以擁有人身分用這個 Microsoft 帳戶完成該 Realm 的建立程序？	#
+networkWorld.multiplayerPrivilegesBlocked=您無法玩線上多人遊戲的原因在於您的 Microsoft 帳戶的設定方式。您可於 aka.ms/accountsettings 檢閱和變更您的隱私設定。	#
+xblLogin.LoginMessageTitle=Microsoft 帳戶	#
+xbl.savePurchase.description.line1=您是否要使用在任意裝置中的購買項目玩遊戲？以 Microsoft 帳戶登入，您就可以在使用任何裝置玩《Minecraft》時使用自己的錢幣、外觀、材質套件、地圖和混搭。	#
+xbl.savePurchase.title=是否要在 Microsoft 帳戶中儲存購買項目？	#
+xbl.savePurchase.saveButton=儲存至 Microsoft 帳戶	#
+xbl.savePurchase.toast.message=購買的項目已同步至 Microsoft 帳戶！	#
+xbl.savePurchase.inProgress.message=正在傳輸購買至 Microsoft 帳戶…	#
+store.sign_in_warning.no_xbl_and_local_content=重要！您已購買僅此裝置可用的套件和/或錢幣，而且可能因裝置故障、遺失或解除安裝 Minecraft 而遺失！使用 Microsoft 帳戶 (免費) 登入，並將您的套件使用權限和錢幣轉移至該帳戶，以保護並使用任何已經登入帳戶的裝置存取。	#
+store.sign_in_warning.no_xbl_and_no_local_content.line2=使用 Microsoft  帳戶 (免費) 登入，並將您的套件使用權限和錢幣轉移至該帳戶，以保護您購買的套件和錢幣。	#
+xbl.skipSignIn.prompt.description=如果您不將此裝置的購買項目轉移至此帳戶中，則該 Microsoft 帳戶將無法成為永久帳戶。您將無法在啟動《Minecraft》時自動登入。	#
+xbl.signOut.title=Microsoft 帳戶購買項目！	#
+xbl.signOut.message1=當您登出 Microsoft 後，您將無法存取在商店中購買的錢幣和物品。	#
+disconnectionScreen.notAuthenticated=您必須向 Microsoft 服務完成驗證。	#
+feed.connected=每個 Realm 使用您的 Microsoft 帳戶連接至俱樂部。	#
+howtoplay.multiplayer.text.6=注意：您必須連上網際網路並登入 Microsoft 帳戶才能進行多人遊戲。	#
+options.broadcast.permissionError=您沒有使用此功能的權限。請在 aka.ms/accountsettings 檢閱和變更您的隱私設定	#
+options.xboxLiveAccountSettings=Microsoft 帳戶設定	#
+options.xboxLiveSignedIn=已使用 Microsoft 帳戶登入	#
+options.xboxLiveSignedOut=已登出 Microsoft 帳戶	#
+options.turnOffAchievements.message=成就僅於設為密技關閉的生存模式世界中提供使用。若您繼續，即使在玩之前切換回來，亦無人可在此世界遊戲能再贏得成就。	#
+options.achievementsDisabled=在此世界無法獲得成就。	#
+options.achievementsDisabled.onLoad=若您開始以這些設定玩遊戲，即無法在此世界中再贏得成就。	#
+options.achievementsDisabled.notSignedIn=在此世界中雖可得到成就，但您必須登入 Microsoft 帳戶方能贏取。	#
+permissions.AddFriends=您無法新增好友的原因在於您的 Microsoft 帳戶設定方式。您可於 aka.ms/accountsettings 的隱私與線上安全設定中變更。	#
+permissions.MultiplayerSessions=您無法在 Realm 中玩遊戲的原因在於您的 Microsoft 帳戶設定方式。您可於 aka.ms/accountsettings 的隱私與線上安全設定中變更。	#
+permissions.Communications=您無法與其他玩家聊天的原因在於您的 Microsoft 帳戶設定方式。您可於 aka.ms/accountsettings 的隱私與線上安全設定中變更。	#
+permissions.MultiplayerSessionsOnConsole=您的 Microsoft 帳戶設定不允許進行多人遊戲。請在 aka.ms/accountsettings 檢查您的隱私和線上安全設定，確定您有 Microsoft 帳戶 Gold 且您的設定允許多人遊戲。	#
+store.content.requireXbl.signedIn=使用 Microsoft 帳戶免費下載。	#
+store.ratings.signIn.description2=您將必須先使用 Microsoft 帳戶登入，然後才能評等某件商品。	#
+store.purchase.signInPart2=使用 Microsoft 帳戶登入以開始使用商店的服務！	#
+remix_export.EULA.content=最新消息！您的 Remix 3D 設定檔已不再與您的玩家代號連結。如果您已有 Remix 3D 設定檔，我們會保留您目前的玩家代號做為您的名稱。如果您是新玩家，我們會為您自動產生一個 Remix 3D 設定檔。(您可以稍後在 Remix3D.com 編輯。) 按一下「同意」，即表示您了解此變更，並上傳您的作品至 Remix3D.com。此項目受到 Microsoft 服務協議和隱私權聲明規範。	#
+remix_export.XBL_signin=您必須登入 Microsoft 帳戶才能上傳至 Remix3D.com。	#
+xbox.signin.message=使用您的免費 Microsoft 帳戶登入，體驗完整的《Minecraft》世界。	#
+xbox.signingin=正在使用您的 Microsoft 帳戶登入…	#
+xbox.firstsignin.line1=歡迎來到《Minecraft》！使用 Microsoft 帳戶以開始與《Minecraft》社群連線，而且不論是使用 PC、遊戲主機、手機或平板電腦，都可以一起玩遊戲。最棒的是什麼？	#
+xbox.firstsignin.line3=沒有帳戶？馬上建立就可贏得成就，還能加入 Realm 和伺服器！	#
+xbox.firstsignin.line3.norealmsOrServers=沒有帳戶嗎？馬上建立就可贏得成就，並與跨平台的朋友一起玩遊戲！	#
+xbox.failedsignin.line1=我們嘗試過將您登入您的 Microsoft 帳戶，但卻發生了問題。	#
+xbox.achievementssignin.line2=使用 Microsoft 帳戶登入以開始賺取！	#
+xbox.addfriendsignin.line1=以您好友的玩家代號尋找好友，即可在他們上線時收到通知。	#
+xbox.addfriendsignin.line2=使用 Microsoft 帳戶登入以開始新增好友！	#
+xbox.invitesignin.line1=以您好友的玩家代號新增好友，即可在他們上線時查看他們的世界。	#
+xbox.invitesignin.line2=使用 Microsoft 帳戶登入以開始邀請好友！	#
+xbox.signInLong=免費登入！	#
+xbox.signOutLong=登出您的 Microsoft 帳戶	#
+xbox.disconectionscreen.notSignedIn=使用您的 Microsoft 帳戶登入以與好友一起玩遊戲。	#
+xbox.disconectionscreen.multiplayerNotAllowed=此 Microsoft 帳戶沒有加入多人遊戲的權限。	#
+selectTemplate.signIn=使用 Microsoft 帳戶建立 Realm	#
+howtoplay.multiplayer.header.3=加入線上遊戲	#
+trial.tabbed_upsell.xbl.description=透過完整版 Minecraft 體驗，您可以玩創造模式、成就及更多，而且使用 Microsoft 帳戶，您可以在 Minecraft 社群中認識其他玩家！加入好友的世界、在伺服器中認識新朋友，並同步您購買的市集內容至所有您玩 Minecraft 的平台和裝置中。	#
+trial.tabbed_upsell.achievements.description=除了有創造模式、多人遊戲等完整的 Minecraft 體驗之外，您還可以獲得「成就」。「成就」和「遊戲得分」代表您在 Minecraft 中的進度，並可向您的 Microsoft 帳戶好友展示您的成就。取得完整版遊戲即可開始賺取！	#
+trial.tabbed_upsell.xbl.title=Microsoft 帳戶	#
+realmsCreateScreen.incomplete.create.c=已有人用此裝置上的計費帳戶開始建立 Realm。您要以擁有人身分用這個 Microsoft 帳戶完成該 Realm 的建立程序嗎？	#
+realmsCreateScreen.incomplete.renew.c=已有人用此裝置上的計費帳戶開始續訂 Realm。您是否要以擁有人身分用這個 Microsoft 帳戶完成該 Realm 的續訂程序？	#
+options.xboxliveBroadcastSettings=Microsoft 帳戶設定	#
+pauseScreen.xboxLiveDisconnect=糟糕！您的 Microsoft 帳戶已中斷連線。若要邀請更多玩家，請在主選單登入並重新啟用您的世界。	#
+selectTemplate.unableToSignIn=此裝置無法使用 Microsoft 服務	#
+store.coins.incomplete.fulfill.b=您之前似乎是使用另一個 Microsoft 帳戶開始購物的，是否要改為使用這個帳戶來完成購買？	#
+store.coins.incomplete.fulfill.b=您之前似乎是使用另一個 Microsoft 帳戶開始購物的，是否要改為使用這個 Microsoft 帳戶來完成購買？	#
+createWorldScreen.check_internet_connection=您未連線至網際網路。您的好友將無法加入您的多人遊戲世界。請登入您的 Microsoft 帳戶以與好友一起玩遊戲。  #
+realmsCreateScreen.incomplete.renew.b=您開始為 Realm 續訂當時似乎是使用另一個 Microsoft 帳戶。您是否要以此 Microsoft 帳戶擁有人的身分完成該 Realm 的續訂程序？  # 
+xbl.syncIAP.title=是否同步購買的項目至 Microsoft 帳戶？  #
+xbl.syncIAP.description=登入 Microsoft 帳戶以同步您的外觀、材質套件、世界和混搭，這樣不論您使用哪種裝置玩 Minecraft，都可以使用這些內容。 #
+xbl.syncIAP.toast.message=購買的項目已同步至 Microsoft 帳戶  #
+xbl.syncIAP.inProgress.message=正在同步購買的項目至 Microsoft 帳戶…  #
+xblLogin.LoginMessage=正在連線…	#
+xbl.syncIAP.skipSignIn.prompt.description=如果您不將此裝置的購買項目同步至此帳戶中，則該 Microsoft 帳戶將無法成為永久帳戶。您無法在啟動《Minecraft》時自動登入。  #
+
+
+
+
+
+
+

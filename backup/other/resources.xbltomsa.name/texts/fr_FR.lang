@@ -1,0 +1,80 @@
+networkWorld.connect_to_xbl=Connectez-vous avec un compte Microsoft pour jouer entre amis.	#
+options.dev_useRetailXboxSandbox=Bac à sable MSA version commerciale	#
+createWorldScreen.disconnectedXboxLive=Vous n'êtes pas connecté aux services Microsoft. Vos amis ayant un gamertag ne pourront pas rejoindre votre monde multijoueur. Connectez-vous à votre compte Microsoft pour jouer avec eux.	#
+realmsSharingScreen.failedSignInModalMessage=Vous devez être connecté à un compte Microsoft pour rejoindre un Realm. Veuillez vous connecter et réessayer.	#
+commands.mixer.error.notoken=Pour activer l'interactivité Mixer, vous devez vous connecter à un compte Microsoft.	#
+realmsCreateScreen.incomplete.create.b=Apparemment, vous avez commencé à créer un Realm avec un autre compte Microsoft. Voulez-vous terminer la création de ce Realm avec ce compte Microsoft en tant que possesseur ?	#
+networkWorld.multiplayerPrivilegesBlocked=La configuration de votre compte Microsoft ne vous permet pas de jouer à des parties en ligne multijoueur. Consultez et modifiez vos paramètres de confidentialité à l'adresse aka.ms/accountsettings.	#
+xblLogin.LoginMessageTitle=Compte Microsoft	#
+xbl.savePurchase.description.line1=Voulez-vous jouer avec vos achats réalisés depuis n'importe quel appareil ? Connectez-vous à votre compte Microsoft et vous retrouverez vos pièces, skins, packs de textures, cartes et mash-up, quel que soit l'appareil sur lequel vous jouer à Minecraft.	#
+xbl.savePurchase.title=Sauv. les achats sur un compte Microsoft ?	#
+xbl.savePurchase.saveButton=Sauv. sur un compte Microsoft	#
+xbl.savePurchase.toast.message=Achats synchronisés sur le compte Microsoft !	#
+xbl.savePurchase.inProgress.message=Transfert des achats sur un compte Microsoft...	#
+store.sign_in_warning.no_xbl_and_local_content=Important ! Vous avez acheté des packs et/ou Pièces qui sont uniquement disponibles sur cet appareil et pourraient être perdus en cas de mauvais fonctionnement ou de perte de l'appareil, ou si Minecraft n'est pas installé !! Connectez-vous avec un compte Microsoft (gratuit) et transférez vos packs et Pièces vers ce compte pour les protéger et y accéder sur n'importe quel appareil auquel vous vous connectez.	#
+store.sign_in_warning.no_xbl_and_no_local_content.line2=Connectez-vous avec un compte Microsoft (gratuit) et transférez vos packs vers ce compte pour protéger les packs et Pièces achetés.	#
+xbl.skipSignIn.prompt.description=Si vous ne transférez pas les achats réalisés avec cet appareil sur ce compte Microsoft, celui-ci ne sera pas le compte principal de l'appareil. Vous ne serez donc pas connecté automatiquement au lancement de Minecraft.	#
+xbl.signOut.title=Achats du compte Microsoft !	#
+xbl.signOut.message1=Lorsque vous êtes déconnecté de votre compte Microsoft, vous n'avez pas accès à vos pièces et objets achetés en magasin.	#
+disconnectionScreen.notAuthenticated=Vous devez vous authentifier sur les services Microsoft.	#
+feed.connected=Chaque Realm est connecté à un Club avec votre compte Microsoft.	#
+howtoplay.multiplayer.text.6=Remarque : vous devez avoir une connexion à Internet et être connecté à un compte Microsoft pour jouer en multijoueur.	#
+options.broadcast.permissionError=Vous n'avez pas l'autorisation d'utiliser cette fonctionnalité. Consultez et modifiez vos paramètres de confidentialité à l'adresse aka.ms/accountsettings.	#
+options.xboxLiveAccountSettings=Paramètres de compte Microsoft	#
+options.xboxLiveSignedIn=Connecté avec un compte Microsoft	#
+options.xboxLiveSignedOut=Déconnecté du compte Microsoft	#
+options.turnOffAchievements.message=Les succès ne sont disponibles que dans les mondes en mode Survie avec commandes de triche désactivées. Si vous continuez, plus aucun succès ne sera gagné dans ce monde, même en modifiant ce choix par la suite.	#
+options.achievementsDisabled=Vous ne pouvez pas obtenir de succès dans ce monde.	#
+options.achievementsDisabled.onLoad=Si vous commencez à jouer avec ces paramètres, vous ne pourrez plus obtenir de succès dans ce monde.	#
+options.achievementsDisabled.notSignedIn=Les succès peuvent être obtenus dans ce monde, mais vous devez vous connecter à un compte Microsoft pour cela.	#
+permissions.AddFriends=La configuration de votre compte Microsoft ne vous permet pas d'ajouter des amis. Vous pouvez modifier cela dans les paramètres de confidentialité et de sécurité en ligne sur aka.ms/accountsettings.	#
+permissions.MultiplayerSessions=La configuration de votre compte Microsoft ne vous permet pas de jouer sur Realms. Vous pouvez modifier cela dans les paramètres de confidentialité et de sécurité en ligne sur aka.ms/accountsettings.	#
+permissions.Communications=La configuration de votre compte Microsoft ne vous permet pas de chatter avec d'autres joueurs. Vous pouvez modifier cela dans les paramètres de confidentialité et de sécurité en ligne sur aka.ms/accountsettings.	#
+permissions.MultiplayerSessionsOnConsole=Les paramètres de votre compte Microsoft n'autorisent pas les parties en multijoueur. Contrôlez vos paramètres de confidentialité et de sécurité en ligne sur aka.ms/accountsettings pour vérifier si vous possédez le statut de compte Microsoft Gold et que vos paramètres autorisent le mode multijoueur.	#
+store.content.requireXbl.signedIn=Téléchargez gratuitement du contenu avec un compte Microsoft.	#
+store.ratings.signIn.description2=Avant de pouvoir évaluer un objet, vous devez vous connecter à votre compte Microsoft.	#
+store.purchase.signInPart2=Connectez-vous à votre compte Microsoft pour commencer à utiliser le magasin !	#
+remix_export.EULA.content=Nouveau ! Votre profil Remix 3D n'est plus lié à votre Gamertag. Si vous avez déjà un profil Remix 3D, votre Gamertag actuel est réservé comme étant votre nom. Si vous êtes nouveau sur Remix 3D, nous générerons automatiquement un profil pour vous. (Vous pourrez modifier ceci plus tard sur Remix3D.com.) Appuyez sur J'accepte pour indiquer que vous avez pris connaissance de ceci et télécharger votre création sur Remix3D.com. Le Contrat de services Microsoft et la Déclaration de confidentialité s'appliquent.	#
+remix_export.XBL_signin=Vous devez vous connecter à votre compte Microsoft pour télécharger un modèle sur Remix3D.com.	#
+xbox.signin.message=Connectez-vous avec votre compte gratuit Microsoft pour profiter de tout l'univers Minecraft.	#
+xbox.signingin=Connexion à votre compte Microsoft…	#
+xbox.firstsignin.line1=Bienvenue chez Minecraft ! Utilisez un compte Microsoft pour vous découvrir la communauté Minecraft, où les joueurs sur PC, console, téléphone et tablette peuvent jouer tous ensemble. Le meilleur dans tout ça ?	#
+xbox.firstsignin.line3=Vous n'avez pas de compte ? Créez-en un pour gagner des succès et rejoindre des Realms et des serveurs !	#
+xbox.firstsignin.line3.norealmsOrServers=Vous n'avez pas de compte ? Créez-en un maintenant pour gagner des succès et jouer avec vos amis sur n'importe quelle plateforme !	#
+xbox.failedsignin.line1=Nous avons tenté de vous connecter à votre compte Microsoft, mais une erreur s'est produite.	#
+xbox.achievementssignin.line2=Connectez-vous à votre compte Microsoft pour commencer à en gagner !	#
+xbox.addfriendsignin.line1=Retrouvez vos amis à l'aide de leur gamertag pour voir lorsqu'ils sont en ligne.	#
+xbox.addfriendsignin.line2=Connectez-vous à votre compte Microsoft pour commencer à ajouter des amis !	#
+xbox.invitesignin.line1=Invitez vos amis à l'aide de leur gamertag pour voir leurs mondes lorsqu'ils sont en ligne.	#
+xbox.invitesignin.line2=Connectez-vous à votre compte Microsoft pour commencer à inviter des amis !	#
+xbox.signInLong=Inscrivez-vous gratuitement !	#
+xbox.signOutLong=Vous déconnecter de votre compte Microsoft	#
+xbox.disconectionscreen.notSignedIn=Connectez-vous avec votre compte Microsoft pour jouer entre amis.	#
+xbox.disconectionscreen.multiplayerNotAllowed=Ce compte Microsoft n'est pas autorisé à rejoindre une partie multijoueur.	#
+selectTemplate.signIn=Créer un Realm avec un compte Microsoft	#
+howtoplay.multiplayer.header.3=Rejoindre une partie en ligne	#
+trial.tabbed_upsell.xbl.description=Avec l'expérience de jeu complète de Minecraft, vous avez accès au mode Créatif, aux succès et à bien d'autres fonctionnalités. De plus, avec un compte Microsoft, vous pouvez rencontrer d'autres joueurs de la communauté Minecraft ! Rejoignez les mondes de vos amis, faites-vous de nouveaux amis sur les serveurs et synchronisez vos achats du magasin pour les avoir à portée de main de tous les endroits où vous jouez à Minecraft.	#
+trial.tabbed_upsell.achievements.description=En plus de l'expérience de jeu complète de Minecraft avec le mode Créatif, le mode multijoueur et bien plus encore, vous remporterez des succès. Les succès et les scores du joueur indiquent vos progrès à Minecraft et montrent ce que vous avez accompli à vos amis liés à votre compte Microsoft. Procurez-vous la version complète du jeu pour commencer à les remporter !	#
+trial.tabbed_upsell.xbl.title=Compte Microsoft	#
+realmsCreateScreen.incomplete.create.c=Quelqu'un a commencé à créer un Realm avec le compte de facturation de cet appareil. Voulez-vous terminer la création de ce Realm avec ce compte Microsoft en tant que possesseur ?	#
+realmsCreateScreen.incomplete.renew.c=Quelqu'un a commencé à renouveler un Realm avec le compte de facturation de cet appareil. Voulez-vous terminer le renouvellement de ce Realm avec ce compte Microsoft en tant que possesseur ?	#
+options.xboxliveBroadcastSettings=Paramètres de compte Microsoft	#
+pauseScreen.xboxLiveDisconnect=Oups ! Votre compte Microsoft a été déconnecté. Pour inviter plus de joueurs, connectez-vous depuis le menu principal et redémarrez votre monde.	#
+selectTemplate.unableToSignIn=Les services Microsoft ne sont pas disponibles sur cet appareil	#
+store.coins.incomplete.fulfill.b=Apparemment, vous avez commencé un achat avec un autre compte Microsoft. Voulez-vous terminer cet achat avec ce compte à la place ?	#
+store.coins.incomplete.fulfill.b=Apparemment, vous avez commencé un achat avec un autre compte Microsoft. Voulez-vous terminer cet achat avec ce compte Microsoft à la place ?	#
+createWorldScreen.check_internet_connection=Vous n'êtes pas connecté à Internet. Vos amis ne pourront pas rejoindre vos mondes multijoueur. Connectez-vous à votre compte Microsoft pour jouer avec eux.  #
+realmsCreateScreen.incomplete.renew.b=Apparemment, vous avez commencé à renouveler un Realm avec un autre compte Microsoft. Voulez-vous terminer le renouvellement de ce Realm avec ce compte Microsoft en tant que possesseur ?  #
+xbl.syncIAP.title=Synchroniser les achats sur le compte Microsoft ?  #
+xbl.syncIAP.description=Connectez-vous à votre compte Microsoft pour synchroniser vos skins, vos packs de textures, vos mondes et vos mash-up. Vous les retrouverez sur tous les appareils que vous utilisez pour jouer à Minecraft.  #
+xbl.syncIAP.toast.message=Achats synchronisés sur le compte Microsoft  #
+xbl.syncIAP.inProgress.message=Synchronisation des achats sur le compte Microsoft...  #
+xblLogin.LoginMessage=Connexion...	#
+xbl.syncIAP.skipSignIn.prompt.description=Si vous ne synchronisez pas les achats réalisés avec cet appareil sur ce compte Microsoft, celui-ci ne sera pas le compte principal de l'appareil. Vous ne serez donc pas connecté automatiquement au lancement de Minecraft.  #
+
+
+
+
+
+
+

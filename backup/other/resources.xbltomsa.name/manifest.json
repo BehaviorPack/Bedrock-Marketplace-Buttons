@@ -1,0 +1,17 @@
+{
+  "format_version": 1,
+  "header": {
+    "description": "resources.xbltomsa.description",
+    "name": "resources.xbltomsa.name",
+    "uuid": "d41f7a19-3475-4d3b-8ffa-80e2b9734be2",
+    "version": [ 1, 0, 0 ]
+  },
+  "modules": [
+    {
+      "description": "resources.xbltomsa.description",
+      "type": "resources",
+      "uuid": "39fd1e2a-b529-43ca-9cc0-31ea0f5ea986",
+      "version": [ 1, 0, 0 ]
+    }
+  ]
+}

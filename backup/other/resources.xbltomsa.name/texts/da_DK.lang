@@ -1,0 +1,81 @@
+networkWorld.connect_to_xbl=Log på med en Microsoft-konto for at spille med dine venner.	#
+options.dev_useRetailXboxSandbox=Brug MSA-detailsandkasse	#
+createWorldScreen.disconnectedXboxLive=Du har ikke forbindelse til Microsoft-tjenester, og dine venner med gamertags kan derfor ikke spille med i din multiplayerverden. Log på din Microsoft-konto for at spille med dine venner.	#
+realmsSharingScreen.failedSignInModalMessage=Du skal være logget på en Microsoft-konto for at spille i et realm. Log på, og prøv igen.	#
+commands.mixer.error.notoken=Du skal være logget på med en Microsoft-konto for at aktivere Mixer-interaktivitet.	#
+realmsCreateScreen.incomplete.create.b=Vi kan se, at du er begyndt at oprette et realm med en anden Microsoft-konto. Vil du færdiggøre oprettelsen af det pågældende realm med denne Microsoft-konto som ejer?	#
+networkWorld.multiplayerPrivilegesBlocked=Du kan ikke spille online multiplayer pga. indstillingerne på din Microsoft-konto. Du kan ændre dine indstillinger for privatlivs- og onlinesikkerhed på aka.ms/accountsettings.	#
+xblLogin.LoginMessageTitle=Microsoft-konto	#
+xbl.savePurchase.description.line1=Vil du have dine køb med på alle enheder? Log på med en Microsoft-konto, og tag dine mønter, skins, teksturpakker, kort og mashups med dig til alle de enheder, du spiller Minecraft på.	#
+xbl.savePurchase.title=Vil du gemme dine køb på en Microsoft-konto?	#
+xbl.savePurchase.saveButton=Gem på Microsoft-konto	#
+xbl.savePurchase.toast.message=Købene er synkroniseret på Microsoft-kontoen!	#
+xbl.savePurchase.inProgress.message=Overfører køb til Microsoft-konto ...	#
+store.sign_in_warning.no_xbl_and_local_content=Vigtigt! Du har købt pakker og/eller mønter som kun er tilgængelige på denne enhed, og som måske går tabt hvis denne enhed holder op med at virker, tabes eller Minecraft bliver afinstalleret! Log in med en Microsoft-konto (gratis) og overfør dine pakkerettigheder og mønter til kontoen for at beskytte og få adgang til dem på andre enheder du logger ind på.	#
+store.sign_in_warning.no_xbl_and_no_local_content.line2=Log på med en Microsoft-konto (gratis) og overfør dine pakkerettigheder til kontoen for at beskytte dine købte pakker og mønter.	#
+xbl.skipSignIn.prompt.description=Denne Microsoft-konto bliver ikke primær konto for enheden, medmindre du overfører enhedens køb til den. Du logger ikke automatisk på, når du starter Minecraft.	#
+xbl.signOut.title=Køb på Microsoft-konto!	#
+xbl.signOut.message1=Når du er logget af din Microsoft-konto, har du ikke adgang til de mønter og genstande, du har købt i butikken.	#
+disconnectionScreen.notAuthenticated=Du skal godkendes til Microsoft-tjenester.	#
+feed.connected=Alle realms er tilknyttet en klub via din Microsoft-konto.	#
+howtoplay.multiplayer.text.6=Bemærk! Du skal have internetforbindelse og være logget på en Microsoft-konto for at spille multiplayer.	#
+options.broadcast.permissionError=Du har ikke tilladelse til at bruge funktionen. Se og rediger dine indstillinger for beskyttelse af personlige oplysninger på aka.ms/accountsettings	#
+options.xboxLiveAccountSettings=Indstillinger for Microsoft-konto	#
+options.xboxLiveSignedIn=Logget på med en Microsoft-konto	#
+options.xboxLiveSignedOut=Logget af en Microsoft-konto	#
+options.turnOffAchievements.message=Gennemførelser kan kun opnås i Overlevelsesverdener, hvis snydekoder er slået fra. Hvis du fortsætter, vil ingen opnå gennemførelser i denne verden. Heller ikke, hvis du skifter tilbage igen, inden du spiller.	#
+options.achievementsDisabled=Du kan ikke opnå gennemførelser i denne verden.	#
+options.achievementsDisabled.onLoad=Hvis du starter spillet med de aktuelle indstillinger, vil du ikke længere kunne opnå gennemførelser i denne verden.	#
+options.achievementsDisabled.notSignedIn=Du kan opnå gennemførelser i denne verden, hvis du er logget på en Microsoft-konto.	#
+permissions.AddFriends=Du kan ikke tilføje venner pga. indstillingerne på din Microsoft-konto. Du kan ændre dine indstillinger for privatlivs- og onlinesikkerhed på aka.ms/accountsettings.	#
+permissions.MultiplayerSessions=Du kan ikke spille Realms pga. indstillingerne på din Microsoft-konto. Du kan ændre dine indstillinger for privatlivs- og onlinesikkerhed på aka.ms/accountsettings.	#
+permissions.Communications=Du kan ikke chatte med andre pga. indstillingerne på din Microsoft-konto. Du kan ændre dine indstillinger for privatlivs- og onlinesikkerhed på aka.ms/accountsettings.	#
+permissions.MultiplayerSessionsOnConsole=Indstillingerne på din Microsoft-konto tillader ikke multiplayerspil. Sørg for, at du har adgang til Gold, og at du tillader multiplayer i dine indstillinger for privatlivs- og onlinesikkerhed på aka.ms/accountsettings.	#
+store.content.requireXbl.signedIn=Download gratis med en Microsoft-konto.	#
+store.ratings.signIn.description2=Du skal logge på med en Microsoft-konto, inden du kan give din bedømmelse.	#
+store.purchase.signInPart2=Du skal logge på med en Microsoft-konto, inden du kan gå i butikken.	#
+remix_export.EULA.content=Nyhed! Din Remix 3D-profil er ikke længere linket til dit gamertag. Hvis du allerede har en Remix 3D-profil, har vi reserveret dit nuværende gamertag som dit navn. Hvis du er ny, genererer vi automatisk en Remix 3D-profil til dig (du kan redigere den senere på Remix3D.com). Tryk på Acceptér for at godkende ændringen og uploade din kreation til Remix3D.com. Microsoft serviceaftale og erklæring om beskyttelse af personlige oplysninger er gældende.	#
+remix_export.XBL_signin=Du kan kun uploade til Remix3D.com, hvis du er logget på en Microsoft-konto.	#
+xbox.signin.message=Log på med din gratis Microsoft-konto for at få det fulde udbytte af Minecraft.	#
+xbox.signingin=Logger på med din Microsoft-konto ...	#
+xbox.firstsignin.line1=Velkommen til Minecraft! Brug en Microsoft-konto til at oprette forbindelse til Minecraft-communityet, hvor pc'er, konsoller, telefoner og tablets alle kan spille sammen. Og det bedste af det hele?	#
+xbox.firstsignin.line3=Hvis du ikke har en konto, kan du oprette en med det samme, så du kan opnå gennemførelser, spille på servere og være med i realms!	#
+xbox.firstsignin.line3.norealmsOrServers=Har du ikke nogen konto? Opret en med det samme, så du kan opnå gennemførelser og spille med dine venner på tværs af platforme!	#
+xbox.failedsignin.line1=Vi forsøgte at logge dig på din Microsoft-konto, men der gik noget galt.	#
+xbox.achievementssignin.line2=Du skal logge på med en Microsoft-konto, inden du kan opnå dem.	#
+xbox.addfriendsignin.line1=Find dine venner via deres gamertag, så du kan se, hvornår de er online.	#
+xbox.addfriendsignin.line2=Du skal logge på med en Microsoft-konto, inden du kan tilføje venner.	#
+xbox.invitesignin.line1=Inviter dine venner via deres gamertag, så du kan se deres verdener, når de er online.	#
+xbox.invitesignin.line2=Du skal logge på med en Microsoft-konto, inden du kan invitere venner.	#
+xbox.signInLong=Log på gratis!	#
+xbox.signOutLong=Log af din Microsoft-konto	#
+xbox.disconectionscreen.notSignedIn=Log på med din Microsoft-konto for at spille med dine venner.	#
+xbox.disconectionscreen.multiplayerNotAllowed=Microsoft-kontoen har ikke tilladelse til at deltage i multiplayerspil.	#
+selectTemplate.signIn=Opret realm med Microsoft-konto	#
+howtoplay.multiplayer.header.3=Deltagelse i et onlinespil	#
+trial.tabbed_upsell.xbl.description=Det komplette Minecraft giver dig mulighed for at spille Kreativ, gennemføre bedrifter og meget mere. Hvis du har en Microsoft-konto, kan du møde andre i Minecraft-fælleskabet! Spil i dine venners verdener, få nye venner på servere, og synkroniser dine køb på markedspladsen til alle de enheder, du spiller Minecraft på.	#
+trial.tabbed_upsell.achievements.description=Udover det komplette Minecraft med Kreativ tilstand, multiplayer og meget mere får du mulighed for at gennemføre bedrifter. Gennemførelser og gamerscore illustrerer dine fremskridt i Minecraft og viser dine Microsoft konto-venner, hvad du har opnået. Hent det komplette spil, og vis, hvad du kan!	#
+trial.tabbed_upsell.xbl.title=Microsoft-konto	#
+realmsCreateScreen.incomplete.create.c=Nogen er begyndt at oprette et realm med faktureringskontoen på denne enhed. Vil du færdiggøre oprettelsen af det pågældende realm med denne Microsoft-konto som ejer?	#
+realmsCreateScreen.incomplete.renew.c=Nogen er begyndt at forny et realm med faktureringskontoen på denne enhed. Vil du færdiggøre fornyelsen af det pågældende realm med denne Microsoft-konto som ejer?	#
+options.xboxliveBroadcastSettings=Indstillinger for Microsoft-konto	#
+pauseScreen.xboxLiveDisconnect=Ups! Du har mistet forbindelsen til din Microsoft-konto. Log på i hovedmenuen, og genstart din verden, hvis du vil invitere flere spillere.	#
+selectTemplate.unableToSignIn=Microsoft-tjenester kan ikke benyttes på denne enhed	#
+store.coins.incomplete.fulfill.b=Vi kan se, at du har påbegyndt et køb med en anden Microsoft-konto. Vil du færdiggøre købet med denne konto i stedet for?	#
+store.coins.incomplete.fulfill.b=Vi kan se, at du har påbegyndt et køb med en anden Microsoft-konto. Vil du færdiggøre købet med denne Microsoft-konto i stedet for?	#
+createWorldScreen.check_internet_connection=Du har ikke forbindelse til internettet, og dine venner kan derfor ikke spille med i dine multiplayerverdener. Log på din Microsoft-konto for at spille med dine venner.  #
+realmsCreateScreen.incomplete.renew.b=Vi kan se, at du er begyndt at forny et realm med en anden Microsoft-konto. Vil du færdiggøre fornyelsen af det pågældende realm med denne Microsoft-konto som ejer?  #
+xbl.syncIAP.title=Vil du synkronisere dine køb til din Microsoft-konto?
+xbl.syncIAP.description=Log på din Microsoft-konto for at synkronisere dine skins, teksturpakker, verdener og mashups. Efterfølgende har du dem på alle dine enheder.  #
+xbl.syncIAP.toast.message=Købene er synkroniseret til din Microsoft-konto  #
+xbl.syncIAP.inProgress.message=Synkroniserer køb til Microsoft-konto ...  #
+xblLogin.LoginMessage=Opretter forbindelse ...	#
+xbl.syncIAP.skipSignIn.prompt.description=Denne Microsoft-konto bliver ikke primær konto for enheden, medmindre du synkroniserer enhedens køb til den. Du logger ikke automatisk på, når du starter Minecraft.  #
+
+
+
+
+
+
+
+

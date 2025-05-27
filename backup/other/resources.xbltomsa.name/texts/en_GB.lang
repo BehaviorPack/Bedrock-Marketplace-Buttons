@@ -1,0 +1,81 @@
+networkWorld.connect_to_xbl=Sign in with a Microsoft account to play with friends.	#
+options.dev_useRetailXboxSandbox=Use Retail MSA Sandbox	#
+createWorldScreen.disconnectedXboxLive=You are not connected to Microsoft services. Your friends with Gamertags will not be able to join your multiplayer world. Sign in to your Microsoft account to play with your friends.	#
+realmsSharingScreen.failedSignInModalMessage=You need to be signed in to a Microsoft account to join a Realm. Please sign in and try again.	#
+commands.mixer.error.notoken=You need to be signed in with a Microsoft account to enable Mixer interactivity.	#
+realmsCreateScreen.incomplete.create.b=It looks like you started creating a realm with a different Microsoft account. Do you want to complete creating that realm with this Microsoft account as the owner?	#
+networkWorld.multiplayerPrivilegesBlocked=You cannot play online multiplayer because of how your Microsoft account is set up. Review and change your privacy settings at aka.ms/accountsettings.	#
+xblLogin.LoginMessageTitle=Microsoft account	#
+xbl.savePurchase.description.line1=Do you want to play with whatever you buy from any device? Sign in with a Microsoft account and your Minecoins, Skins, Texture Packs, Maps and Mash-ups will be there for you on any device where you play Minecraft.	#
+xbl.savePurchase.title=Save Purchases to a Microsoft account?	#
+xbl.savePurchase.saveButton=Save to Microsoft account	#
+xbl.savePurchase.toast.message=Purchases Synced to your Microsoft account!	#
+xbl.savePurchase.inProgress.message=Transferring purchases to your Microsoft account...	#
+store.sign_in_warning.no_xbl_and_local_content=Important! You have purchased packs and/or Coins that are only available on this device and might be lost due to a device malfunction, loss or uninstalling Minecraft! Sign in with a Microsoft account (free) and transfer your pack entitlements and Coins to that account to protect and access your them on any device on which you sign in.	#
+store.sign_in_warning.no_xbl_and_no_local_content.line2=Sign in with a Microsoft account (free) and transfer your pack entitlements to that account to protect your purchased packs and Coins.	#
+xbl.skipSignIn.prompt.description=This Microsoft account will not be the primary account for this device if you do not transfer this device's purchases to this account. You will not automatically sign in when you start Minecraft.	#
+xbl.signOut.title=Microsoft account Purchases!	#
+xbl.signOut.message1=While you are signed out of your Microsoft account you will not have access to the Minecoins and items you bought in the store.	#
+disconnectionScreen.notAuthenticated=You need to authenticate to Microsoft services.	#
+feed.connected=Every Realm is connected to a Club with your Microsoft account.	#
+howtoplay.multiplayer.text.6=Note: You must have an Internet connection and be signed in to a Microsoft account to play multiplayer.	#
+options.broadcast.permissionError=You do not have permission to use this feature. Review and change your privacy settings at aka.ms/accountsettings	#
+options.xboxLiveAccountSettings=Microsoft account Settings	#
+options.xboxLiveSignedIn=Signed In with Microsoft account	#
+options.xboxLiveSignedOut=Signed Out of Microsoft account	#
+options.turnOffAchievements.message=Achievements are only available in worlds set to survival mode with cheats off. If you continue, no one will earn achievements while playing in this world ever again even if you switch back before playing.	#
+options.achievementsDisabled=Achievements cannot be earned in this world.	#
+options.achievementsDisabled.onLoad=If you start playing with these settings, achievements will no longer be earnable in this world.	#
+options.achievementsDisabled.notSignedIn=Achievements can be earned in this world, but you must sign in to a Microsoft account to earn them.	#
+permissions.AddFriends=You cannot add friends because of how your Microsoft account is set up. This can be changed in your privacy & online safety settings on aka.ms/accountsettings.	#
+permissions.MultiplayerSessions=You cannot play on Realms because of how your Microsoft account is set up. This can be changed in your privacy & online safety settings on aka.ms/accountsettings.	#
+permissions.Communications=You cannot chat with other players because of how your Microsoft account is set up. This can be changed in your privacy & online safety settings on aka.ms/accountsettings.	#
+permissions.MultiplayerSessionsOnConsole=Your Microsoft account settings do not allow multiplayer games. Check your privacy & online safety settings on aka.ms/accountsettings to make sure you have Microsoft account Gold and that your settings allow multiplayer.	#
+store.content.requireXbl.signedIn=Download for free with a Microsoft account.	#
+store.ratings.signIn.description2=Before we can let you rate an item, you will need to sign in with a Microsoft account.	#
+store.purchase.signInPart2=Sign in with a Microsoft account to start using the store!	#
+remix_export.EULA.content=New! Your Remix 3D profile is no longer linked to your gamertag. If you've already got a Remix 3D profile, we reserved your current gamertag as your name. If you're new, we will autogenerate a Remix 3D profile for you. (You can edit it later on Remix3D.com.) Hit Agree to acknowledge this change and upload your creation to Remix3D.com. Microsoft Services Agreement and Privacy Statements apply.	#
+remix_export.XBL_signin=You must be signed in to a Microsoft account to upload to Remix3D.com.	#
+xbox.signin.message=Sign in with your Free Microsoft account to experience the full world of Minecraft.	#
+xbox.signingin=Signing in with your Microsoft account...	#
+xbox.firstsignin.line1=Welcome to Minecraft! Use a Microsoft account to start connecting with the Minecraft community, where PCs, consoles, phones and tablets can all play together. And the best part?	#
+xbox.firstsignin.line3=Don't have an account? Create one now to earn achievements and join Realms and Servers!	#
+xbox.firstsignin.line3.norealmsOrServers=Don't have an account? Create one now to earn achievements and play with your cross-platform friends!	#
+xbox.failedsignin.line1=We tried to sign you in to your Microsoft account, but something went wrong.	#
+xbox.achievementssignin.line2=Sign in with a Microsoft account to start earning them!	#
+xbox.addfriendsignin.line1=Find your friends by their Gamertag to see when they are online.	#
+xbox.addfriendsignin.line2=Sign in with a Microsoft account to start adding friends!	#
+xbox.invitesignin.line1=Invite your friends by their Gamertag to see their worlds when they are online.	#
+xbox.invitesignin.line2=Sign in with a Microsoft account to start inviting friends!	#
+xbox.signInLong=Sign in for Free!	#
+xbox.signOutLong=Sign out of your Microsoft account	#
+xbox.disconectionscreen.notSignedIn=Sign in with your Microsoft account to play with friends.	#
+xbox.disconectionscreen.multiplayerNotAllowed=This Microsoft account does not have permission to join multiplayer games.	#
+selectTemplate.signIn=Create Realm with Microsoft Account	#
+howtoplay.multiplayer.header.3=Joining an Online Game	#
+trial.tabbed_upsell.xbl.description=With the full Minecraft experience you get Creative mode, Achievements and more, plus with a Microsoft Account you can meet others in the Minecraft community! Join your friends' worlds, make new friends on Servers and sync your Marketplace purchases to everywhere you play Minecraft.	#
+trial.tabbed_upsell.achievements.description=In addition to the full Minecraft experience with Creative mode, Multiplayer and more, you'll earn Achievements. Achievements and Gamerscore to mark your Minecraft progress and show your Microsoft Account friends your accomplishments. Get the full game to start earning them!	#
+trial.tabbed_upsell.xbl.title=Microsoft account	#
+realmsCreateScreen.incomplete.create.c=Someone started creating a Realm with the billing account on this device. Would you like to complete creating that Realm with this Microsoft account as the owner?	#
+realmsCreateScreen.incomplete.renew.c=Someone started renewing a realm with the billing account on this device. Would you like to complete renewing that realm with this Microsoft account as the owner?	#
+options.xboxliveBroadcastSettings=Microsoft account Settings	#
+pauseScreen.xboxLiveDisconnect=Oops! Your Microsoft account was disconnected. To invite more players, sign in on the Main Menu and restart your world.	#
+selectTemplate.unableToSignIn=Microsoft Services are unavailable on this device	#
+store.coins.incomplete.fulfill.b=It looks like you started a purchase with a different Microsoft account. Do you want to complete the purchase with this account instead?	#
+store.coins.incomplete.fulfill.b=It looks like you started a purchase with a different Microsoft account. Do you want to complete the purchase with this Microsoft account instead?	#
+createWorldScreen.check_internet_connection=You are not connected to the Internet. Your friends will not be able to join your multiplayer worlds. Sign in to your Microsoft account to play with your friends.  #
+realmsCreateScreen.incomplete.renew.b=It looks like you started renewing a realm with a different Microsoft account. Do you want to complete renewing that realm with this Microsoft account as the owner?  #
+xbl.syncIAP.title=Sync Purchases to Microsoft Account?  #
+xbl.syncIAP.description=Sign in to Microsoft Account to sync your Skins, Texture Packs, Worlds and Mash-ups. They will be there for you on any device where you play Minecraft.  #
+xbl.syncIAP.toast.message=Purchases Synced to Microsoft account  #
+xbl.syncIAP.inProgress.message=Syncing purchases to Microsoft account...  #
+xblLogin.LoginMessage=Connecting...	#
+xblLogin.LoginMessage=Connecting... #
+xbl.syncIAP.skipSignIn.prompt.description=This Microsoft account will not be the primary account for this device if you do not sync this device's purchases to this account. You will not automatically sign in when you start Minecraft.  #
+
+
+
+
+
+
+

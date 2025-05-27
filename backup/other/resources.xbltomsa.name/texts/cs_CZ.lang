@@ -1,0 +1,84 @@
+networkWorld.connect_to_xbl=Chcete-li hrát s přáteli, přihlaste se pomocí účtu Microsoft.	#
+options.dev_useRetailXboxSandbox=Používat maloobchodní sandbox MSA	#
+createWorldScreen.disconnectedXboxLive=Nejste připojeni ke službám Microsoft. Vaši přátelé se jmenovkami hráče se nebudou moci připojit k vašemu světu hry pro více hráčů. Chcete-li hrát s přáteli, přihlaste se ke svému účtu Microsoft.	#
+realmsSharingScreen.failedSignInModalMessage=Chcete-li se připojit k říši, musíte se přihlásit k účtu Microsoft. Přihlaste se a zkuste to znovu.	#
+commands.mixer.error.notoken=Chcete-li povolit interaktivitu Mixeru, musíte se přihlásit pomocí účtu Microsoft.	#
+realmsCreateScreen.incomplete.create.b=Zdá se, že jste začali s vytvářením říše pomocí jiného účtu Microsoft. Chcete dokončit vytváření dané říše pomocí tohoto účtu Microsoft jako vlastník?	#
+networkWorld.multiplayerPrivilegesBlocked=Nemůžete hrát online hru pro více hráčů kvůli způsobu nastavení vašeho účtu Microsoft. Zkontrolujte a změňte nastavení ochrany osobních údajů na stránce aka.ms/accountsettings.	#
+xblLogin.LoginMessageTitle=Účet Microsoft	#
+xbl.savePurchase.description.line1=Chcete hrát se vším, co si koupíte, na jakémkoli zařízení? Přihlaste se pomocí účtu Microsoft a vaše mince, skiny, textury, mapy a mash-upy budete moci využívat na všech zařízeních, na kterých hrajete Minecraft.	#
+xbl.savePurchase.title=Uložit nákupy do účtu Microsoft?	#
+xbl.savePurchase.saveButton=Uložit do účtu Microsoft	#
+xbl.savePurchase.toast.message=Nakoupené položky byly synchronizovány s účtem Microsoft!	#
+xbl.savePurchase.inProgress.message=Převádění nákupů na účet Microsoft...	#
+store.sign_in_warning.no_xbl_and_local_content=Důležité! Zakoupili jste balíčky a mince, které jsou dostupné pouze na tomto zařízení a o které můžete přijít v případě poruchy nebo ztráty zařízení nebo při odinstalování Minecraftu. Přihlaste se pomocí (bezplatného) účtu Microsoft a přeneste svá oprávnění k balíčkům i s mincemi na tento účet, kde budou v bezpečí a vy k nim budete mít přístup z libovolného zařízení, na kterém se přihlásíte.	#
+store.sign_in_warning.no_xbl_and_no_local_content.line2=Přihlaste se pomocí (bezplatného) účtu Microsoft a přeneste svá oprávnění k balíčkům na tento účet, kde budou zakoupené balíčky i mince v bezpečí.	#
+xbl.skipSignIn.prompt.description=Tento účet Microsoft nebude hlavním účtem pro toto zařízení, pokud na něj nepřevedete nákupy z tohoto zařízení. Při spuštění Minecraftu nebudete automaticky přihlášeni.	#
+xbl.signOut.title=Nákupy v rámci účtu Microsoft!	#
+xbl.signOut.message1=Pokud jste odhlášeni od účtu Microsoft, nebudete mít přístup k mincím a předmětům zakoupeným v obchodě.	#
+disconnectionScreen.notAuthenticated=Musíte provést ověření služeb Microsoft.	#
+feed.connected=Každá říše je připojena do klubu pomocí vašeho účtu Microsoft.	#
+howtoplay.multiplayer.text.6=Poznámka: Chcete-li hrát hru pro více hráčů, musíte být připojeni k internetu a přihlášeni k účtu Microsoft.	#
+options.broadcast.permissionError=Nemáte oprávnění pro použití této funkce. Zkontrolujte a změňte nastavení ochrany osobních údajů na stránce aka.ms/accountsettings.	#
+options.xboxLiveAccountSettings=Nastavení účtu Microsoft	#
+options.xboxLiveSignedIn=Proběhlo přihlášení pomocí účtu Microsoft	#
+options.xboxLiveSignedOut=Proběhlo odhlášení od účtu Microsoft	#
+options.turnOffAchievements.message=Herní úspěchy jsou dostupné pouze ve světech hry o přežití s vypnutými cheaty. Budete-li pokračovat, nikdo již nikdy nezíská při hraní v tomto světě žádné herní úspěchy, i když tuto možnost před hrou vrátíte zpět.	#
+options.achievementsDisabled=V tomto světě nelze získávat herní úspěchy.	#
+options.achievementsDisabled.onLoad=Pokud začnete hrát s těmito nastaveními, herní úspěchy již nebude možné v tomto světě získávat.	#
+options.achievementsDisabled.notSignedIn=V tomto světě lze získávat herní úspěchy, avšak musíte se přihlásit k účtu Microsoft.	#
+permissions.AddFriends=Nemůžete přidávat přátele kvůli způsobu nastavení vašeho účtu Microsoft. Lze to změnit v nastaveních ochrany osobních údajů a bezpečnosti online na stránce aka.ms/accountsettings.	#
+permissions.MultiplayerSessions=Nemůžete hrát ve službě Realms kvůli způsobu nastavení vašeho účtu Microsoft. Lze to změnit v nastaveních ochrany osobních údajů a bezpečnosti online na stránce aka.ms/accountsettings.	#
+permissions.Communications=Nemůžete chatovat s ostatními hráči kvůli způsobu nastavení vašeho účtu Microsoft. Lze to změnit v nastaveních ochrany osobních údajů a bezpečnosti online na stránce aka.ms/accountsettings.	#
+permissions.MultiplayerSessionsOnConsole=Nastavení vašeho účtu Microsoft neumožňuje hru pro více hráčů. Zkontrolujte si nastavení ochrany osobních údajů a bezpečnosti online na stránce aka.ms/accountsettings a ujistěte se, že máte zlatý účet Microsoft a že vaše nastavení umožňuje hru pro více hráčů.	#
+store.content.requireXbl.signedIn=Ke stažení zdarma s účtem Microsoft.	#
+store.ratings.signIn.description2=Než budete moci položku ohodnotit, musíte se přihlásit pomocí účtu Microsoft.	#
+store.purchase.signInPart2=Chcete-li začít nakupovat v obchodě, přihlaste se pomocí účtu Microsoft!	#
+remix_export.EULA.content=Novinka! Váš profil Remix 3D již není spojen s vaší jmenovkou hráče. Pokud už máte profil Remix 3D, rezervovali jsme vám jako jméno vaši současnou jmenovku hráče. Pokud jste noví, automaticky vám vygenerujeme profil Remix 3D. (Později si ho můžete upravit na stránkách Remix3D.com.) Tuto změnu potvrďte kliknutím na tlačítko Souhlasím a nahrajte svůj výtvor na stránky Remix3D.com. Platí smlouva o poskytování služeb a oznámení o ochraně osobních údajů společnosti Microsoft.	#
+remix_export.XBL_signin=Musíte se přihlásit k účtu Microsoft, abyste mohli nahrávat na web Remix3D.com.	#
+xbox.signin.message=Přihlaste se pomocí svého bezplatného účtu Microsoft a zažijte všechny krásy světa Minecraftu.	#
+xbox.signingin=Přihlašování pomocí vašeho účtu Microsoft...	#
+xbox.firstsignin.line1=Vítejte v Minecraftu! Pomocí účtu Microsoft se můžete začít připojovat ke komunitě Minecraft, kde všichni společně hrají na počítačích, konzolích, telefonech a tabletech. A víte, co je nejlepší?	#
+xbox.firstsignin.line3=Nemáte účet? Vytvořte si ho nyní a budete moci získávat herní úspěchy a připojit se ke službě Realms a serverům!	#
+xbox.firstsignin.line3.norealmsOrServers=Nemáte účet? Vytvořte si ho teď a budete moci získávat herní úspěchy a hrát s přáteli na různých platformách!	#
+xbox.failedsignin.line1=Snažili jsme se vás přihlásit k vašemu účtu Microsoft, ale něco se nepovedlo.	#
+xbox.achievementssignin.line2=Chcete-li je začít získávat, přihlaste se pomocí účtu Microsoft!	#
+xbox.addfriendsignin.line1=Najděte si přátele podle jmenovek hráčů, abyste viděli, když budou online.	#
+xbox.addfriendsignin.line2=Přihlaste se pomocí účtu Microsoft a můžete začít přidávat přátele!	#
+xbox.invitesignin.line1=Pozvěte své přátele podle jmenovek hráčů, abyste viděli jejich světy, když budou online.	#
+xbox.invitesignin.line2=Přihlaste se pomocí účtu Microsoft a můžete začít zvát přátele!	#
+xbox.signInLong=Přihlaste se zdarma!	#
+xbox.signOutLong=Odhlásit od účtu Microsoft	#
+xbox.disconectionscreen.notSignedIn=Chcete-li hrát s přáteli, přihlaste se pomocí svého účtu Microsoft.	#
+xbox.disconectionscreen.multiplayerNotAllowed=Tento účet Microsoft nemá oprávnění pro připojení k hrám pro více hráčů.	#
+selectTemplate.signIn=Vytvořit říši pomocí účtu Microsoft	#
+howtoplay.multiplayer.header.3=Připojování k online hře	#
+trial.tabbed_upsell.xbl.description=Kompletní verze hry Minecraft vám přináší režim Tvořivé hry, herní úspěchy a spoustu dalšího, plus účet Microsoft, díky němuž se můžete setkat s dalšími členy komunity Minecraft. Připojte se ke světům svých přátel, najděte si na serverech nové přátele a synchronizujte si nákupy z obchodu Marketplace na všech zařízeních, na nichž Minecraft hrajete.	#
+trial.tabbed_upsell.achievements.description=Kromě kompletní verze hry Minecraft s režimem Tvořivé hry, hrou pro více hráčů a mnoha dalšího si budete moct odemknout herní úspěchy. Herní úspěchy a skóre hráče zaznamenávají váš postup hrou Minecraft a ukazují vašim přátelům s účtem Microsoft, co jste dokázali. Získejte kompletní verzi hry a začněte získávat herní úspěchy!	#
+trial.tabbed_upsell.xbl.title=Účet Microsoft  #
+realmsCreateScreen.incomplete.create.c=Někdo začal s vytvářením říše pomocí fakturačního účtu na tomto zařízení. Chcete dokončit vytváření dané říše pomocí tohoto účtu Microsoft jako vlastník?	#
+realmsCreateScreen.incomplete.renew.c=Někdo začal s obnovováním říše pomocí fakturačního účtu na tomto zařízení. Chcete dokončit obnovování dané říše pomocí tohoto účtu Microsoft jako vlastník?	#
+options.xboxliveBroadcastSettings=Nastavení účtu Microsoft	#
+pauseScreen.xboxLiveDisconnect=Jejda! Váš účet Microsoft byl odpojen. Chcete-li pozvat další hráče, přihlaste se v hlavní nabídce a restartujte svůj svět.	#
+selectTemplate.unableToSignIn=Služby Microsoft nejsou na tomto zařízení dostupné.	#
+store.coins.incomplete.fulfill.b=Zdá se, že jste zahájili nákup pomocí jiného účtu Microsoft. Chcete místo toho dokončit nákup pomocí tohoto účtu?	#
+store.coins.incomplete.fulfill.b=Zdá se, že jste zahájili nákup pomocí jiného účtu Microsoft. Chcete místo toho dokončit nákup pomocí tohoto účtu Microsoft?	#
+createWorldScreen.check_internet_connection=Nejste připojeni k internetu. Vaši přátelé se nebudou moci připojit k vašim světům hry pro více hráčů. Chcete-li hrát s přáteli, přihlaste se ke svému účtu Microsoft.  #
+realmsCreateScreen.incomplete.renew.b=Zdá se, že jste začali s obnovováním říše pomocí jiného účtu Microsoft. Chcete dokončit obnovování dané říše pomocí tohoto účtu Microsoft jako vlastník?  #
+xbl.syncIAP.title=Chcete synchronizovat nakoupené položky s účtem Microsoft?  #
+xbl.syncIAP.description=Přihlaste se k účtu Microsoft a synchronizujte si skiny, balíčky textur, světy a mash-upy. Budete je moci využít na jakémkoli zařízení, na kterém hrajete Minecraft.  #
+xbl.syncIAP.toast.message=Nakoupené položky byly synchronizovány s účtem Microsoft  #
+xbl.syncIAP.inProgress.message=Synchronizace nakoupených položek s účtem Microsoft...  #
+xblLogin.LoginMessage=Připojování...	#
+xbl.syncIAP.skipSignIn.prompt.description=Tento účet Microsoft nebude hlavním účtem pro toto zařízení, pokud s ním nesynchronizujete nakoupené položky na tomto zařízení. Při spuštění Minecraftu nebudete automaticky přihlášeni.  #
+
+
+
+
+
+
+
+
+
+
+

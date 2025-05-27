@@ -1,0 +1,281 @@
+{
+  "namespace": "store_inventory",
+  "no_xbl_and_no_local_conent_warning_panel": {
+    "controls": [
+      {
+        "image_and_description_bg_panel@common_store.banner_fill": {
+          "size": [
+            "100%",
+            "100%c"
+          ],
+          "controls": [
+            {
+              "image_and_description_panel": {
+                "type": "panel",
+                "size": [
+                  "100% - 8px",
+                  "100%c"
+                ],
+                "controls": [
+                  {
+                    "image_and_description_stack": {
+                      "type": "stack_panel",
+                      "orientation": "vertical",
+                      "size": [
+                        "100%",
+                        "100%c"
+                      ],
+                      "layer": 2,
+                      "controls": [
+                        {
+                          "top_padding": {
+                            "type": "panel",
+                            "size": [
+                              "100%",
+                              4
+                            ]
+                          }
+                        },
+                        {
+                          "warning_image_and_label_1": {
+                            "type": "stack_panel",
+                            "orientation": "horizontal",
+                            "size": [
+                              "100%",
+                              "100%cm"
+                            ],
+                            "controls": [
+                              {
+                                "xbl_image_center_panel": {
+                                  "type": "panel",
+                                  "size": [
+                                    "100%c",
+                                    160
+                                  ],
+                                  "inherit_max_sibling_height": true,
+                                  "controls": [
+                                    {
+                                      "xbl_sign_in_image": {
+                                        "type": "image",
+										"keep_ratio":false,
+                                        "size": [ "93%y", 160],
+                                        "texture": "textures/ui/xboxconversionkeyart"
+                                      }
+                                    }
+                                  ]
+                                }
+                              },
+                              {
+                                "xbl_image_padding_warning": {
+                                  "type": "panel",
+                                  "size": [
+                                    8,
+                                    0
+                                  ]
+                                }
+                              },
+                              {
+                                "warning_label_centering_panel": {
+                                  "type": "panel",
+                                  "size": [
+                                    "fill",
+                                    "100%c"
+                                  ],
+                                  "inherit_max_sibling_height": true,
+                                  "controls": [
+                                    {
+                                      "warning_label_stack": {
+                                        "type": "stack_panel",
+                                        "orientation": "vertical",
+                                        "size": [
+                                          "100%",
+                                          "100%c"
+                                        ],
+                                        "controls": [
+                                          {
+                                            "top_padding": {
+                                              "type": "panel",
+                                              "size": [
+                                                "100%",
+                                                4
+                                              ]
+                                            }
+                                          },
+                                          {
+                                            "warning_label_line_1": {
+                                              "type": "label",
+                                              "max_size": [
+                                                "90%",
+                                                "default"
+                                              ],
+                                              "text": "store.sign_in_warning.no_xbl_and_no_local_content.line1",
+                                              "font_type": "smooth",
+                                              "color": "$body_text_color"
+                                            }
+                                          },
+                                          {
+                                            "line_1_padding_line_2": {
+                                              "type": "panel",
+                                              "size": [
+                                                "100%",
+                                                4
+                                              ]
+                                            }
+                                          },
+                                          {
+                                            "warning_label_line_2": {
+                                              "type": "label",
+                                              "max_size": [
+                                                "90%",
+                                                "default"
+                                              ],
+                                              "text": "store.sign_in_warning.no_xbl_and_no_local_content.line2",
+                                              "font_type": "smooth",
+                                              "color": "$body_text_color"
+                                            }
+                                          },
+                                          {
+                                            "line_2_padding_line_3": {
+                                              "type": "panel",
+                                              "size": [
+                                                "100%",
+                                                4
+                                              ]
+                                            }
+                                          },
+                                          {
+                                            "warning_label_line_3": {
+                                              "type": "label",
+                                              "max_size": [
+                                                "90%",
+                                                "100%c"
+                                              ],
+                                              "text": "store.sign_in_warning.no_xbl_and_no_local_content.line3",
+                                              "font_type": "smooth",
+                                              "color": "$body_text_color"
+                                            }
+                                          },
+                                          {
+                                            "line_3_padding_line_4": {
+                                              "type": "panel",
+                                              "size": [
+                                                "100%",
+                                                4
+                                              ]
+                                            }
+                                          },
+                                          {
+                                            "warning_label_line_4": {
+                                              "type": "label",
+                                              "max_size": [
+                                                "90%",
+                                                "100%c"
+                                              ],
+                                              "text": "store.sign_in_warning.no_xbl_and_no_local_content.line4",
+                                              "font_type": "smooth",
+                                              "color": "$body_text_color"
+                                            }
+                                          },
+                                          {
+                                            "xbl_image_padding_warning": {
+                                              "type": "panel",
+                                              "size": [
+                                                "100%",
+                                                4
+                                              ]
+                                            }
+                                          },
+                                          {
+                                            "sign_in_button_centering_panel": {
+                                              "type": "panel",
+                                              "size": [
+                                                "90%",
+                                                "100%c"
+                                              ],
+                                              "controls": [
+                                                {
+                                                  "sigh_in_button@common_store.sign_in_button": {
+                                                    "size": [
+                                                      "70%",
+                                                      "100%c"
+                                                    ],
+                                                    "min_size": [
+                                                      "70%",
+                                                      30
+                                                    ],
+                                                    "focus_enabled": true,
+                                                    "$button_text": "store.xbl.signinOrSignUp",
+                                                    "$button_state_panel": "common_buttons.new_ui_height_fitting_button_panel",
+                                                    "$button_type_panel": "common_buttons.height_fitting_button_content_panel",
+                                                    "$button_content": "common_buttons.new_ui_binding_button_label",
+                                                    "$button_text_max_size": [
+                                                      "100%",
+                                                      "100%c"
+                                                    ],
+                                                    "$button_size_override": [
+                                                      "100%",
+                                                      "100%c"
+                                                    ],
+                                                    "$button_min_size_override": [
+                                                      "100%",
+                                                      30
+                                                    ],
+                                                    "$button_border_min_size_override": [
+                                                      "100%",
+                                                      30
+                                                    ],
+                                                    "$button_image_min_size_override": [
+                                                      "100% - 2px",
+                                                      28
+                                                    ],
+                                                    "$button_offset": [
+                                                      0,
+                                                      0
+                                                    ],
+                                                    "$text_alignment": "center",
+                                                    "$anchor": "center",
+                                                    "bindings": []
+                                                  }
+                                                }
+                                              ]
+                                            }
+                                          }
+                                        ]
+                                      }
+                                    }
+                                  ]
+                                }
+                              }
+                            ]
+                          }
+                        },
+                        {
+                          "bottom_padding": {
+                            "type": "panel",
+                            "size": [
+                              "100%",
+                              4
+                            ]
+                          }
+                        }
+                      ]
+                    }
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "bottom_padding": {
+          "type": "panel",
+          "size": [
+            "100%",
+            4
+          ]
+        }
+      }
+    ]
+  }
+}

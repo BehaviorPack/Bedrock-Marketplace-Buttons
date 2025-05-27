@@ -1,0 +1,6 @@
+{
+    "namespace": "play",
+    "friends_scroll_panel": {
+        "$hide_xbox_live_icon" : true
+    }
+}

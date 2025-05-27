@@ -1,0 +1,23 @@
+{
+   "content" : [
+      {
+         "path" : "bug_pack_icon.png"
+      },
+      {
+         "path" : "manifest.json"
+      },
+      {
+         "path" : "contents.json"
+      },
+      {
+         "path" : "pack_icon.png"
+      },
+      {
+         "path" : "ui/gathering_info_screen.json"
+      },
+      {
+         "path" : "ui/start_screen.json"
+      }
+   ],
+   "version" : 1
+}

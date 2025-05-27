@@ -1,0 +1,17 @@
+{
+    "namespace": "xbl_first_launch",
+    "xbl_signin_label": {
+        "controls": [
+            {
+                "Xbox_icon@Xbox_icon": {
+                    "ignored": true
+                }
+            },
+            {
+                "button_label@xbl_first_launch.button_label": {
+                    "ignored": false
+                }
+            }
+        ]
+    }
+}

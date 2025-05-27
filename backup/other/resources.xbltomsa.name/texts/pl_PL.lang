@@ -1,0 +1,80 @@
+networkWorld.connect_to_xbl=Zaloguj się na konto Microsoft, aby móc grać ze znajomymi.	#
+options.dev_useRetailXboxSandbox=Użyj detalicznego MSA Sandbox	#
+createWorldScreen.disconnectedXboxLive=Brak połączenia z usługami Microsoft. Twoi znajomi posiadający tagi gracza nie będą mogli dołączyć do twojego świata wieloosobowego. Zaloguj się na swoje kontro Microsoft, aby z nimi grać.	#
+realmsSharingScreen.failedSignInModalMessage=Musisz się zalogować na konto Microsoft, aby dołączyć do świata Realms. Zaloguj się i spróbuj ponownie.	#
+commands.mixer.error.notoken=Aby korzystać z interaktywnych funkcji usługi Mixer, należy zalogować się na konto Microsoft.	#
+realmsCreateScreen.incomplete.create.b=Zdaje się, że rozpoczęto tworzenie świata Realms na innym koncie Microsoft. Chcesz dokończyć ten proces na tym koncie jako jego właściciel?	#
+networkWorld.multiplayerPrivilegesBlocked=Nie możesz grać w trybie wieloosobowym z tak skonfigurowanym kontem Microsoft. Sprawdź i zmień swoje ustawienia prywatności na aka.ms/accountsettings.	#
+xblLogin.LoginMessageTitle=Konto Microsoft	#
+xbl.savePurchase.description.line1=Chcesz grać, mając na dowolnym urządzeniu wszystkie swoje zakupy? Zaloguj się na kontro Microsoft, a Twoje monety, skórki, zestawy tekstur, mapy i miksy będą na Ciebie czekać na każdym urządzeniu, na którym grasz w Minecrafta.	#
+xbl.savePurchase.title=Zapisać zakupy na koncie Microsoft?	#
+xbl.savePurchase.saveButton=Zapisz na koncie Microsoft	#
+xbl.savePurchase.toast.message=Zakupy zsynchronizowane na koncie Microsoft!	#
+xbl.savePurchase.inProgress.message=Przenoszenie zakupów na konto Microsoft...	#
+store.sign_in_warning.no_xbl_and_local_content=Uwaga! Zakupiono zestawy i/lub monety, które są dostępne wyłącznie na tym urządzeniu i mogą zostać utracone z powodu jego zgubienia, nieprawidłowego działania czy odinstalowania Minecrafta! Zaloguj się za pomocą konta Microsoft (dostępne za darmo) i przenieś na nie swoje zestawy oraz monety, aby je chronić, a także mieć do nich dostęp na dowolnym urządzeniu, przy pomocy którego się zalogujesz.	#
+store.sign_in_warning.no_xbl_and_no_local_content.line2=Zaloguj się za pomocą konta Microsoft (dostępne za darmo) i przenieś na nie swoje zestawy, aby chronić je oraz zakupione monety.	#
+xbl.skipSignIn.prompt.description=To konto Microsoft nie będzie podstawowym kontem dla tego urządzenia, jeśli nie przeniesiesz jego zakupów na to konto. Po uruchomieniu Minecrafta nie nastąpi automatyczne logowanie.	#
+xbl.signOut.title=Zakupy na koncie Microsoft!	#
+xbl.signOut.message1=Jeśli wylogujesz się ze swojego konta Microsoft, nie będziesz mieć dostępu do monet i przedmiotów zakupionych w sklepie.	#
+disconnectionScreen.notAuthenticated=Musisz przeprowadzić uwierzytelnienie dla usług Microsoft.	#
+feed.connected=Każdy świat Realms jest połączony z klubem przy pomocy Twojego konta Microsoft.	#
+howtoplay.multiplayer.text.6=Uwaga: musisz mieć połączenie z Internetem i zalogować się na konto Microsoft, aby grać w trybie wieloosobowym.	#
+options.broadcast.permissionError=Nie masz pozwolenia na korzystanie z tej funkcji. Sprawdź i zmień swoje ustawienia prywatności na aka.ms/accountsettings.	#
+options.xboxLiveAccountSettings=Ustawienia konta Microsoft	#
+options.xboxLiveSignedIn=Zalogowano na konto Microsoft	#
+options.xboxLiveSignedOut=Wylogowano z konta Microsoft	#
+options.turnOffAchievements.message=Osiągnięcia są dostępne tylko w światach ustawionych na tryb przetrwania z wyłączonymi kodami. Jeśli będziesz kontynuować, nikt nie zdobędzie osiągnięć, grając w tym świecie, nawet jeśli przed grą dokonasz zmian.	#
+options.achievementsDisabled=W tym świecie nie można zdobywać osiągnięć.	#
+options.achievementsDisabled.onLoad=Jeśli rozpoczniesz grę przy tych ustawieniach, w tym świecie nie będzie można zdobyć osiągnięć.	#
+options.achievementsDisabled.notSignedIn=W tym świecie można zdobywać osiągnięcia, jednak w tym celu musisz się zalogować do na konto Microsoft.	#
+permissions.AddFriends=Nie możesz dodawać znajomych z tak skonfigurowanym kontem Microsoft. Możesz to zmienić w ustawieniach prywatności i bezpieczeństwa na aka.ms/accountsettings.	#
+permissions.MultiplayerSessions=Nie możesz grać w Realms z tak skonfigurowanym kontem Microsoft. Ustawienia prywatności i bezpieczeństwa można zmienić online na aka.ms/accountsettings.	#
+permissions.Communications=Nie możesz rozmawiać z innymi graczami z tak skonfigurowanym kontem Microsoft. Możesz to zmienić w ustawieniach prywatności i bezpieczeństwa na aka.ms/accountsettings.	#
+permissions.MultiplayerSessionsOnConsole=Twoje ustawienia konta Microsoft nie pozwalają na granie w trybie wieloosobowym. Sprawdź ustawienia prywatności i bezpieczeństwa na aka.ms/accountsettings, aby upewnić się, że posiadasz konto Microsoft Gold, a Twoje ustawienia pozwalają na grę w trybie wieloosobowym.	#
+store.content.requireXbl.signedIn=Pobierz za darmo przy pomocy konta Microsoft.	#
+store.ratings.signIn.description2=Aby ocenić przedmiot, musisz zalogować się na konto Microsoft.	#
+store.purchase.signInPart2=Zaloguj się na konto Microsoft, aby móc korzystać ze sklepu!	#
+remix_export.EULA.content=Nowość! Twój profil Remix 3D nie jest już połączony z Twoim tagiem gracza. Jeśli już masz profil Remix 3D, Twoim tagiem gracza będzie Twoja nazwa. Jeśli nie masz jeszcze takiego profilu, wygenerujemy go dla Ciebie automatycznie (możesz go edytować na Remix3D.com). Naciśnij „Zgadzam się”, aby potwierdzić tę zmianę i przesłać swoje dzieło na Remix3D.com. Powyższe podlega postanowieniom Umowy o świadczeniu usług firmy Microsoft oraz Oświadczenia o ochronie prywatności.	#
+remix_export.XBL_signin=Musisz się zalogować na konto Microsoft, aby przesyłać dane na Remix3D.com.	#
+xbox.signin.message=Zaloguj się przy pomocy swojego darmowego konta Microsoft, aby cieszyć się pełnym światem Minecrafta.	#
+xbox.signingin=Logowanie na Twoje konto Microsoft...	#
+xbox.firstsignin.line1=Witaj w Minecrafcie! Skorzystaj z konta Microsoft, aby połączyć się ze społecznością gry. Tutaj użytkownicy PC, konsol, telefonów i tabletów mogą grać razem. A wiesz, co jest najlepsze?	#
+xbox.firstsignin.line3=Nie masz konta? Załóż je, aby zdobywać osiągnięcia i dołączać do światów Realms oraz serwerów!	#
+xbox.firstsignin.line3.norealmsOrServers=Nie masz konta? Załóż je, aby zdobywać osiągnięcia i grać ze znajomymi z różnych platform!	#
+xbox.failedsignin.line1=Próbowaliśmy zalogować Cię na Twoje konto Microsoft, ale coś poszło nie tak.	#
+xbox.achievementssignin.line2=Zaloguj się na konto Microsoft, aby zacząć je zdobywać!	#
+xbox.addfriendsignin.line1=Wyszukuj znajomych przy pomocy ich tagów gracza, aby zobaczyć, kiedy są online.	#
+xbox.addfriendsignin.line2=Zaloguj się na konto Microsoft, aby zacząć dodawać znajomych!	#
+xbox.invitesignin.line1=Zaproś znajomych przy pomocy tagu gracza, aby zobaczyć ich światy i dowiedzieć się, czy są online.	#
+xbox.invitesignin.line2=Zaloguj się na konto Microsoft, aby zacząć zapraszać znajomych!	#
+xbox.signInLong=Zaloguj się za darmo!	#
+xbox.signOutLong=Wyloguj się ze swojego konta Microsoft	#
+xbox.disconectionscreen.notSignedIn=Zaloguj się na swoje konto Microsoft, aby móc grać ze znajomymi.	#
+xbox.disconectionscreen.multiplayerNotAllowed=To konto Microsoft nie ma pozwolenia na dołączanie do gier wieloosobowych.	#
+selectTemplate.signIn=Stwórz świat Realms przy pomocy konta Microsoft	#
+howtoplay.multiplayer.header.3=Dołączanie do gry online	#
+trial.tabbed_upsell.xbl.description=Wraz z pełnym Minecraftem, otrzymasz Tryb kreatywny, osiągnięcia i znacznie więcej, a z kontem Microsoft możesz spotkać inne osoby ze społeczności Minecraft! Dołącz do światów swoich znajomych, zawieraj nowe znajomości na serwerach i synchronizuj zakupy z Rynku z wszystkimi platformami, na których grasz w Minecrafta.	#
+trial.tabbed_upsell.achievements.description=Poza pełną grą Minecraft z trybem kreatywnym, trybem wieloosobowym i innymi funkcjami, otrzymasz także osiągnięcia. Osiągnięcia i wynik gracza pozwalają śledzić postępy w świecie Minecraft i pokazać swoje osiągnięcia oraz postępy znajomym z kont Microsoft. Kup pełną grę i zacznij je zbierać!	#
+trial.tabbed_upsell.xbl.title=Konto Microsoft	#
+realmsCreateScreen.incomplete.create.c=Ktoś rozpoczął tworzenie świata Realms, używając konta rozliczeniowego na tym urządzeniu. Chcesz dokończyć ten proces na tym koncie Microsoft jako jego właściciel?	#
+realmsCreateScreen.incomplete.renew.c=Ktoś rozpoczął odnawianie świata Realms, używając konta rozliczeniowego na tym urządzeniu. Chcesz dokończyć ten proces na tym koncie Microsoft jako jego właściciel?	#
+options.xboxliveBroadcastSettings=Ustawienia konta Microsoft	#
+pauseScreen.xboxLiveDisconnect=Ups! Twoje konto Microsoft zostało rozłączone. Aby zaprosić kolejnych graczy, zaloguj się z poziomu menu głównego i ponownie otwórz swój świat.	#
+selectTemplate.unableToSignIn=Usługi Microsoft nie są dostępne na tym urządzeniu	#
+store.coins.incomplete.fulfill.b=Zdaje się, że rozpoczęto zakup na innym koncie Microsoft. Chcesz dokończyć ten proces na tym koncie?	#
+store.coins.incomplete.fulfill.b=Zdaje się, że rozpoczęto zakup na innym koncie Microsoft. Chcesz dokończyć ten proces na tym koncie?	#
+createWorldScreen.check_internet_connection=Brak połączenia z Internetem. Twoi znajomi nie będą mogli dołączyć do Twojego świata wieloosobowego. Aby z nimi zagrać, zaloguj się na swoje konto Microsoft.  #
+realmsCreateScreen.incomplete.renew.b=Zdaje się, że rozpoczęto odnawianie świata Realms na innym koncie Microsoft. Chcesz dokończyć ten proces na tym koncie jako jego właściciel?  #
+xbl.syncIAP.title=Zsynchronizować zakupy z kontem Microsoft?  #
+xbl.syncIAP.description=Zaloguj się na konto Microsoft, aby zsynchronizować swoje skórki, zestawy tekstur, światy oraz miksy. Dzięki temu będą dostępne na dowolnym urządzeniu, na którym grasz w Minecrafta.  #
+xbl.syncIAP.toast.message=Zsynchronizowano zakupy z kontem Microsoft  #
+xbl.syncIAP.inProgress.message=Synchronizacja zakupów z kontem Microsoft...  #
+xblLogin.LoginMessage=Łączenie...	#
+xbl.syncIAP.skipSignIn.prompt.description=To konto Microsoft nie będzie podstawowym kontem tego urządzenia, jeśli nie zsynchronizujesz z nim zakupów dokonanych na tym urządzeniu. Po uruchomieniu Minecrafta nie zalogujesz się automatycznie.  #
+
+
+
+
+
+
+

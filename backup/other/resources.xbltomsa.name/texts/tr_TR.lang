@@ -1,0 +1,80 @@
+networkWorld.connect_to_xbl=Arkadaşlarınızla oynamak için bir Microsoft hesabıyla oturum açın.	#
+options.dev_useRetailXboxSandbox=Perakende MSA Sandbox Kullanın	#
+createWorldScreen.disconnectedXboxLive=Microsoft hizmetlerine bağlı değilsiniz. Oyuncu Etiketi olan arkadaşlarınız çok oyunculu dünyanıza katılamayacak. Arkadaşlarınızla oynamak için Microsoft hesabınızla oturum açın.	#
+realmsSharingScreen.failedSignInModalMessage=Bir Bölgeye katılmak için Microsoft hesabıyla oturum açmanız gerekir. Lütfen oturum açıp tekrar deneyin.	#
+commands.mixer.error.notoken=Mixer etkileşimini etkinleştirmek için bir Microsoft hesabıyla oturum açmanız gerekir.	#
+realmsCreateScreen.incomplete.create.b=Görünüşe göre farklı bir Microsoft hesabıyla bölge oluşturmaya başladınız. Bölge oluşturma işlemini sahibi olduğunuz bu Microsoft hesabı ile tamamlamak istiyor musunuz?	#
+networkWorld.multiplayerPrivilegesBlocked=Microsoft hesabınızın ayarı nedeniyle çevrimiçi çok oyunculu oyunlar oynayamazsınız. aka.ms/accountsettings sayfasında gizlilik ayarlarınızı gözden geçirip değiştirin.	#
+xblLogin.LoginMessageTitle=Microsoft hesabı	#
+xbl.savePurchase.description.line1=Herhangi bir cihazdan satın aldığınız tüm eşyalarla mı oynamak istiyorsunuz? Bir Microsoft hesabıyla oturum açın ve Minecraft'ı oynadığınız her cihazda Para, Dış Görünüş, Doku Paketi, Harita ve Eklentilerinizin tümünü kullanın.	#
+xbl.savePurchase.title=Alınanlar Microsoft hesabına kaydedilsin mi?	#
+xbl.savePurchase.saveButton=Microsoft hesabına kaydet	#
+xbl.savePurchase.toast.message=Satın Alma İşlemleri Microsoft hesabıyla eşitlendi!	#
+xbl.savePurchase.inProgress.message=Satın alınanlar Microsoft hesabına aktarılıyor...	#
+store.sign_in_warning.no_xbl_and_local_content=Önemli! Satın aldığınız paketler ve/veya Paralar yalnızca bu cihazda kullanılabilir ve bir cihaz arızası, kaybı ya da Minecraft oyununun kaldırılması sonucunda kaybedilebilir! Bir Microsoft hesabı (ücretsiz) ile oturum açın ve paket haklarınız ile Paralarınızı korumak ve oturum açtığınız herhangi bir cihazdan erişebilmek için o hesaba aktarın.	#
+store.sign_in_warning.no_xbl_and_no_local_content.line2=Bir Microsoft hesabı (ücretsiz) ile oturum açın ve satın aldığınız paketler ile Paralarınızı korumak için paket haklarınızı o hesaba aktarın.	#
+xbl.skipSignIn.prompt.description=Bu cihazın satın alma işlemlerini bu hesaba aktarmazsanız, bu Microsoft hesabı bu cihazın birincil hesabı olmaz. Minecraft'ı başlattığınızda oturumunuz otomatik olarak açılmaz.	#
+xbl.signOut.title=Microsoft hesabı satın alma işlemleri!	#
+xbl.signOut.message1=Microsoft hesabı oturumunuzu kapattığınızda, Paralara ve mağazada satın aldığınız eşyalara erişemezsiniz.	#
+disconnectionScreen.notAuthenticated=Microsoft hizmetleri için kimlik doğrulaması yapmanız gerekiyor.	#
+feed.connected=Her Bölge, Microsoft hesabınızla bir Kulübe bağlıdır.	#
+howtoplay.multiplayer.text.6=Not: Çok oyunculu oynamak için İnternet bağlantınızın olması ve bir Microsoft hesabıyla oturum açmanız gerekir.	#
+options.broadcast.permissionError=Bu özelliği kullanma izniniz yok. aka.ms/accountsettings sayfasında gizlilik ayarlarınızı gözden geçirip değiştirin	#
+options.xboxLiveAccountSettings=Microsoft Hesap Ayarları	#
+options.xboxLiveSignedIn=Microsoft hesabıyla oturum açıldı	#
+options.xboxLiveSignedOut=Microsoft hesabı oturumu kapatıldı	#
+options.turnOffAchievements.message=Başarılar yalnızca hileler kapalıyken hayatta kalma moduna ayarlanmış dünyalarda kullanılabilir. Devam ederseniz, oyundan önce tekrar değiştirseniz bile bu dünyada oynayan hiç kimse bir daha başarı kazanamaz.	#
+options.achievementsDisabled=Bu dünyada başarı kazanılamaz.	#
+options.achievementsDisabled.onLoad=Bu ayarlarla oynamaya başlarsanız, artık bu dünyada başarı kazanılamaz.	#
+options.achievementsDisabled.notSignedIn=Bu dünyada başarı kazanılabilir, ancak kazanmak için bir Microsoft hesabıyla oturum açmanız gerekir.	#
+permissions.AddFriends=Microsoft hesabınızın ayarı nedeniyle arkadaş ekleyemezsiniz. Bu ayar, aka.ms/accountsettings sayfasındaki gizlilik ve çevrimiçi güvenlik ayarları bölümünden değiştirilebilir.	#
+permissions.MultiplayerSessions=Microsoft hesabınızın ayarı nedeniyle Bölgelerde oynayamazsınız. Bu ayar, aka.ms/accountsettings sayfasındaki gizlilik ve çevrimiçi güvenlik ayarları bölümünden değiştirilebilir.	#
+permissions.Communications=Microsoft hesabınızın ayarı nedeniyle diğer oyuncularla sohbet edemezsiniz. Bu ayar, aka.ms/accountsettings sayfasındaki gizlilik ve çevrimiçi güvenlik ayarları bölümünden değiştirilebilir.	#
+permissions.MultiplayerSessionsOnConsole=Microsoft hesap ayarlarınız çok oyunculu oyunlara izin vermiyor. Microsoft Gold hesabına sahip olduğunuzdan ve ayarlarınızın çok oyunculu oyuna izin verdiğinden emin olmak için aka.ms/accountsettings sayfasındaki gizlilik ve çevrimiçi güvenlik ayarlarınızı denetleyin.	#
+store.content.requireXbl.signedIn=Bir Microsoft hesabıyla ücretsiz indirin.	#
+store.ratings.signIn.description2=Bir eşyayı değerlendirebilmeniz için bir Microsoft hesabıyla oturum açmanız gerekir.	#
+store.purchase.signInPart2=Mağazayı kullanmaya başlamak için bir Microsoft hesabıyla oturum açın!	#
+remix_export.EULA.content=Yeni! Remix 3D profiliniz oyuncu etiketinizle artık bağlantılı değil. Zaten bir Remix 3D profiliniz varsa, mevcut oyuncu etiketinizi adınız olarak ayırdık. Yeni bir kullanıcıysanız sizin için otomatik olarak bir Remix 3D profili oluşturacağız. (Profili daha sonra Remix3D.com üzerinden düzenleyebilirsiniz.) Bu değişikliği kabul etmek için Kabul düğmesine basın ve oluşturduğunuz yapıtı Remix3D.com sayfasına yükleyin. Microsoft Hizmet Sözleşmesi ve Gizlilik Bildirimleri geçerlidir.	#
+remix_export.XBL_signin=Remix3D.com sayfasına yükleme yapmak için bir Microsoft hesabıyla oturum açmanız gerekir.	#
+xbox.signin.message=Minecraft dünyasını tam anlamıyla tecrübe etmek için Ücretsiz Microsoft hesabınızla oturum açın.	#
+xbox.signingin=Microsoft hesabınızla oturum açılıyor...	#
+xbox.firstsignin.line1=Minecraft'a hoş geldiniz! Bilgisayar, konsol, telefon ve tabletlerin hep birlikte oynayabildiği Minecraft topluluğuna bağlanmaya başlamak için bir Microsoft hesabı kullanın. Peki en iyi kısmı ne?	#
+xbox.firstsignin.line3=Hesabınız yok mu? Başarılar kazanmak ve Bölgeler ile Sunuculara katılmak için hemen bir tane oluşturun!	#
+xbox.firstsignin.line3.norealmsOrServers=Hesabınız yok mu? Başarılar kazanmak ve diğer platformlardaki arkadaşlarınızla oynamak için hemen bir hesap oluşturun!	#
+xbox.failedsignin.line1=Microsoft hesabınızla oturum açmaya çalıştık, ancak bir sorun oluştu.	#
+xbox.achievementssignin.line2=Kazanmaya başlamak için bir Microsoft hesabıyla oturum açın!	#
+xbox.addfriendsignin.line1=Ne zaman çevrimiçi olduklarını görmek için arkadaşlarınızı Oyuncu Etiketlerine göre bulun.	#
+xbox.addfriendsignin.line2=Arkadaş eklemeye başlamak için bir Microsoft hesabıyla oturum açın!	#
+xbox.invitesignin.line1=Çevrimiçi olduklarında dünyalarını görmek için arkadaşlarınızı Oyuncu Etiketine göre davet edin.	#
+xbox.invitesignin.line2=Arkadaşlarınızı davet etmeye başlamak için bir Microsoft hesabıyla oturum açın!	#
+xbox.signInLong=Ücretsiz oturum açın!	#
+xbox.signOutLong=Microsoft hesabınızın oturumunu kapatın	#
+xbox.disconectionscreen.notSignedIn=Arkadaşlarınızla oynamak için Microsoft hesabınızla oturum açın.	#
+xbox.disconectionscreen.multiplayerNotAllowed=Bu Microsoft hesabının çok oyunculu oyunlara katılma izni yok.	#
+selectTemplate.signIn=Microsoft Hesabı ile Bölge Oluştur	#
+howtoplay.multiplayer.header.3=Çevrimiçi Oyuna Katılma	#
+trial.tabbed_upsell.xbl.description=Tam Minecraft deneyiminde Yaratıcı modu, Başarılar ve daha fazlasını kullanabilir, ayrıca Microsoft Hesabı ile Minecraft topluluğundaki diğer kullanıcılarla tanışabilirsiniz! Arkadaşlarınızın dünyalarına katılın, Sunucularda yeni arkadaşlar edinin ve Market'ten satın aldığınız içerikleri Minecraft oynadığınız her yerde eşitleyin.	#
+trial.tabbed_upsell.achievements.description=Yaratıcı modu, Çok Oyunculu oyun ve daha fazlasını sunan tam Minecraft deneyimine ek olarak Başarılar kazanacaksınız. Başarılar ve Oyuncu Puanı, Minecraft ilerlemenizi belirtir ve Microsoft Hesabı arkadaşlarınıza tamamladığınız görevleri gösterir. Kazanmaya başlamak için tam oyunu edinin!	#
+trial.tabbed_upsell.xbl.title=Microsoft hesabı	#
+realmsCreateScreen.incomplete.create.c=Birisi bu cihazda fatura hesabıyla Bölge oluşturmaya başladı. Bölge oluşturmayı sahibi olduğunuz bu Microsoft hesabı ile tamamlamak istiyor musunuz?	#
+realmsCreateScreen.incomplete.renew.c=Birisi bu cihazda fatura hesabıyla bir bölgeyi yenilemeye başladı. Bölge yenileme işlemini sahibi olduğunuz bu Microsoft hesabı ile tamamlamak istiyor musunuz?	#
+options.xboxliveBroadcastSettings=Microsoft Hesap Ayarları	#
+pauseScreen.xboxLiveDisconnect=Ah! Microsoft hesabınızın bağlantısı kesildi. Daha fazla oyuncu davet etmek için Ana Menü'den oturum açın ve dünyanızı yeniden başlatın.	#
+selectTemplate.unableToSignIn=Microsoft Hizmetleri bu cihazda kullanılamıyor	#
+store.coins.incomplete.fulfill.b=Görünüşe göre farklı bir Microsoft hesabıyla satın alma işlemine başladınız. Satın alma işlemini bu hesapla tamamlamak ister misiniz?	#
+store.coins.incomplete.fulfill.b=Görünüşe göre farklı bir Microsoft hesabıyla satın alma işlemine başladınız. Satın alma işlemini bu Microsoft hesabıyla tamamlamak ister misiniz?	#
+createWorldScreen.check_internet_connection=İnternet'e bağlı değilsiniz. Arkadaşlarınız çok oyunculu dünyalarınıza katılamayacak. Arkadaşlarınızla oynamak için Microsoft hesabınızla oturum açın.  #
+realmsCreateScreen.incomplete.renew.b=Görünüşe göre farklı bir Microsoft hesabı ile bölgeyi yenilemeye başladınız. Bölge yenileme işlemini sahibi olduğunuz bu Microsoft hesabıyla tamamlamak istiyor musunuz?  #
+xbl.syncIAP.title=Satın Alma İşlemleri Microsoft Hesabıyla Eşitlensin mi?  #
+xbl.syncIAP.description=Dış Görünüş, Doku Paketi, Dünya ve Eklentilerinizi eşitlemek için Microsoft Hesabı ile oturum açın. Minecraft oynadığınız her cihazda bunları kullanabilirsiniz.  # 
+xbl.syncIAP.toast.message=Satın Alma İşlemleri Microsoft hesabıyla eşitlendi  #
+xbl.syncIAP.inProgress.message=Satın alma işlemleri Microsoft hesabıyla eşitleniyor...  #
+xblLogin.LoginMessage=Bağlanıyor...	#
+xbl.syncIAP.skipSignIn.prompt.description=Bu cihazın satın alma işlemlerini bu hesapla eşitlemezseniz, bu Microsoft hesabı bu cihazın birincil hesabı olmaz. Minecraft'ı başlattığınızda oturumunuz otomatik olarak açılmaz.  #
+
+
+
+
+
+
+

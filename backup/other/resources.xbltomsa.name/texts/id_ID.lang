@@ -1,0 +1,80 @@
+networkWorld.connect_to_xbl=Masuk dengan akun Microsoft untuk bermain dengan teman.	#
+options.dev_useRetailXboxSandbox=Gunakan Sandbox MSA Ritel	#
+createWorldScreen.disconnectedXboxLive=Kamu tidak tersambung ke layanan Microsoft. Temanmu dengan Gamertag tidak bisa bergabung dengan dunia multipemainmu. Masuk ke akun Microsoft untuk bermain dengan temanmu.	#
+realmsSharingScreen.failedSignInModalMessage=Kamu perlu masuk ke akun Microsoft untuk bergabung dengan Realm. Masuk dan coba lagi.	#
+commands.mixer.error.notoken=Kamu perlu masuk dengan akun Microsoft untuk mengaktifkan interaktivitas Mixer.	#
+realmsCreateScreen.incomplete.create.b=Sepertinya kamu mulai membuat realm dengan akun Microsoft yang berbeda. Ingin menyelesaikan pembuatan realm tersebut dengan akun Microsoft ini sebagai pemilik?	#
+networkWorld.multiplayerPrivilegesBlocked=Kamu tidak bisa bermain multipemain secara online karena konfigurasi akun Microsoft-mu. Tinjau dan ubah pengaturan privasi di aka.ms/accountsettings.	#
+xblLogin.LoginMessageTitle=Akun Microsoft	#
+xbl.savePurchase.description.line1=Kamu ingin bermain dengan apa saja yang dibeli dari perangkat lain? Masuk dengan akun Microsoft dan Koin, Skin, Paket Tekstur, Peta, dan Perpaduan akan tersedia untukmu di perangkat apa pun yang digunakan untuk bermain Minecraft.	#
+xbl.savePurchase.title=Simpan Pembelian ke akun Microsoft?	#
+xbl.savePurchase.saveButton=Simpan ke akun Microsoft	#
+xbl.savePurchase.toast.message=Pembelian Disinkronkan ke akun Microsoft!	#
+xbl.savePurchase.inProgress.message=Mentransfer pembelian ke akun Microsoft...	#
+store.sign_in_warning.no_xbl_and_local_content=Penting! Kamu telah membeli paket dan/atau Koin yang hanya tersedia pada perangkat ini dan bisa hilang akibat gangguan fungsi atau kehilangan perangkat atau penghapusan instalan Minecraft! Masuk dengan akun Xbox Live (gratis) dan transfer hak paket dan Koinmu ke akun tersebut untuk melindungi dan mengaksesnya pada perangkat apa pun yang kamu gunakan untuk masuk.	#
+store.sign_in_warning.no_xbl_and_no_local_content.line2=Masuk dengan akun Microsoft (gratis) dan transfer hak paketmu ke akun tersebut untuk melindungi paket dan Koin yang kamu beli.	#
+xbl.skipSignIn.prompt.description=Akun Microsoft ini tidak akan menjadi akun utama untuk perangkat ini jika kamu tidak mentransfer pembelian perangkat ke akun ini. Kamu tidak akan secara otomatis masuk saat memulai Minecraft.	#
+xbl.signOut.title=Pembelian akun Microsoft!	#
+xbl.signOut.message1=Sewaktu keluar dari akun Microsoft, kamu tidak akan memiliki akses ke koin dan item yang dibeli di toko.	#
+disconnectionScreen.notAuthenticated=Kamu perlu mengautentikasi ke layanan Microsoft.	#
+feed.connected=Setiap Realm tersambung ke Klub dan akun Microsoft.	#
+howtoplay.multiplayer.text.6=Catatan: Kamu harus memiliki sambungan internet dan masuk ke akun Microsoft untuk bermain multipemain.	#
+options.broadcast.permissionError=Kamu tidak memiliki izin untuk menggunakan fitur ini. Tinjau dan ubah pengaturan privasimu di aka.ms/accountsettings	#
+options.xboxLiveAccountSettings=Pengaturan akun Microsoft	#
+options.xboxLiveSignedIn=Telah Masuk dengan akun Microsoft	#
+options.xboxLiveSignedOut=Telah Keluar dari akun Microsoft	#
+options.turnOffAchievements.message=Prestasi hanya tersedia di dunia yang ditetapkan ke mode bertahan hidup dengan cheat yang dinonaktifkan. Jika melanjutkan, tidak akan ada yang mendapatkan prestasi sewaktu bermain di dunia ini lagi meskipun kamu beralih kembali sebelum bermain.	#
+options.achievementsDisabled=Prestasi tidak dapat diperoleh di dunia ini.	#
+options.achievementsDisabled.onLoad=Jika kamu mulai bermain dengan pengaturan ini, prestasi tidak bisa didapatkan lagi di dunia ini.	#
+options.achievementsDisabled.notSignedIn=Prestasi bisa didapatkan di dunia ini namun kamu harus masuk ke akun Microsoft untuk mendapatkannya.	#
+permissions.AddFriends=Kamu tidak bisa menambahkan teman karena konfigurasi akun Microsoft-mu. Ini bisa diubah di pengaturan privasi dan keamanan online di aka.ms/accountsettings.	#
+permissions.MultiplayerSessions=Kamu tidak bisa bermain pada Realm karena konfigurasi akun Microsoft-mu. Ini bisa diubah di pengaturan privasi dan keamanan online di aka.ms/accountsettings.	#
+permissions.Communications=Kamu tidak bisa mengobrol dengan pemain lain karena konfigurasi akun Microsoft-mu. Ini bisa diubah di pengaturan privasi dan keamanan online di aka.ms/accountsettings.	#
+permissions.MultiplayerSessionsOnConsole=Pengaturan akun Microsoft-mu tidak mengizinkan permainan multipemain. Periksa pengaturan privasi dan keamanan online di aka.ms/accountsettings untuk memastikan kamu memiliki akun Microsoft Emas dan pengaturanmu mengizinkan multipemain.	#
+store.content.requireXbl.signedIn=Unduh gratis dengan akun Microsoft.	#
+store.ratings.signIn.description2=Sebelum kami mengizinkanmu untuk menilai item, kamu perlu masuk dengan akun Microsoft.	#
+store.purchase.signInPart2=Masuk dengan akun Microsoft untuk mulai menggunakan toko!	#
+remix_export.EULA.content=Baru! Profil Remix 3D tidak lagi tertaut dengan gamertag-mu. Jika kamu sudah punya profil Remix 3D, kami menyimpan gamertag-mu saat ini sebagai namamu. Jika kamu pemain baru, kami akan menghasilkan profil Remix 3D secara otomatis untuk kamu. (Kamu bisa mengeditnya nanti di Remix3D.com.) Tekan setuju untuk mengakui perubahan ini dan mengunggah kreasimu ke Remix3D.com. Perjanjian Layanan dan Pernyataan Privasi Microsoft berlaku.	#
+remix_export.XBL_signin=Kamu harus masuk ke akun Microsoft untuk mengunggah ke Remix3D.com.	#
+xbox.signin.message=Masuk dengan akun Microsoft Gratis untuk menikmati dunia Minecraft sepenuhnya.	#
+xbox.signingin=Memasukkan dengan akun Microsoft...	#
+xbox.firstsignin.line1=Selamat datang di Minecraft! Gunakan akun Microsoft untuk mulai terhubung dengan komunitas Minecraft, sehingga PC, konsol, ponsel, dan tablet bisa bermain bersama-sama. Dan bagian terbaiknya?	#
+xbox.firstsignin.line3=Tidak punya akun? Buat sekarang untuk mendapatkan prestasi dan bergabung dengan Realm dan Server!	#
+xbox.firstsignin.line3.norealmsOrServers=Belum punya akun? Buat sekarang untuk mendapatkan prestasi dan bermain dengan teman-teman lintas-platform-mu!	#
+xbox.failedsignin.line1=Kami mencoba memasukkanmu ke akun Microsoft, namun terjadi kesalahan.	#
+xbox.achievementssignin.line2=Masuk dengan akun Microsoft untuk mulai mendapatkannya.	#
+xbox.addfriendsignin.line1=Cari teman dengan Gamertag mereka untuk melihat kapan mereka online.	#
+xbox.addfriendsignin.line2=Masuk dengan akun Microsoft untuk mulai menambahkan teman.	#
+xbox.invitesignin.line1=Undang teman dengan Gamertag mereka untuk melihat dunia mereka saat mereka online.	#
+xbox.invitesignin.line2=Masuk dengan akun Microsoft untuk mulai mengundang teman.	#
+xbox.signInLong=Masuk Gratis!	#
+xbox.signOutLong=Keluar dari Akun Microsoft	#
+xbox.disconectionscreen.notSignedIn=Masuk dengan akun Microsoft untuk bermain bersama teman.	#
+xbox.disconectionscreen.multiplayerNotAllowed=Akun Microsoft ini tidak memiliki izin untuk bergabung dengan permainan multipemain.	#
+selectTemplate.signIn=Buat Realm dengan Akun Microsoft	#
+howtoplay.multiplayer.header.3=Bergabung dengan Permainan Online	#
+trial.tabbed_upsell.xbl.description=Dengan pengalaman lengkap Minecraft, kamu mendapatkan mode Kreatif, Prestasi, dan banyak lagi, dan dengan Akun Microsoft, kamu bisa bertemu pemain lain di komunitas Minecraft! Bergabunglah dengan dunia temanmu, cari teman baru di Server, dan sinkronkan pembelian di Marketplace di semua perangkat tempat kamu bermain Minecraft.	#
+trial.tabbed_upsell.achievements.description=Selain pengalaman lengkap Minecraft dengan mode Kreatif, Multipemain, dan banyak lagi, kamu akan memperoleh Prestasi. Prestasi dan Gamerscore menandai kemajuanmu di Minecraft dan menunjukkan prestasimu kepada teman-teman Akun Microsoft. Dapatkan permainan lengkap untuk mulai meraihnya!	#
+trial.tabbed_upsell.xbl.title=Akun Microsoft	#
+realmsCreateScreen.incomplete.create.c=Seseorang mulai membuat Realm dengan akun penagihan pada perangkat ini. Ingin menyelesaikan pembuatan Realm tersebut dengan akun Microsoft ini sebagai pemilik?	#
+realmsCreateScreen.incomplete.renew.c=Seseorang mulai memperbarui realm dengan akun penagihan pada perangkat ini. Ingin menyelesaikan pembaruan realm tersebut dengan akun Microsoft ini sebagai pemilik?	#
+options.xboxliveBroadcastSettings=Pengaturan akun Microsoft	#
+pauseScreen.xboxLiveDisconnect=Ups! Akun Microsoft terputus. Untuk mengundang lebih banyak pemain, masuk ke Menu Utama dan aktifkan ulang duniamu.	#
+selectTemplate.unableToSignIn=Layanan Microsoft tidak tersedia di perangkat ini.	#
+store.coins.incomplete.fulfill.b=Sepertinya kamu melakukan pembelian dengan akun Microsoft yang berbeda. Ingin menyelesaikan pembelian dengan akun ini?	#
+store.coins.incomplete.fulfill.b=Sepertinya kamu melakukan pembelian dengan akun Microsoft yang berbeda. Ingin menyelesaikan pembelian dengan akun Microsoft ini?	#
+createWorldScreen.check_internet_connection=Kamu tidak terhubung ke internet. Teman-temanmu tidak akan bisa bergabung di dunia multipemain milikmu. Masuk ke akun Microsoft untuk main bersama teman.  #
+realmsCreateScreen.incomplete.renew.b=Sepertinya kamu mulai memperbarui realm dengan akun Microsoft yang berbeda.  Ingin menyelesaikan pembaruan realm tersebut dengan akun Microsoft ini sebagai pemilik?  #
+xbl.syncIAP.title=Sinkronkan Pembelian ke Akun Microsoft?  #
+xbl.syncIAP.description=Masuk ke Akun Microsoft untuk menyinkronkan Skin, Paket Tekstur, Dunia, dan Perpaduanmu. Semuanya bisa kamu akses di segala perangkat yang kamu gunakan untuk bermain Minecraft.  #
+xbl.syncIAP.toast.message=Pembelian Disinkronkan ke akun Microsoft  #
+xbl.syncIAP.inProgress.message=Menyinkronkan pembelian ke akun Microsoft...  #
+xblLogin.LoginMessage=Menyambung...	#
+xbl.syncIAP.skipSignIn.prompt.description=Akun Microsoft ini tidak akan menjadi akun utama untuk perangkat ini jika kamu tidak menyinkronkan pembelian dari perangkat ini ke akun ini. Kamu tidak akan secara otomatis masuk ketika memulai Minecraft.  #
+
+
+
+
+
+
+

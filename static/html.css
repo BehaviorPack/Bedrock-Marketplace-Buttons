@@ -130,10 +130,12 @@ a:hover {
   }
   
   .discord-float-button img {
-    width: 132px;
+    width: 60px;
+    height: 60px;
+    object-fit: contain;
     position: absolute;
     bottom: 100%;
-    left: -12px;
+    left: 20px;
   }
   
   .discord-float-button span {

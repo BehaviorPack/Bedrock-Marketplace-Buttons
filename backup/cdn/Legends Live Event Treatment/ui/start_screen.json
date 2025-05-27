@@ -1,0 +1,239 @@
+{
+  "namespace": "start",
+
+  "gathering_button@common_buttons.light_text_form_fitting_button": {
+    "size": [ "100%c", 25 ],
+    "anchor_to": "bottom_left",
+    "anchor_from": "bottom_left",
+    "$pressed_button_name": "button.gathering",
+    "$button_state_panel": "common_buttons.new_ui_width_fitting_button_panel",
+    "$button_text_size": [ "default", 10 ],
+    "$button_text_max_size": [ 130, 10 ],
+    "$button_text": "#gathering_button_text",
+    "$button_text_binding_type": "global",
+    "$focus_override_right": "play_button",
+    "bindings": [
+      {
+        "binding_name": "#gathering_button_enabled",
+        "binding_name_override": "#enabled"
+      }
+    ]
+  },
+
+  "gathering_panel": {
+    "type": "stack_panel",
+    "orientation": "vertical",
+    "size": [ "100%", 60 ],
+    "controls": [
+      {
+        "horizontal_panel": {
+          "type": "stack_panel",
+          "orientation": "horizontal",
+          "size": [ "100%", "fill" ],
+          "controls": [
+            {
+              "pad@common.empty_panel": {
+                "size": [ 5, "100%" ]
+              }
+            },
+            {
+              "inner_panel": {
+                "type": "panel",
+                "anchor_to": "bottom_left",
+                "anchor_from": "bottom_left",
+                "size": [ "100% - 5px", "100%" ],
+                "controls": [
+                  {
+                    "badge_and_caption@start.badge_and_caption": {}
+                  },
+                  {
+                    "gathering_button@start.gathering_button": {}
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      // The gathering panel is stacked on top of either the upper or lower online buttons. This padding is only needed when the upper online buttons are visible.
+      {
+        "bottom_pad": {
+          "type": "panel",
+          "size": [ "100%", 5 ],
+          "bindings": [
+            {
+              "binding_name": "#upper_online_buttons_visible",
+              "binding_name_override": "#visible"
+            }
+          ]
+        }
+      }
+    ],
+    "bindings": [
+      {
+        "binding_name": "#gathering_enabled",
+        "binding_name_override": "#visible"
+      }
+    ]
+  },
+
+  "upper_online_buttons_panel": {
+    "type": "stack_panel",
+    "size": [ "100%", "100%c" ],
+    "controls": [
+      {
+        "top_pad": {
+          "type": "panel",
+          "size": [ "100%", 5 ]
+        }
+      },
+      {
+        "stacked_column": {
+          "type": "stack_panel",
+          "size": [ "100%", "100%c" ],
+          "offset": [ "5%", 0 ],
+          "anchor_from": "top_left",
+          "anchor_to": "top_left",
+          "orientation": "horizontal",
+          "controls": [
+            {
+              "xbl_btn_padding": {
+                "ignored": "($nx_os or $is_ps4)",
+                "type": "panel",
+                "size": [ 5, 0 ],
+                "bindings": [
+                  {
+                    "binding_name": "#sign_in_visible",
+                    "binding_name_override": "#visible"
+                  }
+                ]
+              }
+            },
+            {
+              "xbl_btn@start.column_frame": {
+                "ignored": "($nx_os or $is_ps4)",
+                "size": [ 94, 25 ],
+                "max_size": [ "95%", 25 ],
+                "controls": [
+                  { "xbl_signin_button@start.xbl_signin_button": {} }
+                ],
+                "bindings": [
+                  {
+                    "binding_name": "#sign_in_visible",
+                    "binding_name_override": "#visible"
+                  }
+                ]
+              }
+            },
+            {
+              "platform_signin_btn@start.column_frame": {
+                "ignored": "(not $nx_os and not $is_ps4)",
+                "size": [ "90% - 6px", 32 ],
+                "controls": [
+                  {
+                    "platform_signin_button@start.platform_signin_button": {}
+                  }
+                ],
+                "bindings": [
+                  {
+                    "binding_name": "#sign_in_visible",
+                    "binding_name_override": "#visible"
+                  }
+                ]
+              }
+            },
+            {
+              "gamertag_pic_and_label": {
+                "ignored": "(not $nx_os and not $is_ps4)",
+                "type": "stack_panel",
+                "orientation": "horizontal",
+                "size": [ "100%c", 16 ],
+                "controls": [
+                  {
+                    "gamerpic_with_border": {
+                      "type": "panel",
+                      "size": [ "100%c", "100%" ],
+                      "controls": [
+                        {
+                          "gamerpic": {
+                            "type": "image",
+                            "size": [ 16, 16 ],
+                            "layer": 1,
+                            "bindings": [
+                              {
+                                "binding_name": "#gamerpic_texture_path",
+                                "binding_name_override": "#texture"
+                              },
+                              {
+                                "binding_name": "#gamerpic_texture_location_type",
+                                "binding_name_override": "#texture_file_system"
+                              }
+                            ]
+                          }
+                        },
+                        {
+                          "border_white@common.focus_border_white": {
+                            "layer": 3,
+                            "size": [ 16, 16 ]
+                          }
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "spacer": {
+                      "type": "panel",
+                      "size": [ 1, 0 ]
+                    }
+                  },
+                  {
+                    "label_panel": {
+                      "type": "panel",
+                      "size": [ "100%c", "100%" ],
+                      "controls": [
+                        {
+                          "gamertag_label": {
+                            "type": "label",
+                            "color": "$main_header_text_color",
+                            "layer": 1,
+                            "text": "#gamertag_label",
+                            "locked_alpha": 0.5,
+                            "size": [ "default", "100%" ],
+                            "offset": [ 0, "25%" ],
+                            "bindings": [
+                              {
+                                "binding_name": "#gamertag_label"
+                              }
+                            ]
+                          }
+                        }
+                      ]
+                    }
+                  }
+                ],
+                "bindings": [
+                  {
+                    "binding_name": "#gamertag_pic_and_label_visible",
+                    "binding_name_override": "#visible"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "bottom_pad": {
+          "type": "panel",
+          "size": [ "100%", 5 ]
+        }
+      }
+    ],
+    "bindings": [
+      {
+        "binding_name": "#upper_online_buttons_visible",
+        "binding_name_override": "#visible"
+      }
+    ]
+  }
+}

@@ -1,0 +1,80 @@
+networkWorld.connect_to_xbl=Log je in met een Microsoft-account om met vrienden te spelen.	#
+options.dev_useRetailXboxSandbox=Retail MSA Sandbox gebruiken	#
+createWorldScreen.disconnectedXboxLive=Je bent niet verbonden met Microsoft-services. Je vrienden met gamertags kunnen zich niet aansluiten bij jouw multiplayerwereld. Log je in bij je Microsoft-account om met je vrienden te spelen.	#
+realmsSharingScreen.failedSignInModalMessage=Je moet bij een Microsoft-account zijn ingelogd om je bij een Realm aan te sluiten. Log je in en probeer het opnieuw.	#
+commands.mixer.error.notoken=Je moet zijn ingelogd met een geldig Microsoft-account om Mixer-interactiviteit in te schakelen.	#
+realmsCreateScreen.incomplete.create.b=Het lijkt erop dat je bent begonnen een Realm te maken met een ander Microsoft-account. Wil je het maken van deze Realm voltooien met dit Microsoft-account als eigenaar?	#
+networkWorld.multiplayerPrivilegesBlocked=Je kunt geen onlinemultiplayerspellen spelen vanwege de instellingen van je Microsoft-account. Bekijk en wijzig je privacyinstellingen op aka.ms/accountsettings.	#
+xblLogin.LoginMessageTitle=Microsoft-account	#
+xbl.savePurchase.description.line1=Wil je op elk apparaat met je aankopen kunnen spelen? Log je dan in met een Microsoft-account, want dan zijn al je munten, skins, texturepakketten, kaarten en mashups beschikbaar op elk apparaat waarmee je Minecraft speelt.	#
+xbl.savePurchase.title=Aankopen opslaan naar een Microsoft-account?	#
+xbl.savePurchase.saveButton=Opslaan naar Microsoft-account	#
+xbl.savePurchase.toast.message=Aankopen gesynchroniseerd met Microsoft-account!	#
+xbl.savePurchase.inProgress.message=Aankopen overdragen naar Microsoft-account...	#
+store.sign_in_warning.no_xbl_and_local_content=Belangrijk! Je hebt pakketten en/of munten gekocht die alleen beschikbaar zijn op dit apparaat en die mogelijk verloren raken als je apparaat niet meer werkt, je dit kwijtraakt of als je Minecraft verwijdert! Meld je aan met een Microsoft-account (gratis) om je pakketrechten en munten naar dat account over te dragen, te beschermen en deze te gebruiken op elk apparaat waarmee je bent aangemeld.	#
+store.sign_in_warning.no_xbl_and_no_local_content.line2=Meld je aan met een Microsoft-account (gratis) om je pakketrechten en munten naar dat account over te dragen en te beschermen.	#
+xbl.skipSignIn.prompt.description=Dit Microsoft-account wordt pas het primaire account van dit apparaat als je de aankopen hiervan naar dit account overdraagt. Je wordt niet automatisch ingelogd wanneer je Minecraft start.	#
+xbl.signOut.title=Aankopen met Microsoft-account!	#
+xbl.signOut.message1=Je moet je inloggen bij je Microsoft-account om toegang te krijgen tot de munten en voorwerpen die je in de winkel hebt gekocht.	#
+disconnectionScreen.notAuthenticated=Je moet je verifiëren bij Microsoft-services.	#
+feed.connected=Elke Realm is gekoppeld aan een Club via je Microsoft-account.	#
+howtoplay.multiplayer.text.6=Let op: je moet verbonden zijn met internet en bij een Microsoft-account zijn ingelogd om een multiplayerspel te spelen.	#
+options.broadcast.permissionError=Je bent niet gemachtigd om deze functie te gebruiken. Bekijk en wijzig je privacyinstellingen op aka.ms/accountsettings	#
+options.xboxLiveAccountSettings=Microsoft-accountinstellingen	#
+options.xboxLiveSignedIn=ingelogd met Microsoft-account	#
+options.xboxLiveSignedOut=Uitgelogd bij Microsoft-account	#
+options.turnOffAchievements.message=Achievements zijn alleen beschikbaar met de instelling Survivalmodus met cheats uit. Als je doorgaat, kan niemand ooit meer achievements in deze wereld verdienen, zelfs als je deze instelling terugdraait voordat je begint met spelen.	#
+options.achievementsDisabled=Er kunnen in deze wereld geen achievements worden verdiend.	#
+options.achievementsDisabled.onLoad=Als je met deze instellingen gaat spelen, kunnen er in deze wereld geen achievements meer worden verdiend.	#
+options.achievementsDisabled.notSignedIn=Er kunnen in deze wereld achievements worden verdiend, maar je moet je dan eerst inloggen bij een Microsoft-account.	#
+permissions.AddFriends=Je kunt geen vrienden toevoegen vanwege de instellingen van je Microsoft-account. Je kunt dit wijzigen in de instellingen voor privacy en onlineveiligheid op aka.ms/accountsettings.	#
+permissions.MultiplayerSessions=Je kunt niet spelen in Realms vanwege de instellingen van je Microsoft-account. Je kunt dit wijzigen in de instellingen voor privacy en onlineveiligheid op aka.ms/accountsettings.	#
+permissions.Communications=Je kunt niet chatten met andere spelers vanwege de instellingen van je Microsoft-account. Je kunt dit wijzigen in de instellingen voor privacy en onlineveiligheid op aka.ms/accountsettings.	#
+permissions.MultiplayerSessionsOnConsole=Volgens je Microsoft-accountinstellingen zijn multiplayerspellen niet toegestaan. Bekijk je instellingen voor privacy en onlineveiligheid op aka.ms/accountsettings om te controleren of je Microsoft-account Gold hebt en je instellingen multiplayerspellen toestaan.	#
+store.content.requireXbl.signedIn=Download gratis met een Microsoft-account.	#
+store.ratings.signIn.description2=Voordat je een voorwerp kunt beoordelen, moet je je inloggen met een Microsoft-account.	#
+store.purchase.signInPart2=Log je in met een Microsoft-account om de winkel te kunnen gebruiken!	#
+remix_export.EULA.content=Nieuw! Je Remix 3D-profiel is niet meer gekoppeld aan je gamertag. Als je al een Remix 3D-profiel hebt, hebben we je huidige gamertag gereserveerd als je naam. Als je nieuw bent, maken we automatisch een Remix 3D-profiel voor je. (Je kunt dit later op Remix3D.com bewerken.) Druk op Akkoord om deze wijziging te bevestigen en je creatie naar Remix3D.com te uploaden. De Microsoft-serviceovereenkomst en privacyverklaring zijn van toepassing.	#
+remix_export.XBL_signin=Je moet bij een Microsoft-account zijn ingelogd om naar Remix3D.com te kunnen uploaden.	#
+xbox.signin.message=Log je in met je gratis Microsoft-account om de volledige wereld van Minecraft te ervaren.	#
+xbox.signingin=Inloggen met je Microsoft-account...	#
+xbox.firstsignin.line1=Welkom bij Minecraft! Gebruik een Microsoft-account om verbonden te raken met de Minecraft-community, waar pc's, consoles, telefoons en tablets allemaal samen kunnen spelen. En wat het mooiste is?	#
+xbox.firstsignin.line3=Heb je geen account? Maak er een om achievements te verdienen en je bij Realms en servers aan te sluiten!	#
+xbox.firstsignin.line3.norealmsOrServers=Heb je geen account? Maak er nu een aan om achievements te verdienen en met je platformoverschrijdende vrienden te spelen!	#
+xbox.failedsignin.line1=We hebben je bij je Microsoft-account proberen in te loggen, maar er ging iets mis.	#
+xbox.achievementssignin.line2=Log je in met een Microsoft-account om achievements te verdienen!	#
+xbox.addfriendsignin.line1=Zoek naar je vrienden met hun gamertag om te zien wanneer ze online zijn.	#
+xbox.addfriendsignin.line2=Log je in met een Microsoft-account om vrienden toe te voegen!	#
+xbox.invitesignin.line1=Nodig je vrienden uit met hun gamertag om hun werelden te zien wanneer ze online zijn.	#
+xbox.invitesignin.line2=Log je in met een Microsoft-account om vrienden uit te nodigen!	#
+xbox.signInLong=Log je gratis in!	#
+xbox.signOutLong=Uitloggen bij je Microsoft-account	#
+xbox.disconectionscreen.notSignedIn=Log je in met je Microsoft-account om met vrienden te spelen.	#
+xbox.disconectionscreen.multiplayerNotAllowed=Dit account heeft niet de machtigingen om je bij multiplayerspellen aan te sluiten.	#
+selectTemplate.signIn=Realm maken met Microsoft-account	#
+howtoplay.multiplayer.header.3=Aansluiten bij onlinespel	#
+trial.tabbed_upsell.xbl.description=Met de volledige Minecraft-ervaring krijg je de Creative-modus, achievements en meer, en met een Microsoft-account kun je andere spelers van de Minecraft-community ontmoeten! Sluit je aan bij de werelden van je vrienden, maak nieuwe vrienden op servers en synchroniseer je Marketplace-aankopen op alle apparaten waarop je Minecraft speelt.	#
+trial.tabbed_upsell.achievements.description=Naast de volledige Minecraft-ervaring met de Creative-modus, multiplayer en meer kun je ook achievements verdienen. Aan de hand van achievements en je gamerscore kun je je voortgang in Minecraft zien en tegenover je Microsoft-accountvrienden opscheppen over je prestaties. Haal het volledige spel om ze te verdienen!	#
+trial.tabbed_upsell.xbl.title=Microsoft-account	#
+realmsCreateScreen.incomplete.create.c=Iemand is begonnen een Realm te maken met het factureringsaccount op dit apparaat. Wil je het maken van deze Realm voltooien met dit Microsoft-account als eigenaar?	#
+realmsCreateScreen.incomplete.renew.c=Iemand is begonnen een Realm te vernieuwen met het factureringsaccount op dit apparaat. Wil je het vernieuwen van deze Realm voltooien met dit Microsoft-account als eigenaar?	#
+options.xboxliveBroadcastSettings=Microsoft-accountinstellingen	#
+pauseScreen.xboxLiveDisconnect=Oeps! De verbinding met je Microsoft-account is verbroken. Meld je aan in het hoofdmenu en start je wereld opnieuw op om meer spelers uit te nodigen.	#
+selectTemplate.unableToSignIn=Microsoft-services zijn niet beschikbaar op dit apparaat	#
+store.coins.incomplete.fulfill.b=Het lijkt erop dat je bent begonnen een aankoop te doen met een ander Microsoft-account. Wil je de aankoop liever met dit account voltooien?	#
+store.coins.incomplete.fulfill.b=Het lijkt erop dat je bent begonnen een aankoop te doen met een ander Microsoft-account. Wil je de aankoop liever met dit Microsoft-account voltooien?	#
+createWorldScreen.check_internet_connection=Je bent niet met internet verbonden. Je vrienden kunnen zich niet aansluiten bij jouw multiplayerwerelden. Log je in bij je Microsoft-account om met je vrienden te spelen.  #
+realmsCreateScreen.incomplete.renew.b=Het lijkt erop dat je bent begonnen een Realm te vernieuwen met een ander Microsoft-account. Wil je het vernieuwen van deze Realm voltooien met dit Microsoft-account als eigenaar?  #
+xbl.syncIAP.title=Aankopen synchroniseren met Microsoft-account?  #
+xbl.syncIAP.description=Meld je aan bij je Microsoft-account om je skins, texturepakketten, werelden en mashups te synchroniseren. Ze zijn daarna beschikbaar op elk apparaat waarop je Minecraft speelt.  #
+xbl.syncIAP.toast.message=Aankopen gesynchroniseerd met Microsoft-account  #
+xbl.syncIAP.inProgress.message=Aankopen synchroniseren met Microsoft-account...  #
+xblLogin.LoginMessage=Verbinding maken...	#
+xbl.syncIAP.skipSignIn.prompt.description=Dit Microsoft-account wordt pas het primaire account van dit apparaat als je de aankopen hiervan met dit account synchroniseert. Je wordt niet automatisch aangemeld wanneer je Minecraft start.  #
+
+
+
+
+
+
+

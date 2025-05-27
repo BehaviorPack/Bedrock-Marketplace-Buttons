@@ -1,0 +1,80 @@
+networkWorld.connect_to_xbl=Logga in med ett Microsoft-konto för att spela med kompisar.	#
+options.dev_useRetailXboxSandbox=Använd MSA-sandlåda i konsumentversion	#
+createWorldScreen.disconnectedXboxLive=Du är inte ansluten till Microsoft-tjänster. Dina kompisar med gamertags kan inte ansluta till din flerspelarvärld. Logga in med ditt Microsoft-konto för att spela med dina kompisar.	#
+realmsSharingScreen.failedSignInModalMessage=Du måste vara inloggad med ett Microsoft-konto för att ansluta till ett Realm. Logga in och försök igen.	#
+commands.mixer.error.notoken=Du måste vara inloggad med ett Microsoft-konto för att aktivera Mixer Interactivity.	#
+realmsCreateScreen.incomplete.create.b=Det verkar som att du började skapa ett Realm med ett annat Microsoft-konto. Vill du skapa detta Realm med det här Microsoft-kontot som ägare?	#
+networkWorld.multiplayerPrivilegesBlocked=Du kan inte spela i flerspelarläge online på grund av inställningarna för ditt Microsoft-konto. Granska och uppdatera dina sekretessinställningar på aka.ms/accountsettings.	#
+xblLogin.LoginMessageTitle=Microsoft-konto	#
+xbl.savePurchase.description.line1=Vill du komma åt allt du köper på alla enheter? Logga in med ett Microsoft-konto så kommer dina mynt, utseenden, texturpaket, kartor och mixpaket att finnas där för dig på alla enheter du använder till Minecraft.	#
+xbl.savePurchase.title=Spara köp till ett Microsoft-konto?	#
+xbl.savePurchase.saveButton=Spara till Microsoft-konto	#
+xbl.savePurchase.toast.message=Köp har synkats till Microsoft-kontot!	#
+xbl.savePurchase.inProgress.message=För över köp till Microsoft-konto ...	#
+store.sign_in_warning.no_xbl_and_local_content=Viktigt! Du har köpt paket och/eller mynt som bara finns tillgängliga på den här enheten. De försvinner om enheten går sönder eller försvinner, eller om du avinstallerar Minecraft! Logga in med ett Microsoft-konto (gratis) och för över dina paketrättigheter och mynt till det kontot för att skydda dem och komma åt dem på alla dina enheter med det kontot.	#
+store.sign_in_warning.no_xbl_and_no_local_content.line2=Logga in med ett Microsoft-konto (gratis) och för över dina paketrättigheter till det kontot för att skydda dina köpta paket och mynt.	#
+xbl.skipSignIn.prompt.description=Det här Microsoft-kontot kommer inte att vara det primära kontot för den här enheten såvida du inte för över enhetens köp till detta konto. Du kommer inte att loggas in automatiskt när du startar Minecraft.	#
+xbl.signOut.title=Köp med Microsoft-konto!	#
+xbl.signOut.message1=Så länge du är utloggad från Microsoft-kontot har du inte tillgång till de Minecoins och föremål du köpt i butiken.	#
+disconnectionScreen.notAuthenticated=Du måste autentiseras på Microsoft-tjänster.	#
+feed.connected=Varje Realm är anslutet till en klubb med ditt Microsoft-konto.	#
+howtoplay.multiplayer.text.6=Obs! Du behöver en internetanslutning och måste vara inloggad med ett Microsoft-konto för att spela med flera spelare.	#
+options.broadcast.permissionError=Du har inte tillstånd att använda den här funktionen. Granska och uppdatera dina sekretessinställningar på aka.ms/accountsettings.	#
+options.xboxLiveAccountSettings=Inställningar för Microsoft-konto	#
+options.xboxLiveSignedIn=Inloggad med Microsoft-konto	#
+options.xboxLiveSignedOut=Utloggad från Microsoft-konto	#
+options.turnOffAchievements.message=Achievements är endast tillgängliga i världar inställda för överlevnadsläge utan fusk. Om du fortsätter kommer ingen att kunna få achievements i den här världen, även om du byter tillbaka innan du börjar spela.	#
+options.achievementsDisabled=Det går inte att få achievements i den här världen.	#
+options.achievementsDisabled.onLoad=Om du börjar spela med de här inställningarna kommer det inte gå att få achievements i den här världen.	#
+options.achievementsDisabled.notSignedIn=Det går att få achievements i den här världen, men du måste logga in med ett Microsoft-konto för att kunna göra det.	#
+permissions.AddFriends=Du kan inte lägga till kompisar på grund av hur ditt Microsoft-konto är inställt. Du kan gå till inställningarna för säkerhet och sekretess på aka.ms/accountsettings för att ändra på det.	#
+permissions.MultiplayerSessions=Du kan inte spela i Realms på grund av hur ditt Microsoft-konto är inställt. Du kan gå till inställningarna för säkerhet och sekretess på aka.ms/accountsettings för att ändra på det.	#
+permissions.Communications=Du kan inte chatta med andra spelare på grund av hur ditt Microsoft-konto är inställt. Du kan gå till inställningarna för säkerhet och sekretess på aka.ms/accountsettings för att ändra på det.	#
+permissions.MultiplayerSessionsOnConsole=Dina inställningar för Microsoft-konto tillåter inte flerspelarläge. Kontrollera dina inställningar för sekretess och onlinesäkerhet på aka.ms/accountsettings för att se till att du har Microsoft-konto Guld och att dina inställningar tillåter flerspelarläge.	#
+store.content.requireXbl.signedIn=Ladda ned gratis med Microsoft-konto.	#
+store.ratings.signIn.description2=Du måste logga in med ett Microsoft-konto innan du kan betygsätta produkter.	#
+store.purchase.signInPart2=Logga in med ett Microsoft-konto för att börja använda butiken!	#
+remix_export.EULA.content=Nyhet! Din Remix 3D-profil är inte längre kopplad till din gamertag. Om du redan har en Remix 3D-profil har vi reserverat din nuvarande gamertag som ditt namn. Om du är ny kommer vi att skapa en Remix 3D-profil åt dig automatiskt. (Du kan redigera den senare på Remix3D.com.) Tryck på Godkänn för att bekräfta ändringarna och ladda upp din skapelse till Remix3D.com. Villkor för Microsoft-tjänster och sekretesspolicyn gäller.	#
+remix_export.XBL_signin=Du måste vara inloggad med ett Microsoft-konto för att ladda upp till Remix3D.com.	#
+xbox.signin.message=Logga in med ditt kostnadsfria Microsoft-konto för att uppleva allt Minecraft har att erbjuda.	#
+xbox.signingin=Loggar in med ditt Microsoft-konto ...	#
+xbox.firstsignin.line1=Välkommen till Minecraft! Använd ett Microsoft-konto för att ansluta till Minecraft-communityn, där datorer, konsoler, mobiler och surfplattor kan spela tillsammans. Och vet du vad det bästa är?	#
+xbox.firstsignin.line3=Har du inget konto? Skapa ett nu så kan du börja låsa upp achievements och ansluta till Realms och servrar!	#
+xbox.firstsignin.line3.norealmsOrServers=Har du inget konto? Skapa ett nu så kan du börja låsa upp achievements och spela med dina kompisar på andra plattformar!	#
+xbox.failedsignin.line1=Vi försökte logga in dig på ditt Microsoft-konto, men någonting gick fel.	#
+xbox.achievementssignin.line2=Logga in med ett Microsoft-konto så kan du börja tjäna in dem!	#
+xbox.addfriendsignin.line1=Hitta dina kompisar via deras gamertags så ser du när de är online.	#
+xbox.addfriendsignin.line2=Logga in med ett Microsoft-konto för att börja lägga till kompisar!	#
+xbox.invitesignin.line1=Bjud in dina kompisar via deras gamertags så ser du deras världar när de är online.	#
+xbox.invitesignin.line2=Logga in med ett Microsoft-konto för att börja bjuda in kompisar!	#
+xbox.signInLong=Logga in gratis!	#
+xbox.signOutLong=Logga ut från ditt Microsoft-konto	#
+xbox.disconectionscreen.notSignedIn=Logga in med ditt Microsoft-konto för att spela med kompisar.	#
+xbox.disconectionscreen.multiplayerNotAllowed=Det här Microsoft-kontot har inte tillstånd att ansluta till flerspelarlägen.	#
+selectTemplate.signIn=Skapa Realm med Microsoft-konto	#
+howtoplay.multiplayer.header.3=Ansluta till ett onlinespel	#
+trial.tabbed_upsell.xbl.description=Det fullständiga Minecraft ger dig kreativt läge, achievements och mer därtill, och med ett Microsoft-konto kan du träffa andra i Minecraft-communityn! Anslut till dina kompisars världar, träffa nya kompisar på servrar och synkronisera dina köp från marknaden med alla enheter du använder till Minecraft.	#
+trial.tabbed_upsell.achievements.description=Utöver den kompletta Minecraft-upplevelsen med kreativt läge, flerspelarstöd och massa annat kan du låsa upp achievements. Achievements och gamerscore mäter dina framsteg i Minecraft och låter dina Microsoft-kontokompisar se vad du har åstadkommit. Skaffa fullversionen och börja låsa upp dem!	#
+trial.tabbed_upsell.xbl.title=Microsoft-konto	#
+realmsCreateScreen.incomplete.create.c=Någon började skapa ett Realm med faktureringskontot på den här enheten. Vill du färdigställa detta Realm med det här Microsoft-kontot som ägare?	#
+realmsCreateScreen.incomplete.renew.c=Någon började förnya ett Realm med faktureringskontot på den här enheten. Vill du bekräfta förnyelsen av detta Realm med det här Microsoft-kontot som ägare?	#
+options.xboxliveBroadcastSettings=Inställningar för Microsoft-konto	#
+pauseScreen.xboxLiveDisconnect=Oj då! Ditt Microsoft-konto har blivit nedkopplat. Logga in i huvudmenyn och starta om din värld för att bjuda in fler spelare.	#
+selectTemplate.unableToSignIn=Microsoft-tjänster är inte tillgängliga på den här enheten	#
+store.coins.incomplete.fulfill.b=Det verkar som att du började köpet med ett annat Microsoft-konto. Vill du bekräfta köpet med det här kontot i stället?	#
+store.coins.incomplete.fulfill.b=Det verkar som att du började köpet med ett annat Microsoft-konto. Vill du bekräfta köpet med det här Microsoft-kontot i stället?	#
+createWorldScreen.check_internet_connection=Du är inte ansluten till internet. Dina kompisar kan inte ansluta till dina flerspelarvärldar. Logga in med ditt Microsoft-konto för att spela med dina kompisar.  #
+realmsCreateScreen.incomplete.renew.b=Det verkar som att du började förnya ett Realm med ett annat Microsoft-konto. Vill du bekräfta förnyelsen av detta Realm med det här Microsoft-kontot som ägare?  #
+xbl.syncIAP.title=Synka köp med Microsoft-konto?  #
+xbl.syncIAP.description=Logga in på ditt Microsoft-konto för att synkronisera dina utseenden, texturpaket, världar och mixpaket. Sedan kommer de att finnas där för dig på alla enheter du använder till Minecraft.  #
+xbl.syncIAP.toast.message=Köp har synkats med Microsoft-kontot  #
+xbl.syncIAP.inProgress.message=Synkar köp med Microsoft-konto ...  #
+xblLogin.LoginMessage=Ansluter ...	#
+xbl.syncIAP.skipSignIn.prompt.description=Det här Microsoft-kontot kommer inte att vara det primära kontot för den här enheten såvida du inte synkar enhetens köp med detta konto. Du kommer inte att loggas in automatiskt när du startar Minecraft.  #
+
+
+
+
+
+
+

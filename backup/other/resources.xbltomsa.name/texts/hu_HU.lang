@@ -1,0 +1,80 @@
+networkWorld.connect_to_xbl=A barátokkal való játékhoz jelentkezz be Microsoft-fiókkal.	#
+options.dev_useRetailXboxSandbox=Kiskereskedelmi MSA Sandbox használata	#
+createWorldScreen.disconnectedXboxLive=Nem csatlakoztál a Microsoft-szolgáltatásaihoz. A becenévvel rendelkező barátaid nem tudnak a többjátékos világodhoz csatlakozni. Ha a barátaiddal szeretné játszani, jelentkezz be a Microsoft-fiókodba.	#
+realmsSharingScreen.failedSignInModalMessage=Egy realmhoz való csatlakozáshoz be kell jelentkezned a Microsoft-fiókodba. Jelentkezz be, majd próbáld újra.	#
+commands.mixer.error.notoken=A Mixer interaktivitásának bekapcsolásához be kell jelentkezned a Microsoft-fiókodba.	#
+realmsCreateScreen.incomplete.create.b=Úgy tűnik, egy másik Microsoft-fiókkal kezdtél létrehozni egy realmot. Befejezed annak a realmnak a létrehozását, ezt az Microsoft-fiókot téve meg tulajdonosnak?	#
+networkWorld.multiplayerPrivilegesBlocked=Nem lehet online többjátékos módban játszani a Microsoft-fiókod beállításai miatt. Ezt az adatvédelmi és online biztonsági beállításoknál tudod módosítani: aka.ms/accountsettings.	#
+xblLogin.LoginMessageTitle=Microsoft-fiók	#
+xbl.savePurchase.description.line1=Azt szeretnéd, hogy bármilyen eszközön játszhass azzal, amit megvásároltál? Jelentkezz be Microsoft-fiókkal: így bármelyik eszközön szeretnél is játszani a Minecrafttal, a Minecraft-érméid, a felületeid, a textúracsomagjaid, a térképeid és a mixeid mindig a rendelkezésedre fognak állni.	#
+xbl.savePurchase.title=Mented a vásárlásaidat a Microsoft-fiókodba?	#
+xbl.savePurchase.saveButton=Mentés Microsoft-fiókba	#
+xbl.savePurchase.toast.message=A vásárlások szinkronizálva a Microsoft-fiókba!	#
+xbl.savePurchase.inProgress.message=Vásárlások átvitele Microsoft-fiókba…	#
+store.sign_in_warning.no_xbl_and_local_content=Fontos! Olyan csomagokat és/vagy Minecraft-érméket vásároltál, amelyek csak ezen az eszközön elérhetőek, és elvesznek, ha az eszköz meghibásodik, vagy a Minecraft eltávolításra kerül! Jelentkezz be egy Microsoft-fiókkal (ennek létrehozása ingyenes), és vidd át csomag- és érmejogosultságaidat arra a fiókra, hogy később bármilyen eszközön hozzájuk férhess bejelentkezés után.	#
+store.sign_in_warning.no_xbl_and_no_local_content.line2=Jelentkezz be egy Minecraft-fiókkal (ennek létrehozása ingyenes), és vidd át csomagjogosultságaidat arra a fiókra, hogy biztonságba helyezd megvásárolt csomagjaidat és Minecraft-érméidet.	#
+xbl.skipSignIn.prompt.description=Ha az ezen az eszközön végrehajtott vásárlásokat nem viszed át ebbe a Microsoft-fiókba, nem ez lesz az elsődleges fiók ezen az eszközön. A Minecraft elindításakor nem fogsz automatikusan bejelentkezni.	#
+xbl.signOut.title=A Microsoft-fiókodba mentett vásárlások	#
+xbl.signOut.message1=A Minecraft-érméket és az áruházban vásárolt elemeket csak akkor éred el, ha bejelentkezel a Microsoft-fiókodba.	#
+disconnectionScreen.notAuthenticated=Be kell jelentkezned a Microsoft-szolgáltatásokba.	#
+feed.connected=Minden Realm egy Clubhoz kapcsolódik Microsoft-fiókoddal.	#
+howtoplay.multiplayer.text.6=Megjegyzés: A többjátékos mód használatához internetkapcsolattal kell rendelkezned, és be kell jelentkezned a Microsoft-fiókodba.	#
+options.broadcast.permissionError=Nem rendelkezel a funkció használatához szükséges jogosultsággal. Az adatvédelmi beállításokat az aka.ms/accountsettings oldalon ellenőrizheted és módosíthatod.	#
+options.xboxLiveAccountSettings=Microsoft-fiók beállításai	#
+options.xboxLiveSignedIn=Bejelentkeztél a Microsoft-fiókba	#
+options.xboxLiveSignedOut=Kijelentkeztél a Microsoft-fiókból	#
+options.turnOffAchievements.message=A mérföldkövek csak túlélő módban és kikapcsolt csalásokkal érhetők el. Ha folytatod, senki soha többé nem érhet el mérföldköveket ebben a világban, még ha a játék előtt vissza is váltasz túlélő módra.	#
+options.achievementsDisabled=Ebben a világban nem lehet mérföldköveket elérni.	#
+options.achievementsDisabled.onLoad=Ha ezekkel a beállításokkal játszol tovább, ebben a világban többé nem lehet majd mérföldköveket elérni.	#
+options.achievementsDisabled.notSignedIn=Ebben a világban lehet mérföldköveket elérni, de ehhez be kell jelentkezned a Microsoft-fiókodba.	#
+permissions.AddFriends=Nem lehet barátokat hozzáadni az Xbox Live-fiókod beállításai miatt. Ezt az adatvédelmi és online biztonsági beállításoknál tudod módosítani: aka.ms/accountsettings.	#
+permissions.MultiplayerSessions=Nem lehet realmokban játszani a Microsoft-fiókod beállításai miatt. Ezt az adatvédelmi és online biztonsági beállításoknál tudod módosítani: aka.ms/accountsettings.	#
+permissions.Communications=Nem lehet más játékosokkal csevegni a Microsoft-fiókod beállításai miatt. Ezt az adatvédelmi és online biztonsági beállításoknál tudod módosítani: aka.ms/accountsettings.	#
+permissions.MultiplayerSessionsOnConsole=A Microsoft-fiókod beállításai nem teszik lehetővé a többjátékos mód használatát. Az adatvédelmi és online biztonsági beállításaidnál, az aka.ms/accountsettings oldalon ellenőrizd, hogy rendelkezel-e Microsoft-fiókkal és Gold előfizetéssel, amelyek lehetővé teszi a többjátékos mód használatát.	#
+store.content.requireXbl.signedIn=Töltsd le ingyen Microsoft-fiókkal.	#
+store.ratings.signIn.description2=Elemek értékelése előtt Microsoft-fiókkal kell bejelentkezned.	#
+store.purchase.signInPart2=Az áruház használatához jelentkezz be Microsoft-fiókkal.	#
+remix_export.EULA.content=Változás! Remix 3D profilod már nincs hozzákapcsolva becenevedhez. Ha rendelkezel már Remix 3D profillal, jelenlegi becenevedet fenntartottuk a nevedként. Ha új tagsággal rendelkezel, automatikusan generálunk számodra egy Remix 3D profilt. (Ezt később szerkesztheted a Remix3D.com oldalon.) Válaszd az Elfogadás lehetőséget a változás tudomásul vételéhez és alkotásod feltöltéséhez a Remix3D.com oldalra. A tagságra a Microsoft szolgáltatási feltételei és adatvédelmi nyilatkozata érvényesek.	#
+remix_export.XBL_signin=A Remix3D.com-ra való feltöltéshez be kell jelentkezned a Microsoft-fiókodba.	#
+xbox.signin.message=Jelentkezz be az ingyenes Microsoft-fiókoddal, hogy teljes egészében élvezhesd a Minecraft világát.	#
+xbox.signingin=Bejelentkezés Microsoft-fiókkal...	#
+xbox.firstsignin.line1=Üdvözöl a Minecraft! Jelentkezz be a Microsoft-fiókoddal a Minecraft közösségéhez való csatlakozáshoz, ahol a számítógépet, konzolt, telefont és táblagépet használók együtt játszhatnak. És ami a legjobb:	#
+xbox.firstsignin.line3=Még nincs fiókod? Hozz létre egyet most a mérföldkövek eléréséhez, illetve a realmokhoz és kiszolgálókhoz való csatlakozáshoz!	#
+xbox.firstsignin.line3.norealmsOrServers=Még nincs fiókod? Hozz létre egyet most, hogy eredményeket szerezz és együtt játszhass más platformot használó barátaiddal!	#
+xbox.failedsignin.line1=Megpróbáltál bejelentkezni a Microsoft-fiókodba, de hiba történt.	#
+xbox.achievementssignin.line2=Az elérésükhöz jelentkezz be Microsoft-fiókkal.	#
+xbox.addfriendsignin.line1=Keress rá barátaidra becenév alapján, hogy lásd, ki tartózkodik épp online.	#
+xbox.addfriendsignin.line2=Barátok felvételéhez jelentkezz be Microsoft-fiókkal.	#
+xbox.invitesignin.line1=Fedd fel a barátaidat a becenevük alapján, így láthatod a világaik elérhetőségét.	#
+xbox.invitesignin.line2=Barátok meghívásához jelentkezz be Microsoft-fiókkal.	#
+xbox.signInLong=Jelentkezz be ingyen!	#
+xbox.signOutLong=Kijelentkezés a Microsoft-fiókból	#
+xbox.disconectionscreen.notSignedIn=A barátokkal való játékhoz jelentkezz be Microsoft-fiókkal.	#
+xbox.disconectionscreen.multiplayerNotAllowed=Ennek a Microsoft-fióknak nincs engedélye a többjátékos módhoz csatlakozni.	#
+selectTemplate.signIn=Realm létrehozása Microsoft-fiókkal	#
+howtoplay.multiplayer.header.3=Csatlakozás egy online játékhoz	#
+trial.tabbed_upsell.xbl.description=A teljes Minecraft-élmény része a kreatív mód és az eredmények, továbbá Microsoft-fiók birtokában találkozhatsz a Minecraft-közösség tagjaival is! Csatlakozz barátaid világaihoz, szerezz új barátokat a kiszolgálókon, és szinkronizáld piactéri vásárlásaidat minden eszközön, ahol a Minecrafttal játszol.	#
+trial.tabbed_upsell.achievements.description=A kreatív és többjátékos mód mellett a teljes Minecraft-élmény részeként eredményeket is szerezhetsz. Az eredmények és az egyre magasabb Gamerscore jelöli a fejlődésed útját a Minecraftban, megmutatva Microsoft-fiókkal rendelkező barátaidnak játékbeli teljesítményedet. Szerezd meg a teljes játékot, hogy elkezdhesd gyűjteni őket!	#
+trial.tabbed_upsell.xbl.title=Microsoft-fiók	#
+realmsCreateScreen.incomplete.create.c=Valaki, aki hozzáfér ennek az eszköznek a fizetési lehetőségeihez, már elkezdett létrehozni egy realmot. Befejezed annak a realmnak a létrehozását, ezt a Microsoft-fiókot téve meg tulajdonosnak?	#
+realmsCreateScreen.incomplete.renew.c=Valaki, aki hozzáfér ennek az eszköznek a fizetési lehetőségeihez, már elkezdett megújítani egy realmot. Befejezed annak a realmnak a megújítását, ezt a Microsoft-fiókot téve meg tulajdonosnak?	#
+options.xboxliveBroadcastSettings=Microsoft-fiók beállításai	#
+pauseScreen.xboxLiveDisconnect=Hoppá! Megszakadt a kapcsolat a Microsoft-fiókoddal. További játékosok meghívásához jelentkezz be a főmenüben, majd indítsd újra a világot.	#
+selectTemplate.unableToSignIn=Ezen az eszközön nem használhatók a Microsoft-szolgáltatások	#
+store.coins.incomplete.fulfill.b=Úgy tűnik, egy másik Microsoft-fiókkal kezdtél el egy vásárlást. Befejezed azt a vásárlást ezzel a fiókokkal?	#
+store.coins.incomplete.fulfill.b=Úgy tűnik, egy másik Microsoft-fiókkal kezdtél el egy vásárlást. Befejezed azt a vásárlást ezzel a Microsoft-fiókkal?	#
+createWorldScreen.check_internet_connection=Nincs internetkapcsolat. Így barátaid nem tudnak csatlakozni többjátékos világodhoz. Ha a barátaiddal szeretné játszani, jelentkezz be a Microsoft-fiókodba.  #
+realmsCreateScreen.incomplete.renew.b=Úgy tűnik, egy másik Microsoft-fiókkal kezdtél megújítani egy realmot. Befejezed annak a realmnak a megújítását, ezt a fiókot téve meg tulajdonosnak?  #
+xbl.syncIAP.title=Szinkronizálod a vásárlásokat a Microsoft-fiókkal?  #
+xbl.syncIAP.description=Jelentkezz be Microsoft-fiókodba felületeid, textúracsomagjaid, világaid és mixeid szinkronizálásához. Így meglesznek majd, bármilyen eszközöl is játszol Minecraftot.  #
+xbl.syncIAP.toast.message=A vásárlások szinkronizálva a Microsoft-fiókkal  #
+xbl.syncIAP.inProgress.message=A vásárlások szinkronizálása a Microsoft-fiókkal… #
+xblLogin.LoginMessage=Csatlakozás...	#
+xbl.syncIAP.skipSignIn.prompt.description=Ha az ezen az eszközön végrehajtott vásárlásokat nem viszed át ebbe a Microsoft-fiókba, nem ez lesz az elsődleges fiók ezen az eszközön. A Minecraft elindításakor nem fogsz automatikusan bejelentkezni.  #
+
+
+
+
+
+
+

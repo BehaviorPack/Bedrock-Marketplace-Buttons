@@ -1,0 +1,19 @@
+{
+    "namespace": "xbl_optional_signin",
+    "xbl_signin_label": {
+        "controls": [
+            {
+                "Xbox_icon@xbl_optional_signin.Xbox_icon": {
+                    "ignored": true
+                }
+            },
+            {
+                "button_label": {
+                    "type": "label",
+                    "color": "$text_color",
+                    "text": "xbox.signInLong"
+                }
+            }
+        ]
+    }
+}
