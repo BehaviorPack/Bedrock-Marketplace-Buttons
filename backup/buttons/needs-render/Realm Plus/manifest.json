@@ -1,0 +1,18 @@
+{
+    "format_version": 1,
+    "header": {
+        "description": "Realm Plus button treatment", 
+        "name": "Realm Plus", 
+        "uuid": "7f164c81-976b-4baa-abcf-685ead5b4489", 
+        "version": [1, 0, 0],
+        "min_engine_version": [1, 11, 0]
+    },
+    "modules": [
+        {
+            "description": "Realm Plus button treatment",
+            "type": "resources",
+            "uuid": "77a37648-68e9-43ab-96d9-c7a80244eced", 
+            "version": [1, 0, 0]
+        }
+    ]
+}

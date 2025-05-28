@@ -1,0 +1,21 @@
+{
+  "format_version": 2,
+  "metadata": {
+    "url": "https://hermitcraft.com"
+  },
+  "header": {
+    "name": "Hermitcraft 9 Marketplace Button",
+    "description": "Applies a button appearance designed for the release of the Hermitcraft Season 9 map on the Marketplace.",
+    "uuid": "1b06ad42-fec6-41ba-92df-b35c9f430228",
+    "version": [1, 0, 0],
+    "min_engine_version": [1, 16, 0], // Supports Minecraft 1.16+
+    "pack_scope": "global" // Cannot be applied to worlds
+  },
+  "modules": [
+    {
+      "type": "resources",
+      "uuid": "1949d326-084a-4e62-b82a-61c4d95e6109",
+      "version": [1, 0, 0]
+    }
+  ]
+}

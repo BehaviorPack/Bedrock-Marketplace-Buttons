@@ -68,6 +68,7 @@ body {
   padding: 2px 4px;
   border-radius: 4px;
   display: inline-block;
+  font-size: 14px;
 }
 
 .promote-name a:hover {

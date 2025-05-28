@@ -1,0 +1,137 @@
+{
+   "content" : [      
+	  {
+         "path" : "contents.json"
+      },
+	  {
+		 "path": "textures"
+	  },
+	  {
+		 "path": "textures/ui"
+	  },
+	  
+	  {
+		 "path": "textures/ui/corner1.json"
+	  },
+	  {
+		 "path": "textures/ui/corner1.png"
+	  },
+	  	  {
+		 "path": "textures/ui/manor.json"
+	  },
+	  {
+		 "path": "textures/ui/manor.png"
+	  },
+	  {
+		 "path": "textures/ui/sparkles.json"
+	  },
+	  {
+		 "path": "textures/ui/sparkles.png"
+	  },
+	  {
+		 "path": "textures/ui/alex1.png"
+	  },
+	  {
+		 "path": "textures/ui/alex1.json"
+	  },
+
+	  {
+		"path": "textures/ui/alex2.png"
+	 },
+	 {
+		"path": "textures/ui/alex2.json"
+	 },
+	 {
+		"path": "textures/ui/shimmer1.png"
+	 },
+	 {
+		"path": "textures/ui/shimmer1.json"
+	 },
+
+	 {
+		"path": "textures/ui/shimmer2.png"
+	 },
+	 {
+		"path": "textures/ui/shimmer2.json"
+	 },
+	 {
+		"path": "textures/ui/fish_blue.png"
+	 },
+	 {
+		"path": "textures/ui/fish_blue.json"
+	 },
+	 {
+		"path": "textures/ui/fish_cyan.png"
+	 },
+	 {
+		"path": "textures/ui/fish_cyan.json"
+	 },
+	 {
+		"path": "textures/ui/fish_green.png"
+	 },
+	 {
+		"path": "textures/ui/fish_green.json"
+	 },
+	 {
+		"path": "textures/ui/fish_yellow.png"
+	 },
+	 {
+		"path": "textures/ui/fish_yellow.json"
+	 },
+	 {
+		"path": "textures/ui/fish_orange.png"
+	 },
+	 {
+		"path": "textures/ui/fish_orange.json"
+	 },
+	 {
+		"path": "textures/ui/foodies.png"
+	 },
+	 {
+		"path": "textures/ui/foodies.json"
+	 },
+	 {
+		"path": "textures/ui/steve.png"
+	 },
+	 {
+		"path": "textures/ui/steve.json"
+	 },
+	 {
+		"path": "textures/ui/birds.png"
+	 },
+	 {
+		"path": "textures/ui/birds.json"
+	 },
+	  {
+		 "path": "textures/ui/button_store.png"
+	  },
+	  {
+		 "path": "textures/ui/button_store.json"
+	  },
+	  {
+		 "path": "textures/ui/button_storehover.png"
+	  },
+	  {
+		 "path": "textures/ui/button_storehover.json"
+	  },
+	  {
+		 "path": "textures/ui/button_storepressed.png"
+	  },
+	  {
+		 "path": "textures/ui/button_storepressed.json"
+	  },
+	  {
+		 "path": "textures/ui/button_storepressednohover.png"
+	  },
+	  {
+		 "path": "textures/ui/button_storepressednohover.json"
+	  },
+	  {
+		 "path": "ui"
+	  },	  
+	  {
+		 "path": "ui/start_screen.json"
+	  }	  
+   ],
+   "version" : 1
+}

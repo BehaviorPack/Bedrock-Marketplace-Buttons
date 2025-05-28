@@ -1,0 +1,676 @@
+{
+  "store_button_content": {
+    "type": "panel",
+    "controls": [
+      {
+        "button_label@common_buttons.new_ui_binding_button_label": {
+          "layer": 5
+        }
+      },
+      {
+        "birds_image": {
+          "type": "image",
+          "texture": "textures/ui/birds",
+          "size": [ 27, 18 ],
+          "anchor_from": "top_left",
+          "anchor_to": "top_left",
+          "offset": [ -19, -4 ],
+          "layer": 6,
+          "uv_size": [ 27, 13 ],
+          "uv": "@start.birds_animation",
+          "disable_anim_fast_forward": true,
+          "ignored": "(not $hover_state)"
+        }
+      },
+      {
+        "steve_image": {
+          "type": "image",
+          "texture": "textures/ui/steve",
+          "size": [ 25, 11 ],
+          "anchor_from": "top_left",
+          "anchor_to": "top_left",
+          "offset": [ 5, -14 ],
+          "layer": 6,
+          "uv_size": [ 25, 11 ],
+          "uv": "@start.steve_animation",
+          "disable_anim_fast_forward": true,
+          "ignored": "(not $hover_state)"
+        }
+      },
+      {
+        "alex1_image": {
+          "type": "image",
+          "texture": "textures/ui/alex1",
+          "size": [ 20, 30 ],
+          "anchor_from": "bottom_right",
+          "anchor_to": "bottom_right",
+          "offset": [ -18, 3 ],
+          "layer": 15,
+          "uv_size": [ 20, 30 ],
+          "uv": "@start.alex1_animation",
+          "disable_anim_fast_forward": true,
+          "ignored": "$hover_state"
+        }
+      },
+      {
+        "alex2_image": {
+          "type": "image",
+          "texture": "textures/ui/alex2",
+          "size": [ 30, 32 ],
+          "anchor_from": "bottom_right",
+          "anchor_to": "bottom_right",
+          "offset": [ -13, 3 ],
+          "layer": 15,
+          "uv_size": [ 30, 32 ],
+          "uv": "@start.alex2_animation",
+          "disable_anim_fast_forward": true,
+          "ignored": "(not $hover_state)"
+        }
+      },
+      {
+        "shimmer1_image": {
+          "type": "image",
+          "texture": "textures/ui/shimmer1",
+          "size": [ 10, 16 ],
+          "anchor_from": "bottom_right",
+          "anchor_to": "bottom_right",
+          "offset": [ 6, -4 ],
+          "layer": 21,
+          "uv_size": [ 10, 16 ],
+          "uv": "@start.shimmer1_animation",
+          "disable_anim_fast_forward": true,
+          "ignored": "$hover_state"
+        }
+      },
+      {
+        "shimmer2_image": {
+          "type": "image",
+          "texture": "textures/ui/shimmer2",
+          "size": [ 10, 16 ],
+          "anchor_from": "bottom_right",
+          "anchor_to": "bottom_right",
+          "offset": [ 6, -4 ],
+          "layer": 21,
+          "uv_size": [ 10, 16 ],
+          "uv": "@start.shimmer2_animation",
+          "disable_anim_fast_forward": true,
+          "ignored": "(not $hover_state)"
+        }
+      }
+    ]
+  },
+
+  "store_button_stack@start.stacked_row": {
+    "controls": [
+      {
+        "store_button@start.store_button": {
+          "enabled": "(not $store_disabled)",
+          "$light_button_default_text_color": [ 0.99, 0.62, 0.99 ],
+          "$light_button_hover_text_color": [ 1, 1, 1 ],
+          "$light_button_pressed_text_color": [ 1, 1, 1 ],
+          "$default_button_texture": "textures/ui/button_store",
+          "$hover_button_texture": "textures/ui/button_storehover",
+          "$pressed_button_texture": "textures/ui/button_storepressed",
+          "$pressed_button_nohover_texture": "textures/ui/button_storepressednohover",
+          "$light_border_default_color": [ 0, 0, 0 ],
+          "$light_border_hover_color": [ 1, 1, 1 ],
+          "$light_border_pressed_color": [ 1, 1, 1 ],
+          "bindings": [
+            {
+              "binding_name": "(not #has_marketplace_errors)",
+              "binding_name_override": "#visible"
+            }
+          ]
+        }
+      },
+      {
+        "marketplace_error_button@common_buttons.dynamic_tooltip_notification_panel": {
+          "size": [ "100% - 2px", "100%" ],
+          "button_mappings": [
+            {
+              "from_button_id": "button.menu_select",
+              "to_button_id": "button.menu_store_error",
+              "mapping_type": "pressed"
+            },
+            {
+              "to_button_id": "button.is_hovered",
+              "mapping_type": "pressed"
+            }
+          ],
+          "consume_hover_events": false,
+          "focus_enabled": true,
+          "$dynamic_tooltip_button_visibility_binding_name": "#has_marketplace_errors",
+          "$tooltip_popup_visible_binding": "#marketplace_errors_tooltip_visible",
+          "$override_tooltip_popup_image": true,
+          "$tooltip_popup_override_image_panel": "start.store_error_image",
+          "$tooltip_text_binding_name": "#marketplace_error_text",
+          "$tool_tip_text_max_size": [ "300px", "default" ],
+          "$tooltip_panel_content": "start.store_error_content",
+          "bindings": [
+            {
+              "binding_name": "#has_marketplace_errors",
+              "binding_name_override": "#visible"
+            }
+          ]
+        }
+      },
+      {
+        "marketplace_error_icon@start.marketplace_error_icon": {
+          "anchor_from": "top_left",
+          "anchor_to": "top_left",
+          "offset": [ -2, 0 ],
+          "bindings": [
+            {
+              "binding_name": "#has_marketplace_errors",
+              "binding_name_override": "#visible"
+            }
+          ]
+        }
+      },
+      {
+        "foodies_image": {
+          "type": "image",
+          "texture": "textures/ui/foodies",
+          "size": [ 26, 11 ],
+          "anchor_from": "top_left",
+          "anchor_to": "top_left",
+          "offset": [ 41, -10 ],
+          "layer": 15,
+          "uv_size": [ 26, 11 ],
+          "uv": "@start.foodies_animation",
+          "disable_anim_fast_forward": true
+        }
+      },
+      {
+        "fish_blue": {
+          "type": "image",
+          "texture": "textures/ui/fish_blue",
+          "size": [ 7, 4 ],
+          "anchor_from": "bottom_right",
+          "anchor_to": "bottom_right",
+          "offset": [ -73, -1 ],
+          "layer": 9,
+          "uv_size": [ 7, 4 ],
+          "uv": "@start.fish_blue_animation",
+          "disable_anim_fast_forward": true
+        }
+      },
+      {
+        "fish_cyan": {
+          "type": "image",
+          "texture": "textures/ui/fish_cyan",
+          "size": [ 7, 4 ],
+          "anchor_from": "bottom_right",
+          "anchor_to": "bottom_right",
+          "offset": [ -66, -4 ],
+          "layer": 9,
+          "uv_size": [ 7, 4 ],
+          "uv": "@start.fish_cyan_animation",
+          "disable_anim_fast_forward": true
+        }
+      },
+      {
+        "fish_yellow": {
+          "type": "image",
+          "texture": "textures/ui/fish_yellow",
+          "size": [
+            7,
+            4
+          ],
+          "anchor_from": "bottom_right",
+          "anchor_to": "bottom_right",
+          "offset": [
+            -61,
+            -6
+          ],
+          "layer": 9,
+          "uv_size": [
+            7,
+            4
+          ],
+          "uv": "@start.fish_yellow_animation",
+          "disable_anim_fast_forward": true
+        }
+      },
+      {
+        "fish_orange": {
+          "type": "image",
+          "texture": "textures/ui/fish_orange",
+          "size": [
+            7,
+            4
+          ],
+          "anchor_from": "top_right",
+          "anchor_to": "top_right",
+          "offset": [
+            -66,
+            4
+          ],
+          "layer": 9,
+          "uv_size": [
+            7,
+            4
+          ],
+          "uv": "@start.fish_orange_animation",
+          "disable_anim_fast_forward": true
+        }
+      },
+      {
+        "fish_green": {
+          "type": "image",
+          "texture": "textures/ui/fish_green",
+          "size": [
+            8,
+            4
+          ],
+          "anchor_from": "top_right",
+          "anchor_to": "top_right",
+          "offset": [
+            -57,
+            1
+          ],
+          "layer": 9,
+          "uv_size": [
+            8,
+            4
+          ],
+          "uv": "@start.fish_green_animation",
+          "disable_anim_fast_forward": true
+        }
+      },
+      {
+        "sparkles_image": {
+          "type": "image",
+          "texture": "textures/ui/sparkles",
+          "size": [
+            27,
+            28
+          ],
+          "anchor_from": "bottom_right",
+          "anchor_to": "bottom_right",
+          "offset": [
+            9,
+            -3
+          ],
+          "layer": 8,
+          "uv_size": [
+            27,
+            28
+          ],
+          "uv": "@start.sparkles_animation",
+          "disable_anim_fast_forward": true
+        }
+      },
+      {
+        "manor_image": {
+          "type": "image",
+          "texture": "textures/ui/manor",
+          "size": [
+            51,
+            23
+          ],
+          "anchor_from": "bottom_left",
+          "anchor_to": "bottom_left",
+          "offset": [
+            -4,
+            -2
+          ],
+          "layer": 7
+        }
+      }
+    ]
+  },
+
+  "alex1_animation": {
+    "anim_type": "flip_book",
+    "initial_uv": [
+      0,
+      0
+    ],
+    "frame_count": 32,
+    "frame_step": 20,
+    "fps": 10,
+    "reversible": false
+  },
+
+  "alex2_animation": {
+    "anim_type": "flip_book",
+    "initial_uv": [
+      0,
+      0
+    ],
+    "frame_count": 16,
+    "frame_step": 30,
+    "fps": 10,
+    "reversible": false
+  },
+
+  "sparkles_animation": {
+    "anim_type": "flip_book",
+    "initial_uv": [
+      0,
+      0
+    ],
+    "frame_count": 32,
+    "frame_step": 27,
+    "fps": 10,
+    "reversible": false
+  },
+
+  "steve_animation": {
+    "anim_type": "flip_book",
+    "initial_uv": [
+      0,
+      0
+    ],
+    "frame_count": 32,
+    "frame_step": 25,
+    "fps": 10,
+    "reversible": false
+  },
+
+  "fish_blue_animation": {
+    "anim_type": "flip_book",
+    "initial_uv": [
+      0,
+      0
+    ],
+    "frame_count": 2,
+    "frame_step": 7,
+    "fps": 8,
+    "reversible": false
+  },
+
+  "fish_cyan_animation": {
+    "anim_type": "flip_book",
+    "initial_uv": [
+      0,
+      0
+    ],
+    "frame_count": 2,
+    "frame_step": 7,
+    "fps": 3,
+    "reversible": false
+  },
+
+  "fish_green_animation": {
+    "anim_type": "flip_book",
+    "initial_uv": [
+      0,
+      0
+    ],
+    "frame_count": 4,
+    "frame_step": 8,
+    "fps": 4,
+    "reversible": false
+  },
+
+  "fish_yellow_animation": {
+    "anim_type": "flip_book",
+    "initial_uv": [
+      0,
+      0
+    ],
+    "frame_count": 4,
+    "frame_step": 7,
+    "fps": 8,
+    "reversible": false
+  },
+
+  "fish_orange_animation": {
+    "anim_type": "flip_book",
+    "initial_uv": [
+      0,
+      0
+    ],
+    "frame_count": 2,
+    "frame_step": 7,
+    "fps": 4,
+    "reversible": false
+  },
+
+  "shimmer1_animation": {
+    "anim_type": "flip_book",
+    "initial_uv": [
+      0,
+      0
+    ],
+    "frame_count": 16,
+    "frame_step": 10,
+    "fps": 10,
+    "reversible": false
+  },
+
+  "shimmer2_animation": {
+    "anim_type": "flip_book",
+    "initial_uv": [
+      0,
+      0
+    ],
+    "frame_count": 8,
+    "frame_step": 10,
+    "fps": 10,
+    "reversible": false
+  },
+
+  "foodies_animation": {
+    "anim_type": "flip_book",
+    "initial_uv": [
+      0,
+      0
+    ],
+    "frame_count": 32,
+    "frame_step": 26,
+    "fps": 10,
+    "reversible": false
+  },
+
+  "birds_animation": {
+    "anim_type": "flip_book",
+    "initial_uv": [
+      0,
+      0
+    ],
+    "frame_count": 15,
+    "frame_step": 27,
+    "fps": 10,
+    "reversible": false
+  },
+
+   "main_buttons_panel": {
+    "type": "panel",
+    "size": [ 150, "100%c" ],
+    "controls": [
+      {
+        "stacked_rows": {
+          "type": "stack_panel",
+          "size": [ "100%", "100%c" ],
+          "anchor_from": "bottom_middle",
+          "anchor_to": "bottom_middle",
+          "controls": [
+            {
+              "stacked_row_0@start.stacked_row": {
+                "ignored": "$education_edition_china",
+                "controls": [
+                  { "play_button@start.play_button": {} }
+                ]
+              }
+            },
+            {
+              "course@start.stacked_row": {
+                "ignored": "(not $education_edition_china)",
+                "controls": [
+                  { "course_button@start.course_button": {} }
+                ]
+              }
+            },
+            {
+              "stacked_row_1@start.stacked_row": {
+                "ignored": "$achievements_ignored",
+                "controls": [
+                  { "achievements_button@start.achievements_button": {} }
+                ],
+                "bindings": [
+                  {
+                    "binding_name": "#achievements_visible",
+                    "binding_name_override": "#visible"
+                  }
+                ]
+              }
+            },
+            {
+              "stacked_row_2@start.stacked_row": {
+                "ignored": "(not $trial)",
+                "controls": [
+                  {
+                    "stacked_columns": {
+                      "type": "stack_panel",
+                      "size": [ "100%", "100%" ],
+                      "orientation": "horizontal",
+                      "controls": [
+                        {
+                          "stacked_col_0": {
+                            "type": "panel",
+                            "size": [ "fill", "100%" ],
+                            "controls": [
+                              { "settings_button@start.settings_button": {} }
+                            ]
+                          }
+                        },
+                        {
+                          "stacked_col_1": {
+                            "type": "panel",
+                            "size": [ "fill", "100%" ],
+                            "ignored": "($store_ignored)",
+                            "controls": [
+                              {
+                                "store_button@start.trial_store_button": {
+                                  "enabled": "(not $store_disabled)"
+                                }
+                              },
+                              {
+                                "update_icon@start.update_prompt_icon": {
+                                  "size": [ "52.38%y", 15 ],
+                                  "offset": [ -16, -6 ],
+                                  "bindings": [
+                                    {
+                                      "binding_name": "#update_icon_visible",
+                                      "binding_name_override": "#visible",
+                                      "binding_condition": "always"
+                                    }
+                                  ]
+                                }
+                              },
+                              {
+                                "new_offers_icon@start.new_offers_icon": {
+                                  "offset": [ 8, -6 ],
+                                  "anchor_from": "top_right",
+                                  "anchor_to": "top_right",
+                                  "bindings": [
+                                    {
+                                      "binding_name": "#new_offers",
+                                      "binding_name_override": "#visible"
+                                    }
+                                  ]
+                                }
+                              }
+                            ]
+                          }
+                        }
+                      ]
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "settings@start.stacked_row": {
+                "ignored": "$trial",
+                "controls": [
+                  { "settings_button@start.settings_button": {} }
+                ]
+              }
+            },
+            {
+              "switch_accounts_row@start.stacked_row": {
+                "ignored": "(not $education_edition) or $education_edition_china",
+                "controls": [
+                  { "switch_accounts@start.switch_accounts_button": {} }
+                ]
+              }
+            },
+            {
+              "store@start.store_button_stack": {
+                "ignored": "($trial or $store_ignored)"
+              }
+            },
+            {
+              "buy_game@start.stacked_row": {
+                "controls": [
+                  { "buy_game_button@start.buy_game_button": {} }
+                ],
+                "bindings": [
+                  {
+                    "binding_name": "#trial_game_mode",
+                    "binding_name_override": "#visible"
+                  }
+                ]
+              }
+            },
+            {
+              "launch_editions@start.stacked_row": {
+                "ignored": "($trial or not $supports_launching_legacy_version)",
+                "controls": [
+                  {
+                    "launch_editions_button@start.launch_editions_button": {}
+                  }
+                ],
+                "bindings": [
+                  {
+                    "binding_name": "#editions_visible",
+                    "binding_name_override": "#visible"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      }
+    ]
+  },
+
+  "trial_store_button_content": {
+    "type": "panel",
+    "controls": [
+      {
+        "button_label@common_buttons.new_ui_binding_button_label": {
+          "layer": 5
+        }
+      },
+      {
+        "sales_banner@start.store_button_sale_banner": {
+          "anchor_from": "top_left",
+          "anchor_to": "top_left",
+          "offset": [ -6, -8 ],
+          "bindings": [
+            {
+              "binding_name": "#sale_visible",
+              "binding_name_override": "#visible"
+            }
+          ]
+        }
+      }
+    ]
+  },
+  
+  "trial_store_button@common_buttons.light_content_button": {
+    "size": [ "100% - 2px", "100% - 2px" ],
+    "$pressed_button_name": "button.menu_store",
+    "$button_text": "menu.store",
+    "$button_content": "start.trial_store_button_content",
+    "$button_text_binding_type": "none",
+    "$button_binding_condition": "none",
+    "$button_text_grid_collection_name": "",
+    "tts_inherit_siblings": true
+  }
+}
