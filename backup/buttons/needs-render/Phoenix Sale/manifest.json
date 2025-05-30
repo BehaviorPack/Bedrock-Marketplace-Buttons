@@ -1,0 +1,19 @@
+{
+    "format_version": 1,
+    "header": {
+        "description": "Phoenix Button Treatment", 
+        "name": "Phoenix", 
+        "uuid": "e584aafc-c9b8-435c-966e-f66b894a5918", 
+        "version": [1, 0, 0],
+        "min_engine_version": [1, 11, 0],
+        "max_engine_version": [1, 13, 9]
+    },
+    "modules": [
+        {
+            "description": "Phoenix Button Treatment",
+            "type": "resources",
+            "uuid": "7ea7d11b-6694-4caf-bec2-949cd9db9c41", 
+            "version": [1, 0, 0]
+        }
+    ]
+}
