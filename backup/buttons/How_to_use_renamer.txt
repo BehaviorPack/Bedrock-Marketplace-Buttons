@@ -1,0 +1,4 @@
+Open powershell from address bar.
+
+Set-ExecutionPolicy -Scope Process -ExecutionPolicy Bypass
+.\Rename-FoldersFromManifest.ps1

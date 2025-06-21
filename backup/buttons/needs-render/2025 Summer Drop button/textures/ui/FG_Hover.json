@@ -1,0 +1,2441 @@
+{ "frames": [
+   {
+    "filename": "2025SummerDrop_Hover #Hover 0.ase",
+    "frame": { "x": 0, "y": 0, "w": 40, "h": 68 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 40, "h": 68 },
+    "sourceSize": { "w": 40, "h": 68 },
+    "duration": 80
+   },
+   {
+    "filename": "2025SummerDrop_Hover #Hover 1.ase",
+    "frame": { "x": 0, "y": 0, "w": 40, "h": 68 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 40, "h": 68 },
+    "sourceSize": { "w": 40, "h": 68 },
+    "duration": 80
+   },
+   {
+    "filename": "2025SummerDrop_Hover #Hover 2.ase",
+    "frame": { "x": 0, "y": 0, "w": 40, "h": 68 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 40, "h": 68 },
+    "sourceSize": { "w": 40, "h": 68 },
+    "duration": 80
+   },
+   {
+    "filename": "2025SummerDrop_Hover #Hover 3.ase",
+    "frame": { "x": 0, "y": 0, "w": 40, "h": 68 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 40, "h": 68 },
+    "sourceSize": { "w": 40, "h": 68 },
+    "duration": 80
+   },
+   {
+    "filename": "2025SummerDrop_Hover #Hover 4.ase",
+    "frame": { "x": 40, "y": 0, "w": 40, "h": 68 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 40, "h": 68 },
+    "sourceSize": { "w": 40, "h": 68 },
+    "duration": 80
+   },
+   {
+    "filename": "2025SummerDrop_Hover #Hover 5.ase",
+    "frame": { "x": 40, "y": 0, "w": 40, "h": 68 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 40, "h": 68 },
+    "sourceSize": { "w": 40, "h": 68 },
+    "duration": 80
+   },
+   {
+    "filename": "2025SummerDrop_Hover #Hover 6.ase",
+    "frame": { "x": 80, "y": 0, "w": 40, "h": 68 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 40, "h": 68 },
+    "sourceSize": { "w": 40, "h": 68 },
+    "duration": 80
+   },
+   {
+    "filename": "2025SummerDrop_Hover #Hover 7.ase",
+    "frame": { "x": 80, "y": 0, "w": 40, "h": 68 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 40, "h": 68 },
+    "sourceSize": { "w": 40, "h": 68 },
+    "duration": 80
+   },
+   {
+    "filename": "2025SummerDrop_Hover #Hover 8.ase",
+    "frame": { "x": 120, "y": 0, "w": 40, "h": 68 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 40, "h": 68 },
+    "sourceSize": { "w": 40, "h": 68 },
+    "duration": 80
+   },
+   {
+    "filename": "2025SummerDrop_Hover #Hover 9.ase",
+    "frame": { "x": 120, "y": 0, "w": 40, "h": 68 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 40, "h": 68 },
+    "sourceSize": { "w": 40, "h": 68 },
+    "duration": 80
+   },
+   {
+    "filename": "2025SummerDrop_Hover #Hover 10.ase",
+    "frame": { "x": 160, "y": 0, "w": 40, "h": 68 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 40, "h": 68 },
+    "sourceSize": { "w": 40, "h": 68 },
+    "duration": 80
+   },
+   {
+    "filename": "2025SummerDrop_Hover #Hover 11.ase",
+    "frame": { "x": 160, "y": 0, "w": 40, "h": 68 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 40, "h": 68 },
+    "sourceSize": { "w": 40, "h": 68 },
+    "duration": 80
+   },
+   {
+    "filename": "2025SummerDrop_Hover #Hover 12.ase",
+    "frame": { "x": 200, "y": 0, "w": 40, "h": 68 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 40, "h": 68 },
+    "sourceSize": { "w": 40, "h": 68 },
+    "duration": 80
+   },
+   {
+    "filename": "2025SummerDrop_Hover #Hover 13.ase",
+    "frame": { "x": 200, "y": 0, "w": 40, "h": 68 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 40, "h": 68 },
+    "sourceSize": { "w": 40, "h": 68 },
+    "duration": 80
+   },
+   {
+    "filename": "2025SummerDrop_Hover #Hover 14.ase",
+    "frame": { "x": 240, "y": 0, "w": 40, "h": 68 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 40, "h": 68 },
+    "sourceSize": { "w": 40, "h": 68 },
+    "duration": 80
+   },
+   {
+    "filename": "2025SummerDrop_Hover #Hover 15.ase",
+    "frame": { "x": 240, "y": 0, "w": 40, "h": 68 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 40, "h": 68 },
+    "sourceSize": { "w": 40, "h": 68 },
+    "duration": 80
+   },
+   {
+    "filename": "2025SummerDrop_Hover #Hover 16.ase",
+    "frame": { "x": 280, "y": 0, "w": 40, "h": 68 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 40, "h": 68 },
+    "sourceSize": { "w": 40, "h": 68 },
+    "duration": 80
+   },
+   {
+    "filename": "2025SummerDrop_Hover #Hover 17.ase",
+    "frame": { "x": 280, "y": 0, "w": 40, "h": 68 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 40, "h": 68 },
+    "sourceSize": { "w": 40, "h": 68 },
+    "duration": 80
+   },
+   {
+    "filename": "2025SummerDrop_Hover #Hover 18.ase",
+    "frame": { "x": 320, "y": 0, "w": 40, "h": 68 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 40, "h": 68 },
+    "sourceSize": { "w": 40, "h": 68 },
+    "duration": 80
+   },
+   {
+    "filename": "2025SummerDrop_Hover #Hover 19.ase",
+    "frame": { "x": 320, "y": 0, "w": 40, "h": 68 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 40, "h": 68 },
+    "sourceSize": { "w": 40, "h": 68 },
+    "duration": 80
+   },
+   {
+    "filename": "2025SummerDrop_Hover #Hover 20.ase",
+    "frame": { "x": 360, "y": 0, "w": 40, "h": 68 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 40, "h": 68 },
+    "sourceSize": { "w": 40, "h": 68 },
+    "duration": 80
+   },
+   {
+    "filename": "2025SummerDrop_Hover #Hover 21.ase",
+    "frame": { "x": 360, "y": 0, "w": 40, "h": 68 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 40, "h": 68 },
+    "sourceSize": { "w": 40, "h": 68 },
+    "duration": 80
+   },
+   {
+    "filename": "2025SummerDrop_Hover #Hover 22.ase",
+    "frame": { "x": 360, "y": 0, "w": 40, "h": 68 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 40, "h": 68 },
+    "sourceSize": { "w": 40, "h": 68 },
+    "duration": 80
+   },
+   {
+    "filename": "2025SummerDrop_Hover #Hover 23.ase",
+    "frame": { "x": 360, "y": 0, "w": 40, "h": 68 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 40, "h": 68 },
+    "sourceSize": { "w": 40, "h": 68 },
+    "duration": 80
+   },
+   {
+    "filename": "2025SummerDrop_Hover #Hover 24.ase",
+    "frame": { "x": 360, "y": 0, "w": 40, "h": 68 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 40, "h": 68 },
+    "sourceSize": { "w": 40, "h": 68 },
+    "duration": 80
+   },
+   {
+    "filename": "2025SummerDrop_Hover #Hover 25.ase",
+    "frame": { "x": 400, "y": 0, "w": 40, "h": 68 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 40, "h": 68 },
+    "sourceSize": { "w": 40, "h": 68 },
+    "duration": 80
+   },
+   {
+    "filename": "2025SummerDrop_Hover #Hover 26.ase",
+    "frame": { "x": 360, "y": 0, "w": 40, "h": 68 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 40, "h": 68 },
+    "sourceSize": { "w": 40, "h": 68 },
+    "duration": 80
+   },
+   {
+    "filename": "2025SummerDrop_Hover #Hover 27.ase",
+    "frame": { "x": 360, "y": 0, "w": 40, "h": 68 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 40, "h": 68 },
+    "sourceSize": { "w": 40, "h": 68 },
+    "duration": 80
+   },
+   {
+    "filename": "2025SummerDrop_Hover #Hover 28.ase",
+    "frame": { "x": 360, "y": 0, "w": 40, "h": 68 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 40, "h": 68 },
+    "sourceSize": { "w": 40, "h": 68 },
+    "duration": 80
+   },
+   {
+    "filename": "2025SummerDrop_Hover #Hover 29.ase",
+    "frame": { "x": 360, "y": 0, "w": 40, "h": 68 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 40, "h": 68 },
+    "sourceSize": { "w": 40, "h": 68 },
+    "duration": 80
+   },
+   {
+    "filename": "2025SummerDrop_Hover #Hover 30.ase",
+    "frame": { "x": 360, "y": 0, "w": 40, "h": 68 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 40, "h": 68 },
+    "sourceSize": { "w": 40, "h": 68 },
+    "duration": 80
+   },
+   {
+    "filename": "2025SummerDrop_Hover #Hover 31.ase",
+    "frame": { "x": 360, "y": 0, "w": 40, "h": 68 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 40, "h": 68 },
+    "sourceSize": { "w": 40, "h": 68 },
+    "duration": 80
+   },
+   {
+    "filename": "2025SummerDrop_Hover #Hover 32.ase",
+    "frame": { "x": 360, "y": 0, "w": 40, "h": 68 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 40, "h": 68 },
+    "sourceSize": { "w": 40, "h": 68 },
+    "duration": 80
+   },
+   {
+    "filename": "2025SummerDrop_Hover #Hover 33.ase",
+    "frame": { "x": 320, "y": 0, "w": 40, "h": 68 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 40, "h": 68 },
+    "sourceSize": { "w": 40, "h": 68 },
+    "duration": 80
+   },
+   {
+    "filename": "2025SummerDrop_Hover #Hover 34.ase",
+    "frame": { "x": 320, "y": 0, "w": 40, "h": 68 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 40, "h": 68 },
+    "sourceSize": { "w": 40, "h": 68 },
+    "duration": 80
+   },
+   {
+    "filename": "2025SummerDrop_Hover #Hover 35.ase",
+    "frame": { "x": 280, "y": 0, "w": 40, "h": 68 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 40, "h": 68 },
+    "sourceSize": { "w": 40, "h": 68 },
+    "duration": 80
+   },
+   {
+    "filename": "2025SummerDrop_Hover #Hover 36.ase",
+    "frame": { "x": 440, "y": 0, "w": 40, "h": 68 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 40, "h": 68 },
+    "sourceSize": { "w": 40, "h": 68 },
+    "duration": 80
+   },
+   {
+    "filename": "2025SummerDrop_Hover #Hover 37.ase",
+    "frame": { "x": 240, "y": 0, "w": 40, "h": 68 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 40, "h": 68 },
+    "sourceSize": { "w": 40, "h": 68 },
+    "duration": 80
+   },
+   {
+    "filename": "2025SummerDrop_Hover #Hover 38.ase",
+    "frame": { "x": 240, "y": 0, "w": 40, "h": 68 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 40, "h": 68 },
+    "sourceSize": { "w": 40, "h": 68 },
+    "duration": 80
+   },
+   {
+    "filename": "2025SummerDrop_Hover #Hover 39.ase",
+    "frame": { "x": 200, "y": 0, "w": 40, "h": 68 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 40, "h": 68 },
+    "sourceSize": { "w": 40, "h": 68 },
+    "duration": 80
+   },
+   {
+    "filename": "2025SummerDrop_Hover #Hover 40.ase",
+    "frame": { "x": 200, "y": 0, "w": 40, "h": 68 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 40, "h": 68 },
+    "sourceSize": { "w": 40, "h": 68 },
+    "duration": 80
+   },
+   {
+    "filename": "2025SummerDrop_Hover #Hover 41.ase",
+    "frame": { "x": 160, "y": 0, "w": 40, "h": 68 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 40, "h": 68 },
+    "sourceSize": { "w": 40, "h": 68 },
+    "duration": 80
+   },
+   {
+    "filename": "2025SummerDrop_Hover #Hover 42.ase",
+    "frame": { "x": 160, "y": 0, "w": 40, "h": 68 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 40, "h": 68 },
+    "sourceSize": { "w": 40, "h": 68 },
+    "duration": 80
+   },
+   {
+    "filename": "2025SummerDrop_Hover #Hover 43.ase",
+    "frame": { "x": 120, "y": 0, "w": 40, "h": 68 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 40, "h": 68 },
+    "sourceSize": { "w": 40, "h": 68 },
+    "duration": 80
+   },
+   {
+    "filename": "2025SummerDrop_Hover #Hover 44.ase",
+    "frame": { "x": 120, "y": 0, "w": 40, "h": 68 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 40, "h": 68 },
+    "sourceSize": { "w": 40, "h": 68 },
+    "duration": 80
+   },
+   {
+    "filename": "2025SummerDrop_Hover #Hover 45.ase",
+    "frame": { "x": 80, "y": 0, "w": 40, "h": 68 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 40, "h": 68 },
+    "sourceSize": { "w": 40, "h": 68 },
+    "duration": 80
+   },
+   {
+    "filename": "2025SummerDrop_Hover #Hover 46.ase",
+    "frame": { "x": 80, "y": 0, "w": 40, "h": 68 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 40, "h": 68 },
+    "sourceSize": { "w": 40, "h": 68 },
+    "duration": 80
+   },
+   {
+    "filename": "2025SummerDrop_Hover #Hover 47.ase",
+    "frame": { "x": 40, "y": 0, "w": 40, "h": 68 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 40, "h": 68 },
+    "sourceSize": { "w": 40, "h": 68 },
+    "duration": 80
+   },
+   {
+    "filename": "2025SummerDrop_Hover #Hover 48.ase",
+    "frame": { "x": 40, "y": 0, "w": 40, "h": 68 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 40, "h": 68 },
+    "sourceSize": { "w": 40, "h": 68 },
+    "duration": 80
+   },
+   {
+    "filename": "2025SummerDrop_Hover #Hover 49.ase",
+    "frame": { "x": 480, "y": 0, "w": 40, "h": 68 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 40, "h": 68 },
+    "sourceSize": { "w": 40, "h": 68 },
+    "duration": 80
+   },
+   {
+    "filename": "2025SummerDrop_Hover #Hover 50.ase",
+    "frame": { "x": 0, "y": 0, "w": 40, "h": 68 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 40, "h": 68 },
+    "sourceSize": { "w": 40, "h": 68 },
+    "duration": 80
+   },
+   {
+    "filename": "2025SummerDrop_Hover #Hover 51.ase",
+    "frame": { "x": 0, "y": 0, "w": 40, "h": 68 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 40, "h": 68 },
+    "sourceSize": { "w": 40, "h": 68 },
+    "duration": 80
+   },
+   {
+    "filename": "2025SummerDrop_Hover #Hover 52.ase",
+    "frame": { "x": 0, "y": 0, "w": 40, "h": 68 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 40, "h": 68 },
+    "sourceSize": { "w": 40, "h": 68 },
+    "duration": 80
+   },
+   {
+    "filename": "2025SummerDrop_Hover #Hover 53.ase",
+    "frame": { "x": 0, "y": 0, "w": 40, "h": 68 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 40, "h": 68 },
+    "sourceSize": { "w": 40, "h": 68 },
+    "duration": 80
+   },
+   {
+    "filename": "2025SummerDrop_Hover #Hover 54.ase",
+    "frame": { "x": 0, "y": 0, "w": 40, "h": 68 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 40, "h": 68 },
+    "sourceSize": { "w": 40, "h": 68 },
+    "duration": 80
+   },
+   {
+    "filename": "2025SummerDrop_Hover #Hover 55.ase",
+    "frame": { "x": 0, "y": 0, "w": 40, "h": 68 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 40, "h": 68 },
+    "sourceSize": { "w": 40, "h": 68 },
+    "duration": 80
+   },
+   {
+    "filename": "2025SummerDrop_Hover #Hover 56.ase",
+    "frame": { "x": 0, "y": 0, "w": 40, "h": 68 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 40, "h": 68 },
+    "sourceSize": { "w": 40, "h": 68 },
+    "duration": 80
+   },
+   {
+    "filename": "2025SummerDrop_Hover #Hover 57.ase",
+    "frame": { "x": 0, "y": 0, "w": 40, "h": 68 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 40, "h": 68 },
+    "sourceSize": { "w": 40, "h": 68 },
+    "duration": 80
+   },
+   {
+    "filename": "2025SummerDrop_Hover #Hover 58.ase",
+    "frame": { "x": 40, "y": 0, "w": 40, "h": 68 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 40, "h": 68 },
+    "sourceSize": { "w": 40, "h": 68 },
+    "duration": 80
+   },
+   {
+    "filename": "2025SummerDrop_Hover #Hover 59.ase",
+    "frame": { "x": 40, "y": 0, "w": 40, "h": 68 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 40, "h": 68 },
+    "sourceSize": { "w": 40, "h": 68 },
+    "duration": 80
+   },
+   {
+    "filename": "2025SummerDrop_Hover #Hover 60.ase",
+    "frame": { "x": 80, "y": 0, "w": 40, "h": 68 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 40, "h": 68 },
+    "sourceSize": { "w": 40, "h": 68 },
+    "duration": 80
+   },
+   {
+    "filename": "2025SummerDrop_Hover #Hover 61.ase",
+    "frame": { "x": 80, "y": 0, "w": 40, "h": 68 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 40, "h": 68 },
+    "sourceSize": { "w": 40, "h": 68 },
+    "duration": 80
+   },
+   {
+    "filename": "2025SummerDrop_Hover #Hover 62.ase",
+    "frame": { "x": 120, "y": 0, "w": 40, "h": 68 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 40, "h": 68 },
+    "sourceSize": { "w": 40, "h": 68 },
+    "duration": 80
+   },
+   {
+    "filename": "2025SummerDrop_Hover #Hover 63.ase",
+    "frame": { "x": 120, "y": 0, "w": 40, "h": 68 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 40, "h": 68 },
+    "sourceSize": { "w": 40, "h": 68 },
+    "duration": 80
+   },
+   {
+    "filename": "2025SummerDrop_Hover #Hover 64.ase",
+    "frame": { "x": 160, "y": 0, "w": 40, "h": 68 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 40, "h": 68 },
+    "sourceSize": { "w": 40, "h": 68 },
+    "duration": 80
+   },
+   {
+    "filename": "2025SummerDrop_Hover #Hover 65.ase",
+    "frame": { "x": 160, "y": 0, "w": 40, "h": 68 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 40, "h": 68 },
+    "sourceSize": { "w": 40, "h": 68 },
+    "duration": 80
+   },
+   {
+    "filename": "2025SummerDrop_Hover #Hover 66.ase",
+    "frame": { "x": 200, "y": 0, "w": 40, "h": 68 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 40, "h": 68 },
+    "sourceSize": { "w": 40, "h": 68 },
+    "duration": 80
+   },
+   {
+    "filename": "2025SummerDrop_Hover #Hover 67.ase",
+    "frame": { "x": 200, "y": 0, "w": 40, "h": 68 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 40, "h": 68 },
+    "sourceSize": { "w": 40, "h": 68 },
+    "duration": 80
+   },
+   {
+    "filename": "2025SummerDrop_Hover #Hover 68.ase",
+    "frame": { "x": 240, "y": 0, "w": 40, "h": 68 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 40, "h": 68 },
+    "sourceSize": { "w": 40, "h": 68 },
+    "duration": 80
+   },
+   {
+    "filename": "2025SummerDrop_Hover #Hover 69.ase",
+    "frame": { "x": 240, "y": 0, "w": 40, "h": 68 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 40, "h": 68 },
+    "sourceSize": { "w": 40, "h": 68 },
+    "duration": 80
+   },
+   {
+    "filename": "2025SummerDrop_Hover #Hover 70.ase",
+    "frame": { "x": 280, "y": 0, "w": 40, "h": 68 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 40, "h": 68 },
+    "sourceSize": { "w": 40, "h": 68 },
+    "duration": 80
+   },
+   {
+    "filename": "2025SummerDrop_Hover #Hover 71.ase",
+    "frame": { "x": 280, "y": 0, "w": 40, "h": 68 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 40, "h": 68 },
+    "sourceSize": { "w": 40, "h": 68 },
+    "duration": 80
+   },
+   {
+    "filename": "2025SummerDrop_Hover #Hover 72.ase",
+    "frame": { "x": 320, "y": 0, "w": 40, "h": 68 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 40, "h": 68 },
+    "sourceSize": { "w": 40, "h": 68 },
+    "duration": 80
+   },
+   {
+    "filename": "2025SummerDrop_Hover #Hover 73.ase",
+    "frame": { "x": 320, "y": 0, "w": 40, "h": 68 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 40, "h": 68 },
+    "sourceSize": { "w": 40, "h": 68 },
+    "duration": 80
+   },
+   {
+    "filename": "2025SummerDrop_Hover #Hover 74.ase",
+    "frame": { "x": 360, "y": 0, "w": 40, "h": 68 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 40, "h": 68 },
+    "sourceSize": { "w": 40, "h": 68 },
+    "duration": 80
+   },
+   {
+    "filename": "2025SummerDrop_Hover #Hover 75.ase",
+    "frame": { "x": 360, "y": 0, "w": 40, "h": 68 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 40, "h": 68 },
+    "sourceSize": { "w": 40, "h": 68 },
+    "duration": 80
+   },
+   {
+    "filename": "2025SummerDrop_Hover #Hover 76.ase",
+    "frame": { "x": 360, "y": 0, "w": 40, "h": 68 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 40, "h": 68 },
+    "sourceSize": { "w": 40, "h": 68 },
+    "duration": 80
+   },
+   {
+    "filename": "2025SummerDrop_Hover #Hover 77.ase",
+    "frame": { "x": 360, "y": 0, "w": 40, "h": 68 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 40, "h": 68 },
+    "sourceSize": { "w": 40, "h": 68 },
+    "duration": 80
+   },
+   {
+    "filename": "2025SummerDrop_Hover #Hover 78.ase",
+    "frame": { "x": 360, "y": 0, "w": 40, "h": 68 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 40, "h": 68 },
+    "sourceSize": { "w": 40, "h": 68 },
+    "duration": 80
+   },
+   {
+    "filename": "2025SummerDrop_Hover #Hover 79.ase",
+    "frame": { "x": 400, "y": 0, "w": 40, "h": 68 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 40, "h": 68 },
+    "sourceSize": { "w": 40, "h": 68 },
+    "duration": 80
+   },
+   {
+    "filename": "2025SummerDrop_Hover #Hover 80.ase",
+    "frame": { "x": 360, "y": 0, "w": 40, "h": 68 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 40, "h": 68 },
+    "sourceSize": { "w": 40, "h": 68 },
+    "duration": 80
+   },
+   {
+    "filename": "2025SummerDrop_Hover #Hover 81.ase",
+    "frame": { "x": 360, "y": 0, "w": 40, "h": 68 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 40, "h": 68 },
+    "sourceSize": { "w": 40, "h": 68 },
+    "duration": 80
+   },
+   {
+    "filename": "2025SummerDrop_Hover #Hover 82.ase",
+    "frame": { "x": 360, "y": 0, "w": 40, "h": 68 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 40, "h": 68 },
+    "sourceSize": { "w": 40, "h": 68 },
+    "duration": 80
+   },
+   {
+    "filename": "2025SummerDrop_Hover #Hover 83.ase",
+    "frame": { "x": 360, "y": 0, "w": 40, "h": 68 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 40, "h": 68 },
+    "sourceSize": { "w": 40, "h": 68 },
+    "duration": 80
+   },
+   {
+    "filename": "2025SummerDrop_Hover #Hover 84.ase",
+    "frame": { "x": 360, "y": 0, "w": 40, "h": 68 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 40, "h": 68 },
+    "sourceSize": { "w": 40, "h": 68 },
+    "duration": 80
+   },
+   {
+    "filename": "2025SummerDrop_Hover #Hover 85.ase",
+    "frame": { "x": 360, "y": 0, "w": 40, "h": 68 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 40, "h": 68 },
+    "sourceSize": { "w": 40, "h": 68 },
+    "duration": 80
+   },
+   {
+    "filename": "2025SummerDrop_Hover #Hover 86.ase",
+    "frame": { "x": 360, "y": 0, "w": 40, "h": 68 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 40, "h": 68 },
+    "sourceSize": { "w": 40, "h": 68 },
+    "duration": 80
+   },
+   {
+    "filename": "2025SummerDrop_Hover #Hover 87.ase",
+    "frame": { "x": 320, "y": 0, "w": 40, "h": 68 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 40, "h": 68 },
+    "sourceSize": { "w": 40, "h": 68 },
+    "duration": 80
+   },
+   {
+    "filename": "2025SummerDrop_Hover #Hover 88.ase",
+    "frame": { "x": 320, "y": 0, "w": 40, "h": 68 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 40, "h": 68 },
+    "sourceSize": { "w": 40, "h": 68 },
+    "duration": 80
+   },
+   {
+    "filename": "2025SummerDrop_Hover #Hover 89.ase",
+    "frame": { "x": 280, "y": 0, "w": 40, "h": 68 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 40, "h": 68 },
+    "sourceSize": { "w": 40, "h": 68 },
+    "duration": 80
+   },
+   {
+    "filename": "2025SummerDrop_Hover #Hover 90.ase",
+    "frame": { "x": 440, "y": 0, "w": 40, "h": 68 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 40, "h": 68 },
+    "sourceSize": { "w": 40, "h": 68 },
+    "duration": 80
+   },
+   {
+    "filename": "2025SummerDrop_Hover #Hover 91.ase",
+    "frame": { "x": 240, "y": 0, "w": 40, "h": 68 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 40, "h": 68 },
+    "sourceSize": { "w": 40, "h": 68 },
+    "duration": 80
+   },
+   {
+    "filename": "2025SummerDrop_Hover #Hover 92.ase",
+    "frame": { "x": 240, "y": 0, "w": 40, "h": 68 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 40, "h": 68 },
+    "sourceSize": { "w": 40, "h": 68 },
+    "duration": 80
+   },
+   {
+    "filename": "2025SummerDrop_Hover #Hover 93.ase",
+    "frame": { "x": 200, "y": 0, "w": 40, "h": 68 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 40, "h": 68 },
+    "sourceSize": { "w": 40, "h": 68 },
+    "duration": 80
+   },
+   {
+    "filename": "2025SummerDrop_Hover #Hover 94.ase",
+    "frame": { "x": 200, "y": 0, "w": 40, "h": 68 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 40, "h": 68 },
+    "sourceSize": { "w": 40, "h": 68 },
+    "duration": 80
+   },
+   {
+    "filename": "2025SummerDrop_Hover #Hover 95.ase",
+    "frame": { "x": 160, "y": 0, "w": 40, "h": 68 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 40, "h": 68 },
+    "sourceSize": { "w": 40, "h": 68 },
+    "duration": 80
+   },
+   {
+    "filename": "2025SummerDrop_Hover #Hover 96.ase",
+    "frame": { "x": 160, "y": 0, "w": 40, "h": 68 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 40, "h": 68 },
+    "sourceSize": { "w": 40, "h": 68 },
+    "duration": 80
+   },
+   {
+    "filename": "2025SummerDrop_Hover #Hover 97.ase",
+    "frame": { "x": 120, "y": 0, "w": 40, "h": 68 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 40, "h": 68 },
+    "sourceSize": { "w": 40, "h": 68 },
+    "duration": 80
+   },
+   {
+    "filename": "2025SummerDrop_Hover #Hover 98.ase",
+    "frame": { "x": 120, "y": 0, "w": 40, "h": 68 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 40, "h": 68 },
+    "sourceSize": { "w": 40, "h": 68 },
+    "duration": 80
+   },
+   {
+    "filename": "2025SummerDrop_Hover #Hover 99.ase",
+    "frame": { "x": 80, "y": 0, "w": 40, "h": 68 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 40, "h": 68 },
+    "sourceSize": { "w": 40, "h": 68 },
+    "duration": 80
+   },
+   {
+    "filename": "2025SummerDrop_Hover #Hover 100.ase",
+    "frame": { "x": 80, "y": 0, "w": 40, "h": 68 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 40, "h": 68 },
+    "sourceSize": { "w": 40, "h": 68 },
+    "duration": 80
+   },
+   {
+    "filename": "2025SummerDrop_Hover #Hover 101.ase",
+    "frame": { "x": 40, "y": 0, "w": 40, "h": 68 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 40, "h": 68 },
+    "sourceSize": { "w": 40, "h": 68 },
+    "duration": 80
+   },
+   {
+    "filename": "2025SummerDrop_Hover #Hover 102.ase",
+    "frame": { "x": 40, "y": 0, "w": 40, "h": 68 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 40, "h": 68 },
+    "sourceSize": { "w": 40, "h": 68 },
+    "duration": 80
+   },
+   {
+    "filename": "2025SummerDrop_Hover #Hover 103.ase",
+    "frame": { "x": 480, "y": 0, "w": 40, "h": 68 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 40, "h": 68 },
+    "sourceSize": { "w": 40, "h": 68 },
+    "duration": 80
+   },
+   {
+    "filename": "2025SummerDrop_Hover #Hover 104.ase",
+    "frame": { "x": 0, "y": 0, "w": 40, "h": 68 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 40, "h": 68 },
+    "sourceSize": { "w": 40, "h": 68 },
+    "duration": 80
+   },
+   {
+    "filename": "2025SummerDrop_Hover #Hover 105.ase",
+    "frame": { "x": 0, "y": 0, "w": 40, "h": 68 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 40, "h": 68 },
+    "sourceSize": { "w": 40, "h": 68 },
+    "duration": 80
+   },
+   {
+    "filename": "2025SummerDrop_Hover #Hover 106.ase",
+    "frame": { "x": 0, "y": 0, "w": 40, "h": 68 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 40, "h": 68 },
+    "sourceSize": { "w": 40, "h": 68 },
+    "duration": 80
+   },
+   {
+    "filename": "2025SummerDrop_Hover #Hover 107.ase",
+    "frame": { "x": 0, "y": 0, "w": 40, "h": 68 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 40, "h": 68 },
+    "sourceSize": { "w": 40, "h": 68 },
+    "duration": 80
+   },
+   {
+    "filename": "2025SummerDrop_Hover #Hover 108.ase",
+    "frame": { "x": 0, "y": 0, "w": 40, "h": 68 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 40, "h": 68 },
+    "sourceSize": { "w": 40, "h": 68 },
+    "duration": 80
+   },
+   {
+    "filename": "2025SummerDrop_Hover #Hover 109.ase",
+    "frame": { "x": 0, "y": 0, "w": 40, "h": 68 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 40, "h": 68 },
+    "sourceSize": { "w": 40, "h": 68 },
+    "duration": 80
+   },
+   {
+    "filename": "2025SummerDrop_Hover #Hover 110.ase",
+    "frame": { "x": 0, "y": 0, "w": 40, "h": 68 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 40, "h": 68 },
+    "sourceSize": { "w": 40, "h": 68 },
+    "duration": 80
+   },
+   {
+    "filename": "2025SummerDrop_Hover #Hover 111.ase",
+    "frame": { "x": 0, "y": 0, "w": 40, "h": 68 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 40, "h": 68 },
+    "sourceSize": { "w": 40, "h": 68 },
+    "duration": 80
+   },
+   {
+    "filename": "2025SummerDrop_Hover #Hover 112.ase",
+    "frame": { "x": 40, "y": 0, "w": 40, "h": 68 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 40, "h": 68 },
+    "sourceSize": { "w": 40, "h": 68 },
+    "duration": 80
+   },
+   {
+    "filename": "2025SummerDrop_Hover #Hover 113.ase",
+    "frame": { "x": 40, "y": 0, "w": 40, "h": 68 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 40, "h": 68 },
+    "sourceSize": { "w": 40, "h": 68 },
+    "duration": 80
+   },
+   {
+    "filename": "2025SummerDrop_Hover #Hover 114.ase",
+    "frame": { "x": 80, "y": 0, "w": 40, "h": 68 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 40, "h": 68 },
+    "sourceSize": { "w": 40, "h": 68 },
+    "duration": 80
+   },
+   {
+    "filename": "2025SummerDrop_Hover #Hover 115.ase",
+    "frame": { "x": 80, "y": 0, "w": 40, "h": 68 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 40, "h": 68 },
+    "sourceSize": { "w": 40, "h": 68 },
+    "duration": 80
+   },
+   {
+    "filename": "2025SummerDrop_Hover #Hover 116.ase",
+    "frame": { "x": 120, "y": 0, "w": 40, "h": 68 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 40, "h": 68 },
+    "sourceSize": { "w": 40, "h": 68 },
+    "duration": 80
+   },
+   {
+    "filename": "2025SummerDrop_Hover #Hover 117.ase",
+    "frame": { "x": 120, "y": 0, "w": 40, "h": 68 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 40, "h": 68 },
+    "sourceSize": { "w": 40, "h": 68 },
+    "duration": 80
+   },
+   {
+    "filename": "2025SummerDrop_Hover #Hover 118.ase",
+    "frame": { "x": 160, "y": 0, "w": 40, "h": 68 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 40, "h": 68 },
+    "sourceSize": { "w": 40, "h": 68 },
+    "duration": 80
+   },
+   {
+    "filename": "2025SummerDrop_Hover #Hover 119.ase",
+    "frame": { "x": 160, "y": 0, "w": 40, "h": 68 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 40, "h": 68 },
+    "sourceSize": { "w": 40, "h": 68 },
+    "duration": 80
+   },
+   {
+    "filename": "2025SummerDrop_Hover #Hover 120.ase",
+    "frame": { "x": 200, "y": 0, "w": 40, "h": 68 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 40, "h": 68 },
+    "sourceSize": { "w": 40, "h": 68 },
+    "duration": 80
+   },
+   {
+    "filename": "2025SummerDrop_Hover #Hover 121.ase",
+    "frame": { "x": 200, "y": 0, "w": 40, "h": 68 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 40, "h": 68 },
+    "sourceSize": { "w": 40, "h": 68 },
+    "duration": 80
+   },
+   {
+    "filename": "2025SummerDrop_Hover #Hover 122.ase",
+    "frame": { "x": 240, "y": 0, "w": 40, "h": 68 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 40, "h": 68 },
+    "sourceSize": { "w": 40, "h": 68 },
+    "duration": 80
+   },
+   {
+    "filename": "2025SummerDrop_Hover #Hover 123.ase",
+    "frame": { "x": 240, "y": 0, "w": 40, "h": 68 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 40, "h": 68 },
+    "sourceSize": { "w": 40, "h": 68 },
+    "duration": 80
+   },
+   {
+    "filename": "2025SummerDrop_Hover #Hover 124.ase",
+    "frame": { "x": 280, "y": 0, "w": 40, "h": 68 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 40, "h": 68 },
+    "sourceSize": { "w": 40, "h": 68 },
+    "duration": 80
+   },
+   {
+    "filename": "2025SummerDrop_Hover #Hover 125.ase",
+    "frame": { "x": 280, "y": 0, "w": 40, "h": 68 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 40, "h": 68 },
+    "sourceSize": { "w": 40, "h": 68 },
+    "duration": 80
+   },
+   {
+    "filename": "2025SummerDrop_Hover #Hover 126.ase",
+    "frame": { "x": 320, "y": 0, "w": 40, "h": 68 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 40, "h": 68 },
+    "sourceSize": { "w": 40, "h": 68 },
+    "duration": 80
+   },
+   {
+    "filename": "2025SummerDrop_Hover #Hover 127.ase",
+    "frame": { "x": 320, "y": 0, "w": 40, "h": 68 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 40, "h": 68 },
+    "sourceSize": { "w": 40, "h": 68 },
+    "duration": 80
+   },
+   {
+    "filename": "2025SummerDrop_Hover #Hover 128.ase",
+    "frame": { "x": 360, "y": 0, "w": 40, "h": 68 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 40, "h": 68 },
+    "sourceSize": { "w": 40, "h": 68 },
+    "duration": 80
+   },
+   {
+    "filename": "2025SummerDrop_Hover #Hover 129.ase",
+    "frame": { "x": 360, "y": 0, "w": 40, "h": 68 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 40, "h": 68 },
+    "sourceSize": { "w": 40, "h": 68 },
+    "duration": 80
+   },
+   {
+    "filename": "2025SummerDrop_Hover #Hover 130.ase",
+    "frame": { "x": 360, "y": 0, "w": 40, "h": 68 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 40, "h": 68 },
+    "sourceSize": { "w": 40, "h": 68 },
+    "duration": 80
+   },
+   {
+    "filename": "2025SummerDrop_Hover #Hover 131.ase",
+    "frame": { "x": 360, "y": 0, "w": 40, "h": 68 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 40, "h": 68 },
+    "sourceSize": { "w": 40, "h": 68 },
+    "duration": 80
+   },
+   {
+    "filename": "2025SummerDrop_Hover #Hover 132.ase",
+    "frame": { "x": 360, "y": 0, "w": 40, "h": 68 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 40, "h": 68 },
+    "sourceSize": { "w": 40, "h": 68 },
+    "duration": 80
+   },
+   {
+    "filename": "2025SummerDrop_Hover #Hover 133.ase",
+    "frame": { "x": 400, "y": 0, "w": 40, "h": 68 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 40, "h": 68 },
+    "sourceSize": { "w": 40, "h": 68 },
+    "duration": 80
+   },
+   {
+    "filename": "2025SummerDrop_Hover #Hover 134.ase",
+    "frame": { "x": 360, "y": 0, "w": 40, "h": 68 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 40, "h": 68 },
+    "sourceSize": { "w": 40, "h": 68 },
+    "duration": 80
+   },
+   {
+    "filename": "2025SummerDrop_Hover #Hover 135.ase",
+    "frame": { "x": 360, "y": 0, "w": 40, "h": 68 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 40, "h": 68 },
+    "sourceSize": { "w": 40, "h": 68 },
+    "duration": 80
+   },
+   {
+    "filename": "2025SummerDrop_Hover #Hover 136.ase",
+    "frame": { "x": 360, "y": 0, "w": 40, "h": 68 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 40, "h": 68 },
+    "sourceSize": { "w": 40, "h": 68 },
+    "duration": 80
+   },
+   {
+    "filename": "2025SummerDrop_Hover #Hover 137.ase",
+    "frame": { "x": 360, "y": 0, "w": 40, "h": 68 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 40, "h": 68 },
+    "sourceSize": { "w": 40, "h": 68 },
+    "duration": 80
+   },
+   {
+    "filename": "2025SummerDrop_Hover #Hover 138.ase",
+    "frame": { "x": 360, "y": 0, "w": 40, "h": 68 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 40, "h": 68 },
+    "sourceSize": { "w": 40, "h": 68 },
+    "duration": 80
+   },
+   {
+    "filename": "2025SummerDrop_Hover #Hover 139.ase",
+    "frame": { "x": 360, "y": 0, "w": 40, "h": 68 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 40, "h": 68 },
+    "sourceSize": { "w": 40, "h": 68 },
+    "duration": 80
+   },
+   {
+    "filename": "2025SummerDrop_Hover #Hover 140.ase",
+    "frame": { "x": 360, "y": 0, "w": 40, "h": 68 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 40, "h": 68 },
+    "sourceSize": { "w": 40, "h": 68 },
+    "duration": 80
+   },
+   {
+    "filename": "2025SummerDrop_Hover #Hover 141.ase",
+    "frame": { "x": 320, "y": 0, "w": 40, "h": 68 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 40, "h": 68 },
+    "sourceSize": { "w": 40, "h": 68 },
+    "duration": 80
+   },
+   {
+    "filename": "2025SummerDrop_Hover #Hover 142.ase",
+    "frame": { "x": 320, "y": 0, "w": 40, "h": 68 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 40, "h": 68 },
+    "sourceSize": { "w": 40, "h": 68 },
+    "duration": 80
+   },
+   {
+    "filename": "2025SummerDrop_Hover #Hover 143.ase",
+    "frame": { "x": 280, "y": 0, "w": 40, "h": 68 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 40, "h": 68 },
+    "sourceSize": { "w": 40, "h": 68 },
+    "duration": 80
+   },
+   {
+    "filename": "2025SummerDrop_Hover #Hover 144.ase",
+    "frame": { "x": 440, "y": 0, "w": 40, "h": 68 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 40, "h": 68 },
+    "sourceSize": { "w": 40, "h": 68 },
+    "duration": 80
+   },
+   {
+    "filename": "2025SummerDrop_Hover #Hover 145.ase",
+    "frame": { "x": 240, "y": 0, "w": 40, "h": 68 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 40, "h": 68 },
+    "sourceSize": { "w": 40, "h": 68 },
+    "duration": 80
+   },
+   {
+    "filename": "2025SummerDrop_Hover #Hover 146.ase",
+    "frame": { "x": 240, "y": 0, "w": 40, "h": 68 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 40, "h": 68 },
+    "sourceSize": { "w": 40, "h": 68 },
+    "duration": 80
+   },
+   {
+    "filename": "2025SummerDrop_Hover #Hover 147.ase",
+    "frame": { "x": 200, "y": 0, "w": 40, "h": 68 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 40, "h": 68 },
+    "sourceSize": { "w": 40, "h": 68 },
+    "duration": 80
+   },
+   {
+    "filename": "2025SummerDrop_Hover #Hover 148.ase",
+    "frame": { "x": 200, "y": 0, "w": 40, "h": 68 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 40, "h": 68 },
+    "sourceSize": { "w": 40, "h": 68 },
+    "duration": 80
+   },
+   {
+    "filename": "2025SummerDrop_Hover #Hover 149.ase",
+    "frame": { "x": 160, "y": 0, "w": 40, "h": 68 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 40, "h": 68 },
+    "sourceSize": { "w": 40, "h": 68 },
+    "duration": 80
+   },
+   {
+    "filename": "2025SummerDrop_Hover #Hover 150.ase",
+    "frame": { "x": 160, "y": 0, "w": 40, "h": 68 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 40, "h": 68 },
+    "sourceSize": { "w": 40, "h": 68 },
+    "duration": 80
+   },
+   {
+    "filename": "2025SummerDrop_Hover #Hover 151.ase",
+    "frame": { "x": 120, "y": 0, "w": 40, "h": 68 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 40, "h": 68 },
+    "sourceSize": { "w": 40, "h": 68 },
+    "duration": 80
+   },
+   {
+    "filename": "2025SummerDrop_Hover #Hover 152.ase",
+    "frame": { "x": 120, "y": 0, "w": 40, "h": 68 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 40, "h": 68 },
+    "sourceSize": { "w": 40, "h": 68 },
+    "duration": 80
+   },
+   {
+    "filename": "2025SummerDrop_Hover #Hover 153.ase",
+    "frame": { "x": 80, "y": 0, "w": 40, "h": 68 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 40, "h": 68 },
+    "sourceSize": { "w": 40, "h": 68 },
+    "duration": 80
+   },
+   {
+    "filename": "2025SummerDrop_Hover #Hover 154.ase",
+    "frame": { "x": 80, "y": 0, "w": 40, "h": 68 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 40, "h": 68 },
+    "sourceSize": { "w": 40, "h": 68 },
+    "duration": 80
+   },
+   {
+    "filename": "2025SummerDrop_Hover #Hover 155.ase",
+    "frame": { "x": 40, "y": 0, "w": 40, "h": 68 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 40, "h": 68 },
+    "sourceSize": { "w": 40, "h": 68 },
+    "duration": 80
+   },
+   {
+    "filename": "2025SummerDrop_Hover #Hover 156.ase",
+    "frame": { "x": 40, "y": 0, "w": 40, "h": 68 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 40, "h": 68 },
+    "sourceSize": { "w": 40, "h": 68 },
+    "duration": 80
+   },
+   {
+    "filename": "2025SummerDrop_Hover #Hover 157.ase",
+    "frame": { "x": 480, "y": 0, "w": 40, "h": 68 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 40, "h": 68 },
+    "sourceSize": { "w": 40, "h": 68 },
+    "duration": 80
+   },
+   {
+    "filename": "2025SummerDrop_Hover #Hover 158.ase",
+    "frame": { "x": 0, "y": 0, "w": 40, "h": 68 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 40, "h": 68 },
+    "sourceSize": { "w": 40, "h": 68 },
+    "duration": 80
+   },
+   {
+    "filename": "2025SummerDrop_Hover #Hover 159.ase",
+    "frame": { "x": 0, "y": 0, "w": 40, "h": 68 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 40, "h": 68 },
+    "sourceSize": { "w": 40, "h": 68 },
+    "duration": 80
+   },
+   {
+    "filename": "2025SummerDrop_Hover #Hover 160.ase",
+    "frame": { "x": 0, "y": 0, "w": 40, "h": 68 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 40, "h": 68 },
+    "sourceSize": { "w": 40, "h": 68 },
+    "duration": 80
+   },
+   {
+    "filename": "2025SummerDrop_Hover #Hover 161.ase",
+    "frame": { "x": 0, "y": 0, "w": 40, "h": 68 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 40, "h": 68 },
+    "sourceSize": { "w": 40, "h": 68 },
+    "duration": 80
+   },
+   {
+    "filename": "2025SummerDrop_Hover #Hover 162.ase",
+    "frame": { "x": 0, "y": 0, "w": 40, "h": 68 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 40, "h": 68 },
+    "sourceSize": { "w": 40, "h": 68 },
+    "duration": 80
+   },
+   {
+    "filename": "2025SummerDrop_Hover #Hover 163.ase",
+    "frame": { "x": 0, "y": 0, "w": 40, "h": 68 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 40, "h": 68 },
+    "sourceSize": { "w": 40, "h": 68 },
+    "duration": 80
+   },
+   {
+    "filename": "2025SummerDrop_Hover #Hover 164.ase",
+    "frame": { "x": 0, "y": 0, "w": 40, "h": 68 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 40, "h": 68 },
+    "sourceSize": { "w": 40, "h": 68 },
+    "duration": 80
+   },
+   {
+    "filename": "2025SummerDrop_Hover #Hover 165.ase",
+    "frame": { "x": 0, "y": 0, "w": 40, "h": 68 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 40, "h": 68 },
+    "sourceSize": { "w": 40, "h": 68 },
+    "duration": 80
+   },
+   {
+    "filename": "2025SummerDrop_Hover #Hover 166.ase",
+    "frame": { "x": 40, "y": 0, "w": 40, "h": 68 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 40, "h": 68 },
+    "sourceSize": { "w": 40, "h": 68 },
+    "duration": 80
+   },
+   {
+    "filename": "2025SummerDrop_Hover #Hover 167.ase",
+    "frame": { "x": 40, "y": 0, "w": 40, "h": 68 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 40, "h": 68 },
+    "sourceSize": { "w": 40, "h": 68 },
+    "duration": 80
+   },
+   {
+    "filename": "2025SummerDrop_Hover #Hover 168.ase",
+    "frame": { "x": 80, "y": 0, "w": 40, "h": 68 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 40, "h": 68 },
+    "sourceSize": { "w": 40, "h": 68 },
+    "duration": 80
+   },
+   {
+    "filename": "2025SummerDrop_Hover #Hover 169.ase",
+    "frame": { "x": 80, "y": 0, "w": 40, "h": 68 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 40, "h": 68 },
+    "sourceSize": { "w": 40, "h": 68 },
+    "duration": 80
+   },
+   {
+    "filename": "2025SummerDrop_Hover #Hover 170.ase",
+    "frame": { "x": 120, "y": 0, "w": 40, "h": 68 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 40, "h": 68 },
+    "sourceSize": { "w": 40, "h": 68 },
+    "duration": 80
+   },
+   {
+    "filename": "2025SummerDrop_Hover #Hover 171.ase",
+    "frame": { "x": 120, "y": 0, "w": 40, "h": 68 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 40, "h": 68 },
+    "sourceSize": { "w": 40, "h": 68 },
+    "duration": 80
+   },
+   {
+    "filename": "2025SummerDrop_Hover #Hover 172.ase",
+    "frame": { "x": 160, "y": 0, "w": 40, "h": 68 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 40, "h": 68 },
+    "sourceSize": { "w": 40, "h": 68 },
+    "duration": 80
+   },
+   {
+    "filename": "2025SummerDrop_Hover #Hover 173.ase",
+    "frame": { "x": 160, "y": 0, "w": 40, "h": 68 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 40, "h": 68 },
+    "sourceSize": { "w": 40, "h": 68 },
+    "duration": 80
+   },
+   {
+    "filename": "2025SummerDrop_Hover #Hover 174.ase",
+    "frame": { "x": 200, "y": 0, "w": 40, "h": 68 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 40, "h": 68 },
+    "sourceSize": { "w": 40, "h": 68 },
+    "duration": 80
+   },
+   {
+    "filename": "2025SummerDrop_Hover #Hover 175.ase",
+    "frame": { "x": 200, "y": 0, "w": 40, "h": 68 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 40, "h": 68 },
+    "sourceSize": { "w": 40, "h": 68 },
+    "duration": 80
+   },
+   {
+    "filename": "2025SummerDrop_Hover #Hover 176.ase",
+    "frame": { "x": 240, "y": 0, "w": 40, "h": 68 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 40, "h": 68 },
+    "sourceSize": { "w": 40, "h": 68 },
+    "duration": 80
+   },
+   {
+    "filename": "2025SummerDrop_Hover #Hover 177.ase",
+    "frame": { "x": 240, "y": 0, "w": 40, "h": 68 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 40, "h": 68 },
+    "sourceSize": { "w": 40, "h": 68 },
+    "duration": 80
+   },
+   {
+    "filename": "2025SummerDrop_Hover #Hover 178.ase",
+    "frame": { "x": 280, "y": 0, "w": 40, "h": 68 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 40, "h": 68 },
+    "sourceSize": { "w": 40, "h": 68 },
+    "duration": 80
+   },
+   {
+    "filename": "2025SummerDrop_Hover #Hover 179.ase",
+    "frame": { "x": 280, "y": 0, "w": 40, "h": 68 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 40, "h": 68 },
+    "sourceSize": { "w": 40, "h": 68 },
+    "duration": 80
+   },
+   {
+    "filename": "2025SummerDrop_Hover #Hover 180.ase",
+    "frame": { "x": 320, "y": 0, "w": 40, "h": 68 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 40, "h": 68 },
+    "sourceSize": { "w": 40, "h": 68 },
+    "duration": 80
+   },
+   {
+    "filename": "2025SummerDrop_Hover #Hover 181.ase",
+    "frame": { "x": 320, "y": 0, "w": 40, "h": 68 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 40, "h": 68 },
+    "sourceSize": { "w": 40, "h": 68 },
+    "duration": 80
+   },
+   {
+    "filename": "2025SummerDrop_Hover #Hover 182.ase",
+    "frame": { "x": 360, "y": 0, "w": 40, "h": 68 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 40, "h": 68 },
+    "sourceSize": { "w": 40, "h": 68 },
+    "duration": 80
+   },
+   {
+    "filename": "2025SummerDrop_Hover #Hover 183.ase",
+    "frame": { "x": 360, "y": 0, "w": 40, "h": 68 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 40, "h": 68 },
+    "sourceSize": { "w": 40, "h": 68 },
+    "duration": 80
+   },
+   {
+    "filename": "2025SummerDrop_Hover #Hover 184.ase",
+    "frame": { "x": 360, "y": 0, "w": 40, "h": 68 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 40, "h": 68 },
+    "sourceSize": { "w": 40, "h": 68 },
+    "duration": 80
+   },
+   {
+    "filename": "2025SummerDrop_Hover #Hover 185.ase",
+    "frame": { "x": 360, "y": 0, "w": 40, "h": 68 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 40, "h": 68 },
+    "sourceSize": { "w": 40, "h": 68 },
+    "duration": 80
+   },
+   {
+    "filename": "2025SummerDrop_Hover #Hover 186.ase",
+    "frame": { "x": 360, "y": 0, "w": 40, "h": 68 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 40, "h": 68 },
+    "sourceSize": { "w": 40, "h": 68 },
+    "duration": 80
+   },
+   {
+    "filename": "2025SummerDrop_Hover #Hover 187.ase",
+    "frame": { "x": 400, "y": 0, "w": 40, "h": 68 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 40, "h": 68 },
+    "sourceSize": { "w": 40, "h": 68 },
+    "duration": 80
+   },
+   {
+    "filename": "2025SummerDrop_Hover #Hover 188.ase",
+    "frame": { "x": 360, "y": 0, "w": 40, "h": 68 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 40, "h": 68 },
+    "sourceSize": { "w": 40, "h": 68 },
+    "duration": 80
+   },
+   {
+    "filename": "2025SummerDrop_Hover #Hover 189.ase",
+    "frame": { "x": 360, "y": 0, "w": 40, "h": 68 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 40, "h": 68 },
+    "sourceSize": { "w": 40, "h": 68 },
+    "duration": 80
+   },
+   {
+    "filename": "2025SummerDrop_Hover #Hover 190.ase",
+    "frame": { "x": 360, "y": 0, "w": 40, "h": 68 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 40, "h": 68 },
+    "sourceSize": { "w": 40, "h": 68 },
+    "duration": 80
+   },
+   {
+    "filename": "2025SummerDrop_Hover #Hover 191.ase",
+    "frame": { "x": 360, "y": 0, "w": 40, "h": 68 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 40, "h": 68 },
+    "sourceSize": { "w": 40, "h": 68 },
+    "duration": 80
+   },
+   {
+    "filename": "2025SummerDrop_Hover #Hover 192.ase",
+    "frame": { "x": 360, "y": 0, "w": 40, "h": 68 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 40, "h": 68 },
+    "sourceSize": { "w": 40, "h": 68 },
+    "duration": 80
+   },
+   {
+    "filename": "2025SummerDrop_Hover #Hover 193.ase",
+    "frame": { "x": 360, "y": 0, "w": 40, "h": 68 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 40, "h": 68 },
+    "sourceSize": { "w": 40, "h": 68 },
+    "duration": 80
+   },
+   {
+    "filename": "2025SummerDrop_Hover #Hover 194.ase",
+    "frame": { "x": 360, "y": 0, "w": 40, "h": 68 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 40, "h": 68 },
+    "sourceSize": { "w": 40, "h": 68 },
+    "duration": 80
+   },
+   {
+    "filename": "2025SummerDrop_Hover #Hover 195.ase",
+    "frame": { "x": 320, "y": 0, "w": 40, "h": 68 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 40, "h": 68 },
+    "sourceSize": { "w": 40, "h": 68 },
+    "duration": 80
+   },
+   {
+    "filename": "2025SummerDrop_Hover #Hover 196.ase",
+    "frame": { "x": 320, "y": 0, "w": 40, "h": 68 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 40, "h": 68 },
+    "sourceSize": { "w": 40, "h": 68 },
+    "duration": 80
+   },
+   {
+    "filename": "2025SummerDrop_Hover #Hover 197.ase",
+    "frame": { "x": 280, "y": 0, "w": 40, "h": 68 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 40, "h": 68 },
+    "sourceSize": { "w": 40, "h": 68 },
+    "duration": 80
+   },
+   {
+    "filename": "2025SummerDrop_Hover #Hover 198.ase",
+    "frame": { "x": 440, "y": 0, "w": 40, "h": 68 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 40, "h": 68 },
+    "sourceSize": { "w": 40, "h": 68 },
+    "duration": 80
+   },
+   {
+    "filename": "2025SummerDrop_Hover #Hover 199.ase",
+    "frame": { "x": 240, "y": 0, "w": 40, "h": 68 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 40, "h": 68 },
+    "sourceSize": { "w": 40, "h": 68 },
+    "duration": 80
+   },
+   {
+    "filename": "2025SummerDrop_Hover #Hover 200.ase",
+    "frame": { "x": 240, "y": 0, "w": 40, "h": 68 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 40, "h": 68 },
+    "sourceSize": { "w": 40, "h": 68 },
+    "duration": 80
+   },
+   {
+    "filename": "2025SummerDrop_Hover #Hover 201.ase",
+    "frame": { "x": 200, "y": 0, "w": 40, "h": 68 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 40, "h": 68 },
+    "sourceSize": { "w": 40, "h": 68 },
+    "duration": 80
+   },
+   {
+    "filename": "2025SummerDrop_Hover #Hover 202.ase",
+    "frame": { "x": 200, "y": 0, "w": 40, "h": 68 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 40, "h": 68 },
+    "sourceSize": { "w": 40, "h": 68 },
+    "duration": 80
+   },
+   {
+    "filename": "2025SummerDrop_Hover #Hover 203.ase",
+    "frame": { "x": 160, "y": 0, "w": 40, "h": 68 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 40, "h": 68 },
+    "sourceSize": { "w": 40, "h": 68 },
+    "duration": 80
+   },
+   {
+    "filename": "2025SummerDrop_Hover #Hover 204.ase",
+    "frame": { "x": 160, "y": 0, "w": 40, "h": 68 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 40, "h": 68 },
+    "sourceSize": { "w": 40, "h": 68 },
+    "duration": 80
+   },
+   {
+    "filename": "2025SummerDrop_Hover #Hover 205.ase",
+    "frame": { "x": 120, "y": 0, "w": 40, "h": 68 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 40, "h": 68 },
+    "sourceSize": { "w": 40, "h": 68 },
+    "duration": 80
+   },
+   {
+    "filename": "2025SummerDrop_Hover #Hover 206.ase",
+    "frame": { "x": 120, "y": 0, "w": 40, "h": 68 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 40, "h": 68 },
+    "sourceSize": { "w": 40, "h": 68 },
+    "duration": 80
+   },
+   {
+    "filename": "2025SummerDrop_Hover #Hover 207.ase",
+    "frame": { "x": 80, "y": 0, "w": 40, "h": 68 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 40, "h": 68 },
+    "sourceSize": { "w": 40, "h": 68 },
+    "duration": 80
+   },
+   {
+    "filename": "2025SummerDrop_Hover #Hover 208.ase",
+    "frame": { "x": 80, "y": 0, "w": 40, "h": 68 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 40, "h": 68 },
+    "sourceSize": { "w": 40, "h": 68 },
+    "duration": 80
+   },
+   {
+    "filename": "2025SummerDrop_Hover #Hover 209.ase",
+    "frame": { "x": 40, "y": 0, "w": 40, "h": 68 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 40, "h": 68 },
+    "sourceSize": { "w": 40, "h": 68 },
+    "duration": 80
+   },
+   {
+    "filename": "2025SummerDrop_Hover #Hover 210.ase",
+    "frame": { "x": 40, "y": 0, "w": 40, "h": 68 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 40, "h": 68 },
+    "sourceSize": { "w": 40, "h": 68 },
+    "duration": 80
+   },
+   {
+    "filename": "2025SummerDrop_Hover #Hover 211.ase",
+    "frame": { "x": 480, "y": 0, "w": 40, "h": 68 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 40, "h": 68 },
+    "sourceSize": { "w": 40, "h": 68 },
+    "duration": 80
+   },
+   {
+    "filename": "2025SummerDrop_Hover #Hover 212.ase",
+    "frame": { "x": 0, "y": 0, "w": 40, "h": 68 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 40, "h": 68 },
+    "sourceSize": { "w": 40, "h": 68 },
+    "duration": 80
+   },
+   {
+    "filename": "2025SummerDrop_Hover #Hover 213.ase",
+    "frame": { "x": 0, "y": 0, "w": 40, "h": 68 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 40, "h": 68 },
+    "sourceSize": { "w": 40, "h": 68 },
+    "duration": 80
+   },
+   {
+    "filename": "2025SummerDrop_Hover #Hover 214.ase",
+    "frame": { "x": 0, "y": 0, "w": 40, "h": 68 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 40, "h": 68 },
+    "sourceSize": { "w": 40, "h": 68 },
+    "duration": 80
+   },
+   {
+    "filename": "2025SummerDrop_Hover #Hover 215.ase",
+    "frame": { "x": 0, "y": 0, "w": 40, "h": 68 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 40, "h": 68 },
+    "sourceSize": { "w": 40, "h": 68 },
+    "duration": 80
+   },
+   {
+    "filename": "2025SummerDrop_Hover #Hover 216.ase",
+    "frame": { "x": 0, "y": 0, "w": 40, "h": 68 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 40, "h": 68 },
+    "sourceSize": { "w": 40, "h": 68 },
+    "duration": 80
+   },
+   {
+    "filename": "2025SummerDrop_Hover #Hover 217.ase",
+    "frame": { "x": 0, "y": 0, "w": 40, "h": 68 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 40, "h": 68 },
+    "sourceSize": { "w": 40, "h": 68 },
+    "duration": 80
+   },
+   {
+    "filename": "2025SummerDrop_Hover #Hover 218.ase",
+    "frame": { "x": 0, "y": 0, "w": 40, "h": 68 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 40, "h": 68 },
+    "sourceSize": { "w": 40, "h": 68 },
+    "duration": 80
+   },
+   {
+    "filename": "2025SummerDrop_Hover #Hover 219.ase",
+    "frame": { "x": 0, "y": 0, "w": 40, "h": 68 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 40, "h": 68 },
+    "sourceSize": { "w": 40, "h": 68 },
+    "duration": 80
+   },
+   {
+    "filename": "2025SummerDrop_Hover #Hover 220.ase",
+    "frame": { "x": 40, "y": 0, "w": 40, "h": 68 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 40, "h": 68 },
+    "sourceSize": { "w": 40, "h": 68 },
+    "duration": 80
+   },
+   {
+    "filename": "2025SummerDrop_Hover #Hover 221.ase",
+    "frame": { "x": 40, "y": 0, "w": 40, "h": 68 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 40, "h": 68 },
+    "sourceSize": { "w": 40, "h": 68 },
+    "duration": 80
+   },
+   {
+    "filename": "2025SummerDrop_Hover #Hover 222.ase",
+    "frame": { "x": 80, "y": 0, "w": 40, "h": 68 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 40, "h": 68 },
+    "sourceSize": { "w": 40, "h": 68 },
+    "duration": 80
+   },
+   {
+    "filename": "2025SummerDrop_Hover #Hover 223.ase",
+    "frame": { "x": 80, "y": 0, "w": 40, "h": 68 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 40, "h": 68 },
+    "sourceSize": { "w": 40, "h": 68 },
+    "duration": 80
+   },
+   {
+    "filename": "2025SummerDrop_Hover #Hover 224.ase",
+    "frame": { "x": 120, "y": 0, "w": 40, "h": 68 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 40, "h": 68 },
+    "sourceSize": { "w": 40, "h": 68 },
+    "duration": 80
+   },
+   {
+    "filename": "2025SummerDrop_Hover #Hover 225.ase",
+    "frame": { "x": 120, "y": 0, "w": 40, "h": 68 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 40, "h": 68 },
+    "sourceSize": { "w": 40, "h": 68 },
+    "duration": 80
+   },
+   {
+    "filename": "2025SummerDrop_Hover #Hover 226.ase",
+    "frame": { "x": 160, "y": 0, "w": 40, "h": 68 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 40, "h": 68 },
+    "sourceSize": { "w": 40, "h": 68 },
+    "duration": 80
+   },
+   {
+    "filename": "2025SummerDrop_Hover #Hover 227.ase",
+    "frame": { "x": 160, "y": 0, "w": 40, "h": 68 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 40, "h": 68 },
+    "sourceSize": { "w": 40, "h": 68 },
+    "duration": 80
+   },
+   {
+    "filename": "2025SummerDrop_Hover #Hover 228.ase",
+    "frame": { "x": 200, "y": 0, "w": 40, "h": 68 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 40, "h": 68 },
+    "sourceSize": { "w": 40, "h": 68 },
+    "duration": 80
+   },
+   {
+    "filename": "2025SummerDrop_Hover #Hover 229.ase",
+    "frame": { "x": 200, "y": 0, "w": 40, "h": 68 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 40, "h": 68 },
+    "sourceSize": { "w": 40, "h": 68 },
+    "duration": 80
+   },
+   {
+    "filename": "2025SummerDrop_Hover #Hover 230.ase",
+    "frame": { "x": 240, "y": 0, "w": 40, "h": 68 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 40, "h": 68 },
+    "sourceSize": { "w": 40, "h": 68 },
+    "duration": 80
+   },
+   {
+    "filename": "2025SummerDrop_Hover #Hover 231.ase",
+    "frame": { "x": 240, "y": 0, "w": 40, "h": 68 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 40, "h": 68 },
+    "sourceSize": { "w": 40, "h": 68 },
+    "duration": 80
+   },
+   {
+    "filename": "2025SummerDrop_Hover #Hover 232.ase",
+    "frame": { "x": 280, "y": 0, "w": 40, "h": 68 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 40, "h": 68 },
+    "sourceSize": { "w": 40, "h": 68 },
+    "duration": 80
+   },
+   {
+    "filename": "2025SummerDrop_Hover #Hover 233.ase",
+    "frame": { "x": 280, "y": 0, "w": 40, "h": 68 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 40, "h": 68 },
+    "sourceSize": { "w": 40, "h": 68 },
+    "duration": 80
+   },
+   {
+    "filename": "2025SummerDrop_Hover #Hover 234.ase",
+    "frame": { "x": 320, "y": 0, "w": 40, "h": 68 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 40, "h": 68 },
+    "sourceSize": { "w": 40, "h": 68 },
+    "duration": 80
+   },
+   {
+    "filename": "2025SummerDrop_Hover #Hover 235.ase",
+    "frame": { "x": 320, "y": 0, "w": 40, "h": 68 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 40, "h": 68 },
+    "sourceSize": { "w": 40, "h": 68 },
+    "duration": 80
+   },
+   {
+    "filename": "2025SummerDrop_Hover #Hover 236.ase",
+    "frame": { "x": 360, "y": 0, "w": 40, "h": 68 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 40, "h": 68 },
+    "sourceSize": { "w": 40, "h": 68 },
+    "duration": 80
+   },
+   {
+    "filename": "2025SummerDrop_Hover #Hover 237.ase",
+    "frame": { "x": 360, "y": 0, "w": 40, "h": 68 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 40, "h": 68 },
+    "sourceSize": { "w": 40, "h": 68 },
+    "duration": 80
+   },
+   {
+    "filename": "2025SummerDrop_Hover #Hover 238.ase",
+    "frame": { "x": 360, "y": 0, "w": 40, "h": 68 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 40, "h": 68 },
+    "sourceSize": { "w": 40, "h": 68 },
+    "duration": 80
+   },
+   {
+    "filename": "2025SummerDrop_Hover #Hover 239.ase",
+    "frame": { "x": 360, "y": 0, "w": 40, "h": 68 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 40, "h": 68 },
+    "sourceSize": { "w": 40, "h": 68 },
+    "duration": 80
+   },
+   {
+    "filename": "2025SummerDrop_Hover #Hover 240.ase",
+    "frame": { "x": 360, "y": 0, "w": 40, "h": 68 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 40, "h": 68 },
+    "sourceSize": { "w": 40, "h": 68 },
+    "duration": 80
+   },
+   {
+    "filename": "2025SummerDrop_Hover #Hover 241.ase",
+    "frame": { "x": 400, "y": 0, "w": 40, "h": 68 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 40, "h": 68 },
+    "sourceSize": { "w": 40, "h": 68 },
+    "duration": 80
+   },
+   {
+    "filename": "2025SummerDrop_Hover #Hover 242.ase",
+    "frame": { "x": 360, "y": 0, "w": 40, "h": 68 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 40, "h": 68 },
+    "sourceSize": { "w": 40, "h": 68 },
+    "duration": 80
+   },
+   {
+    "filename": "2025SummerDrop_Hover #Hover 243.ase",
+    "frame": { "x": 360, "y": 0, "w": 40, "h": 68 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 40, "h": 68 },
+    "sourceSize": { "w": 40, "h": 68 },
+    "duration": 80
+   },
+   {
+    "filename": "2025SummerDrop_Hover #Hover 244.ase",
+    "frame": { "x": 360, "y": 0, "w": 40, "h": 68 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 40, "h": 68 },
+    "sourceSize": { "w": 40, "h": 68 },
+    "duration": 80
+   },
+   {
+    "filename": "2025SummerDrop_Hover #Hover 245.ase",
+    "frame": { "x": 360, "y": 0, "w": 40, "h": 68 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 40, "h": 68 },
+    "sourceSize": { "w": 40, "h": 68 },
+    "duration": 80
+   },
+   {
+    "filename": "2025SummerDrop_Hover #Hover 246.ase",
+    "frame": { "x": 360, "y": 0, "w": 40, "h": 68 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 40, "h": 68 },
+    "sourceSize": { "w": 40, "h": 68 },
+    "duration": 80
+   },
+   {
+    "filename": "2025SummerDrop_Hover #Hover 247.ase",
+    "frame": { "x": 360, "y": 0, "w": 40, "h": 68 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 40, "h": 68 },
+    "sourceSize": { "w": 40, "h": 68 },
+    "duration": 80
+   },
+   {
+    "filename": "2025SummerDrop_Hover #Hover 248.ase",
+    "frame": { "x": 360, "y": 0, "w": 40, "h": 68 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 40, "h": 68 },
+    "sourceSize": { "w": 40, "h": 68 },
+    "duration": 80
+   },
+   {
+    "filename": "2025SummerDrop_Hover #Hover 249.ase",
+    "frame": { "x": 320, "y": 0, "w": 40, "h": 68 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 40, "h": 68 },
+    "sourceSize": { "w": 40, "h": 68 },
+    "duration": 80
+   },
+   {
+    "filename": "2025SummerDrop_Hover #Hover 250.ase",
+    "frame": { "x": 320, "y": 0, "w": 40, "h": 68 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 40, "h": 68 },
+    "sourceSize": { "w": 40, "h": 68 },
+    "duration": 80
+   },
+   {
+    "filename": "2025SummerDrop_Hover #Hover 251.ase",
+    "frame": { "x": 280, "y": 0, "w": 40, "h": 68 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 40, "h": 68 },
+    "sourceSize": { "w": 40, "h": 68 },
+    "duration": 80
+   },
+   {
+    "filename": "2025SummerDrop_Hover #Hover 252.ase",
+    "frame": { "x": 440, "y": 0, "w": 40, "h": 68 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 40, "h": 68 },
+    "sourceSize": { "w": 40, "h": 68 },
+    "duration": 80
+   },
+   {
+    "filename": "2025SummerDrop_Hover #Hover 253.ase",
+    "frame": { "x": 240, "y": 0, "w": 40, "h": 68 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 40, "h": 68 },
+    "sourceSize": { "w": 40, "h": 68 },
+    "duration": 80
+   },
+   {
+    "filename": "2025SummerDrop_Hover #Hover 254.ase",
+    "frame": { "x": 240, "y": 0, "w": 40, "h": 68 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 40, "h": 68 },
+    "sourceSize": { "w": 40, "h": 68 },
+    "duration": 80
+   },
+   {
+    "filename": "2025SummerDrop_Hover #Hover 255.ase",
+    "frame": { "x": 200, "y": 0, "w": 40, "h": 68 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 40, "h": 68 },
+    "sourceSize": { "w": 40, "h": 68 },
+    "duration": 80
+   },
+   {
+    "filename": "2025SummerDrop_Hover #Hover 256.ase",
+    "frame": { "x": 200, "y": 0, "w": 40, "h": 68 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 40, "h": 68 },
+    "sourceSize": { "w": 40, "h": 68 },
+    "duration": 80
+   },
+   {
+    "filename": "2025SummerDrop_Hover #Hover 257.ase",
+    "frame": { "x": 160, "y": 0, "w": 40, "h": 68 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 40, "h": 68 },
+    "sourceSize": { "w": 40, "h": 68 },
+    "duration": 80
+   },
+   {
+    "filename": "2025SummerDrop_Hover #Hover 258.ase",
+    "frame": { "x": 160, "y": 0, "w": 40, "h": 68 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 40, "h": 68 },
+    "sourceSize": { "w": 40, "h": 68 },
+    "duration": 80
+   },
+   {
+    "filename": "2025SummerDrop_Hover #Hover 259.ase",
+    "frame": { "x": 120, "y": 0, "w": 40, "h": 68 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 40, "h": 68 },
+    "sourceSize": { "w": 40, "h": 68 },
+    "duration": 80
+   },
+   {
+    "filename": "2025SummerDrop_Hover #Hover 260.ase",
+    "frame": { "x": 120, "y": 0, "w": 40, "h": 68 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 40, "h": 68 },
+    "sourceSize": { "w": 40, "h": 68 },
+    "duration": 80
+   },
+   {
+    "filename": "2025SummerDrop_Hover #Hover 261.ase",
+    "frame": { "x": 80, "y": 0, "w": 40, "h": 68 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 40, "h": 68 },
+    "sourceSize": { "w": 40, "h": 68 },
+    "duration": 80
+   },
+   {
+    "filename": "2025SummerDrop_Hover #Hover 262.ase",
+    "frame": { "x": 80, "y": 0, "w": 40, "h": 68 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 40, "h": 68 },
+    "sourceSize": { "w": 40, "h": 68 },
+    "duration": 80
+   },
+   {
+    "filename": "2025SummerDrop_Hover #Hover 263.ase",
+    "frame": { "x": 40, "y": 0, "w": 40, "h": 68 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 40, "h": 68 },
+    "sourceSize": { "w": 40, "h": 68 },
+    "duration": 80
+   },
+   {
+    "filename": "2025SummerDrop_Hover #Hover 264.ase",
+    "frame": { "x": 40, "y": 0, "w": 40, "h": 68 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 40, "h": 68 },
+    "sourceSize": { "w": 40, "h": 68 },
+    "duration": 80
+   },
+   {
+    "filename": "2025SummerDrop_Hover #Hover 265.ase",
+    "frame": { "x": 480, "y": 0, "w": 40, "h": 68 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 40, "h": 68 },
+    "sourceSize": { "w": 40, "h": 68 },
+    "duration": 80
+   },
+   {
+    "filename": "2025SummerDrop_Hover #Hover 266.ase",
+    "frame": { "x": 0, "y": 0, "w": 40, "h": 68 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 40, "h": 68 },
+    "sourceSize": { "w": 40, "h": 68 },
+    "duration": 80
+   },
+   {
+    "filename": "2025SummerDrop_Hover #Hover 267.ase",
+    "frame": { "x": 0, "y": 0, "w": 40, "h": 68 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 40, "h": 68 },
+    "sourceSize": { "w": 40, "h": 68 },
+    "duration": 80
+   },
+   {
+    "filename": "2025SummerDrop_Hover #Hover 268.ase",
+    "frame": { "x": 0, "y": 0, "w": 40, "h": 68 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 40, "h": 68 },
+    "sourceSize": { "w": 40, "h": 68 },
+    "duration": 80
+   },
+   {
+    "filename": "2025SummerDrop_Hover #Hover 269.ase",
+    "frame": { "x": 0, "y": 0, "w": 40, "h": 68 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 40, "h": 68 },
+    "sourceSize": { "w": 40, "h": 68 },
+    "duration": 80
+   }
+ ],
+ "meta": {
+  "app": "https://www.aseprite.org/",
+  "version": "1.3.13-x64",
+  "image": "FG_Hover.png",
+  "format": "RGBA8888",
+  "size": { "w": 520, "h": 68 },
+  "scale": "1"
+ }
+}
